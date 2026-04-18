@@ -201,30 +201,34 @@ function buildDocumentCard(doc, eras) {
   `).join('');
 
   return `
-    <article
-      class="doc-card"
-      data-doc-id="${doc.id}"
-      role="listitem"
-      tabindex="0"
-      aria-label="${doc.title}, ${doc.year}"
-    >
-      <div class="doc-card__thumb">
-        ${thumbHtml}
-        <span class="doc-card__type-badge">${doc.type}</span>
-      </div>
-      <div class="doc-card__body">
-        <p class="doc-card__date">
-          <span style="color:${era.color || 'var(--color-sepia)'}">${era.label || doc.eraId}</span>
-          · ${doc.year}
-        </p>
-        <h3 class="doc-card__title">${doc.title}</h3>
-        <div class="doc-card__meta">
-          <span>${lang}</span>
-          <span>·</span>
-          ${tagHtml}
+    <div class="doc-card-wrapper">
+      <div class="doc-card-stack-bg"></div>
+      <div class="doc-card-stack-bg doc-card-stack-bg--2"></div>
+      <article
+        class="doc-card"
+        data-doc-id="${doc.id}"
+        role="listitem"
+        tabindex="0"
+        aria-label="${doc.title}, ${doc.year}"
+      >
+        <div class="doc-card__thumb">
+          ${thumbHtml}
+          <span class="doc-card__type-badge">${doc.type}</span>
         </div>
-      </div>
-    </article>
+        <div class="doc-card__body">
+          <p class="doc-card__date">
+            <span style="color:${era.color || 'var(--color-sepia)'}">${era.label || doc.eraId}</span>
+            · ${doc.year}
+          </p>
+          <h3 class="doc-card__title">${doc.title}</h3>
+          <div class="doc-card__meta">
+            <span>${lang}</span>
+            <span>·</span>
+            ${tagHtml}
+          </div>
+        </div>
+      </article>
+    </div>
   `;
 }
 

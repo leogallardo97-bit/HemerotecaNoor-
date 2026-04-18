@@ -104,8 +104,15 @@
   // ── Paso 5: Inicializar el router (parsea el hash actual) ──
   NoorRouter.init();
 
+  // ── Suscribirse a cambios en la selección de documentos para mostrar la vista editorial ──
+  NoorState.subscribe('selectedDocument', (state) => {
+    if (state.selectedDocument) {
+      ArticleView.render(state.selectedDocument);
+    }
+  });
+
   NoorState.dispatch('SET_LOADING', false);
-  console.log('[App] ✓ Interfaz completamente inicializada.');
+  console.log('[App] ✓ Interfaz completamente inicializada con vista editorial.');
   console.log('[App] Admin Dashboard: Ctrl+Shift+A');
   console.log('[App] Drive Connector: js/data/drive-connector.js');
 

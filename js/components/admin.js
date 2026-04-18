@@ -125,6 +125,10 @@ function _buildAdminHTML() {
             </div>
             <div class="admin-nav-group">
               <p class="admin-nav-label">Datos</p>
+              <button class="admin-nav-item" data-admin-section="sync">
+                <i data-lucide="refresh-cw" width="14" height="14"></i>
+                Sincronización Drive
+              </button>
               <button class="admin-nav-item" data-admin-section="export">
                 <i data-lucide="download" width="14" height="14"></i>
                 Exportar JSON
@@ -413,6 +417,59 @@ function _buildAdminHTML() {
 
               <div id="admin-doc-table-wrapper">
                 <p style="color:rgba(229,229,229,0.3);font-size:0.8rem">Cargando documentos...</p>
+              </div>
+            </section>
+
+            <!-- ═══ Sincronización Google Drive ═══ -->
+            <section class="admin-section" id="admin-section-sync">
+              <h1 class="admin-section-title">Google Drive Sync Engine</h1>
+              <p class="admin-section-sub">
+                Configura tu conexión y sincroniza automáticamente los documentos de tu carpeta de Drive.
+              </p>
+
+              <div style="max-width:480px; display:grid; gap:1.5rem">
+                <!-- Config de Credenciales -->
+                <div style="background:rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.05);border-radius:8px;padding:1.25rem">
+                  <h3 style="font-size:0.85rem;color:var(--color-gold);margin-bottom:1rem;display:flex;align-items:center;gap:0.5rem">
+                    <i data-lucide="key" width="14"></i> Credenciales Google Cloud
+                  </h3>
+                  
+                  <div class="form-field">
+                    <label class="form-field__label">Google API Key</label>
+                    <input class="form-input" id="cfg-api-key" type="password" placeholder="AIzaSy..." />
+                  </div>
+                  
+                  <div class="form-field">
+                    <label class="form-field__label">OAuth Client ID</label>
+                    <input class="form-input" id="cfg-client-id" type="text" placeholder="12345-abc.apps.googleusercontent.com" />
+                  </div>
+                  
+                  <div class="form-field">
+                    <label class="form-field__label">Root Folder ID</label>
+                    <input class="form-input" id="cfg-folder-id" type="text" placeholder="ID de la carpeta 'Archivo noor'" />
+                  </div>
+
+                  <button class="form-btn form-btn--secondary" id="save-cfg-btn" style="width:100%;margin-top:0.5rem">
+                    Guardar Configuración
+                  </button>
+                </div>
+
+                <!-- Acción de Sync -->
+                <div style="background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);border-radius:8px;padding:1.5rem;text-align:center">
+                   <h3 style="font-size:0.9rem;color:var(--color-parchment);margin-bottom:0.5rem">Sincronización de Hemeroteca</h3>
+                   <p style="font-size:0.72rem;color:rgba(229,229,229,0.5);margin-bottom:1.25rem">
+                     Escanea la carpeta en busca de archivos <code>YYYY-MM-DD_Ubicacion_Cabecera.pdf</code>
+                   </p>
+                   
+                   <button class="form-btn form-btn--primary" id="sync-drive-now-btn" style="width:100%; height:45px; font-size:0.9rem">
+                     <i data-lucide="refresh-cw" width="18" height="18" id="sync-icon"></i>
+                     <span id="sync-btn-text">Sincronizar Ahora</span>
+                   </button>
+                   
+                   <p id="sync-status-msg" style="font-size:0.65rem;margin-top:0.75rem;color:var(--color-gold);display:none">
+                     Sincronizando con Google Drive...
+                   </p>
+                </div>
               </div>
             </section>
 
@@ -771,6 +828,11 @@ function _switchAdminSection(section) {
   });
 
   if (section === 'documents') _loadDocumentsTable();
+  if (section === 'sync') {
+    document.getElementById('cfg-api-key').value = DriveConnector.CONFIG.API_KEY || '';
+    document.getElementById('cfg-client-id').value = DriveConnector.CONFIG.CLIENT_ID || '';
+    document.getElementById('cfg-folder-id').value = DriveConnector.CONFIG.ROOT_FOLDER_ID || '';
+  }
 }
 
 function _showToast(msg, type = 'success') {
@@ -795,6 +857,48 @@ function _bindAdminEvents() {
   // Navegación del sidebar
   document.querySelectorAll('[data-admin-section]').forEach(btn => {
     btn.addEventListener('click', () => _switchAdminSection(btn.dataset.adminSection));
+  });
+
+  // — CONFIGURACIÓN DRIVE —
+  document.getElementById('save-cfg-btn')?.addEventListener('click', async () => {
+    const config = {
+      API_KEY: document.getElementById('cfg-api-key').value,
+      CLIENT_ID: document.getElementById('cfg-client-id').value,
+      ROOT_FOLDER_ID: document.getElementById('cfg-folder-id').value,
+    };
+    await DriveConnector.updateConfig(config);
+    _showToast('Configuración guardada.', 'success');
+  });
+
+  // — SINCRONIZACIÓN —
+  document.getElementById('sync-drive-now-btn')?.addEventListener('click', async () => {
+    try {
+      await DriveConnector.syncHemeroteca();
+      _showToast('Sincronización completada con éxito.');
+      _loadDashboardStats();
+    } catch (err) {
+      _showToast('Error en la sincronización.', 'danger');
+    }
+  });
+
+  // Suscribirse al estado isSyncing para feedback visual
+  NoorState.subscribe('SET_SYNCING', (state) => {
+    const btn = document.getElementById('sync-drive-now-btn');
+    const icon = document.getElementById('sync-icon');
+    const text = document.getElementById('sync-btn-text');
+    const msg = document.getElementById('sync-status-msg');
+    
+    if (btn && state.isSyncing) {
+      btn.disabled = true;
+      icon.classList.add('animate-spin');
+      text.textContent = 'Procesando...';
+      if(msg) msg.style.display = 'block';
+    } else if (btn) {
+      btn.disabled = false;
+      icon.classList.remove('animate-spin');
+      text.textContent = 'Sincronizar Ahora';
+      if(msg) msg.style.display = 'none';
+    }
   });
 
   // Añadir página

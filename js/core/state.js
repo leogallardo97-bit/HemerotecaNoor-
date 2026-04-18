@@ -16,6 +16,7 @@ const NoorState = (() => {
     documents: [],
     events: [],
     isLoading: false,
+    isSyncing: false,
     error: null,
 
     // Filtros activos (basado en FilterStateSchema)
@@ -75,6 +76,10 @@ const NoorState = (() => {
 
         case 'SET_LOADING':
           _state.isLoading = payload;
+          break;
+
+        case 'SET_SYNCING':
+          _state.isSyncing = payload;
           break;
 
         case 'SET_ERROR':

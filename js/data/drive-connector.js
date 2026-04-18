@@ -1,358 +1,244 @@
 /**
  * ══════════════════════════════════════════════════════════
- * ARCHIVO NOOR — Google Drive Connector (Producción)
+ * ARCHIVO NOOR — Google Drive Connector (Sync Engine v2)
  * ══════════════════════════════════════════════════════════
  *
- * MODOS DE OPERACIÓN:
- *   DEV_MODE = true  → Usa datos de mock-data.js (sin credenciales)
- *   DEV_MODE = false → Conecta con Google Drive API v3
- *
- * ════════════════════════════════════════════════════════════
- * ► CÓMO OBTENER TUS CREDENCIALES DE GOOGLE (paso a paso):
- * ════════════════════════════════════════════════════════════
- *
- * PASO 1 — Crear un proyecto en Google Cloud Console
- *   1. Ve a: https://console.cloud.google.com/
- *   2. Haz clic en "Nuevo Proyecto"
- *   3. Nombre: "Archivo Noor" → Crear
- *
- * PASO 2 — Activar la Google Drive API
- *   1. En el menú izquierdo: APIs y Servicios → Biblioteca
- *   2. Busca "Google Drive API" → Activar
- *
- * PASO 3 — Crear API Key (para leer archivos públicos)
- *   1. APIs y Servicios → Credenciales → Crear Credenciales → Clave de API
- *   2. Haz clic en "Restringir clave":
- *      • Restricción de aplicación: "Referentes HTTP"
- *        - Añade: https://TU-USUARIO.github.io/*
- *        - Añade: http://localhost:*
- *      • Restricción de API: "Google Drive API"
- *   3. Copia la clave → pégala en API_KEY abajo
- *
- * PASO 4 — Crear OAuth 2.0 Client ID (para leer archivos privados)
- *   1. Credenciales → Crear Credenciales → ID de cliente de OAuth
- *   2. Tipo: "Aplicación web"
- *   3. Orígenes JS autorizados: https://TU-USUARIO.github.io
- *   4. URI de redirección: https://TU-USUARIO.github.io/archivo-noor/
- *   5. Copia el Client ID → pégalo en CLIENT_ID abajo
- *
- * PASO 5 — Obtener el ID de tu carpeta de Drive
- *   1. Abre "Carpeta noor 2026 / Archivo noor" en drive.google.com
- *   2. La URL tendrá este formato:
- *      https://drive.google.com/drive/folders/[ROOT_FOLDER_ID]
- *   3. Copia ese ID → pégalo en ROOT_FOLDER_ID abajo
- *
- * PASO 6 — Para usar archivos privados:
- *   En Google Drive, comparte la carpeta "Archivo noor" como
- *   "Cualquier persona con el enlace puede ver". Así la API Key
- *   será suficiente sin necesidad de que el usuario inicie sesión.
- *
- * ════════════════════════════════════════════════════════════
+ * Puente reactivo entre Google Drive API v3 y NoorDB (IndexedDB).
+ * Autenticación vía GIS (Google Identity Services) y GAPI.
  */
 
 const DriveConnector = (() => {
 
-  // ──────────────────────────────────────────────────────
-  // ► CONFIGURACIÓN — EDITA ESTAS LÍNEAS ◄
-  // ──────────────────────────────────────────────────────
-
+  // ─── CONFIGURACIÓN DE SEGURIDAD ───
   const CONFIG = {
-    /**
-     * Cambiar a false cuando quieras usar Google Drive real.
-     * Con true, la web usa los datos de mock-data.js.
-     */
-    DEV_MODE: true,
-
-    /**
-     * Tu API Key de Google Cloud Console.
-     * Sólo necesaria en producción (DEV_MODE = false).
-     * Instrucciones: ver Paso 3 arriba.
-     * @example 'AIzaSyDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-     */
-    API_KEY: 'REEMPLAZA_CON_TU_API_KEY',
-
-    /**
-     * Tu OAuth 2.0 Client ID.
-     * Necesario solo si los archivos no son públicos.
-     * @example '123456789-abc.apps.googleusercontent.com'
-     */
-    CLIENT_ID: 'REEMPLAZA_CON_TU_CLIENT_ID',
-
-    /**
-     * ID de tu carpeta raíz "Archivo noor" en Google Drive.
-     * Obtenerlo de la URL de la carpeta en Drive.
-     * @example '1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74od6ZoWb5'
-     */
-    ROOT_FOLDER_ID: 'REEMPLAZA_CON_EL_ID_DE_TU_CARPETA',
-
-    /**
-     * Nombre del archivo de índice maestro en la raíz de tu carpeta.
-     * Este archivo debe contener el JSON con todos los documentos.
-     */
-    INDEX_FILE_NAME: 'index.json',
-
-    /**
-     * Caché de metadatos en localStorage (minutos).
-     * Reduce las llamadas a la API. 0 = sin caché.
-     */
-    CACHE_MINUTES: 30,
+    // Estas se deben configurar desde el Admin o constantes
+    API_KEY:        '', // Se cargará de user_prefs o prompt
+    CLIENT_ID:      '', // Se cargará de user_prefs o prompt
+    ROOT_FOLDER_ID: '', // ID de la carpeta en Drive
+    SCOPES:         'https://www.googleapis.com/auth/drive.metadata.readonly',
+    DISCOVERY_DOCS: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'],
   };
 
-  // ──────────────────────────────────────────────────────
-  // INTERNOS
-  // ──────────────────────────────────────────────────────
+  let gapiInited = false;
+  let gisInited  = false;
+  let tokenClient;
 
-  const DRIVE_API_BASE  = 'https://www.googleapis.com/drive/v3';
-  const DRIVE_FILES_URL = 'https://drive.google.com/uc?export=view';
-  const DRIVE_THUMB_URL = 'https://drive.google.com/thumbnail';
-  const CACHE_KEY       = 'noor_drive_cache';
+  // ─────────────────────────────────────────────────────────────
+  // 1. CARGA DINÁMICA DE LIBRERÍAS (GAPI & GIS)
+  // ─────────────────────────────────────────────────────────────
 
-  let _gisLoaded   = false;
-  let _isAuthed    = false;
-  let _accessToken = null;
+  async function loadScripts() {
+    if (gapiInited && gisInited) return;
 
-  // ──────────────────────────────────────────────────────
-  // CONSTRUCCIÓN DE URLs DE ARCHIVOS DRIVE
-  // ──────────────────────────────────────────────────────
-
-  /**
-   * Genera distintos tipos de URL para un archivo de Drive.
-   *
-   * @param {string} fileId  - ID del archivo en Google Drive
-   * @param {'view'|'thumbnail'|'download'|'embed'} type
-   * @returns {string} URL pública del archivo
-   */
-  function getPublicFileUrl(fileId, type = 'view') {
-    if (!fileId || fileId.startsWith('PLACEHOLDER')) return '';
-
-    switch (type) {
-      case 'thumbnail':
-        // Miniatura de 320px de ancho (ajustar sz= para tamaño)
-        return `${DRIVE_THUMB_URL}?id=${fileId}&sz=w320`;
-
-      case 'download':
-        // Descarga directa del archivo original
-        return `https://drive.google.com/uc?export=download&id=${fileId}`;
-
-      case 'embed':
-        // iframe embebido (útil para PDFs)
-        return `https://drive.google.com/file/d/${fileId}/preview`;
-
-      case 'view':
-      default:
-        // Vista directa en Google Drive (abre en navegador)
-        return `https://drive.google.com/file/d/${fileId}/view`;
-    }
-  }
-
-  /**
-   * Genera la URL directa de la imagen para OpenSeadragon.
-   * Usa la vista pública de Drive como fuente de tile.
-   *
-   * IMPORTANTE: Para que esto funcione, el archivo debe estar
-   * compartido como "Cualquier persona con el enlace puede ver".
-   */
-  function getImageUrl(fileId, maxSize = 2048) {
-    if (!fileId || fileId.startsWith('PLACEHOLDER')) return '';
-    return `${DRIVE_THUMB_URL}?id=${fileId}&sz=w${maxSize}`;
-  }
-
-  // ──────────────────────────────────────────────────────
-  // FETCHING DE METADATOS DESDE DRIVE
-  // ──────────────────────────────────────────────────────
-
-  /**
-   * fetchDocuments()
-   * Punto de entrada principal. En DEV_MODE devuelve datos mock.
-   * En producción, llama a la Drive API para obtener el índice.
-   *
-   * @returns {Promise<NoorDocument[]>}
-   */
-  async function fetchDocuments() {
-    if (CONFIG.DEV_MODE) {
-      console.log('[DriveConnector] Modo DEV: usando datos de mock-data.js');
-      return window.NoorMockData?.documents || [];
-    }
-
-    // Intentar desde caché
-    const cached = _getCache();
-    if (cached) {
-      console.log('[DriveConnector] ✓ Documentos cargados desde caché local.');
-      return cached;
-    }
-
-    try {
-      // 1. Obtener el archivo index.json desde la carpeta de Drive
-      const indexFileId = await _findFileInFolder(CONFIG.ROOT_FOLDER_ID, CONFIG.INDEX_FILE_NAME);
-      if (!indexFileId) {
-        console.warn('[DriveConnector] index.json no encontrado en Drive. Usando mock data.');
-        return window.NoorMockData?.documents || [];
-      }
-
-      // 2. Descargar el contenido del index.json
-      const indexData = await _downloadJSON(indexFileId);
-      const documents = indexData.documents || [];
-
-      // Guardar en caché
-      _setCache(documents);
-      console.log(`[DriveConnector] ✓ ${documents.length} documentos cargados desde Drive.`);
-      return documents;
-
-    } catch (err) {
-      console.error('[DriveConnector] Error al conectar con Drive. Fallback a mock data:', err);
-      return window.NoorMockData?.documents || [];
-    }
-  }
-
-  /**
-   * Busca un archivo por nombre dentro de una carpeta de Drive.
-   * @returns {Promise<string|null>} File ID o null
-   */
-  async function _findFileInFolder(folderId, fileName) {
-    const query    = `'${folderId}' in parents and name='${fileName}' and trashed=false`;
-    const url      = `${DRIVE_API_BASE}/files?q=${encodeURIComponent(query)}&key=${CONFIG.API_KEY}&fields=files(id,name)`;
-    const response = await fetch(url);
-    const data     = await response.json();
-    return data.files?.[0]?.id || null;
-  }
-
-  /**
-   * Descarga el contenido JSON de un archivo de Drive.
-   * @param {string} fileId
-   * @returns {Promise<object>}
-   */
-  async function _downloadJSON(fileId) {
-    const url      = `${DRIVE_API_BASE}/files/${fileId}?alt=media&key=${CONFIG.API_KEY}`;
-    const response = await fetch(url, _getAuthHeaders());
-    if (!response.ok) throw new Error(`HTTP ${response.status} al descargar ${fileId}`);
-    return response.json();
-  }
-
-  /**
-   * Lista todos los archivos dentro de una subcarpeta de Drive.
-   * Útil para cargar todas las páginas de un documento multipágina.
-   *
-   * @param {string} folderId
-   * @returns {Promise<Array<{id, name, mimeType}>>}
-   */
-  async function listFolderFiles(folderId) {
-    if (!folderId || folderId.startsWith('PLACEHOLDER')) return [];
-
-    const query    = `'${folderId}' in parents and trashed=false`;
-    const fields   = 'files(id,name,mimeType,thumbnailLink,modifiedTime)';
-    const url      = `${DRIVE_API_BASE}/files?q=${encodeURIComponent(query)}&fields=${fields}&key=${CONFIG.API_KEY}&orderBy=name`;
-    const response = await fetch(url, _getAuthHeaders());
-
-    if (!response.ok) {
-      console.error('[DriveConnector] Error al listar carpeta:', response.status);
-      return [];
-    }
-
-    const data = await response.json();
-    return data.files || [];
-  }
-
-  // ──────────────────────────────────────────────────────
-  // CACHÉ LOCAL
-  // ──────────────────────────────────────────────────────
-
-  function _setCache(data) {
-    if (!CONFIG.CACHE_MINUTES) return;
-    localStorage.setItem(CACHE_KEY, JSON.stringify({
-      data,
-      expiresAt: Date.now() + CONFIG.CACHE_MINUTES * 60 * 1000,
-    }));
-  }
-
-  function _getCache() {
-    try {
-      const raw  = localStorage.getItem(CACHE_KEY);
-      if (!raw)  return null;
-      const obj  = JSON.parse(raw);
-      if (Date.now() > obj.expiresAt) {
-        localStorage.removeItem(CACHE_KEY);
-        return null;
-      }
-      return obj.data;
-    } catch { return null; }
-  }
-
-  /**
-   * Invalida la caché manualmente (útil desde el Admin).
-   */
-  function clearCache() {
-    localStorage.removeItem(CACHE_KEY);
-    console.log('[DriveConnector] Caché invalidada.');
-  }
-
-  // ──────────────────────────────────────────────────────
-  // AUTENTICACIÓN OAuth 2.0 (para archivos privados)
-  // ──────────────────────────────────────────────────────
-
-  /**
-   * Carga la Google Identity Services library para OAuth.
-   * Solo necesario si los archivos NO son públicos.
-   */
-  async function initAuth() {
-    if (CONFIG.DEV_MODE || _gisLoaded) return;
-
-    return new Promise((resolve) => {
-      const script  = document.createElement('script');
-      script.src    = 'https://accounts.google.com/gsi/client';
-      script.onload = () => {
-        _gisLoaded = true;
-        google.accounts.oauth2.initTokenClient({
-          client_id: CONFIG.CLIENT_ID,
-          scope:     'https://www.googleapis.com/auth/drive.readonly',
-          callback:  (tokenResponse) => {
-            _accessToken = tokenResponse.access_token;
-            _isAuthed    = true;
-            console.log('[DriveConnector] ✓ Autenticado con Google Drive.');
-          },
+    return new Promise((resolve, reject) => {
+      // Cargar GAPI
+      const gapiScript = document.createElement('script');
+      gapiScript.src = 'https://apis.google.com/js/api.js';
+      gapiScript.onload = () => {
+        gapi.load('client', async () => {
+          await gapi.client.init({
+            apiKey: CONFIG.API_KEY,
+            discoveryDocs: CONFIG.DISCOVERY_DOCS,
+          });
+          gapiInited = true;
+          _checkReady(resolve);
         });
-        resolve();
       };
-      document.head.appendChild(script);
+      
+      // Cargar GIS
+      const gisScript = document.createElement('script');
+      gisScript.src = 'https://accounts.google.com/gsi/client';
+      gisScript.onload = () => {
+        tokenClient = google.accounts.oauth2.initTokenClient({
+          client_id: CONFIG.CLIENT_ID,
+          scope: CONFIG.SCOPES,
+          callback: '', // se define en el momento del sync
+        });
+        gisInited = true;
+        _checkReady(resolve);
+      };
+
+      document.head.appendChild(gapiScript);
+      document.head.appendChild(gisScript);
     });
   }
 
-  function _getAuthHeaders() {
-    if (_isAuthed && _accessToken) {
-      return { headers: { Authorization: `Bearer ${_accessToken}` } };
-    }
-    return {};
+  function _checkReady(resolve) {
+    if (gapiInited && gisInited) resolve();
   }
 
-  // ──────────────────────────────────────────────────────
-  // ESTADO DE CONFIGURACIÓN
-  // ──────────────────────────────────────────────────────
+  // ─────────────────────────────────────────────────────────────
+  // 2. LÓGICA DE SINCRONIZACIÓN (Drive → IndexedDB)
+  // ─────────────────────────────────────────────────────────────
 
   /**
-   * Comprueba si el conector está configurado para producción.
+   * syncHemeroteca()
+   * Dispara el flujo de autenticación y descarga de archivos.
    */
-  function isConfigured() {
-    return !CONFIG.DEV_MODE &&
-           CONFIG.API_KEY       !== 'REEMPLAZA_CON_TU_API_KEY' &&
-           CONFIG.ROOT_FOLDER_ID !== 'REEMPLAZA_CON_EL_ID_DE_TU_CARPETA';
+  async function syncHemeroteca() {
+    try {
+      NoorState.dispatch('SET_SYNCING', true);
+      await loadScripts();
+
+      // Solicitar Token si no tenemos uno válido
+      const tokenResponse = await new Promise((resolve, reject) => {
+        tokenClient.callback = (resp) => {
+          if (resp.error) reject(resp);
+          resolve(resp);
+        };
+        tokenClient.requestAccessToken({ prompt: 'consent' });
+      });
+
+      console.log('[DriveConnector] ✓ Acceso concedido. Iniciando escaneo...');
+
+      // Listar archivos de la carpeta raíz
+      const query = `'${CONFIG.ROOT_FOLDER_ID}' in parents and trashed = false`;
+      const response = await gapi.client.drive.files.list({
+        q: query,
+        fields: 'files(id, name, webViewLink, thumbnailLink, mimeType, size, createdTime)',
+      });
+
+      const files = response.result.files || [];
+      const documents = [];
+
+      for (const file of files) {
+        const doc = _parseFileNameToDocument(file);
+        if (doc) {
+          await NoorDB.docMeta.save(doc);
+          documents.push(doc);
+        }
+      }
+
+      // Actualizar estado global y forzar re-renderizado
+      const allDocs = await NoorDB.docMeta.getMergedWithMock();
+      NoorState.dispatch('SET_DOCUMENTS', allDocs);
+      
+      console.log(`[DriveConnector] ✓ Sincronización completa. ${documents.length} archivos procesados.`);
+      return documents;
+
+    } catch (err) {
+      console.error('[DriveConnector] ✗ Error de sincronización:', err);
+      NoorState.dispatch('SET_ERROR', 'Error al sincronizar con Drive: ' + err.message);
+      throw err;
+    } finally {
+      NoorState.dispatch('SET_SYNCING', false);
+    }
   }
 
-  function getMode() {
-    return CONFIG.DEV_MODE ? 'DEV' : (isConfigured() ? 'PROD' : 'UNCONFIGURED');
+  // ─────────────────────────────────────────────────────────────
+  // 3. PARSEO DE METADATOS POR NOMBRE
+  // ─────────────────────────────────────────────────────────────
+
+  /**
+   * _parseFileNameToDocument()
+   * Extrae metadatos del patrón: YYYY-MM-DD_Ubicacion_Cabecera.pdf
+   */
+  function _parseFileNameToDocument(file) {
+    // Regex: 1936-07-18_Cordoba_Diario-Liberal.pdf
+    const pattern = /^(\d{4})-(\d{2})-(\d{2})_([^_]+)_([^_.]+)\.(pdf|jpg|jpeg|png)$/i;
+    const match = file.name.match(pattern);
+
+    if (!match) {
+      console.warn(`[DriveConnector] Archivo ignora patrón: ${file.name}`);
+      return null;
+    }
+
+    const [full, yearStr, month, day, location, header, ext] = match;
+    const year = parseInt(yearStr);
+    
+    // Mapeo automático de Era
+    const eraId = _getEraFromYear(year);
+
+    // Mapeo automático de Región (intenta coincidir con NoorSchema.REGIONS)
+    const regionKey = _guessRegionKey(location);
+
+    return {
+      id: file.id, // Usamos el Drive ID como ID único
+      title: `${header.replace(/-/g, ' ')} — ${day}/${month}/${year}`,
+      type: ext.toLowerCase() === 'pdf' ? 'newspaper' : 'image',
+      eraId: eraId,
+      year: year,
+      exact_date: `${yearStr}-${month}-${day}`,
+      regions: [regionKey],
+      themes: ['POL'], // Tema por defecto si no se indica
+      description: `Archivo digitalizado: ${header}. Ubicación original: ${location}.`,
+      media: {
+        thumbnail: file.thumbnailLink,
+        pdf: ext.toLowerCase() === 'pdf' ? file.id : null,
+        driveFileId: file.id,
+        webViewLink: file.webViewLink
+      },
+      coordinates: NoorSchema.REGION_DEFAULT_COORDS[regionKey] || null,
+      tags: [header, location, ext],
+      _source: 'drive'
+    };
   }
 
-  // API pública
+  function _getEraFromYear(year) {
+    const eras = window.NoorSchema.HISTORICAL_ERAS;
+    for (const key in eras) {
+      const [start, end] = eras[key].range;
+      if (year >= start && year <= end) return key;
+    }
+    return 'S19'; // Fallback
+  }
+
+  function _guessRegionKey(location) {
+    const loc = location.toUpperCase();
+    if (loc.includes('CORDOBA') || loc.includes('QURTUBA')) return 'QURTUBA';
+    if (loc.includes('SEVILLA') || loc.includes('ISHBILIYYA')) return 'ISHBILIYYA';
+    if (loc.includes('TOLEDO')) return 'TULAYTULAY';
+    if (loc.includes('GRANADA')) return 'GARNATA';
+    return 'GENERAL';
+  }
+
+  // ─────────────────────────────────────────────────────────────
+  // 4. MÉTODOS DE UTILIDAD
+  // ─────────────────────────────────────────────────────────────
+
+  async function updateConfig(newConfig) {
+    Object.assign(CONFIG, newConfig);
+    // Guardar en persistencia local para no pedirlo siempre
+    if (newConfig.API_KEY) await NoorDB.userPrefs.set('drive_api_key', newConfig.API_KEY);
+    if (newConfig.CLIENT_ID) await NoorDB.userPrefs.set('drive_client_id', newConfig.CLIENT_ID);
+    if (newConfig.ROOT_FOLDER_ID) await NoorDB.userPrefs.set('drive_root_id', newConfig.ROOT_FOLDER_ID);
+  }
+
+  async function initialize() {
+    // Cargar config guardada de IndexedDB
+    CONFIG.API_KEY = await NoorDB.userPrefs.get('drive_api_key', '');
+    CONFIG.CLIENT_ID = await NoorDB.userPrefs.get('drive_client_id', '');
+    CONFIG.ROOT_FOLDER_ID = await NoorDB.userPrefs.get('drive_root_id', '');
+
+    // Rellenar automáticamente los inputs del Admin si existen
+    const apiIn = document.getElementById('cfg-api-key');
+    const cliIn = document.getElementById('cfg-client-id');
+    const folIn = document.getElementById('cfg-folder-id');
+    if (apiIn) apiIn.value = CONFIG.API_KEY;
+    if (cliIn) cliIn.value = CONFIG.CLIENT_ID;
+    if (folIn) folIn.value = CONFIG.ROOT_FOLDER_ID;
+
+    console.log('[DriveConnector] ✓ Módulo inicializado y preferencias cargadas.');
+  }
+
+  /**
+   * fetchMasterIndex()
+   * Método compatible con app.js para la carga inicial.
+   * Devuelve los documentos mezclados (Mock + Admin/Drive persistidos).
+   */
+  async function fetchMasterIndex() {
+    return await NoorDB.docMeta.getMergedWithMock();
+  }
+
+  // API Pública
   return {
-    fetchDocuments,
-    getPublicFileUrl,
-    getImageUrl,
-    listFolderFiles,
-    clearCache,
-    initAuth,
-    isConfigured,
-    getMode,
-    CONFIG,  // Expuesto para que el Admin pueda leerlo
+    initialize,
+    fetchMasterIndex,
+    syncHemeroteca,
+    updateConfig,
+    CONFIG
   };
+
 })();
 
 window.DriveConnector = DriveConnector;
-console.log(`[DriveConnector] ✓ Modo: ${DriveConnector.getMode()}`);

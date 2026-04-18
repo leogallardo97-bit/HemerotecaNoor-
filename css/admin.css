@@ -349,6 +349,15 @@
   padding: 1.25rem 0;
   overflow-y: auto;
 }
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+:root { margin-bottom: 1rem; }
 .admin-nav-group { margin-bottom: 1rem; }
 .admin-nav-label {
   font-size: 0.58rem;

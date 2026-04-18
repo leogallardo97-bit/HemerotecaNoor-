@@ -27,7 +27,7 @@ const NoorState = (() => {
       regions: [],
       types: [],
       languages: [],
-      yearRange: [711, 1900],
+      yearRange: [711, 2100],
       sortBy: 'year_asc',
       viewMode: 'grid',
       page: 1,
@@ -112,7 +112,7 @@ const NoorState = (() => {
             regions: [],
             types: [],
             languages: [],
-            yearRange: [711, 1900],
+            yearRange: [711, 2100],
             sortBy: 'year_asc',
             viewMode: _state.filters.viewMode, // preserva modo de vista
             page: 1,

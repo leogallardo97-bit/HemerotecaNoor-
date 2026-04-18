@@ -53,7 +53,7 @@ function renderHeader() {
 
         <a href="#" class="header-nav__btn header-nav__btn--cta" id="nav-acceder">
           <i data-lucide="log-in" width="14" height="14"></i>
-          Acceder
+          Accede con tu cuenta
         </a>
       </nav>
     </header>

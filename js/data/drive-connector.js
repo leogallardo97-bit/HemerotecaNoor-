@@ -11,10 +11,9 @@ const DriveConnector = (() => {
 
   // ─── CONFIGURACIÓN DE SEGURIDAD ───
   const CONFIG = {
-    // Estas se deben configurar desde el Admin o constantes
-    API_KEY:        '', // Se cargará de user_prefs o prompt
-    CLIENT_ID:      '', // Se cargará de user_prefs o prompt
-    ROOT_FOLDER_ID: '', // ID de la carpeta en Drive
+    API_KEY:        '', 
+    CLIENT_ID:      '179753785194-cdifma8lo1kkpu13uuc56j0fficqnfat.apps.googleusercontent.com',
+    ROOT_FOLDER_ID: '1agtxU8HX-71HgmS3XfSWIqULSK1bK66d',
     SCOPES:         'https://www.googleapis.com/auth/drive.metadata.readonly',
     DISCOVERY_DOCS: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'],
   };

@@ -133,42 +133,49 @@ const DriveConnector = (() => {
    * Extrae metadatos del patrón: YYYY-MM-DD_Ubicacion_Cabecera.pdf
    */
   function _parseFileNameToDocument(file) {
-    // Regex: 1936-07-18_Cordoba_Diario-Liberal.pdf
-    const pattern = /^(\d{4})-(\d{2})-(\d{2})_([^_]+)_([^_.]+)\.(pdf|jpg|jpeg|png)$/i;
-    const match = file.name.match(pattern);
-
-    if (!match) {
-      console.warn(`[DriveConnector] Archivo ignora patrón: ${file.name}`);
+    const filename = file.name;
+    
+    // 1. Extraer fecha (YYYY-MM-DD) en cualquier parte del nombre
+    const dateMatch = filename.match(/(\d{4}-\d{2}-\d{2})/);
+    if (!dateMatch) {
+      console.warn(`[DriveConnector] Saltando archivo (sin fecha ISO): ${filename}`);
       return null;
     }
-
-    const [full, yearStr, month, day, location, header, ext] = match;
-    const year = parseInt(yearStr);
     
-    // Mapeo automático de Era
-    const eraId = _getEraFromYear(year);
+    const dateStr = dateMatch[1];
+    const [yearStr, month, day] = dateStr.split('-');
+    const year = parseInt(yearStr);
 
-    // Mapeo automático de Región (intenta coincidir con NoorSchema.REGIONS)
-    const regionKey = _guessRegionKey(location);
+    // 2. Limpiar nombre para extraer Cabecera y Título
+    // Quitamos códigos como 05_, PER_01_, etc.
+    let cleanParts = filename.replace(/\.(pdf|jpe?g|png)$/i, '')
+                           .split('_')
+                           .filter(p => p.length > 2 && !p.match(/^\d{4}-\d{2}-\d{2}$/) && !p.match(/^PER$/i));
+
+    const header = cleanParts[0] ? cleanParts[0].replace(/-/g, ' ') : 'Prensa';
+    const detail = cleanParts.slice(1).join(' ').replace(/-/g, ' ');
+    const regionKey = _guessRegionKey(detail || header);
 
     return {
-      id: file.id, // Usamos el Drive ID como ID único
-      title: `${header.replace(/-/g, ' ')} — ${day}/${month}/${year}`,
-      type: ext.toLowerCase() === 'pdf' ? 'newspaper' : 'image',
-      eraId: eraId,
+      id: file.id,
+      driveId: file.id,
+      title: `${header}: ${detail || 'Documento histórico'}`,
+      date: dateStr,
       year: year,
-      exact_date: `${yearStr}-${month}-${day}`,
+      exact_date: dateStr,
+      eraId: _getEraFromYear(year),
+      header: header,
+      location: detail.split(' ')[0] || 'Archivo',
       regions: [regionKey],
-      themes: ['POL'], // Tema por defecto si no se indica
-      description: `Archivo digitalizado: ${header}. Ubicación original: ${location}.`,
+      type: filename.toLowerCase().endsWith('.pdf') ? 'newspaper' : 'image',
       media: {
         thumbnail: file.thumbnailLink,
-        pdf: ext.toLowerCase() === 'pdf' ? file.id : null,
+        pdf: filename.toLowerCase().endsWith('.pdf') ? file.id : null,
         driveFileId: file.id,
-        webViewLink: file.webViewLink
+        viewUrl: file.webViewLink
       },
-      coordinates: NoorSchema.REGION_DEFAULT_COORDS[regionKey] || null,
-      tags: [header, location, ext],
+      coordinates: window.NoorSchema.REGION_DEFAULT_COORDS[regionKey] || null,
+      tags: ['Drive', 'Sincronizado', header],
       _source: 'drive'
     };
   }

@@ -90,6 +90,10 @@
     e.preventDefault();
     NoorExplore.toggle();
   });
+  document.getElementById('nav-acceder')?.addEventListener('click', (e) => {
+    e.preventDefault();
+    NoorAdmin.toggle(true);
+  });
   // Botón de notas desde el visor (añadido dinámicamente en vbtn-notes)
   document.addEventListener('click', (e) => {
     if (e.target.closest('#vbtn-notes')) {

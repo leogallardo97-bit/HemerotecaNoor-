@@ -13,7 +13,7 @@ const DriveConnector = (() => {
   const CONFIG = {
     API_KEY:        'AIzaSyDsU6PU46SENJQAw35YQOI8OAMfHAoEUBs', 
     CLIENT_ID:      '179753785194-cdifma8lo1kkpu13uuc56j0fficqnfat.apps.googleusercontent.com',
-    ROOT_FOLDER_ID: '1agtxU8HX-71HgmS3XfSWIqULSK1bK66d',
+    ROOT_FOLDER_ID: '142P1bNvDv_qulNFSv2COsap90kANz_f7',
     SCOPES:         'https://www.googleapis.com/auth/drive.metadata.readonly',
     DISCOVERY_DOCS: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'],
   };

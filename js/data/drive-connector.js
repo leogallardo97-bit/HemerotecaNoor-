@@ -77,25 +77,25 @@ const DriveConnector = (() => {
   async function syncHemeroteca() {
     try {
       NoorState.dispatch('SET_SYNCING', true);
-      await loadScripts();
+      if (!gapiInited) await loadScripts();
 
-      // Solicitar Token si no tenemos uno válido
-      const tokenResponse = await new Promise((resolve, reject) => {
-        tokenClient.callback = (resp) => {
-          if (resp.error) reject(resp);
-          resolve(resp);
-        };
-        tokenClient.requestAccessToken({ prompt: 'consent' });
-      });
-
-      console.log('[DriveConnector] ✓ Acceso concedido. Iniciando escaneo...');
-
-      // Listar archivos de la carpeta raíz
-      const query = `'${CONFIG.ROOT_FOLDER_ID}' in parents and trashed = false`;
-      const response = await gapi.client.drive.files.list({
-        q: query,
+      let response;
+      const listParams = {
+        q: `'${CONFIG.ROOT_FOLDER_ID}' in parents and trashed = false`,
         fields: 'files(id, name, webViewLink, thumbnailLink, mimeType, size, createdTime)',
-      });
+        pageSize: 1000
+      };
+
+      // Si no tenemos token, intentamos usar la API Key para carpetas públicas
+      const token = gapi.client.getToken();
+      if (!token) {
+        console.log('[DriveConnector] Intentando acceso público vía API Key...');
+        // GAPI permite usar 'key' en la query si no hay auth
+        listParams.key = CONFIG.API_KEY;
+        response = await gapi.client.drive.files.list(listParams);
+      } else {
+        response = await gapi.client.drive.files.list(listParams);
+      }
 
       const files = response.result.files || [];
       const documents = [];

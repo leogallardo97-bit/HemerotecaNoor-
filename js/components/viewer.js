@@ -87,11 +87,9 @@ async function initViewer() {
   await _ensureOSDLoaded();
 
   // ── Suscribir al estado global ──
-  // Cuando el usuario hace click en un documento del grid → abrir visor
+  // El visor ya no se abre automáticamente. Es activado por ArticleView.
   NoorState.subscribe('SELECT_DOCUMENT', (state) => {
-    if (state.selectedDocument) {
-      openViewer(state.selectedDocument);
-    } else {
+    if (!state.selectedDocument) {
       closeViewer();
     }
   });

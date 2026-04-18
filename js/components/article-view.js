@@ -76,7 +76,7 @@ const ArticleView = (() => {
     const state = NoorState.getState();
     const doc = state.documents.find(d => d.id === docId);
     if (doc) {
-      window.NoorViewer.open(doc);
+      window.DocumentViewer.open(doc);
     }
   }
 

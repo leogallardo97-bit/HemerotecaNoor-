@@ -11,7 +11,7 @@ const DriveConnector = (() => {
 
   // ─── CONFIGURACIÓN DE SEGURIDAD ───
   const CONFIG = {
-    API_KEY:        '', 
+    API_KEY:        'AIzaSyDsU6PU46SENJQAw35YQOI8OAMfHAoEUBs', 
     CLIENT_ID:      '179753785194-cdifma8lo1kkpu13uuc56j0fficqnfat.apps.googleusercontent.com',
     ROOT_FOLDER_ID: '1agtxU8HX-71HgmS3XfSWIqULSK1bK66d',
     SCOPES:         'https://www.googleapis.com/auth/drive.metadata.readonly',

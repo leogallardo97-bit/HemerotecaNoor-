@@ -125,21 +125,30 @@ const NoorAuth = (() => {
             ACCESO RESTRINGIDO
           </p>
 
-          <input
-            id="auth-password-input"
-            type="password"
-            placeholder="Contraseña del administrador"
-            style="
-              width:100%;padding:0.65rem;margin-bottom:0.75rem;
-              background:rgba(255,255,255,0.05);
-              border:1px solid rgba(201,168,76,0.25);
-              border-radius:4px;color:#e5e5e5;font-size:0.85rem;
-              outline:none;box-sizing:border-box;
-              font-family:var(--font-sans, Inter, sans-serif);
-            "
-            autocomplete="current-password"
-            aria-label="Contraseña del administrador"
-          />
+          <div style="position:relative;margin-bottom:0.75rem">
+            <input
+              id="auth-password-input"
+              type="password"
+              placeholder="Contraseña del administrador"
+              style="
+                width:100%;padding:0.65rem 2.5rem 0.65rem 0.65rem;
+                background:rgba(255,255,255,0.05);
+                border:1px solid rgba(201,168,76,0.25);
+                border-radius:4px;color:#e5e5e5;font-size:0.85rem;
+                outline:none;box-sizing:border-box;
+                font-family:var(--font-sans, Inter, sans-serif);
+              "
+              autocomplete="current-password"
+              aria-label="Contraseña del administrador"
+            />
+            <button id="auth-toggle-pass" type="button" style="
+              position:absolute;right:0.75rem;top:50%;transform:translateY(-50%);
+              background:none;border:none;color:rgba(201,168,76,0.4);
+              cursor:pointer;padding:0;display:flex;align-items:center;
+            ">
+              <i data-lucide="eye" width="16" height="16"></i>
+            </button>
+          </div>
 
           <div id="auth-error" style="
             font-size:0.72rem;color:#c94c4c;margin-bottom:0.75rem;
@@ -174,11 +183,24 @@ const NoorAuth = (() => {
       `;
 
       document.body.appendChild(modal);
+      // Inicializar iconos específicos del modal
+      if (window.lucide) lucide.createIcons({ attrs: { "stroke-width": 2 }, nameAttr: "data-lucide", icons: undefined });
 
-      const input  = modal.querySelector('#auth-password-input');
-      const errEl  = modal.querySelector('#auth-error');
-      const submit = modal.querySelector('#auth-submit');
-      const cancel = modal.querySelector('#auth-cancel');
+      const input      = modal.querySelector('#auth-password-input');
+      const errEl      = modal.querySelector('#auth-error');
+      const submit     = modal.querySelector('#auth-submit');
+      const cancel     = modal.querySelector('#auth-cancel');
+      const togglePass = modal.querySelector('#auth-toggle-pass');
+
+      // Toggle visibilidad
+      togglePass?.addEventListener('click', () => {
+        const isPass = input.type === 'password';
+        input.type = isPass ? 'text' : 'password';
+        togglePass.innerHTML = isPass 
+          ? '<i data-lucide="eye-off" width="16" height="16"></i>' 
+          : '<i data-lucide="eye" width="16" height="16"></i>';
+        if (window.lucide) lucide.createIcons();
+      });
 
       // Auto-focus
       setTimeout(() => input?.focus(), 50);

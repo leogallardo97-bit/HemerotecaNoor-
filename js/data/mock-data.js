@@ -1,1 +1,415 @@
-﻿window.NoorMockData = { documents: [{"id":"drive-doc-1","slug":"documento-drive-1","title":"Documento del Archivo Noor — 1","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc"},"media":{"driveFileId":"1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc","thumbnail":"https://drive.google.com/thumbnail?id=1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc\u0026sz=w400","pages":["1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc"],"pdf":"1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc"},"transcription":null,"_source":"drive"},{"id":"drive-doc-2","slug":"documento-drive-2","title":"Documento del Archivo Noor — 2","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4"},"media":{"driveFileId":"1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4","thumbnail":"https://drive.google.com/thumbnail?id=1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4\u0026sz=w400","pages":["1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4"],"pdf":"1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4"},"transcription":null,"_source":"drive"},{"id":"drive-doc-3","slug":"documento-drive-3","title":"Documento del Archivo Noor — 3","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5"},"media":{"driveFileId":"13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5","thumbnail":"https://drive.google.com/thumbnail?id=13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5\u0026sz=w400","pages":["13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5"],"pdf":"13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5"},"transcription":null,"_source":"drive"},{"id":"drive-doc-4","slug":"documento-drive-4","title":"Documento del Archivo Noor — 4","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-"},"media":{"driveFileId":"1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-","thumbnail":"https://drive.google.com/thumbnail?id=1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-\u0026sz=w400","pages":["1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-"],"pdf":"1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-"},"transcription":null,"_source":"drive"},{"id":"drive-doc-5","slug":"documento-drive-5","title":"Documento del Archivo Noor — 5","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV"},"media":{"driveFileId":"1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV","thumbnail":"https://drive.google.com/thumbnail?id=1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV\u0026sz=w400","pages":["1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV"],"pdf":"1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV"},"transcription":null,"_source":"drive"},{"id":"drive-doc-6","slug":"documento-drive-6","title":"Documento del Archivo Noor — 6","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes"},"media":{"driveFileId":"1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes","thumbnail":"https://drive.google.com/thumbnail?id=1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes\u0026sz=w400","pages":["1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes"],"pdf":"1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes"},"transcription":null,"_source":"drive"},{"id":"drive-doc-7","slug":"documento-drive-7","title":"Documento del Archivo Noor — 7","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"14fPXt38u3jWAto_jTjNUTJg8p7dJ479R"},"media":{"driveFileId":"14fPXt38u3jWAto_jTjNUTJg8p7dJ479R","thumbnail":"https://drive.google.com/thumbnail?id=14fPXt38u3jWAto_jTjNUTJg8p7dJ479R\u0026sz=w400","pages":["14fPXt38u3jWAto_jTjNUTJg8p7dJ479R"],"pdf":"14fPXt38u3jWAto_jTjNUTJg8p7dJ479R"},"transcription":null,"_source":"drive"},{"id":"drive-doc-8","slug":"documento-drive-8","title":"Documento del Archivo Noor — 8","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm"},"media":{"driveFileId":"1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm","thumbnail":"https://drive.google.com/thumbnail?id=1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm\u0026sz=w400","pages":["1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm"],"pdf":"1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm"},"transcription":null,"_source":"drive"},{"id":"drive-doc-9","slug":"documento-drive-9","title":"Documento del Archivo Noor — 9","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D"},"media":{"driveFileId":"1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D","thumbnail":"https://drive.google.com/thumbnail?id=1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D\u0026sz=w400","pages":["1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D"],"pdf":"1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D"},"transcription":null,"_source":"drive"},{"id":"drive-doc-10","slug":"documento-drive-10","title":"Documento del Archivo Noor — 10","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx"},"media":{"driveFileId":"1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx","thumbnail":"https://drive.google.com/thumbnail?id=1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx\u0026sz=w400","pages":["1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx"],"pdf":"1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx"},"transcription":null,"_source":"drive"},{"id":"drive-doc-11","slug":"documento-drive-11","title":"Documento del Archivo Noor — 11","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9"},"media":{"driveFileId":"1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9","thumbnail":"https://drive.google.com/thumbnail?id=1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9\u0026sz=w400","pages":["1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9"],"pdf":"1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9"},"transcription":null,"_source":"drive"},{"id":"drive-doc-12","slug":"documento-drive-12","title":"Documento del Archivo Noor — 12","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S"},"media":{"driveFileId":"1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S","thumbnail":"https://drive.google.com/thumbnail?id=1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S\u0026sz=w400","pages":["1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S"],"pdf":"1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S"},"transcription":null,"_source":"drive"},{"id":"drive-doc-13","slug":"documento-drive-13","title":"Documento del Archivo Noor — 13","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_"},"media":{"driveFileId":"1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_","thumbnail":"https://drive.google.com/thumbnail?id=1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_\u0026sz=w400","pages":["1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_"],"pdf":"1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_"},"transcription":null,"_source":"drive"},{"id":"drive-doc-14","slug":"documento-drive-14","title":"Documento del Archivo Noor — 14","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54"},"media":{"driveFileId":"1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54","thumbnail":"https://drive.google.com/thumbnail?id=1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54\u0026sz=w400","pages":["1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54"],"pdf":"1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54"},"transcription":null,"_source":"drive"},{"id":"drive-doc-15","slug":"documento-drive-15","title":"Documento del Archivo Noor — 15","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs"},"media":{"driveFileId":"1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs","thumbnail":"https://drive.google.com/thumbnail?id=1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs\u0026sz=w400","pages":["1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs"],"pdf":"1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs"},"transcription":null,"_source":"drive"},{"id":"drive-doc-16","slug":"documento-drive-16","title":"Documento del Archivo Noor — 16","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR"},"media":{"driveFileId":"1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR","thumbnail":"https://drive.google.com/thumbnail?id=1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR\u0026sz=w400","pages":["1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR"],"pdf":"1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR"},"transcription":null,"_source":"drive"},{"id":"drive-doc-17","slug":"documento-drive-17","title":"Documento del Archivo Noor — 17","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1"},"media":{"driveFileId":"1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1","thumbnail":"https://drive.google.com/thumbnail?id=1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1\u0026sz=w400","pages":["1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1"],"pdf":"1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1"},"transcription":null,"_source":"drive"},{"id":"drive-doc-18","slug":"documento-drive-18","title":"Documento del Archivo Noor — 18","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN"},"media":{"driveFileId":"1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN","thumbnail":"https://drive.google.com/thumbnail?id=1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN\u0026sz=w400","pages":["1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN"],"pdf":"1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN"},"transcription":null,"_source":"drive"},{"id":"drive-doc-19","slug":"documento-drive-19","title":"Documento del Archivo Noor — 19","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW"},"media":{"driveFileId":"1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW","thumbnail":"https://drive.google.com/thumbnail?id=1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW\u0026sz=w400","pages":["1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW"],"pdf":"1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW"},"transcription":null,"_source":"drive"},{"id":"drive-doc-20","slug":"documento-drive-20","title":"Documento del Archivo Noor — 20","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1SMcf9_8p7beu-gLATiN7StHHow4--y9j"},"media":{"driveFileId":"1SMcf9_8p7beu-gLATiN7StHHow4--y9j","thumbnail":"https://drive.google.com/thumbnail?id=1SMcf9_8p7beu-gLATiN7StHHow4--y9j\u0026sz=w400","pages":["1SMcf9_8p7beu-gLATiN7StHHow4--y9j"],"pdf":"1SMcf9_8p7beu-gLATiN7StHHow4--y9j"},"transcription":null,"_source":"drive"},{"id":"drive-doc-21","slug":"documento-drive-21","title":"Documento del Archivo Noor — 21","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9"},"media":{"driveFileId":"1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9","thumbnail":"https://drive.google.com/thumbnail?id=1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9\u0026sz=w400","pages":["1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9"],"pdf":"1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9"},"transcription":null,"_source":"drive"},{"id":"drive-doc-22","slug":"documento-drive-22","title":"Documento del Archivo Noor — 22","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa"},"media":{"driveFileId":"1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa","thumbnail":"https://drive.google.com/thumbnail?id=1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa\u0026sz=w400","pages":["1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa"],"pdf":"1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa"},"transcription":null,"_source":"drive"},{"id":"drive-doc-23","slug":"documento-drive-23","title":"Documento del Archivo Noor — 23","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v"},"media":{"driveFileId":"1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v","thumbnail":"https://drive.google.com/thumbnail?id=1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v\u0026sz=w400","pages":["1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v"],"pdf":"1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v"},"transcription":null,"_source":"drive"},{"id":"drive-doc-24","slug":"documento-drive-24","title":"Documento del Archivo Noor — 24","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX"},"media":{"driveFileId":"1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX","thumbnail":"https://drive.google.com/thumbnail?id=1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX\u0026sz=w400","pages":["1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX"],"pdf":"1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX"},"transcription":null,"_source":"drive"},{"id":"drive-doc-25","slug":"documento-drive-25","title":"Documento del Archivo Noor — 25","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv"},"media":{"driveFileId":"1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv","thumbnail":"https://drive.google.com/thumbnail?id=1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv\u0026sz=w400","pages":["1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv"],"pdf":"1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv"},"transcription":null,"_source":"drive"},{"id":"drive-doc-26","slug":"documento-drive-26","title":"Documento del Archivo Noor — 26","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK"},"media":{"driveFileId":"1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK","thumbnail":"https://drive.google.com/thumbnail?id=1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK\u0026sz=w400","pages":["1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK"],"pdf":"1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK"},"transcription":null,"_source":"drive"},{"id":"drive-doc-27","slug":"documento-drive-27","title":"Documento del Archivo Noor — 27","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr"},"media":{"driveFileId":"1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr","thumbnail":"https://drive.google.com/thumbnail?id=1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr\u0026sz=w400","pages":["1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr"],"pdf":"1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr"},"transcription":null,"_source":"drive"},{"id":"drive-doc-28","slug":"documento-drive-28","title":"Documento del Archivo Noor — 28","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo"},"media":{"driveFileId":"1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo","thumbnail":"https://drive.google.com/thumbnail?id=1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo\u0026sz=w400","pages":["1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo"],"pdf":"1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo"},"transcription":null,"_source":"drive"},{"id":"drive-doc-29","slug":"documento-drive-29","title":"Documento del Archivo Noor — 29","type":"newspaper","eraId":"S21","year":2007,"yearEnd":null,"exact_date":"2007-01-01","date":"2007-01-01","language":"es","source":"Hemeroteca Noor","description":"Documento digitalizado del Archivo Noor. Parte de la coleccion de prensa historica del siglo XXI.","tags":["Noor","Prensa","Siglo XXI","Hemeroteca"],"themes":["SOC"],"regions":["GENERAL"],"coordinates":null,"metadata":{"creator":"Proyecto Noor","publisher":"Archivo Noor","rights":"Uso educativo","identifier":"1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1"},"media":{"driveFileId":"1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1","thumbnail":"https://drive.google.com/thumbnail?id=1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1\u0026sz=w400","pages":["1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1"],"pdf":"1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1"},"transcription":null,"_source":"drive"}], events: [] };
+/**
+ * ══════════════════════════════════════════════════════════
+ * ARCHIVO NOOR — Datos Mock (Desarrollo)
+ * ══════════════════════════════════════════════════════════
+ *
+ * PROPÓSITO: Datos de ejemplo que replican la estructura real
+ * que vendrá de Google Drive. Permite desarrollar y visualizar
+ * la UI sin necesidad de conexión a Drive.
+ *
+ * INSTRUCCIÓN PARA EL OPERADOR:
+ * Cuando tengas los datos reales, SOLO debes crear archivos
+ * `metadatos.json` en cada carpeta de Drive con esta misma
+ * estructura. El DriveConnector los leerá automáticamente.
+ *
+ * FORMATO DEL ARCHIVO metadatos.json POR SIGLO:
+ * {
+ *   "era": "S10",
+ *   "generatedAt": "2026-04-17",
+ *   "documents": [ <array de NoorDocument> ]
+ * }
+ */
+
+window.NoorMockData = {
+  documents: [
+    // ─────────────────────────────────────────────────────
+    // SIGLO X — Califato de Córdoba (Apogeo)
+    // ─────────────────────────────────────────────────────
+    {
+      id: 'doc-s10-001',
+      title: 'Tratado de las Excelencias de Córdoba',
+      type: 'manuscript',
+      eraId: 'S10',
+      year: 978,
+      themes: ['POL', 'CUL'],
+      regions: ['QURTUBA'],
+      description: 'Manuscrito que describe la grandeza del Califato Omeya bajo Abd al-Rahman III y Al-Hakam II, detallando la administración de Madinat al-Zahra.',
+      source: 'Biblioteca Nacional de España',
+      language: 'ar',
+      media: {
+        thumbnail: '', // @PLACEHOLDER: driveThumbId
+        pages: [],     // @PLACEHOLDER: array de driveFileIds de páginas
+        pdf: '',       // @PLACEHOLDER: driveFileId del PDF
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S10_001',
+      },
+      metadata: {
+        creator: 'Autor anónimo (atribuido a la cancillería califal)',
+        contributor: 'Leonardo Gallardo (digitalización)',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'application/pdf',
+        identifier: 'NOOR-S10-001',
+        scanResolution: '400dpi',
+        condition: 'bueno',
+      },
+      /**
+       * TRANSCRIPCIÓN — Ejemplo con texto en árabe clásico (nasj)
+       * Transcripción manual de folio único. Reemplaza con el texto real
+       * cuando tengas el escaneo del documento en Drive.
+       */
+      transcription: {
+        fullText: `بسم الله الرحمن الرحيم
+
+فضائل قرطبة وما اشتملت عليه من العلوم والصناعات
+
+اعلم -أيدك الله- أن قرطبة، حرسها الله، كانت في أيام الخلافة الأموية مقصد العلماء ومنتهى آمال الشعراء والمتفقهين. وكان الخليفة الناصر عبد الرحمن بن محمد -رحمه الله- يستقدم أهل الفضل من سائر البلدان، ويُجزل لهم العطاء، ويُدني مجلسهم.
+
+وكان في داره من الكتب ما يجاوز أربعمائة ألف مجلد، معلمة بأسمائها وأصنافها، مما يدل على سعة علمه وشرف همته.
+
+وأما مدينة الزهراء -حفظها الله- فإنها كانت أثراً من آثار الملك عجيباً، تزاحمت فيها المحاريب والأطواق والفسيفساء والرخام المجلوب من أقاصي الأرض...
+
+[Continúa en folio 2r — pendiente de transcripción]`,
+        transcribedBy: 'Leonardo Gallardo',
+        transcribedAt: '2026-04-17',
+        notes: 'Escritura nasj andalusí del s. X tardío. El término "أيدك الله" es fórmula de cortesía al destinatario. Las páginas 2r-4v están pendientes de transcribir.',
+        method: 'manual',
+        confidence: 0.88,
+        script: 'nasj',
+      },
+      eventIds: ['evt-califato-cordoba'],
+      tags: ['califato', 'cordoba', 'omeya', 'abd al-rahman', 'arquitectura', 'madinat al-zahra'],
+    },
+    {
+      id: 'doc-s10-002',
+      title: 'Kitab al-Agani — Selección de Cantos',
+      type: 'manuscript',
+      eraId: 'S10',
+      year: 967,
+      themes: ['CUL', 'ART'],
+      regions: ['QURTUBA', 'GENERAL'],
+      description: 'Antología de canciones y poemas de la corte califal de Córdoba. Testimonia el apogeo cultural andalusí del siglo X.',
+      source: 'Biblioteca de El Escorial',
+      language: 'ar',
+      media: {
+        thumbnail: '',
+        pages: [],   // Documento de 3 páginas (ejemplo multipágina)
+        pdf: '',
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S10_002',
+      },
+      metadata: {
+        creator: 'Abu al-Faraj al-Isfahani (adaptación andalusí)',
+        contributor: '',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'image/jpeg',
+        identifier: 'NOOR-S10-002',
+        scanResolution: '300dpi',
+        condition: 'regular',
+      },
+      /**
+       * TRANSCRIPCIÓN MULTIPÁGINA — Ejemplo con 3 páginas independientes.
+       * El array pages[] debe tener la misma longitud que media.pages[].
+       * Navegar entre páginas en el visor actualiza automáticamente la
+       * transcripción mostrada en el panel derecho.
+       */
+      transcription: {
+        pages: [
+          // Página 1 — Introducción
+          `كتاب الأغاني الأندلسي
+انتخاب من أشعار الأندلس وأخبار مغنيها
+
+قال أبو الفرج الأصفهاني -رحمه الله-: لما بلغني أن الخليفة الحكم المستنصر بالله يطلب نسخة من كتابنا هذا، بادرت إلى إرسال خمسين مجلداً من جملة مؤلفاتنا، وأضفت إليه ما خصّه الله به من شعراء الأندلس ومطربيها...
+
+وكان في بلاط قرطبة من المغنين والمغنيات ما لا يُحصى عدده، وكان الخليفة يُدني منه الشعراء ويُجري عليهم الأرزاق الوافرة...`,
+
+          // Página 2 — Primera canción
+          `باب في ذكر زرياب الأندلسي وما انتهى إليه من الفنون
+
+كان زرياب -واسمه علي بن نافع- قادماً من بغداد، فأكرم استقباله الأمير عبد الرحمن الثاني -رحمه الله-، وأنزله منزلة سنية.
+
+وقد أدخل إلى الأندلس من الغناء والموسيقى والآداب ما لم يُسبق إليه، وكان يُجيد العزف على العود بوتر خامس ابتدعه من أمعاء الأسد إذ وجد أوتار العود في زمانه ضعيفة اللحن.
+
+ومن أشعاره المغناة في البلاط:
+يا ليلة الأنس لا تنقضِ
+وأنت من دهري الأحظى
+كم فيك من بدر قد أضحكا
+وكم نجوم بك قد أوضا`,
+
+          // Página 3 — Colofón
+          `خاتمة المنتخب
+
+وهذا ما تيسّر من انتخاب أغاني الأندلس وأخبار مغنيها في عصر الخلافة. وقد أحصينا في هذا المجلد سبعة وأربعين لحناً موزعة على المقامات التالية: الرصد، والحجاز، والعراق، والزيدان، وما يجري مجراها.
+
+وقد كتب هذا المجلد الوراق محمد بن عيسى القرطبي بإذن من خزانة الحكم المستنصر بالله سنة سبع وخمسين وثلاثمائة للهجرة.
+
+تمّ بحمد الله وحسن توفيقه.`
+        ],
+        transcribedBy: 'Leonardo Gallardo',
+        transcribedAt: '2026-04-17',
+        notes: 'Ms. de 3 folios en escritura nasj. El nombre "زرياب" (Ziryab) aparece también como "زرياب" con variante كاف coloquial andalusí. La fecha del colofón corresponde a 967 CE.',
+        method: 'manual',
+        confidence: 0.95,
+        script: 'nasj',
+      },
+      eventIds: [],
+      tags: ['poesía', 'música', 'cultura', 'corte califal', 'siglo X', 'ziryab', 'agani'],
+    },
+    {
+      id: 'doc-s10-003',
+      title: 'Crónica del Reinado de Hisham II',
+      type: 'chronicle',
+      eraId: 'S10',
+      year: 995,
+      themes: ['POL', 'MIL'],
+      regions: ['QURTUBA', 'GENERAL'],
+      description: 'Crónica que documenta el régimen de Almanzor como hayib efectivo del califato y sus campañas militares al norte.',
+      source: 'Archivo General de Simancas',
+      language: 'la',
+      media: {
+        thumbnail: '',
+        pages: [],
+        pdf: '',
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S10_003',
+      },
+      metadata: {
+        creator: 'Cronista anónimo leonés',
+        contributor: '',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'application/pdf',
+        identifier: 'NOOR-S10-003',
+      },
+      eventIds: ['evt-almanzor'],
+      tags: ['almanzor', 'hisham II', 'califato', 'campaña militar', 'hay ib'],
+    },
+
+    // ─────────────────────────────────────────────────────
+    // SIGLO XI — Taifas y Reinos de Fitnah
+    // ─────────────────────────────────────────────────────
+    {
+      id: 'doc-s11-001',
+      title: 'El Collar de la Paloma (Tawq al-Hamama)',
+      type: 'manuscript',
+      eraId: 'S11',
+      year: 1022,
+      themes: ['CUL', 'SOC'],
+      regions: ['GARNATA', 'GENERAL'],
+      description: 'Tratado sobre el amor de Ibn Hazm de Córdoba, paradigma de la literatura andalusí clásica. Refleja la sociedad de los reinos de taifas.',
+      source: 'Universidad de Leiden, MS 2172',
+      language: 'ar',
+      media: {
+        thumbnail: '',
+        pages: [],
+        pdf: '',
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S11_001',
+      },
+      metadata: {
+        creator: 'Ibn Hazm al-Andalusi',
+        contributor: '',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'image/tiff',
+        identifier: 'NOOR-S11-001',
+      },
+      eventIds: ['evt-taifas'],
+      tags: ['ibn hazm', 'amor', 'literatura', 'taifas', 'sociedad', 'siglo XI'],
+    },
+    {
+      id: 'doc-s11-002',
+      title: 'Decreto de Fundación del Reino de Granada Zirí',
+      type: 'decree',
+      eraId: 'S11',
+      year: 1013,
+      themes: ['POL', 'SOC'],
+      regions: ['GARNATA'],
+      description: 'Documento que atestigua el establecimiento de la Taifa de Granada bajo la dinastía bereber Zirí.',
+      source: 'Archivo de la Alhambra',
+      language: 'ar',
+      media: {
+        thumbnail: '',
+        pages: [],
+        pdf: '',
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S11_002',
+      },
+      metadata: {
+        creator: 'Cancillería de Zawi ibn Ziri',
+        contributor: '',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'image/jpeg',
+        identifier: 'NOOR-S11-002',
+      },
+      eventIds: ['evt-taifas'],
+      tags: ['granada', 'ziri', 'taifa', 'decreto', 'fundación'],
+    },
+
+    // ─────────────────────────────────────────────────────
+    // SIGLO XII — Almorávides y Almohades
+    // ─────────────────────────────────────────────────────
+    {
+      id: 'doc-s12-001',
+      title: 'Kitab al-Mugrib fi Hula al-Maghrib',
+      type: 'manuscript',
+      eraId: 'S12',
+      year: 1149,
+      themes: ['CUL', 'POL', 'SCI'],
+      regions: ['GENERAL', 'NORTH_AFRICA'],
+      description: 'Antología geográfica y literaria del Occidente islámico, compilada por Ibn Said al-Maghribi.',
+      source: 'Biblioteca Bodleiana, Oxford',
+      language: 'ar',
+      media: {
+        thumbnail: '',
+        pages: [],
+        pdf: '',
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S12_001',
+      },
+      metadata: {
+        creator: 'Ibn Said al-Maghribi',
+        contributor: '',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'image/tiff',
+        identifier: 'NOOR-S12-001',
+      },
+      eventIds: ['evt-almohades'],
+      tags: ['geografía', 'literatura', 'magreb', 'almohades', 'siglo XII'],
+    },
+
+    // ─────────────────────────────────────────────────────
+    // SIGLO XIII — Decadencia y Resistencia
+    // ─────────────────────────────────────────────────────
+    {
+      id: 'doc-s13-001',
+      title: 'Relato de la Batalla de Las Navas de Tolosa',
+      type: 'chronicle',
+      eraId: 'S13',
+      year: 1212,
+      themes: ['MIL', 'POL', 'REL'],
+      regions: ['GENERAL'],
+      description: 'Narración cronística de la derrota almohade y su impacto en el balance político de la Península Ibérica.',
+      source: 'Biblioteca Nacional, Madrid',
+      language: 'la',
+      media: {
+        thumbnail: '',
+        pages: [],
+        pdf: '',
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S13_001',
+      },
+      metadata: {
+        creator: 'Rodrigo Jiménez de Rada (atribuido)',
+        contributor: '',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'application/pdf',
+        identifier: 'NOOR-S13-001',
+      },
+      eventIds: ['evt-navas-tolosa'],
+      tags: ['navas de tolosa', 'almohades', 'cruzada', 'batalla', 'siglo XIII', 'derrota'],
+    },
+
+    // ─────────────────────────────────────────────────────
+    // SIGLO XIV — Esplendor Nazarí
+    // ─────────────────────────────────────────────────────
+    {
+      id: 'doc-s14-001',
+      title: 'Muqaddimah — Prolegómenos de Ibn Jaldún',
+      type: 'manuscript',
+      eraId: 'S14',
+      year: 1377,
+      themes: ['SCI', 'POL', 'SOC'],
+      regions: ['GENERAL', 'NORTH_AFRICA'],
+      description: 'Introducción a la obra histórica universal de Ibn Jaldún, considerada el primer tratado de sociología y filosofía de la historia.',
+      source: 'Bibliothèque nationale de France, MS arabe 2197',
+      language: 'ar',
+      media: {
+        thumbnail: '',
+        pages: [],
+        pdf: '',
+        driveFileId: 'PLACEHOLDER_DRIVE_ID_S14_001',
+      },
+      metadata: {
+        creator: 'Ibn Jaldún',
+        contributor: '',
+        publisher: 'Archivo Noor, 2026',
+        rights: 'Dominio Público',
+        format: 'image/tiff',
+        identifier: 'NOOR-S14-001',
+      },
+      eventIds: ['evt-nazari'],
+      tags: ['ibn jaldun', 'muqaddimah', 'sociología', 'historia', 'nazarí', 'siglo XIV'],
+    },
+  ],
+
+  events: [
+    {
+      id: 'evt-califato-cordoba',
+      title: 'Califato de Córdoba (929–1031)',
+      year: 929,
+      eraId: 'S10',
+      themes: ['POL', 'CUL'],
+      description: 'Período de máximo esplendor cultural y político de Al-Ándalus, con Abd al-Rahman III como primer califa.',
+      documentIds: ['doc-s10-001', 'doc-s10-002', 'doc-s10-003'],
+      regions: ['QURTUBA', 'GENERAL'],
+      importance: 'critical',
+    },
+    {
+      id: 'evt-almanzor',
+      title: 'Regencia de Almanzor (978–1002)',
+      year: 978,
+      eraId: 'S10',
+      themes: ['POL', 'MIL'],
+      description: 'Almanzor (Ibn Abi Amir) gobierna como hayib efectivo, realizando más de 50 campañas militares.',
+      documentIds: ['doc-s10-003'],
+      regions: ['QURTUBA', 'GENERAL'],
+      importance: 'high',
+    },
+    {
+      id: 'evt-taifas',
+      title: 'Reinos de Taifas (1031–1090)',
+      year: 1031,
+      eraId: 'S11',
+      themes: ['POL', 'SOC', 'CUL'],
+      description: 'Fragmentación del califato en múltiples reinos independientes. Paradójicamente, período de gran florecimiento cultural.',
+      documentIds: ['doc-s11-001', 'doc-s11-002'],
+      regions: ['GENERAL'],
+      importance: 'critical',
+    },
+    {
+      id: 'evt-almohades',
+      title: 'Dominio Almohade (1147–1228)',
+      year: 1147,
+      eraId: 'S12',
+      themes: ['POL', 'REL', 'MIL'],
+      description: 'Movimiento beréber norteafricano que reimplantó un califato ortodoxo en Al-Ándalus.',
+      documentIds: ['doc-s12-001'],
+      regions: ['GENERAL', 'NORTH_AFRICA'],
+      importance: 'high',
+    },
+    {
+      id: 'evt-navas-tolosa',
+      title: 'Batalla de Las Navas de Tolosa (1212)',
+      year: 1212,
+      eraId: 'S13',
+      themes: ['MIL', 'POL', 'REL'],
+      description: 'Derrota decisiva almohade que acelera la reconquista cristiana del sur peninsular.',
+      documentIds: ['doc-s13-001'],
+      regions: ['GENERAL'],
+      importance: 'critical',
+    },
+    {
+      id: 'evt-nazari',
+      title: 'Reino Nazarí de Granada (1238–1492)',
+      year: 1238,
+      eraId: 'S13',
+      themes: ['POL', 'CUL', 'ART'],
+      description: 'Último reducto del Al-Ándalus islámico. Período de máxima expresión artística con la construcción de la Alhambra.',
+      documentIds: ['doc-s14-001'],
+      regions: ['GARNATA'],
+      importance: 'critical',
+    },
+  ],
+};
+
+console.log(
+  `[NoorMockData] ✓ ${window.NoorMockData.documents.length} documentos | ${window.NoorMockData.events.length} eventos cargados.`
+);

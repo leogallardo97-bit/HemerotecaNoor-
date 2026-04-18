@@ -204,20 +204,24 @@ const DriveConnector = (() => {
   }
 
   async function initialize() {
-    // Cargar config guardada de IndexedDB
-    CONFIG.API_KEY = await NoorDB.userPrefs.get('drive_api_key', '');
-    CONFIG.CLIENT_ID = await NoorDB.userPrefs.get('drive_client_id', '');
-    CONFIG.ROOT_FOLDER_ID = await NoorDB.userPrefs.get('drive_root_id', '');
+    // Cargar config guardada de IndexedDB (prioridad) o usar los hardcoded del CONFIG
+    CONFIG.API_KEY = await NoorDB.userPrefs.get('drive_api_key', CONFIG.API_KEY);
+    CONFIG.CLIENT_ID = await NoorDB.userPrefs.get('drive_client_id', CONFIG.CLIENT_ID);
+    CONFIG.ROOT_FOLDER_ID = await NoorDB.userPrefs.get('drive_root_id', CONFIG.ROOT_FOLDER_ID);
 
     // Rellenar automáticamente los inputs del Admin si existen
+    _populateAdminInputs();
+
+    console.log('[DriveConnector] ✓ Módulo inicializado con credenciales.');
+  }
+
+  function _populateAdminInputs() {
     const apiIn = document.getElementById('cfg-api-key');
     const cliIn = document.getElementById('cfg-client-id');
     const folIn = document.getElementById('cfg-folder-id');
-    if (apiIn) apiIn.value = CONFIG.API_KEY;
-    if (cliIn) cliIn.value = CONFIG.CLIENT_ID;
-    if (folIn) folIn.value = CONFIG.ROOT_FOLDER_ID;
-
-    console.log('[DriveConnector] ✓ Módulo inicializado y preferencias cargadas.');
+    if (apiIn) apiIn.value = CONFIG.API_KEY || '';
+    if (cliIn) cliIn.value = CONFIG.CLIENT_ID || '';
+    if (folIn) folIn.value = CONFIG.ROOT_FOLDER_ID || '';
   }
 
   /**

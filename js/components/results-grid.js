@@ -238,6 +238,14 @@ function buildDocumentCard(doc, eras) {
             <span>${lang}</span>
             <span>·</span>
             ${tagHtml}
+            <div style="flex-grow:1"></div>
+            <a href="mailto:noorarchive@gmail.com?subject=Revisi%C3%B3n:%20${encodeURIComponent(doc.title)}" 
+               class="doc-card__report-btn" 
+               title="Reportar error en este documento"
+               onclick="event.stopPropagation()"
+            >
+              <i data-lucide="alert-circle" width="14" height="14"></i>
+            </a>
           </div>
         </div>
       </article>
@@ -319,3 +327,19 @@ function renderPagination(total, totalPages, currentPage) {
     }
   });
 }
+  /* 
+   * Cross-linking Logic 
+   * Listen for RETURN_TO_GALLERY event
+   */
+  window.addEventListener('noor-return-to-gallery', (e) => {
+    const { docId } = e.detail;
+    // Delay short for visual flow
+    setTimeout(() => {
+      const card = document.querySelector(`.doc-card[data-doc-id="${docId}"]`);
+      if (card) {
+        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        card.classList.add('highlight-flash');
+        setTimeout(() => card.classList.remove('highlight-flash'), 2500);
+      }
+    }, 100);
+  });

@@ -26,30 +26,8 @@ window.NoorLocalDB = {
       media: { thumbnail: 'img/thumbnails/sec-01.jpg' }
     },
     // --- 02_LIBROS ---
-    {
-      id: 'local-lib-2011-01',
-      title: 'Catálogo Patrimonial Documental',
-      year: 2011,
-      type: 'manuscript',
-      eraId: 'CONTEMPORARY',
-      language: 'es',
-      source: 'Hemeroteca Histórica',
-      tags: ['Catálogo', 'Patrimonio'],
-      localPath: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/01_Hemeroteca Histórica — Catálogo Patrimonial Documental.pdf',
-      media: { thumbnail: 'img/thumbnails/local-lib-2011-01.jpg' }
-    },
-    {
-      id: 'local-lib-2007-01',
-      title: 'Intervención Documental INT_2007',
-      year: 2007,
-      type: 'manuscript',
-      eraId: 'CONTEMPORARY',
-      language: 'es',
-      source: 'Archivo Noor',
-      tags: ['Técnico', 'Investigación'],
-      localPath: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2007_373.pdf',
-      media: { thumbnail: 'img/thumbnails/local-lib-2007-01.jpg' }
-    },
+    // (Carpeta vacía para revisión del equipo)
+
     // --- 05_PERIODICOS ---
     {
       id: 'local-per-2016-01',

@@ -113,6 +113,10 @@
 
   NoorState.dispatch('SET_LOADING', false);
   console.log('[App] ✓ Interfaz completamente inicializada con vista editorial.');
+  
+  // ── Iniciar Tour Guiado (Solo primera visita) ──
+  if (window.NoorTour) NoorTour.init();
+
   console.log('[App] Admin Dashboard: Ctrl+Shift+A');
   console.log('[App] Drive Connector: js/data/drive-connector.js');
 

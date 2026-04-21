@@ -160,7 +160,9 @@ async function openViewer(doc) {
  * closeViewer()
  * Cierra el visor y limpia los recursos de OpenSeadragon.
  */
-function closeViewer() {
+  // capturar el ID antes de limpiar para el cross-linking
+  const closedId = _viewerState.document?.id;
+
   _viewerState.isOpen   = false;
   _viewerState.document = null;
 
@@ -176,6 +178,13 @@ function closeViewer() {
 
   // Notificar al estado global
   NoorState.dispatch('SELECT_DOCUMENT', null);
+
+  // Cross-linking: Notificar que se ha cerrado un documento para resaltarlo en la galería
+  if (closedId) {
+    window.dispatchEvent(new CustomEvent('noor-return-to-gallery', {
+      detail: { docId: closedId }
+    }));
+  }
 }
 
 // ─────────────────────────────────────────────────────────
@@ -251,6 +260,14 @@ function _buildViewerHTML() {
             <button class="vbtn" id="vbtn-download" data-tip="Descargar" aria-label="Descargar documento">
               <i data-lucide="download" width="15" height="15"></i>
             </button>
+            <div class="viewer-toolbar-sep"></div>
+            <a href="mailto:noorarchive@gmail.com?subject=Sugerencia%20Visor" 
+               class="vbtn" 
+               id="vbtn-report" 
+               data-tip="Informar error / sugerencia" 
+               aria-label="Informar error">
+              <i data-lucide="message-square-warning" width="15" height="15"></i>
+            </a>
           </div>
 
           <div class="viewer-toolbar-sep"></div>

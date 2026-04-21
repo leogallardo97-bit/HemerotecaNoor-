@@ -919,3 +919,36 @@ input[type="range"] {
   .article-grid { grid-template-columns: 1fr; }
   .article-title { font-size: 2.5rem; }
 }
+/* ── Animación de resaltado (Cross-Linking) ── */
+@keyframes gold-flash {
+  0% { box-shadow: 0 0 0 0 rgba(201, 168, 76, 0.7); outline: 2px solid rgba(201, 168, 76, 1); }
+  50% { box-shadow: 0 0 25px 10px rgba(201, 168, 76, 0.4); outline: 4px solid rgba(201, 168, 76, 0.5); }
+  100% { box-shadow: 0 0 0 0 rgba(201, 168, 76, 0); outline: 2px solid rgba(201, 168, 76, 0); }
+}
+.highlight-flash {
+  animation: gold-flash 1.5s ease-out;
+  z-index: 10;
+  position: relative;
+}
+/* ── Botones de Reporte y Feedback ── */
+.doc-card__report-btn {
+  color: rgba(255, 255, 255, 0.4);
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  border-radius: 4px;
+}
+.doc-card__report-btn:hover {
+  color: var(--color-gold);
+  background: rgba(201, 168, 76, 0.1);
+}
+#vbtn-report {
+  color: var(--color-gold);
+  border-color: rgba(201, 168, 76, 0.3);
+}
+#vbtn-report:hover {
+  background: var(--color-gold);
+  color: var(--color-ink);
+}

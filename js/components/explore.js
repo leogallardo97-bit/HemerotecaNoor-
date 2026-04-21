@@ -270,7 +270,7 @@ function _renderExploreDocList() {
   document.querySelectorAll('.explore-doc-card').forEach(card => {
     function openDoc() {
       const docId = card.dataset.docId;
-      const doc   = (window.NoorMockData?.documents || []).find(d => d.id === docId);
+      const doc   = NoorState.getState().documents.find(d => d.id === docId);
       if (doc) NoorState.dispatch('SELECT_DOCUMENT', doc);
     }
     card.addEventListener('click', openDoc);

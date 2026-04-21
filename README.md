@@ -1,53 +1,31 @@
-# Archivo Noor — Portal de Investigación Histórica
+# Hemeroteca Digital "Archivo Noor" (2026)
 
-> Hemeroteca digital interactiva de Al-Ándalus (711–1900)  
-> Construida por Leonardo Gallardo · 2026
+Ecosistema documental alojado y servido de forma nativa a través de Google Drive, optimizado para alto rendimiento SPA y búsqueda interactiva basada en IndexDB.
 
----
+## 📌 Estado Actual del Proyecto
+- **Documentos Activos:** 24 documentos de carácter riguroso completamente operativos.
+- **Fuentes:** Ingesta MASIVA implementada directamente desde carpeta en la nube.
+- **Estructura Data:** Metadata Master (`metadatos.json`) almacenado de forma segura y automatizada para mantener una fuente absoluta centralizada y persistente.
 
-## Descripción
+## 🚀 Funcionalidades Principales
 
-El **Archivo Noor** es un portal de archivo histórico digital que permite explorar documentos de Al-Ándalus a través de tres modos de navegación:
+### 1. Motor Deep-Search Predictivo
+El sistema detecta *fuzzy* combinando la información total del repositorio (`Title`, `Description`, `Regiones`, `Tags`) logrando un filtrado instantáneo tipo "Paco" o "Jayal" que actualizará la pantalla completa (incluso sobre mapas) antes de presionar Enviar. 
 
-| Modo | Descripción |
-|---|---|
-| 🔍 Búsqueda de texto | Filtrado facetado por época, tema, región e idioma |
-| 📅 Línea de Tiempo | Slider dual 711–1900 con marcadores de eventos históricos |
-| 🗺️ Mapa Histórico | Leaflet.js con tiles sepia y documentos geolocalizados |
+### 2. Mapa Histórico (Geo-Targeting Cross-Linked)
+- Reúne localizaciones semánticas conectadas con la realidad. (Ej: "Córdoba" en el texto activa el foco de latitud `Qurtuba`).
+- Todos los documentos muestran marcadores sobre sus epicentros geográficos. Haz un clic en la diana en la pantalla y selecciona tu ejemplar para abrir automáticamente el Visualizador nativo de manuscritos a pantalla completa.
 
-## Arquitectura
+### 3. Timeline Histórica (Slider Bidireccional) 
+- Extendido de forma interactiva a lo largo de toda la dimensión temporal. Utiliza filtros visuales para ubicar tu área deseada o haz *drag and drop* en las barras horizontales para observar cómo reacciona en tiempo real la hemeroteca inferior.
 
-```
-archivo-noor/
-├── index.html              ← Punto de entrada
-├── css/
-│   ├── main.css            ← Sistema de diseño global
-│   ├── viewer.css          ← Visor de manuscritos (OpenSeadragon)
-│   ├── explore.css         ← Timeline + Mapa
-│   └── admin.css           ← Admin Dashboard
-├── js/
-│   ├── core/
-│   │   ├── state.js        ← Motor reactivo (patrón Observer)
-│   │   ├── router.js       ← Hash router con URLs compartibles
-│   │   ├── db.js           ← IndexedDB (notas, colecciones, admin)
-│   │   └── drive-connector.js ← Conector Google Drive API
-│   ├── data/
-│   │   ├── schema.js       ← Tipos y constantes históricas
-│   │   ├── mock-data.js    ← Datos de demostración
-│   │   └── geo-data.js     ← Coordenadas de Al-Ándalus
-│   └── components/         ← Componentes de la interfaz
-└── sw.js                   ← Service Worker (caché offline)
-```
+### 4. Flujo Bi-direccional
+- ¿Terminas de leer un manuscrito? Al presionar `Esc` para cerrarlo, la inteligencia ubicará e iluminará suavemente aquel cuaderno exacto del grid dentro de la masa para que jamás pierdas la coherencia visual durante tus inmersiones largas de investigación.
 
-## Despliegue
+## 🛠️ Instalación para el Equipo
 
-Ver `DEPLOY_GUIDE.md` para instrucciones completas de GitHub Pages + Drive API.
+1. Clona este repositorio a tu entorno.
+2. Abre `index.html` (Ideal mediante *Live Server*).
+3. Renombra `js/config.example.js` a `js/config.js` y asigna tus tokens de API y Carpeta de `Goole Drive` correspondientes.
 
-## Admin Dashboard
-
-- Acceso: Ctrl+Shift+A desde cualquier pantalla
-- Protegido por contraseña (se configura en el primer acceso)
-
-## Licencia
-
-Uso académico e investigación histórica. © Leonardo Gallardo, 2026.
+*Desplegado en [GitHub Pages]*

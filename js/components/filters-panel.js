@@ -8,11 +8,20 @@ function renderFiltersPanel() {
   if (!panelEl) return;
 
   const { HISTORICAL_ERAS, THEMATIC_DIMENSIONS, DOCUMENT_TYPES } = window.NoorSchema;
-  const documents = window.NoorMockData?.documents || [];
+  const documents = NoorState.getState().documents;
+  const localSections = window.NoorLocalDB?.sections || [];
 
   // Calculadores de conteo (para mostrar cuántos docs tiene cada filtro)
+  function countBySection(sectionId) { 
+    const section = localSections.find(s => s.id === sectionId);
+    if (section.label === '01_REVISTAS') {
+      // Conteo dinámico de Drive (tiempo real)
+      return documents.filter(d => (d.localPath && d.localPath.includes(section.label)) || d._source === 'drive').length;
+    }
+    return documents.filter(d => d.localPath && d.localPath.includes(section.label)).length; 
+  }
   function countByEra(eraId) { return documents.filter(d => d.eraId === eraId).length; }
-  function countByTheme(themeId) { return documents.filter(d => d.themes.includes(themeId)).length; }
+  function countByTheme(themeId) { return documents.filter(d => (d.themes || []).includes(themeId)).length; }
   function countByType(type) { return documents.filter(d => d.type === type).length; }
   function countByLang(lang) { return documents.filter(d => d.language === lang).length; }
 
@@ -24,6 +33,22 @@ function renderFiltersPanel() {
       <!-- ─── PANEL DE FILTROS ─── -->
       <aside class="filters-panel" id="filters-panel" aria-label="Filtros de búsqueda">
         <p class="filters-panel__title">Refinar búsqueda</p>
+
+        <!-- Grupo: Secciones Drive (DINÁMICO) -->
+        <div class="filter-group">
+          <p class="filter-group__label">Secciones Drive</p>
+          ${localSections.map(sec => `
+            <div class="filter-option" data-filter-key="query" data-filter-value="${sec.label}" role="checkbox" tabindex="0" aria-checked="false">
+              <label class="filter-option__label" style="cursor:pointer">
+                <span class="filter-option__checkbox"></span>
+                <span style="color:var(--color-gold-light); font-weight: 600">${sec.label}</span>
+              </label>
+              <span class="filter-option__count">${countBySection(sec.id)}</span>
+            </div>
+          `).join('')}
+        </div>
+
+        <div style="height:1px;background:rgba(201,168,76,0.12);margin:0.5rem 0 1rem"></div>
 
         <!-- Grupo: Épocas -->
         <div class="filter-group">
@@ -169,14 +194,37 @@ function renderFiltersPanel() {
   // ── Sincronizar estado visual de checkboxes con el state ──
   NoorState.subscribe('*', (state) => {
     const filters = state.filters;
+    const currentDocuments = state.documents; // Use updated docs
+
+    // Helpers inside state callback for realtime updates
+    const getCount = (key, value) => {
+      if (key === 'query') { // Esto es para Sections (ej. 01_REVISTAS)
+        return currentDocuments.filter(d => 
+          (d.localPath && d.localPath.includes(value)) || 
+          (d.header && d.header.includes(value)) || 
+          (d.tags && d.tags.includes(value))
+        ).length; 
+      }
+      if (key === 'eraIds') return currentDocuments.filter(d => d.eraId === value).length;
+      if (key === 'themes') return currentDocuments.filter(d => (d.themes || []).includes(value)).length;
+      if (key === 'types') return currentDocuments.filter(d => d.type === value).length;
+      if (key === 'languages') return currentDocuments.filter(d => d.language === value).length;
+      return 0;
+    };
 
     panelEl.querySelectorAll('.filter-option').forEach(option => {
       const key   = option.dataset.filterKey;
       const value = option.dataset.filterValue;
+      
+      // Update check state
       const activeValues = filters[key] || [];
       const isChecked = Array.isArray(activeValues) && activeValues.includes(value);
       option.classList.toggle('checked', isChecked);
       option.setAttribute('aria-checked', isChecked.toString());
+      
+      // Update dynamic count
+      const countEl = option.querySelector('.filter-option__count');
+      if (countEl) countEl.textContent = getCount(key, value);
     });
   });
 

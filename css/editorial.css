@@ -1,0 +1,205 @@
+/* ══════════════════════════════════════════════════════════
+   ARCHIVO NOOR — Sistema de Diseño Editorial (Premium)
+   Estilo: Periódico Histórico / RetroNews
+   ══════════════════════════════════════════════════════════ */
+
+:root {
+    --editorial-bg: #fdf8f0;
+    --editorial-ink: #1a1a1a;
+    --editorial-accent: #c9a84c;
+    --editorial-rule: rgba(0,0,0,0.15);
+}
+
+/* Contenedor principal del artículo */
+.article-page {
+    background-color: var(--editorial-bg);
+    background-image: 
+        linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),
+        url('https://www.transparenttextures.com/patterns/old-map.png'); /* Textura sutil */
+    color: var(--editorial-ink);
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100vh;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+    position: relative;
+    overflow-y: auto;
+    padding-bottom: 5rem;
+}
+
+/* Cabecera Tipo Hero */
+.article-hero {
+    height: 45vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    border-bottom: 4px double var(--editorial-rule);
+}
+
+.article-hero__content {
+    padding: 3rem;
+    width: 100%;
+    background: linear-gradient(to top, var(--editorial-bg), transparent);
+}
+
+.article-category {
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    font-size: 0.75rem;
+    color: var(--editorial-accent);
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.article-title {
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    line-height: 1.1;
+    margin-bottom: 1.5rem;
+    color: var(--editorial-ink);
+    font-weight: 800;
+    max-width: 900px;
+}
+
+.meta-bar {
+    display: flex;
+    gap: 2rem;
+    border-top: 1px solid var(--editorial-rule);
+    border-bottom: 1px solid var(--editorial-rule);
+    padding: 0.75rem 0;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.meta-item b {
+    color: var(--editorial-accent);
+    margin-right: 0.5rem;
+}
+
+/* Cuerpo del Artículo Estilo Periódico */
+.article-body {
+    padding: 3rem;
+}
+
+.article-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 4rem;
+}
+
+.article-text {
+    column-count: 2;
+    column-gap: 3rem;
+    column-rule: 1px solid var(--editorial-rule);
+    text-align: justify;
+    font-size: 1.05rem;
+    line-height: 1.8;
+}
+
+.article-text h2 {
+    column-span: all;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--editorial-accent);
+}
+
+/* Capitular (Drop Cap) */
+.article-text p:first-of-type::first-letter {
+    float: left;
+    font-size: 4.5rem;
+    line-height: 0.8;
+    padding-right: 0.5rem;
+    padding-top: 0.2rem;
+    font-family: inherit;
+    font-weight: 800;
+    color: var(--editorial-accent);
+}
+
+/* Previsualización del Documento (Stack) */
+.article-preview {
+    position: sticky;
+    top: 2rem;
+}
+
+.document-card-stack {
+    position: relative;
+    cursor: pointer;
+    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.document-card-stack img {
+    width: 100%;
+    border: 1px solid var(--editorial-rule);
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.15);
+    background: white;
+    padding: 0.5rem;
+}
+
+.document-card-stack:hover {
+    transform: scale(1.02) rotate(-1deg);
+}
+
+/* Acciones */
+.article-actions {
+    margin-top: 3rem;
+    column-span: all;
+}
+
+.read-btn {
+    background: var(--editorial-ink);
+    color: var(--editorial-bg);
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    transition: all 0.3s ease;
+    width: fit-content;
+}
+
+.read-btn:hover {
+    background: var(--editorial-accent);
+    color: #fff;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(201, 168, 45, 0.3);
+}
+
+.article-back-btn {
+    background: none;
+    border: 1px solid var(--editorial-rule);
+    color: var(--editorial-ink);
+    padding: 0.5rem 1rem;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 2rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    opacity: 0.6;
+    transition: opacity 0.3s;
+}
+
+.article-back-btn:hover {
+    opacity: 1;
+}
+
+/* Responsividad */
+@media (max-width: 900px) {
+    .article-grid {
+        grid-template-columns: 1fr;
+    }
+    .article-text {
+        column-count: 1;
+    }
+    .article-hero {
+        height: 30vh;
+    }
+}

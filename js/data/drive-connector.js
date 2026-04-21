@@ -11,9 +11,9 @@ const DriveConnector = (() => {
 
   // ─── CONFIGURACIÓN DE SEGURIDAD ───
   const CONFIG = {
-    API_KEY:        'AIzaSyDsU6PU46SENJQAw35YQOI8OAMfHAoEUBs', 
-    CLIENT_ID:      '179753785194-cdifma8lo1kkpu13uuc56j0fficqnfat.apps.googleusercontent.com',
-    ROOT_FOLDER_ID: '142P1bNvDv_qulNFSv2COsap90kANz_f7',
+    API_KEY:        window.APP_CONFIG?.API_KEY || '', 
+    CLIENT_ID:      window.APP_CONFIG?.CLIENT_ID || '',
+    ROOT_FOLDER_ID: window.APP_CONFIG?.ROOT_FOLDER_ID || '',
     SCOPES:         'https://www.googleapis.com/auth/drive.metadata.readonly',
     DISCOVERY_DOCS: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'],
   };
@@ -82,7 +82,7 @@ const DriveConnector = (() => {
       let response;
       const listParams = {
         q: `'${CONFIG.ROOT_FOLDER_ID}' in parents and trashed = false`,
-        fields: 'files(id, name, webViewLink, thumbnailLink, mimeType, size, createdTime)',
+        fields: 'files(id, name, description, webViewLink, thumbnailLink, mimeType, size, createdTime)',
         pageSize: 1000
       };
 
@@ -160,6 +160,7 @@ const DriveConnector = (() => {
       id: file.id,
       driveId: file.id,
       title: `${header}: ${detail || 'Documento histórico'}`,
+      description: file.description || '',
       date: dateStr,
       year: year,
       exact_date: dateStr,
@@ -169,7 +170,7 @@ const DriveConnector = (() => {
       regions: [regionKey],
       type: filename.toLowerCase().endsWith('.pdf') ? 'newspaper' : 'image',
       media: {
-        thumbnail: file.thumbnailLink,
+        thumbnail: file.thumbnailLink ? file.thumbnailLink.replace('=s220', '=s800') : '',
         pdf: filename.toLowerCase().endsWith('.pdf') ? file.id : null,
         driveFileId: file.id,
         viewUrl: file.webViewLink
@@ -240,12 +241,42 @@ const DriveConnector = (() => {
     return await NoorDB.docMeta.getMergedWithMock();
   }
 
+  // Caché de blobs en memoria para lectura rápida
+  const _blobCache = {};
+
+  /**
+   * getPDFBlobUrl()
+   * Descarga el PDF mediante la API (bypass CORS) y lo convierte en Blob para el PDF.js
+   */
+  async function getPDFBlobUrl(fileId) {
+    if (_blobCache[fileId]) return _blobCache[fileId];
+
+    const token = gapi.client.getToken();
+    if (!token) throw new Error('No hay token de sesión para Drive.');
+
+    console.log('[DriveConnector] Descargando objeto binario del PDF...', fileId);
+    const response = await fetch(`https://www.googleapis.com/drive/v3/files/${fileId}?alt=media`, {
+      headers: {
+        'Authorization': `Bearer ${token.access_token}`
+      }
+    });
+
+    if (!response.ok) throw new Error('Error de red al descargar archivo de Drive');
+    
+    const blob = await response.blob();
+    const objectUrl = URL.createObjectURL(blob);
+    _blobCache[fileId] = objectUrl; // guardamos en caché local para la sesión
+    
+    return objectUrl;
+  }
+
   // API Pública
   return {
     initialize,
     fetchMasterIndex,
     syncHemeroteca,
     updateConfig,
+    getPDFBlobUrl,
     CONFIG
   };
 

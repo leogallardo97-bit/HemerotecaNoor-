@@ -55,18 +55,18 @@ const THEMATIC_DIMENSIONS = {
 
 /** Regiones geográficas */
 const REGIONS = {
-  QURTUBA:         'Córdoba (Qurtuba)',
-  ISHBILIYYA:      'Sevilla (Ishbiliyya)',
-  TULAYTULAY:      'Toledo (Tulayṭula)',
-  GARNATA:         'Granada (Garnāṭa)',
-  SARAQUSTA:       'Zaragoza (Saraqusṭa)',
-  MALAGA:          'Málaga',
-  ALMERIA:         'Almería',
-  BALANSIYA:       'Valencia (Balansiya)',
+  QURTUBA:         'Córdoba / Qurtuba',
+  ISHBILIYYA:      'Sevilla / Ishbiliyya',
+  TULAYTULAY:      'Toledo / Tulayṭula',
+  GARNATA:         'Granada / Garnāṭa',
+  SARAQUSTA:       'Zaragoza / Saraqusṭa',
+  MALAGA:          'Málaga / Mālaqa',
+  ALMERIA:         'Almería / Al-Mariyya',
+  BALANSIYA:       'Valencia / Balansiya',
   NORTH_AFRICA:    'Norte de África',
-  GENERAL:         'Al-Ándalus (general)',
-  MADINAT_AL_ZAHRA:'Madīnat al-Zahrāʾ (sitio)',
-  ALHAMBRA:        'La Alhambra (sitio)',
+  GENERAL:         'Al-Ándalus (General)',
+  MADINAT_AL_ZAHRA:'Madīnat al-Zahrāʾ (Sitio)',
+  ALHAMBRA:        'La Alhambra (Sitio)',
 };
 
 const REGION_DEFAULT_COORDS = {

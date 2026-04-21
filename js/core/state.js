@@ -194,9 +194,14 @@ const NoorState = (() => {
         const q = filters.query.toLowerCase();
         results = results.filter(doc =>
           doc.title.toLowerCase().includes(q) ||
-          doc.description.toLowerCase().includes(q) ||
-          doc.tags.some(t => t.toLowerCase().includes(q)) ||
-          (doc.metadata.creator || '').toLowerCase().includes(q)
+          (doc.description || '').toLowerCase().includes(q) ||
+          (doc.tags || []).some(t => t.toLowerCase().includes(q)) ||
+          ((doc.metadata && doc.metadata.creator) || '').toLowerCase().includes(q) ||
+          (doc.localPath || '').toLowerCase().includes(q) ||
+          (doc.regions || []).some(rKey => {
+            const label = window.NoorSchema.REGIONS[rKey] || '';
+            return label.toLowerCase().includes(q) || rKey.toLowerCase().includes(q);
+          })
         );
       }
 
@@ -208,14 +213,14 @@ const NoorState = (() => {
       // ── Filtro por temas ──
       if (filters.themes.length > 0) {
         results = results.filter(doc =>
-          filters.themes.some(theme => doc.themes.includes(theme))
+          filters.themes.some(theme => (doc.themes || []).includes(theme))
         );
       }
 
       // ── Filtro por regiones ──
       if (filters.regions.length > 0) {
         results = results.filter(doc =>
-          filters.regions.some(region => doc.regions.includes(region))
+          filters.regions.some(region => (doc.regions || []).includes(region))
         );
       }
 

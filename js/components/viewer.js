@@ -95,10 +95,26 @@ async function initViewer() {
   });
 
   // Sincronizar el término de búsqueda para resaltado en transcripción
+  // Sincronizar el término de búsqueda para resaltado en transcripción
   NoorState.subscribe('SET_FILTER', (state) => {
     if (state.filters.query !== _viewerState.highlightQuery) {
       _viewerState.highlightQuery = state.filters.query;
-      if (_viewerState.isOpen) _renderTranscriptionText();
+      if (_viewerState.isOpen) {
+        if (typeof _renderTranscriptionText === 'function') {
+           _renderTranscriptionText();
+        }
+      }
+    }
+  });
+
+  // ── Listener de tecla Escape y click fuera del modal ──
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && _viewerState.isOpen) closeViewer();
+  });
+
+  mountEl.addEventListener('click', (e) => {
+    if (e.target === mountEl || e.target.classList.contains('viewer-modal')) {
+      closeViewer();
     }
   });
 
@@ -265,9 +281,13 @@ function _buildViewerHTML() {
               <div class="viewer-canvas-area" id="viewer-canvas-area">
                 <div id="osd-container" aria-label="Visor de imagen del documento"></div>
                 <!-- Spinner de carga -->
-                <div class="viewer-loading-overlay hidden" id="viewer-loading">
-                  <div class="spinner"></div>
-                  <span>Cargando imagen...</span>
+                <div class="viewer-loading-overlay hidden" id="viewer-loading" style="background: var(--color-ink-900); z-index: 50; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                  <div class="skeleton-card" style="width:100%; max-width:500px; height:80vh; border-radius:8px; display:flex; flex-direction:column; padding:2rem; box-sizing:border-box;">
+                    <div class="skeleton-card__img" style="flex:1; border-radius:4px; margin-bottom:1rem;"></div>
+                    <div class="skeleton-line" style="width:80%;"></div>
+                    <div class="skeleton-line" style="width:50%;"></div>
+                    <div style="font-family:var(--font-serif); font-size:0.8rem; color:var(--color-sepia); text-align:center; margin-top:1rem; opacity:0.6;">Descargando documento seguro de Google Drive...</div>
+                  </div>
                 </div>
               </div>
 
@@ -718,7 +738,7 @@ function _renderTranscriptionText() {
 // ─────────────────────────────────────────────────────────
 
 /**
- * Carga y muestra la página indicada en OpenSeadragon.
+ * Carga y muestra la página indicada en OpenSeadragon o PDF.js
  * @param {number} pageIdx - índice 0-based
  */
 async function _loadPage(pageIdx) {
@@ -736,20 +756,49 @@ async function _loadPage(pageIdx) {
   _updatePageThumbs();
   _renderTranscriptionText(); // actualizar transcripción de la nueva página
 
-  // Determinar URL de imagen
-  let imageUrl = '';
-  if (fileId && !fileId.startsWith('PLACEHOLDER')) {
-    imageUrl = DriveConnector.getPublicFileUrl(fileId, 'thumbnail');
-  }
-
-  // Mostrar spinner
   _setLoading(true);
 
-  // Inicializar o actualizar OpenSeadragon
-  await _loadOSD(imageUrl);
+  // Comprobar si el documento es un PDF local o PDF de Drive
+  const isPDF = doc.type === 'newspaper' || (doc.localPath && doc.localPath.toLowerCase().endsWith('.pdf'));
+
+  if (isPDF) {
+    try {
+      let pdfUrl = '';
+      if (doc.localPath) {
+        // PDF en disco duro local
+        pdfUrl = doc.localPath.startsWith('http') ? doc.localPath : 'file:///' + doc.localPath.replace(/\\/g, '/');
+      } else if (fileId && window.DriveConnector) {
+        // Obtenemos el PDF original de Drive convirtiéndolo a BLOB
+        // Esto salva el bloqueo de CORS al que se enfrenta PDF.js y se guarda en caché local
+        pdfUrl = await window.DriveConnector.getPDFBlobUrl(fileId);
+      }
+      
+      if (pdfUrl) {
+         await _loadPDFJS(pdfUrl, pageIdx + 1);
+      } else {
+         throw new Error("No hay un identificador válido para el documento PDF");
+      }
+    } catch(err) {
+      console.error("[Viewer] PDF_Error:", err);
+      // Fallback a OpenSeadragon si la carga PDF falla (muestra el Thumbnail en HQ)
+      let fallbackImgUrl = '';
+      if (fileId && !fileId.startsWith('PLACEHOLDER')) {
+        fallbackImgUrl = doc.media.thumbnail || DriveConnector.getPublicFileUrl(fileId, 'thumbnail');
+      }
+      await _loadOSD(fallbackImgUrl);
+      _applyImageFilters();
+    }
+  } else {
+    // Si es imagen de Drive, cargamos OSD
+    let imageUrl = '';
+    if (fileId && !fileId.startsWith('PLACEHOLDER')) {
+      imageUrl = DriveConnector.getPublicFileUrl(fileId, 'thumbnail');
+    }
+    await _loadOSD(imageUrl);
+    _applyImageFilters();
+  }
 
   _setLoading(false);
-  _applyImageFilters();
 }
 
 /**
@@ -764,6 +813,10 @@ async function _loadOSD(imageUrl) {
 
   const container = document.getElementById('osd-container');
   if (!container) return;
+
+  // Limpiar contenedor si había un canvas de PDF.js previo
+  container.innerHTML = '';
+  _viewerState.pdfDoc = null;
 
   // Si ya hay una instancia, destruirla
   if (_viewerState.osdViewer) {
@@ -826,6 +879,69 @@ async function _loadOSD(imageUrl) {
     _setLoading(false);
     _applyImageFilters();
   });
+}
+
+/**
+ * Carga un archivo en el visualizador PDF interactivo de PDF.js
+ */
+async function _loadPDFJS(pdfUrl, initialPageNum = 1) {
+  if (!window.pdfjsLib) {
+    console.warn('[Viewer] pdfjsLib no disponible.');
+    return;
+  }
+  
+  const container = document.getElementById('osd-container');
+  if (!container) return;
+  
+  // Limpiar visor viejo
+  if (_viewerState.osdViewer) {
+    _viewerState.osdViewer.destroy();
+    _viewerState.osdViewer = null;
+  }
+  
+  container.innerHTML = '<canvas id="pdf-canvas" style="border: 1px solid rgba(255,255,255,0.1); margin:auto; display:block; max-width:100%; max-height:100%; object-fit:contain;"></canvas>';
+  const canvas = document.getElementById('pdf-canvas');
+  const ctx = canvas.getContext('2d');
+  
+  try {
+    const loadingTask = pdfjsLib.getDocument(pdfUrl);
+    _viewerState.pdfDoc = await loadingTask.promise;
+    
+    // Actualizar páginas totales si no estaban
+    if (_viewerState.totalPages <= 1) {
+       _viewerState.totalPages = _viewerState.pdfDoc.numPages;
+       _updatePageIndicator();
+    }
+    
+    await _renderPDFPage(initialPageNum);
+  } catch (err) {
+    console.error('[Viewer] Error cargando PDF:', err);
+    container.innerHTML = '<p style="color:white; text-align:center; padding-top:20%">Error cargando el Documento PDF local.</p>';
+  }
+}
+
+async function _renderPDFPage(pageNum) {
+  if (!_viewerState.pdfDoc) return;
+  
+  const canvas = document.getElementById('pdf-canvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  
+  const page = await _viewerState.pdfDoc.getPage(pageNum);
+  
+  // Nivel de zoom de prueba (podría ser reactivo al slider de zoom)
+  let scale = 1.5; 
+  const viewport = page.getViewport({ scale: scale, rotation: _viewerState.rotation });
+  
+  canvas.height = viewport.height;
+  canvas.width = viewport.width;
+  
+  const renderContext = {
+    canvasContext: ctx,
+    viewport: viewport
+  };
+  
+  await page.render(renderContext).promise;
 }
 
 // ─────────────────────────────────────────────────────────
@@ -918,19 +1034,61 @@ function _bindViewerEvents() {
   });
 
   // ── Zoom ──
-  get('vbtn-zoom-in')?.addEventListener('click',  () => _viewerState.osdViewer?.viewport?.zoomBy(1.5, null, true));
-  get('vbtn-zoom-out')?.addEventListener('click', () => _viewerState.osdViewer?.viewport?.zoomBy(0.7, null, true));
-  get('vbtn-zoom-fit')?.addEventListener('click', () => _viewerState.osdViewer?.viewport?.goHome(true));
-  get('vbtn-zoom-minus')?.addEventListener('click',() => _viewerState.osdViewer?.viewport?.zoomBy(0.7, null, true));
-  get('vbtn-zoom-plus')?.addEventListener('click', () => _viewerState.osdViewer?.viewport?.zoomBy(1.5, null, true));
+  get('vbtn-zoom-in')?.addEventListener('click',  () => {
+    if (_viewerState.osdViewer) _viewerState.osdViewer.viewport.zoomBy(1.5, null, true);
+    else if (_viewerState.pdfDoc) { _viewerState.pdfScale = (_viewerState.pdfScale || 1.5) + 0.25; _renderPDFPage(_viewerState.currentPage + 1); }
+  });
+  get('vbtn-zoom-out')?.addEventListener('click', () => {
+    if (_viewerState.osdViewer) _viewerState.osdViewer.viewport.zoomBy(0.7, null, true);
+    else if (_viewerState.pdfDoc) { _viewerState.pdfScale = Math.max(0.5, (_viewerState.pdfScale || 1.5) - 0.25); _renderPDFPage(_viewerState.currentPage + 1); }
+  });
+  get('vbtn-zoom-fit')?.addEventListener('click', () => {
+    if (_viewerState.osdViewer) _viewerState.osdViewer.viewport.goHome(true);
+    else if (_viewerState.pdfDoc) { _viewerState.pdfScale = 1.0; _renderPDFPage(_viewerState.currentPage + 1); }
+  });
+  get('vbtn-zoom-minus')?.addEventListener('click',() => {
+    if (_viewerState.osdViewer) _viewerState.osdViewer.viewport.zoomBy(0.7, null, true);
+    else if (_viewerState.pdfDoc) { _viewerState.pdfScale = Math.max(0.5, (_viewerState.pdfScale || 1.5) - 0.25); _renderPDFPage(_viewerState.currentPage + 1); }
+  });
+  get('vbtn-zoom-plus')?.addEventListener('click', () => {
+    if (_viewerState.osdViewer) _viewerState.osdViewer.viewport.zoomBy(1.5, null, true);
+    else if (_viewerState.pdfDoc) { _viewerState.pdfScale = (_viewerState.pdfScale || 1.5) + 0.25; _renderPDFPage(_viewerState.currentPage + 1); }
+  });
 
   // Slider de zoom
   get('zoom-slider')?.addEventListener('input', (e) => {
-    if (!_viewerState.osdViewer?.viewport) return;
     const norm  = parseInt(e.target.value) / 100;
-    const zoom  = Math.exp(norm * (Math.log(4) - Math.log(0.1)) + Math.log(0.1));
-    _viewerState.osdViewer.viewport.zoomTo(zoom, null, true);
+    if (_viewerState.osdViewer?.viewport) {
+      const zoom  = Math.exp(norm * (Math.log(4) - Math.log(0.1)) + Math.log(0.1));
+      _viewerState.osdViewer.viewport.zoomTo(zoom, null, true);
+    } else if (_viewerState.pdfDoc) {
+      _viewerState.pdfScale = 0.5 + (norm * 3.0); // De 0.5x a 3.5x
+      _renderPDFPage(_viewerState.currentPage + 1);
+    }
   });
+
+  // Scroll to zoom (Rueda del ratón)
+  const canvasArea = get('viewer-canvas-area');
+  if (canvasArea) {
+    canvasArea.addEventListener('wheel', (e) => {
+      // Solo manejamos el scroll manual para PDF.js, OSD lo hace nativo
+      if (_viewerState.pdfDoc) {
+        if (e.ctrlKey || e.metaKey) {
+          e.preventDefault(); // Evitar zoom del navegador
+          const zoomAmount = e.deltaY < 0 ? 0.15 : -0.15;
+          _viewerState.pdfScale = Math.max(0.5, Math.min(3.5, (_viewerState.pdfScale || 1.5) + zoomAmount));
+          _renderPDFPage(_viewerState.currentPage + 1);
+          
+          // Sincronizar el slider visual
+          const slider = get('zoom-slider');
+          if (slider) {
+            const norm = (_viewerState.pdfScale - 0.5) / 3.0;
+            slider.value = norm * 100;
+          }
+        }
+      }
+    }, { passive: false });
+  }
 
   // ── Rotación ──
   get('vbtn-rotate-l')?.addEventListener('click', () => {

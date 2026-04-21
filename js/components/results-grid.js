@@ -132,12 +132,21 @@ function renderResultsGrid() {
     const { HISTORICAL_ERAS } = window.NoorSchema;
     const viewMode = state.filters.viewMode;
 
-    if (results.length === 0) {
+    let validResults = results;
+    
+    // FILTRO ESTÉTICO ESTRICTO: Descartar absolutamente cuadros grises o elementos nulos
+    validResults = validResults.filter(doc => {
+      const hasThumb = doc.media && doc.media.thumbnail && !doc.media.thumbnail.includes('placeholder');
+      const hasDrive = doc.media && doc.media.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER');
+      return hasThumb || hasDrive;
+    });
+
+    if (validResults.length === 0) {
       container.innerHTML = `
         <div style="display:flex;flex-direction:column;align-items:center;justify-content:center;padding:4rem 2rem;gap:1rem;color:rgba(229,229,229,0.3)">
           <i data-lucide="search-x" width="48" height="48" style="opacity:0.3"></i>
-          <p style="font-family:var(--font-serif);font-size:1.1rem">No se encontraron documentos</p>
-          <p style="font-size:0.8rem">Prueba a modificar los filtros o el término de búsqueda.</p>
+          <p style="font-family:var(--font-serif);font-size:1.1rem">No se encontraron cuadernos con portadas reales</p>
+          <p style="font-size:0.8rem">Sincroniza tu Google Drive u sube documentos locales.</p>
         </div>
       `;
       if (window.lucide) lucide.createIcons();
@@ -147,20 +156,21 @@ function renderResultsGrid() {
 
     container.innerHTML = `
       <div class="documents-grid ${viewMode === 'list' ? 'list-view' : ''}" role="list" aria-label="${total} documentos">
-        ${results.map(doc => buildDocumentCard(doc, HISTORICAL_ERAS)).join('')}
+        ${validResults.map(doc => buildDocumentCard(doc, HISTORICAL_ERAS)).join('')}
       </div>
     `;
 
     if (window.lucide) lucide.createIcons();
 
-    // Evento click en tarjeta → abre el visor (Fase 2)
+    // Evento click en tarjeta → abre el visor o el PDF directamente
     container.querySelectorAll('.doc-card').forEach(card => {
       card.addEventListener('click', () => {
         const docId = card.dataset.docId;
-        const doc = (window.NoorMockData?.documents || []).find(d => d.id === docId);
+        const documents = NoorState.getState().documents;
+        const doc = documents.find(d => d.id === docId);
+        
         if (doc) {
           NoorState.dispatch('SELECT_DOCUMENT', doc);
-          // El visor será renderizado en Fase 2
           console.log('[Noor] Documento seleccionado para el visor:', doc.title);
         }
       });
@@ -179,13 +189,15 @@ function renderResultsGrid() {
 function buildDocumentCard(doc, eras) {
   const era  = eras[doc.eraId] || {};
   const icon = DOC_TYPE_ICONS[doc.type] || 'file';
-  const lang = LANG_LABELS[doc.language] || doc.language.toUpperCase();
+  const lang = LANG_LABELS[doc.language] || (doc.language ? doc.language.toUpperCase() : 'ES');
 
-  // Thumbnail: si tiene Drive ID, intenta URL de miniatura; si no, placeholder
-  const hasThumbnail = doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER');
-  const thumbUrl = hasThumbnail
-    ? window.DriveConnector?.getPublicFileUrl(doc.media.driveFileId, 'thumbnail')
-    : '';
+  // Thumbnail: usar thumbnail local generado, o Drive API, o placeholder
+  let thumbUrl = '';
+  if (doc.media?.thumbnail) {
+    thumbUrl = doc.media.thumbnail;
+  } else if (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) {
+    thumbUrl = window.DriveConnector?.getPublicFileUrl ? window.DriveConnector.getPublicFileUrl(doc.media.driveFileId, 'thumbnail') : '';
+  }
 
   const thumbHtml = thumbUrl
     ? `<img src="${thumbUrl}" alt="Portada: ${doc.title}" loading="lazy" />`
@@ -221,6 +233,7 @@ function buildDocumentCard(doc, eras) {
             · ${doc.year}
           </p>
           <h3 class="doc-card__title">${doc.title}</h3>
+          ${doc.description ? `<p class="doc-card__desc" style="font-size:0.75rem; color:rgba(255,255,255,0.6); margin-bottom:8px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;">${doc.description}</p>` : ''}
           <div class="doc-card__meta">
             <span>${lang}</span>
             <span>·</span>

@@ -256,11 +256,14 @@ const NoorDB = (() => {
     async getMergedWithMock() {
       const mockDocs  = window.NoorMockData?.documents || [];
       const adminDocs = await this.getAll();
+      const localDocs = window.NoorLocalDB?.documents || [];
 
-      const merged = [...mockDocs];
+      // Combinar Mock + Local (G: Drive) + Admin (IndexedDB)
+      const merged = [...mockDocs, ...localDocs];
+      
       adminDocs.forEach(adminDoc => {
         const idx = merged.findIndex(d => d.id === adminDoc.id);
-        if (idx !== -1) merged[idx] = adminDoc; // sobreescribir mock existente
+        if (idx !== -1) merged[idx] = adminDoc; // sobreescribir si ya existe
         else            merged.push(adminDoc);  // añadir nuevo
       });
 

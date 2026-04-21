@@ -132,7 +132,7 @@ function _renderAllMarkers() {
 
   const { GEO_LOCATIONS } = window.GeoData;
   const { HISTORICAL_ERAS } = window.NoorSchema;
-  const allDocs = window.NoorMockData?.documents || [];
+  const allDocs = NoorState.getState().documents;
 
   // Limpiar marcadores previos
   _mapState.markersLayer.clearLayers();
@@ -294,7 +294,7 @@ function _bindPopupEvents() {
     const docItem = e.target.closest('[data-doc-id]');
     if (docItem) {
       const docId = docItem.dataset.docId;
-      const doc   = (window.NoorMockData?.documents || []).find(d => d.id === docId);
+      const doc   = NoorState.getState().documents.find(d => d.id === docId);
       if (doc) {
         NoorState.dispatch('SELECT_DOCUMENT', doc);
         _mapState.map?.closePopup();
@@ -387,7 +387,7 @@ function _renderLegend() {
 function _highlightMarkersForFilters(filters) {
   const activeRegions = filters.regions || [];
   const [fromYear, toYear] = filters.yearRange || [MIN_YEAR, MAX_YEAR];
-  const allDocs = window.NoorMockData?.documents || [];
+  const allDocs = NoorState.getState().documents;
 
   _mapState.markersLayer?.eachLayer((marker) => {
     const regionKey = marker._noorRegionKey;

@@ -14,7 +14,7 @@
  */
 
 const MIN_YEAR = 711;
-const MAX_YEAR = 1900;
+const MAX_YEAR = 2100;
 const YEAR_SPAN = MAX_YEAR - MIN_YEAR;
 
 /**
@@ -54,7 +54,7 @@ function _buildTimelineHTML() {
   const events = window.NoorMockData?.events || [];
 
   // ── Etiquetas de año en el track ──
-  const yearLabels = [711, 800, 900, 1000, 1100, 1200, 1300, 1400, 1492, 1600, 1700, 1800, 1900];
+  const yearLabels = [711, 900, 1100, 1300, 1492, 1700, 1900, 2030];
   const labelsHTML = yearLabels.map(y => {
     const pct = ((y - MIN_YEAR) / YEAR_SPAN) * 100;
     const isMajor = [711, 1000, 1492, 1900].includes(y);
@@ -92,12 +92,12 @@ function _buildTimelineHTML() {
     `;
   }).join('');
 
-  // ── Marcadores de eventos ──
-  const eventsHTML = events.map(evt => {
+  // ── Marcadores de eventos/documentos ──
+  const docs = NoorState.getState().documents || [];
+  const eventsHTML = docs.map(evt => {
     const pct   = ((evt.year - MIN_YEAR) / YEAR_SPAN) * 100;
     const color = window.NoorSchema.HISTORICAL_ERAS[evt.eraId]?.color || 'var(--color-gold)';
-    const importance = evt.importance || 'medium';
-    const size = importance === 'critical' ? 10 : importance === 'high' ? 8 : 6;
+    const size = 8;
     return `
       <div
         class="timeline-event-dot"
@@ -106,7 +106,7 @@ function _buildTimelineHTML() {
         title="${evt.title}"
         role="button"
         tabindex="0"
-        aria-label="Evento: ${evt.title} (${evt.year})"
+        aria-label="Documento: ${evt.title} (${evt.year})"
       ></div>
     `;
   }).join('');
@@ -339,12 +339,13 @@ function _bindTimelineEvents() {
 
   // ── Marcadores de eventos con tooltip ──
   const tooltip    = document.getElementById('timeline-tooltip');
-  const eventsData = window.NoorMockData?.events || [];
-
+  // Usamos los documentos en estado, no mockData options.
+  
   document.querySelectorAll('.timeline-event-dot').forEach(dot => {
     dot.addEventListener('mouseenter', (e) => {
       const evtId = dot.dataset.eventId;
-      const evt   = eventsData.find(ev => ev.id === evtId);
+      const docsData = NoorState.getState().documents || [];
+      const evt   = docsData.find(ev => ev.id === evtId);
       if (!evt || !tooltip) return;
 
       const wrapperRect = document.getElementById('timeline-track-wrapper').getBoundingClientRect();
@@ -357,7 +358,7 @@ function _bindTimelineEvents() {
       tooltip.innerHTML = `
         <p class="timeline-event-tooltip__year">${evt.year}</p>
         <p class="timeline-event-tooltip__title">${evt.title}</p>
-        <p class="timeline-event-tooltip__desc">${evt.description?.substring(0, 100)}…</p>
+        <p class="timeline-event-tooltip__desc">${evt.source || evt.type || 'Documento histórico'}</p>
       `;
     });
 
@@ -365,16 +366,13 @@ function _bindTimelineEvents() {
       if (tooltip) tooltip.style.display = 'none';
     });
 
-    // Clic en evento → filtrar por su año ± 25 años
+    // Clic en evento → abrir visor
     dot.addEventListener('click', () => {
       const evtId = dot.dataset.eventId;
-      const evt   = eventsData.find(ev => ev.id === evtId);
+      const docsData = NoorState.getState().documents || [];
+      const evt   = docsData.find(ev => ev.id === evtId);
       if (!evt) return;
-      fromYear = Math.max(MIN_YEAR, evt.year - 25);
-      toYear   = Math.min(MAX_YEAR, evt.year + 50);
-      _setHandlePositions(fromYear, toYear);
-      NoorState.dispatch('SET_FILTER', { key: 'yearRange', value: [fromYear, toYear] });
-      _updateDocCount();
+      NoorState.dispatch('SELECT_DOCUMENT', evt);
     });
   });
 

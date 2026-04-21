@@ -43,10 +43,17 @@
   <!-- Lucide Icons CDN -->
   <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
 
+  <!-- PDF.js para Visor Web Interactivo -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script>
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  </script>
+
   <link rel="stylesheet" href="css/main.css" />
   <link rel="stylesheet" href="css/viewer.css" />
   <link rel="stylesheet" href="css/explore.css" />
   <link rel="stylesheet" href="css/admin.css" />
+  <link rel="stylesheet" href="css/editorial.css" />
 </head>
 
 <body class="bg-ink-900 text-gray-100 font-sans min-h-screen flex flex-col">
@@ -98,7 +105,10 @@
   <div id="app-footer"></div>
 
   <!-- Scripts Modulares (carga en orden) -->
+  <script src="js/data/local-db.js"></script>
   <script src="js/data/schema.js"></script>
+  <script src="js/config.js"></script>
+  <script src="js/data/data_cache.js"></script>
   <script src="js/data/drive-connector.js"></script>
   <script src="js/data/mock-data.js"></script>
   <script src="js/data/geo-data.js"></script>

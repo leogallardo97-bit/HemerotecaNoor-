@@ -35,8 +35,20 @@ function renderSearchBar() {
     e.preventDefault();
     NoorState.dispatch('SET_FILTER', { key: 'query', value: input.value });
     // Sincronizar con el header
+    // Sincronizar con el header
     const headerInput = document.getElementById('header-search-input');
     if (headerInput) headerInput.value = input.value;
+  });
+
+  // Búsqueda difusa (Predictiva) en tiempo real
+  let _heroSearchTimer;
+  input?.addEventListener('input', (e) => {
+    clearTimeout(_heroSearchTimer);
+    _heroSearchTimer = setTimeout(() => {
+      NoorState.dispatch('SET_FILTER', { key: 'query', value: e.target.value });
+      const headerInput = document.getElementById('header-search-input');
+      if (headerInput) headerInput.value = e.target.value;
+    }, 280); // Debounce ágil
   });
 
   // Actualizar chips cuando cambian los filtros

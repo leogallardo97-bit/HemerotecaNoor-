@@ -261,7 +261,8 @@ function _buildViewerHTML() {
               <i data-lucide="download" width="15" height="15"></i>
             </button>
             <div class="viewer-toolbar-sep"></div>
-            <a href="mailto:noorarchive@gmail.com?subject=Sugerencia%20Visor" 
+            <a href="https://docs.google.com/forms/d/e/TU_ID_AQUI/viewform" 
+               target="_blank"
                class="vbtn" 
                id="vbtn-report" 
                data-tip="Informar error / sugerencia" 

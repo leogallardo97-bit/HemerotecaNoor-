@@ -239,12 +239,13 @@ function buildDocumentCard(doc, eras) {
             <span>·</span>
             ${tagHtml}
             <div style="flex-grow:1"></div>
-            <a href="mailto:noorarchive@gmail.com?subject=Revisi%C3%B3n:%20${encodeURIComponent(doc.title)}" 
+            <a href="https://docs.google.com/forms/d/e/TU_ID_AQUI/viewform?entry.1234=${encodeURIComponent(doc.title)}" 
+               target="_blank"
                class="doc-card__report-btn" 
-               title="Reportar error en este documento"
+               title="Reportar error o sugerencia"
                onclick="event.stopPropagation()"
             >
-              <i data-lucide="alert-circle" width="14" height="14"></i>
+              <i data-lucide="message-square" width="14" height="14"></i>
             </a>
           </div>
         </div>

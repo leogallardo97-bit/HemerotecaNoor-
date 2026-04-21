@@ -40,10 +40,10 @@ const NoorTour = (() => {
       ]
     });
 
-    // --- PASO 2: MAPA ---
+    // --- PASO 2: MAPA HISTÓRICO ---
     tour.addStep({
       id: 'step-map',
-      text: '<strong>Mapa Histórico:</strong> Explora los documentos por su ubicación real. Haz clic en "Mapa" para ver los núcleos geográficos.',
+      text: '<strong>Mapa Histórico:</strong> Nuestro punto fuerte para la <strong>Geopolítica</strong>. Descubre dónde se crearon los documentos y visualiza los núcleos de poder andalusí en el territorio.',
       attachTo: { element: '.explore-tab[data-tab="map"]', on: 'bottom' },
       buttons: [
         { text: 'Atrás', action: tour.back, classes: 'shepherd-button-secondary' },
@@ -54,7 +54,7 @@ const NoorTour = (() => {
     // --- PASO 3: LÍNEA DE TIEMPO ---
     tour.addStep({
       id: 'step-timeline',
-      text: '<strong>Línea de Tiempo:</strong> Viaja por el Siglo XX y Al-Ándalus usando el slider temporal.',
+      text: '<strong>Línea de Tiempo:</strong> A diferencia del mapa, aquí exploras la <strong>Evolución Cronológica</strong>. Desplázate por los siglos para entender el contexto histórico de cada manuscrito.',
       attachTo: { element: '.explore-tab[data-tab="timeline"]', on: 'bottom' },
       buttons: [
         { text: 'Atrás', action: tour.back, classes: 'shepherd-button-secondary' },

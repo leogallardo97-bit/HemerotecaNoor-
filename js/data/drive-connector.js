@@ -270,6 +270,30 @@ const DriveConnector = (() => {
     return objectUrl;
   }
 
+  /**
+   * Genera la URL de miniatura profesional (HQ).
+   */
+  function getThumbnailUrl(fileId, size = 1000) {
+    if (!fileId || fileId.startsWith('PLACEHOLDER')) return '';
+    return `https://drive.google.com/thumbnail?id=${fileId}&sz=w${size}`;
+  }
+
+  /**
+   * Genera la URL de descarga/exportación.
+   */
+  function getDownloadUrl(fileId) {
+    if (!fileId || fileId.startsWith('PLACEHOLDER')) return '';
+    return `https://drive.google.com/uc?export=download&id=${fileId}`;
+  }
+
+  /**
+   * Genera la URL de vista web nativa.
+   */
+  function getViewUrl(fileId) {
+    if (!fileId || fileId.startsWith('PLACEHOLDER')) return '';
+    return `https://drive.google.com/file/d/${fileId}/view`;
+  }
+
   // API Pública
   return {
     initialize,
@@ -277,6 +301,9 @@ const DriveConnector = (() => {
     syncHemeroteca,
     updateConfig,
     getPDFBlobUrl,
+    getThumbnailUrl,
+    getDownloadUrl,
+    getViewUrl,
     CONFIG
   };
 

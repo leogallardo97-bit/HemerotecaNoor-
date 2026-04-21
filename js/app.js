@@ -69,11 +69,15 @@
   // ── Fase 2: Visor de documentos ──
   await DocumentViewer.init();
 
-  // ── Fase 4: Panel de notas + Admin Dashboard (con protección de contraseña) ──
+  // ── Fase 4: Panel de notas + Admin Dashboard ──
   await ResearchPanel.init();
   await NoorAdmin.init();
+  
+  // ── Ayuda y Guía ──
+  if (window.HelpModal) window.HelpModal.init();
 
   // ── Reemplazar el toggle del admin para requerir autenticación ──
+
   const _originalToggle = NoorAdmin.toggle;
   NoorAdmin.toggle = async function(show) {
     if (show === false) { _originalToggle(false); return; }

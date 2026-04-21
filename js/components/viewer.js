@@ -470,7 +470,7 @@ function _renderPageThumbs() {
   panel.innerHTML = pages.map((pageId, idx) => {
     // Obtener URL de miniatura desde Drive o usar placeholder
     const thumbUrl = pageId && !pageId.startsWith('PLACEHOLDER')
-      ? DriveConnector.getPublicFileUrl(pageId, 'thumbnail')
+      ? DriveConnector.getThumbnailUrl(pageId, 200)
       : '';
 
     const isActive = idx === _viewerState.currentPage;
@@ -635,7 +635,7 @@ function _renderMetaPanel() {
       <div style="display:flex;flex-direction:column;gap:0.4rem;padding:0.25rem 0">
         ${!doc.media.driveFileId.startsWith('PLACEHOLDER') ? `
           <a
-            href="${DriveConnector.getPublicFileUrl(doc.media.driveFileId, 'view')}"
+            href="${DriveConnector.getViewUrl(doc.media.driveFileId)}"
             target="_blank"
             rel="noopener noreferrer"
             class="meta-action-btn meta-action-btn--primary"
@@ -645,7 +645,7 @@ function _renderMetaPanel() {
             Ver en Google Drive
           </a>
           <a
-            href="${DriveConnector.getPublicFileUrl(doc.media.driveFileId, 'download')}"
+            href="${DriveConnector.getDownloadUrl(doc.media.driveFileId)}"
             target="_blank"
             rel="noopener noreferrer"
             class="meta-action-btn"
@@ -801,7 +801,7 @@ async function _loadPage(pageIdx) {
       // Fallback a OpenSeadragon si la carga PDF falla (muestra el Thumbnail en HQ)
       let fallbackImgUrl = '';
       if (fileId && !fileId.startsWith('PLACEHOLDER')) {
-        fallbackImgUrl = doc.media.thumbnail || DriveConnector.getPublicFileUrl(fileId, 'thumbnail');
+        fallbackImgUrl = doc.media.thumbnail || DriveConnector.getThumbnailUrl(fileId, 1000);
       }
       await _loadOSD(fallbackImgUrl);
       _applyImageFilters();
@@ -810,7 +810,7 @@ async function _loadPage(pageIdx) {
     // Si es imagen de Drive, cargamos OSD
     let imageUrl = '';
     if (fileId && !fileId.startsWith('PLACEHOLDER')) {
-      imageUrl = DriveConnector.getPublicFileUrl(fileId, 'thumbnail');
+      imageUrl = DriveConnector.getThumbnailUrl(fileId, 1000);
     }
     await _loadOSD(imageUrl);
     _applyImageFilters();
@@ -1140,7 +1140,7 @@ function _bindViewerEvents() {
   get('vbtn-download')?.addEventListener('click', () => {
     const doc = _viewerState.document;
     if (!doc?.media?.driveFileId || doc.media.driveFileId.startsWith('PLACEHOLDER')) return;
-    const url = DriveConnector.getPublicFileUrl(doc.media.driveFileId, 'download');
+    const url = DriveConnector.getDownloadUrl(doc.media.driveFileId);
     window.open(url, '_blank');
   });
 

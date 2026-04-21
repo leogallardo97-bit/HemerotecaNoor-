@@ -196,7 +196,7 @@ function buildDocumentCard(doc, eras) {
   if (doc.media?.thumbnail) {
     thumbUrl = doc.media.thumbnail;
   } else if (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) {
-    thumbUrl = window.DriveConnector?.getPublicFileUrl ? window.DriveConnector.getPublicFileUrl(doc.media.driveFileId, 'thumbnail') : '';
+    thumbUrl = window.DriveConnector?.getThumbnailUrl ? window.DriveConnector.getThumbnailUrl(doc.media.driveFileId, 1000) : '';
   }
 
   const thumbHtml = thumbUrl

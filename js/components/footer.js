@@ -48,9 +48,14 @@ function renderFooter() {
       </div>
 
       <div class="noor-footer__bottom">
+        <div style="display:flex; align-items:center; gap:0.5rem">
+          <span style="display:inline-block; width:8px; height:8px; background:var(--color-gold); border-radius:50%; box-shadow: 0 0 8px var(--color-gold); animation: pulse 2s infinite"></span>
+          <span style="font-size:0.65rem; text-transform:uppercase; letter-spacing:0.1em; color:rgba(229,229,229,0.5)">Sincronizado con Google Drive (Vol. 2)</span>
+        </div>
         <span>© 2026 Archivo Noor — Proyecto de Investigación Doctoral</span>
         <span>Contenidos bajo licencia Creative Commons BY-NC-SA 4.0</span>
       </div>
+
     </footer>
   `;
 }

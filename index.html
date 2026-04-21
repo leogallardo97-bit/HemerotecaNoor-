@@ -58,6 +58,7 @@
   <link rel="stylesheet" href="css/explore.css" />
   <link rel="stylesheet" href="css/admin.css" />
   <link rel="stylesheet" href="css/editorial.css" />
+  <link rel="stylesheet" href="css/help.css" />
   
   <!-- Shepherd.js (Guided Tour) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/shepherd.js@10.0.1/dist/css/shepherd.css"/>
@@ -110,7 +111,13 @@
   <!-- ═══════════════════════════════════════════════════════
        COMPONENTE: Footer
   ══════════════════════════════════════════════════════════ -->
-  <div id="app-footer"></div>
+  <div id="app-footer">
+      <div class="footer-status">
+        <span class="status-dot"></span>
+        <span class="status-text">Sincronizado con Google Drive (Vol. 2)</span>
+      </div>
+      <p>&copy; 2026 Archivo Noor — Hemeroteca Digital de Al-Ándalus</p>
+  </div>
 
   <!-- Scripts Modulares (carga en orden) -->
   <script src="js/data/local-db.js"></script>
@@ -135,6 +142,8 @@
   <script src="js/components/explore.js"></script>
   <script src="js/components/research-panel.js"></script>
   <script src="js/components/admin.js"></script>
+  <script src="js/admin/batch-upload.js"></script>
+  <script src="js/components/help-modal.js"></script>
   <script src="js/components/article-view.js"></script>
   <script src="js/components/tour.js"></script>
   <script src="js/core/router.js"></script>

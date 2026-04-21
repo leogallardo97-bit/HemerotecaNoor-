@@ -51,6 +51,10 @@ function renderHeader() {
           <span id="drive-status-label" style="font-size:0.72rem; color: var(--color-sepia);">DEV</span>
         </button>
 
+        <button class="header-nav__btn" id="header-help-btn" title="Ayuda y Guía">
+          <i data-lucide="help-circle" width="14" height="14"></i>
+        </button>
+
         <a href="#" class="header-nav__btn header-nav__btn--cta" id="nav-acceder">
           <i data-lucide="log-in" width="14" height="14"></i>
           Accede con tu cuenta
@@ -58,6 +62,12 @@ function renderHeader() {
       </nav>
     </header>
   `;
+
+  // Inicializar Help Modal
+  document.getElementById('header-help-btn')?.addEventListener('click', () => {
+    if (window.HelpModal) window.HelpModal.toggle();
+  });
+
 
   // Inicializar íconos Lucide en este componente
   if (window.lucide) lucide.createIcons();

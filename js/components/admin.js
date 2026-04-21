@@ -112,11 +112,15 @@ function _buildAdminHTML() {
               <p class="admin-nav-label">General</p>
               <button class="admin-nav-item active" data-admin-section="dashboard">
                 <i data-lucide="layout-dashboard" width="14" height="14"></i>
-                Dashboard
+                Escritorio
               </button>
               <button class="admin-nav-item" data-admin-section="ingest">
                 <i data-lucide="plus-circle" width="14" height="14"></i>
                 Añadir Documento
+              </button>
+              <button class="admin-nav-item" data-admin-section="batch">
+                <i data-lucide="file-up" width="14" height="14"></i>
+                Carga Masiva (CSV)
               </button>
               <button class="admin-nav-item" data-admin-section="documents">
                 <i data-lucide="files" width="14" height="14"></i>
@@ -407,6 +411,41 @@ function _buildAdminHTML() {
               </form>
             </section>
 
+            <!-- ═══ Carga Masiva (Batch) ═══ -->
+            <section class="admin-section" id="admin-section-batch">
+              <h1 class="admin-section-title">Carga Masiva de Documentos</h1>
+              <p class="admin-section-sub">
+                Sube un archivo CSV (separado por ;) para importar múltiples documentos de golpe. 
+                Ideal para el Volumen 2.
+              </p>
+
+              <div class="batch-upload-zone" id="batch-upload-zone">
+                <i data-lucide="upload-cloud" width="48" height="48" style="opacity:0.2;margin-bottom:1rem"></i>
+                <p style="margin-bottom:1rem">Arrastra tu archivo CSV aquí o</p>
+                <input type="file" id="batch-upload-input" accept=".csv" style="display:none" />
+                <button class="form-btn form-btn--primary" onclick="document.getElementById('batch-upload-input').click()">
+                  Seleccionar Archivo CSV
+                </button>
+                <p style="font-size:0.65rem;margin-top:1.5rem;color:rgba(229,229,229,0.3)">
+                  Delimitador: <strong>;</strong> | Multivalores: <strong>|</strong>
+                </p>
+              </div>
+
+              <div style="margin-top:2rem">
+                <h3 style="font-size:0.85rem;color:var(--color-sepia);margin-bottom:0.75rem">¿No tienes la plantilla?</h3>
+                <button class="form-btn form-btn--secondary" id="batch-download-template" style="font-size:0.75rem">
+                  <i data-lucide="download" width="14" height="14"></i>
+                  Descargar Plantilla CSV (Perfect Row)
+                </button>
+              </div>
+
+              <div id="batch-results-panel" style="margin-top:2rem; display:none">
+                <div style="background:rgba(0,0,0,0.2);border:1px solid rgba(255,255,255,0.1);border-radius:5px;padding:1rem">
+                  <p id="batch-results-msg" style="font-size:0.8rem;color:var(--color-gold)"></p>
+                </div>
+              </div>
+            </section>
+
             <!-- ═══ Gestión de Documentos ═══ -->
             <section class="admin-section" id="admin-section-documents">
               <h1 class="admin-section-title">Documentos del Archivo</h1>
@@ -515,34 +554,56 @@ function _buildAdminHTML() {
 
             <!-- ═══ Guía de uso ═══ -->
             <section class="admin-section" id="admin-section-help">
-              <h1 class="admin-section-title">Guía de Ingesta</h1>
-              <div style="max-width:640px;font-size:0.83rem;color:rgba(229,229,229,0.55);line-height:1.9">
+              <h1 class="admin-section-title">Guía de Ingesta (Modo Experto)</h1>
+              <div style="max-width:680px;font-size:0.83rem;color:rgba(229,229,229,0.55);line-height:1.9">
+
+                <h2 style="font-family:var(--font-serif);font-size:1rem;color:var(--color-sepia);margin-bottom:0.75rem">
+                  Protocolo de Datos Obligatorios
+                </h2>
+
+                <table style="width:100%; border-collapse: collapse; margin-bottom:1.5rem; font-size:0.75rem; border:1px solid rgba(255,255,255,0.1)">
+                  <thead>
+                    <tr style="background:rgba(255,255,255,0.05); text-align:left">
+                      <th style="padding:8px; border:1px solid rgba(255,255,255,0.1)">Campo</th>
+                      <th style="padding:8px; border:1px solid rgba(255,255,255,0.1)">Formato</th>
+                      <th style="padding:8px; border:1px solid rgba(255,255,255,0.1)">Ejemplo</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1); color:var(--color-parchment)">Fecha Exacta</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">YYYY-MM-DD</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">1085-05-25</td>
+                    </tr>
+                    <tr>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1); color:var(--color-parchment)">Año Base</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">Número</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">1085</td>
+                    </tr>
+                    <tr>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1); color:var(--color-parchment)">Coordenadas</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">Lat / Lng</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">37.88 / -4.77</td>
+                    </tr>
+                    <tr>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1); color:var(--color-parchment)">Multivalores</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">Separado por |</td>
+                      <td style="padding:8px; border:1px solid rgba(255,255,255,0.1)">POL|SOC|CUL</td>
+                    </tr>
+                  </tbody>
+                </table>
 
                 <h2 style="font-family:var(--font-serif);font-size:1rem;color:var(--color-sepia);margin-bottom:0.75rem">
                   Flujo de trabajo recomendado
                 </h2>
 
                 <ol style="padding-left:1.25rem;margin-bottom:1.5rem">
-                  <li><strong style="color:var(--color-parchment)">Digitaliza</strong> el documento con tu escáner o cámara a 300-400 DPI.</li>
-                  <li><strong style="color:var(--color-parchment)">Sube</strong> el archivo (JPEG/PDF) a la carpeta <code>Carpeta noor 2026 / Archivo noor / SigloXX</code> en Google Drive.</li>
-                  <li><strong style="color:var(--color-parchment)">Obtén el ID</strong>: abre el archivo en Drive → click derecho → <em>Obtener enlace</em>. Copia el ID de la URL.</li>
-                  <li>Abre este panel y ve a <strong>Añadir Documento</strong>.</li>
-                  <li>Rellena los campos, pega el ID, y <strong style="color:var(--color-gold)">Guarda</strong>.</li>
-                  <li>El documento aparecerá inmediatamente en la galería y en el mapa (si tiene coordenadas).</li>
-                  <li>Opcional: ve a <strong>Exportar JSON</strong> → descarga el <code>metadatos.json</code> y súbelo a Drive para que sea la fuente de verdad permanente.</li>
+                  <li><strong style="color:var(--color-parchment)">Digitaliza</strong> a 300-400 DPI.</li>
+                  <li><strong style="color:var(--color-parchment)">Sube a Drive</strong> y obtén el File ID.</li>
+                  <li>Asegúrate de que la fecha siga el estándar <code style="color:var(--color-gold)">YYYY-MM-DD</code> para la Línea de Tiempo.</li>
+                  <li>Usa coordenadas decimales para el <strong style="color:var(--color-gold)">Mapa Histórico</strong>.</li>
+                  <li>Para el Volumen 2, prefiere la <strong>Carga Masiva (CSV)</strong> si tienes más de 10 libros.</li>
                 </ol>
-
-                <h2 style="font-family:var(--font-serif);font-size:1rem;color:var(--color-sepia);margin-bottom:0.75rem">
-                  Formato de la URL de Google Drive
-                </h2>
-                <code style="background:rgba(0,0,0,0.3);padding:0.5rem;border-radius:3px;display:block;font-size:0.72rem;color:rgba(229,229,229,0.7)">
-                  https://drive.google.com/file/d/<span style="color:var(--color-gold);font-weight:700">[FILE_ID]</span>/view
-                </code>
-
-                <h2 style="font-family:var(--font-serif);font-size:1rem;color:var(--color-sepia);margin:1.25rem 0 0.75rem">
-                  Atajo de teclado
-                </h2>
-                <p><kbd style="background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.15);padding:2px 7px;border-radius:3px;font-size:0.75rem">Ctrl</kbd> + <kbd style="background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.15);padding:2px 7px;border-radius:3px;font-size:0.75rem">Shift</kbd> + <kbd style="background:rgba(255,255,255,0.08);border:1px solid rgba(255,255,255,0.15);padding:2px 7px;border-radius:3px;font-size:0.75rem">A</kbd> — Abrir/cerrar el Admin Dashboard</p>
               </div>
             </section>
 
@@ -937,22 +998,69 @@ function _bindAdminEvents() {
     previewTimer = setTimeout(_updatePreview, 800);
   });
 
-  // Guardar documento
+  // Guardar documento (V1.7: Validación Estricta)
   document.getElementById('f-save-btn')?.addEventListener('click', async () => {
     const title = document.getElementById('f-title')?.value?.trim();
     const year  = document.getElementById('f-year')?.value?.trim();
     const desc  = document.getElementById('f-desc')?.value?.trim();
+    const exactDate = document.getElementById('f-exact-date')?.value?.trim();
+
+    const dateRegex = /^(\d{4})-(\d{2})-(\d{2})$/;
+    const yearVal   = parseInt(year);
 
     if (!title || !year || !desc) {
       _showToast('Rellena los campos obligatorios (*)', 'error');
+      _highlightError(['f-title', 'f-year', 'f-desc']);
+      return;
+    }
+
+    if (exactDate && !dateRegex.test(exactDate)) {
+      _showToast('Formato de fecha inválido. Usa YYYY-MM-DD', 'error');
+      _highlightError(['f-exact-date']);
+      return;
+    }
+
+    if (isNaN(yearVal) || yearVal < 600 || yearVal > 2100) {
+      _showToast('Año fuera de rango (600 - 2100)', 'error');
+      _highlightError(['f-year']);
       return;
     }
 
     const doc = _buildDocumentFromForm();
     await NoorDB.docMeta.save(doc);
     _showToast(`"${doc.title}" guardado en el Archivo.`, 'success');
+    _clearErrors();
     _loadDashboardStats();
     _updatePreview();
+  });
+
+  // — BATCH UPLOAD (V1.7: Conectado a BatchLoader.js) —
+  document.getElementById('batch-upload-input')?.addEventListener('change', async (e) => {
+    const file = e.target.files[0];
+    if (!file) return;
+    
+    try {
+      const results = await BatchLoader.processCSV(file);
+      const resultsMsg = document.getElementById('batch-results-msg');
+      if (resultsMsg) {
+        resultsMsg.innerHTML = `
+          <div style="color:var(--color-gold);font-weight:700;margin-bottom:0.5rem">✓ Sincronización con Drive Exitosa</div>
+          <div style="font-size:0.75rem;opacity:0.7">
+            Se han importado ${results.imported} documentos. Errores: ${results.errors}.
+          </div>
+        `;
+      }
+      _showToast(`Bulk Ingest: ${results.imported} OK / ${results.errors} Error`, 'success');
+      _loadDashboardStats();
+    } catch (err) {
+      _showToast(err.message, 'error');
+    }
+  });
+
+  document.getElementById('batch-download-template')?.addEventListener('click', () => {
+    const csvContent = "id;title;year;exact_date;type;eraId;language;driveFileId;lat;lng;description;tags;regions;themes\n" +
+                       "lib-01;Tratado de Medicina;1000;1000-01-01;manuscript;S10;ar;ID_DRIVE;37.88;-4.77;Un manuscrito fundamental.;medicina|omeya;QURTUBA;SCI|CUL";
+    _downloadAdminFile(csvContent, 'plantilla_ingesta_noor.csv', 'text/csv');
   });
 
   // Copiar JSON
@@ -995,9 +1103,29 @@ function _downloadAdminFile(content, filename, type) {
   a.href     = url; a.download = filename; a.click();
   URL.revokeObjectURL(url);
 }
+function _clearErrors() {
+  document.querySelectorAll('.form-input, .form-textarea, .form-select').forEach(el => {
+    el.style.borderColor = '';
+  });
+}
+
+function _highlightError(fieldIds) {
+  _clearErrors();
+  fieldIds.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) {
+      el.style.borderColor = 'var(--color-sepia)';
+      el.classList.add('shake-anim');
+      setTimeout(() => el.classList.remove('shake-anim'), 500);
+    }
+  });
+}
+
 function _dateSlug() {
-  return new Date().toISOString().replace(/[:.T]/g, '-').slice(0, 16);
+  const d = new Date();
+  return d.toISOString().slice(0, 10).replace(/-/g, '');
 }
 
 window.NoorAdmin = { init: initAdmin, toggle: toggleAdmin };
 console.log('[Admin] ✓ Módulo definido. Acceso: Ctrl+Shift+A');
+

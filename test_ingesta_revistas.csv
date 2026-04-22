@@ -1,0 +1,4 @@
+id;title;year;exact_date;type;eraId;language;driveFileId;lat;lng;description;tags;regions;themes
+rev-01;Revista de Madrid (S. XX);1905;1905-05-10;manuscript;S20;es;1v9a9T_FILE_ID_MADRID;40.41;-3.70;Ejemplar histórico recuperado de la carpeta 01_REVISTAS.;Prensa|Siglo XX;MADRID;SOC|CUL
+rev-02;Revista Cultural Córdoba;1925;1925-01-01;manuscript;S20;es;ID_DRIVE_CORDOBA;37.88;-4.77;Cultura cordobesa ilustrada.;Cultura|Ilustración;QURTUBA;CUL
+rev-err;Registro de Error (Carpeta);1922;1922-02-02;manuscript;S20;es;1pbzpdOKtL3b9O82Te5ioAg7V1m2I9a9T;40.41;-3.70;Este registro fallará porque usa el ID de la Carpeta 01_REVISTAS.;Error;MADRID;SOC

@@ -254,7 +254,12 @@ const NoorDB = (() => {
      * Los documentos del admin sobreescriben los mock si tienen el mismo ID.
      */
     async getMergedWithMock() {
-      const mockDocs  = window.NoorMockData?.documents || [];
+      // Intentar obtener de .documents o usar el array directamente
+      let mockDocs = [];
+      if (window.NoorMockData) {
+        mockDocs = Array.isArray(window.NoorMockData) ? window.NoorMockData : (window.NoorMockData.documents || []);
+      }
+      
       const adminDocs = await this.getAll();
       const localDocs = window.NoorLocalDB?.documents || [];
 

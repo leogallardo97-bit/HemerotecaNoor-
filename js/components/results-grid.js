@@ -191,20 +191,33 @@ function buildDocumentCard(doc, eras) {
   const icon = DOC_TYPE_ICONS[doc.type] || 'file';
   const lang = LANG_LABELS[doc.language] || (doc.language ? doc.language.toUpperCase() : 'ES');
 
-  // Thumbnail: usar thumbnail local generado, o Drive API, o placeholder
+  // Badge descriptivo: Periódico/Revista (Premium Mapping)
+  let displayType = 'Archivo';
+  if (doc.type === 'newspaper') {
+    // Si contiene etiquetas de Vol2 o el ID empieza por v2/rev-v2, lo marcamos como Revista
+    const isRevista = doc.tags?.includes('Vol2') || doc.tags?.includes('Revista') || doc.id.startsWith('v2-') || doc.id.startsWith('rev-v2');
+    displayType = isRevista ? 'Revista' : 'Newspaper';
+  } else if (doc.type === 'manuscript') {
+    displayType = 'Manuscrito';
+  } else {
+    displayType = doc.type.toUpperCase();
+  }
+
+  // Thumbnail: usar Drive API (con HQ w1000) o local thumbnail
   let thumbUrl = '';
-  if (doc.media?.thumbnail) {
+  if (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) {
+    // Misión Crítica: Forzar HQ (w1000) para nitidez absoluta en miniaturas
+    thumbUrl = `https://drive.google.com/thumbnail?id=${doc.media.driveFileId}&sz=w1000`;
+  } else if (doc.media?.thumbnail) {
     thumbUrl = doc.media.thumbnail;
-  } else if (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) {
-    thumbUrl = window.DriveConnector?.getThumbnailUrl ? window.DriveConnector.getThumbnailUrl(doc.media.driveFileId, 1000) : '';
   }
 
   const thumbHtml = thumbUrl
     ? `<img src="${thumbUrl}" alt="Portada: ${doc.title}" loading="lazy" />`
     : `
       <div class="doc-card__thumb-placeholder">
-        <i data-lucide="${icon}" width="32" height="32"></i>
-        <span style="font-size:0.6rem;letter-spacing:0.1em;text-transform:uppercase">${doc.type}</span>
+        <i data-lucide="${icon}" width="32" height="32" style="opacity: 0.2"></i>
+        <span style="font-size:0.6rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.4">${doc.type}</span>
       </div>
     `;
 
@@ -225,17 +238,17 @@ function buildDocumentCard(doc, eras) {
       >
         <div class="doc-card__thumb">
           ${thumbHtml}
-          <span class="doc-card__type-badge">${doc.type}</span>
+          <span class="doc-card__type-badge">${displayType}</span>
         </div>
         <div class="doc-card__body">
           <p class="doc-card__date">
             <span style="color:${era.color || 'var(--color-sepia)'}">${era.label || doc.eraId}</span>
             · ${doc.year}
           </p>
-          <h3 class="doc-card__title">${doc.title}</h3>
-          ${doc.description ? `<p class="doc-card__desc" style="font-size:0.75rem; color:rgba(255,255,255,0.6); margin-bottom:8px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden;">${doc.description}</p>` : ''}
+          <h3 class="doc-card__title font-serif" style="font-weight: 700; color: var(--color-gold-light);">${doc.title}</h3>
+          ${doc.description ? `<p class="doc-card__desc" style="font-size:0.75rem; color:rgba(255,255,255,0.5); margin-bottom:8px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; font-style: italic;">${doc.description}</p>` : ''}
           <div class="doc-card__meta">
-            <span>${lang}</span>
+            <span style="font-weight: bold; color: var(--color-sepia)">${lang}</span>
             <span>·</span>
             ${tagHtml}
             <div style="flex-grow:1"></div>

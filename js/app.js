@@ -89,14 +89,23 @@
     }
   };
 
-  // ── Vincular botones del header ──
+  // ── Vincular botones del header (Pre-render para mayor reactividad) ──
+  document.addEventListener('click', async (e) => {
+    const btn = e.target.closest('#nav-acceder');
+    if (btn) {
+      e.preventDefault();
+      console.log('[App] Solicitando acceso al Admin...');
+      if (window.NoorAdmin) {
+        NoorAdmin.toggle(true);
+      } else {
+        console.warn('[App] El módulo Admin no está listo aún.');
+      }
+    }
+  });
+
   document.getElementById('nav-colecciones')?.addEventListener('click', (e) => {
     e.preventDefault();
-    NoorExplore.toggle();
-  });
-  document.getElementById('nav-acceder')?.addEventListener('click', (e) => {
-    e.preventDefault();
-    NoorAdmin.toggle(true);
+    if (window.NoorExplore) NoorExplore.toggle();
   });
   // Botón de notas desde el visor (añadido dinámicamente en vbtn-notes)
   document.addEventListener('click', (e) => {

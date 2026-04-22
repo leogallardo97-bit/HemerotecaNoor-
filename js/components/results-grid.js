@@ -194,8 +194,16 @@ function buildDocumentCard(doc, eras) {
   // Badge descriptivo: Periódico/Revista (Premium Mapping)
   let displayType = 'Archivo';
   if (doc.type === 'newspaper') {
-    // Si contiene etiquetas de Vol2 o el ID empieza por v2/rev-v2, lo marcamos como Revista
-    const isRevista = doc.tags?.includes('Vol2') || doc.tags?.includes('Revista') || doc.id.startsWith('v2-') || doc.id.startsWith('rev-v2');
+    // Si contiene etiquetas de Vol2/Revista, el ID empieza por v2/rev-v2/local-rev, 
+    // o viene de Drive, o tiene REVISTAS en el path -> Marcamos como Revista
+    const isRevista = doc.tags?.includes('Vol2') || 
+                      doc.tags?.includes('Revista') || 
+                      doc.id.startsWith('v2-') || 
+                      doc.id.startsWith('rev-v2') || 
+                      doc.id.startsWith('local-rev') ||
+                      doc._source === 'drive' ||
+                      (doc.localPath && doc.localPath.toUpperCase().includes('REVISTAS'));
+                      
     displayType = isRevista ? 'Revista' : 'Newspaper';
   } else if (doc.type === 'manuscript') {
     displayType = 'Manuscrito';
@@ -221,7 +229,7 @@ function buildDocumentCard(doc, eras) {
       </div>
     `;
 
-  const tagHtml = doc.tags.slice(0, 2).map(tag => `
+  const tagHtml = (doc.tags || []).slice(0, 2).map(tag => `
     <span class="doc-card__tag">${tag}</span>
   `).join('');
 

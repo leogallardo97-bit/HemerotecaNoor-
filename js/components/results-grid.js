@@ -185,6 +185,8 @@ function buildDocumentCard(doc, eras) {
                       (doc.localPath && doc.localPath.toUpperCase().includes('REVISTAS'));
                       
     displayType = isRevista ? 'Revista' : 'Newspaper';
+  } else if (doc.type === 'book') {
+    displayType = 'Libro';
   } else if (doc.type === 'manuscript') {
     displayType = 'Manuscrito';
   } else {

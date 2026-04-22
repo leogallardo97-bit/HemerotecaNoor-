@@ -214,7 +214,6 @@ window.onclick = (e) => {
     const targetId = driveId || docId;
 
     console.log('[SOS-CLICK] Clic Manual Detectado:', targetId);
-    alert('Clic detectado en: ' + targetId);
 
     // Forzar Apertura del Visor (Brute Force)
     const modal = document.getElementById('app-viewer-modal');

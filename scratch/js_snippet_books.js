@@ -1,32 +1,4 @@
-/**
- * NOOR ARCHIVE — LOCAL INGESTION BRIDGE (V3)
- * Soporte para Revistas, Libros y Periódicos.
- */
-
-window.NoorLocalDB = {
-  active: true,
-  lastUpdate: new Date().toISOString(),
-  sections: [
-    { id: 'sec-01', label: '01_REVISTAS', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS' },
-    { id: 'sec-02', label: '02_LIBROS', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS' },
-    { id: 'sec-05', label: '05_PERIODICOS', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS' }
-  ],
-  documents: [
-    // --- 01_REVISTAS ---
-    {
-      id: 'local-rev-2008-01',
-      title: 'Revista Crítica: Comer (Senzone)',
-      year: 2008,
-      type: 'newspaper',
-      eraId: 'CONTEMPORARY',
-      language: 'es',
-      source: 'Revista Crítica',
-      tags: ['Senzone', 'Paco Morales'],
-      localPath: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2008)_REV_Revista_Crítica_Comer-Senzone_Paco_Morales.pdf',
-      media: { thumbnail: 'img/thumbnails/sec-01.jpg' }
-    },
-    // --- 02_LIBROS ---
-        // --- Ingesta Masiva 02_LIBROS (v1.4) ---
+    // --- Enlace Masivo 02_LIBROS (v1.4) ---
     {
           "id": "local-lib-TAP_2017_024",
           "title": "Spainmedia Magazines/ Tapas Magazine",
@@ -42,13 +14,6 @@ window.NoorLocalDB = {
                 "Innovación",
                 "Andalucía",
                 "Patrimonio Culinario"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2017_024.pdf",
           "driveId": "1nv3iaDi-AGf1AgQFuvHGnjfspR7D4fU7",
@@ -69,13 +34,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales Padre e Hijo"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_060.pdf",
           "driveId": "19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq",
           "media": {
@@ -94,13 +52,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Un banchetto Imperiale"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_061.pdf",
           "driveId": "1qAjLTSKb-_oXp_ElFICRXl65VAvTVCA8",
@@ -121,13 +72,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales Ferrero"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2011_1.834.pdf",
           "driveId": "1ULUtHgHblS3xWUX8X9SWDx_L_JgY6s2s",
           "media": {
@@ -146,13 +90,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales un enamorado de las Verduras"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_009.pdf",
           "driveId": "1ULUtHgHblS3xWUX8X9SWDx_L_JgY6s2s",
@@ -173,13 +110,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales mi cocina es algo excitante"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_010.pdf",
           "driveId": "17YrIFsXnYMblvLNDURp_h9iABt7vY6yv",
           "media": {
@@ -198,13 +128,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "chefs alps Paco Morales"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_011.pdf",
           "driveId": "1MQVfyqjE9WlzsKn5Q-9bh4CY6mqzfLhv",
@@ -225,13 +148,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor  Paco Morales"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_AN.pdf",
           "driveId": "1w-Rw4yu_hK2vbefVRQXrXfpo8To8iDs4",
           "media": {
@@ -250,13 +166,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales Noor"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_45.pdf",
           "driveId": "1v8J0gK2c39AyhICu_-dzd0YH2Rt0gFMq",
@@ -277,13 +186,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Chef del año  Paco morales"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_64.pdf",
           "driveId": "1r_an4B3rbm_O923g3h4RLZyWVXfPjhZO",
           "media": {
@@ -302,13 +204,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Aduriz/Mugaritz"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2011_237.pdf",
           "driveId": "1Fv_ekWfAgUrpMgLVTYJwO03VttF4jk4R",
@@ -329,13 +224,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco morales sumario"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2010_411_412.pdf",
           "driveId": "1_ZO5DTmZ9MvT1mZwNkL5hgCnD9DBJfoT",
           "media": {
@@ -354,13 +242,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Noor Al Andalus"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2017_369.pdf",
           "driveId": "1kkf0EUf0QMJ-k9oTGn9G-mgTDrvhGvoS",
@@ -381,13 +262,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Deliciosa Vanguardia"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2013_06.pdf",
           "driveId": "1-CyHVNoUrEO1C3oIn8CxhGkd596155JQ",
           "media": {
@@ -407,13 +281,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales la estrella Más Joven"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_09.pdf",
           "driveId": "1PFHMAXgFENrbckDgSwS3gCYYMt2OtK1x",
           "media": {
@@ -431,13 +298,6 @@ window.NoorLocalDB = {
           "language": "es",
           "source": "Archivo Digital Noor",
           "tags": [],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_55.pdf",
           "driveId": "1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx",
           "media": {
@@ -455,13 +315,6 @@ window.NoorLocalDB = {
           "language": "es",
           "source": "Archivo Digital Noor",
           "tags": [],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2008_228.pdf",
           "driveId": "1p0XaUJeZVKY9ocVNbp0TWXKQanTupZKn",
           "media": {
@@ -480,13 +333,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco morales la Trapo"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2014_148.pdf",
           "driveId": "16lWeGEP_TVD7NEoevJucnOYirywrXLCD",
@@ -507,13 +353,6 @@ window.NoorLocalDB = {
           "tags": [
                 "En busca de la perfección Gastronómica"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_876.pdf",
           "driveId": "1dQXL0wlPraBOJpXaZzC2vCLdvZB5CBfP",
           "media": {
@@ -532,13 +371,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales Hotel Ferrero"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_00.pdf",
           "driveId": "1__aLYJyXPelO4xF8junDNpBWbT8N-2W-",
@@ -559,13 +391,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales un paseo por al Andalus"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2016_55.pdf",
           "driveId": "1UOQCs2ajNJMlOFh46-lqumwUzjaIPVNF",
           "media": {
@@ -584,13 +409,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "al Trapo Paco Morales"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2014_76.pdf",
           "driveId": "1nt7tSE3_vpSblXJoGRZnKoOeFFGhj370",
@@ -611,13 +429,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor recetas del palacio Árabe"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2022_106.pdf",
           "driveId": "1ktLHeP2HF9O03Bb8bRZsCDuwYOzdAE-4",
           "media": {
@@ -636,13 +447,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Noor Paco Morales"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_29.pdf",
           "driveId": "1WVV_wogOubC3y0IBcmg_AJT-CWM_scMi",
@@ -663,13 +467,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales El Cuchillo sobre la cabeza"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2011_464.pdf",
           "driveId": "18qy3CJNcfj4OSfeIwp4IjyY3b_-bMhXH",
           "media": {
@@ -688,13 +485,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "La buena vida homenaje al origen"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_249.pdf",
           "driveId": "16AVIGFYlSELwh0HK-mbW-HQ84T-CGXLa",
@@ -715,13 +505,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor restaurant Contemporany Nasri Cooking"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_00.pdf",
           "driveId": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr",
           "media": {
@@ -740,13 +523,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Noor legado andalusí"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_22.pdf",
           "driveId": "1JW8mn2o35sI4DaPQOM_rFqAunPw9aq7Q",
@@ -767,13 +543,6 @@ window.NoorLocalDB = {
           "tags": [
                 "maquinaria"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2003_60.pdf",
           "driveId": "1oqHuswInOoIPcl6c4PamhUSmmoNXTSaf",
           "media": {
@@ -792,13 +561,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco morales revista en alemán"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_05.pdf",
           "driveId": "1sq-NpgfpGfxReapg5UMgMUx5JJMcmEXX",
@@ -819,13 +581,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco morales noor"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_04.pdf",
           "driveId": "1c8KL8Eon-N8hPpYByOmHwy8WAMwYyeAK",
           "media": {
@@ -844,13 +599,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales Alma Andalusí"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_90.pdf",
           "driveId": "1NP6cvSC5JfXa48fNzDSOer0IgFt2Tvtn",
@@ -871,13 +619,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales Hotel Ferrero"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_235.pdf",
           "driveId": "1N-OuEOlTzghRrANBRBshsZ0m9mreoT5g",
           "media": {
@@ -896,13 +637,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales Hotel Ferrero"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2009_02.pdf",
           "driveId": "19EoMcKWeBaf1kcTsvbWDRjAm8mv2jrLe",
@@ -923,13 +657,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales Hotel Ferrero"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_02.pdf",
           "driveId": "1HeSdTH9P9OxWpwoVvvd6QIgFu2UfBO9A",
           "media": {
@@ -948,13 +675,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales hotel ferrero"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_72.pdf",
           "driveId": "1_gf0Ssig4L1oUwRjznnH1824Mg3HCC4h",
@@ -975,13 +695,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales Hotel ferrero"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_00.pdf",
           "driveId": "1qHH5Egea_6j3nZ6hgH1CZymnPHMrAhQV",
           "media": {
@@ -1000,13 +713,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales Senzone"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2008_10.pdf",
           "driveId": "1u6VzMkkpfc3aguTBDKAMspRLxylFN-SI",
@@ -1027,13 +733,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Las Ostras"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_108.pdf",
           "driveId": "15hKSobMnMHf17EL9sO2vaackcJAwb-BJ",
           "media": {
@@ -1052,13 +751,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco morales Senzone"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2009_10.pdf",
           "driveId": "1VZRw2ldfgmiJDXsZgualRNn3HxuT5dn0",
@@ -1079,13 +771,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Aduriz/Mugaritz"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2007_373.pdf",
           "driveId": "1b9QQzelTT_IOVBNTxMs_1CX7cpIG9-cu",
           "media": {
@@ -1104,13 +789,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales Noor"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2016_113.pdf",
           "driveId": "1bQBshJ8o2uABBVPNH-cwT8VqcjC-vZ0y",
@@ -1131,13 +809,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor Paco Morales"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2020_00.pdf",
           "driveId": "1sJQs2L4MPioWimKyAhpA3v4b_bbdYdBZ",
           "media": {
@@ -1156,13 +827,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Noor Paco Morales"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2020_00.pdf",
           "driveId": "1wCFW3ySIuOdwu7gcPn6NNYm8mv2jrLe",
@@ -1183,13 +847,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor Paco Morales"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_01.pdf",
           "driveId": "18E63iSYLpFXcNgvwkh8bOi93wLk9TPzs",
           "media": {
@@ -1208,13 +865,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Noor Paco Morales"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_00.pdf",
           "driveId": "1a4fC7LPlAnq8Af2dDoBCr49nrP1M3A4u",
@@ -1235,13 +885,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor Paco Morales"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_12.pdf",
           "driveId": "1eRo6KEGQgkseqLPl4jkhs2qKan1g1LDV",
           "media": {
@@ -1260,13 +903,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Noor Paco Morales"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_49.pdf",
           "driveId": "1DnVAPw1M8pDMBvZ3m0ePXf7MuBY0cy0t",
@@ -1287,13 +923,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor PAco Morales"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_177.pdf",
           "driveId": "1H4uJcB-lrjNn6otDdQTnJnT0lhU_Og5o",
           "media": {
@@ -1311,13 +940,6 @@ window.NoorLocalDB = {
           "language": "es",
           "source": "Archivo Digital Noor",
           "tags": [],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2011_241.pdf",
           "driveId": "1LeUyoHIHA75kubZniA9e5UypaESGgU14",
           "media": {
@@ -1337,13 +959,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Noor Paco Morales"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2016_221.pdf",
           "driveId": "1su__rMifUX1PGwMAYX5EmI6g5Pn3YAqL",
           "media": {
@@ -1361,13 +976,6 @@ window.NoorLocalDB = {
           "language": "es",
           "source": "Archivo Digital Noor",
           "tags": [],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2015_06.pdf",
           "driveId": "18CAczn7zW29nQaHL53ouAhbrneIXsZxk",
           "media": {
@@ -1386,13 +994,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Senzone Paco Morales"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2009_02.pdf",
           "driveId": "1U3nBXkrzJz1hNaTGTwKYG4oEF5E_iPZc",
@@ -1413,13 +1014,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales Noor"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_229.pdf",
           "driveId": "1B9MDPQFztoQorbSS069EMfxFDt951CPt",
           "media": {
@@ -1438,13 +1032,6 @@ window.NoorLocalDB = {
           "source": "Archivo Digital Noor",
           "tags": [
                 "Paco Morales Noor"
-          ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_160.pdf",
           "driveId": "1XQrRJiss6jqm0l2tFVlk7K5CKsAZFyQp",
@@ -1465,13 +1052,6 @@ window.NoorLocalDB = {
           "tags": [
                 "Paco Morales Noor"
           ],
-          "regions": [
-                "QURTUBA"
-          ],
-          "coordinates": [
-                37.8847,
-                -4.7791
-          ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_01.pdf",
           "driveId": "1KE-4NejgT_lFohaPlZY6cAC3JhZcyAxj",
           "media": {
@@ -1480,44 +1060,3 @@ window.NoorLocalDB = {
           },
           "description": "Dishing Uo the Thyssen. Paco Morales Noor"
     },
-
-
-    // --- 05_PERIODICOS ---
-    {
-      id: 'local-per-2016-01',
-      title: 'ABC: Gastronomía e Inicios de Noor',
-      year: 2016,
-      type: 'newspaper',
-      eraId: 'CONTEMPORARY',
-      language: 'es',
-      source: 'ABC',
-      tags: ['ABC', 'Noor', 'Paco Morales'],
-      localPath: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS/05_2016-11-25_PER_elMundo-ABC_Gastronomía_10_Inicios_Noor_Paco_Morales.pdf',
-      media: { thumbnail: '' }
-    },
-    {
-      id: 'local-per-2023-01',
-      title: 'El Día de Córdoba: Noor 3 Estrellas Michelín',
-      year: 2023,
-      type: 'newspaper',
-      eraId: 'CONTEMPORARY',
-      language: 'es',
-      source: 'El Día de Córdoba',
-      tags: ['Estrellas Michelín', 'Hito', 'Córdoba'],
-      localPath: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS/05_2023-11-29_PER_El-Día-Cordoba_Portada_12_13_Paco-Morales-Noor-3-Estrellas.pdf',
-      media: { thumbnail: 'img/thumbnails/local-per-2023-01.jpg' }
-    },
-    {
-      id: 'local-per-2007-01',
-      title: 'El País: Hotel Hospes y Senzone',
-      year: 2007,
-      type: 'newspaper',
-      eraId: 'CONTEMPORARY',
-      language: 'es',
-      source: 'El País',
-      tags: ['El País', 'Hospes', 'Senzone'],
-      localPath: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS/05_2007-12-22_PER_01_ElPais_11_Hotel_Hospes_.pdf',
-      media: { thumbnail: 'img/thumbnails/local-per-2007-01.jpg' }
-    }
-  ]
-};

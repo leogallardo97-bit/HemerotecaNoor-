@@ -59,7 +59,6 @@ const _viewerState = {
   osdViewer: null,          // instancia de OpenSeadragon
   isLoading: false,
   _savedScroll: 0,           // Misión: Modo Lectura Continua
-};
   showMeta: true,
   highlightQuery: '',       // término de búsqueda a resaltar en transcripción
   isPreviewOnly: false,     // Activa el modo Visor Seguro (Google Drive Preview)

@@ -245,7 +245,7 @@ function buildDocumentCard(doc, eras) {
             <div style="flex-grow:1"></div>
             <button class="doc-card__report-btn" 
                 title="Reportar error o sugerencia"
-                onclick="event.stopPropagation(); window.open(`https://docs.google.com/forms/d/e/TU_ID_AQUI/viewform?entry.1234=${encodeURIComponent(doc.title)}`, '_blank')"
+                onclick="event.stopPropagation(); window.open('https://docs.google.com/forms/d/e/TU_ID_AQUI/viewform?entry.1234=' + encodeURIComponent(doc.title), '_blank')"
             >
               <i data-lucide="message-square" width="14" height="14"></i>
             </button>

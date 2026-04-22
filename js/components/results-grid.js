@@ -132,15 +132,8 @@ function renderResultsGrid() {
     const { HISTORICAL_ERAS } = window.NoorSchema;
     const viewMode = state.filters.viewMode;
 
+    // Usamos los resultados directamente del state (ya filtrados y paginados)
     let validResults = results;
-    
-    // FILTRO ESTÉTICO ESTRICTO: Descartar absolutamente cuadros grises o elementos nulos
-    validResults = validResults.filter(doc => {
-      const hasThumb = doc.media && doc.media.thumbnail && !doc.media.thumbnail.includes('placeholder');
-      const driveId = doc.driveId || (doc.media && doc.media.driveFileId);
-      const hasDrive = driveId && !driveId.startsWith('PLACEHOLDER');
-      return hasThumb || hasDrive;
-    });
 
     if (validResults.length === 0) {
       container.innerHTML = `

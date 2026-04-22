@@ -115,7 +115,8 @@ document.addEventListener('click', (e) => {
   NoorState.dispatch('SET_LOADING', true);
 
   try {
-    // ── Paso 2: Inicializar el conector de datos ──
+    // ── Paso 2: Inicializar persistencia y conectores ──
+    await NoorDB.init();
     await DriveConnector.initialize();
 
     // ── Paso 3: Cargar documentos y eventos ──

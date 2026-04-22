@@ -837,14 +837,24 @@ async function _loadPage(pageIdx) {
   if (_viewerState.isPreviewOnly && fileId) {
     const container = document.getElementById('osd-container');
     if (container) {
+      container.style.position = 'relative';
       container.innerHTML = `
+        <div style="position: absolute; top: 15px; left: 50%; transform: translateX(-50%); z-index: 100; background: rgba(13, 13, 13, 0.9); backdrop-filter: blur(4px); color: #e5e5e5; padding: 12px 24px; border-radius: 8px; border: 1px solid var(--color-gold-light); display: flex; align-items: center; gap: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);">
+          <i data-lucide="info" width="18" height="18" style="color: var(--color-gold-light)"></i>
+          <span style="font-size: 0.9rem;">Si el documento no carga, debes darle permisos públicos en tu Drive, o ábrelo con tu sesión:</span>
+          <a href="https://drive.google.com/file/d/${fileId}/view" target="_blank" style="background: var(--color-sepia); color: #000; padding: 6px 14px; border-radius: 4px; font-weight: bold; text-decoration: none; font-size: 0.85rem; display: flex; align-items: center; gap: 6px; transition: opacity 0.2s;">
+            <i data-lucide="external-link" width="14" height="14"></i>
+            Abrir Secure View
+          </a>
+        </div>
         <iframe 
           src="https://drive.google.com/file/d/${fileId}/preview" 
           width="100%" height="100%" 
-          style="border:none; background:#000;" 
+          style="border:none; background:#000; width:100%; height:100%;" 
           allow="autoplay">
         </iframe>
       `;
+      if (window.lucide) window.lucide.createIcons();
       _setLoading(false);
       return; 
     }

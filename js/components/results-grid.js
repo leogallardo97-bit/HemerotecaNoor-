@@ -137,7 +137,8 @@ function renderResultsGrid() {
     // FILTRO ESTÉTICO ESTRICTO: Descartar absolutamente cuadros grises o elementos nulos
     validResults = validResults.filter(doc => {
       const hasThumb = doc.media && doc.media.thumbnail && !doc.media.thumbnail.includes('placeholder');
-      const hasDrive = doc.media && doc.media.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER');
+      const driveId = doc.driveId || (doc.media && doc.media.driveFileId);
+      const hasDrive = driveId && !driveId.startsWith('PLACEHOLDER');
       return hasThumb || hasDrive;
     });
 

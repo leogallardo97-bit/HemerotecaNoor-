@@ -252,6 +252,8 @@ const NoorState = (() => {
           return filters.sections.some(secName => 
             (doc.localPath && doc.localPath.includes(secName)) || 
             (doc.header && doc.header.includes(secName)) ||
+            (doc.parentFolder && doc.parentFolder.includes(secName)) ||
+            (doc.category && doc.category.includes(secName)) ||
             (doc.id && doc.id.startsWith('v2-') && secName === '01_REVISTAS') // Fallback para mock v2
           );
         });

@@ -78,9 +78,6 @@ document.addEventListener('click', (e) => {
   if (card) {
     const id = card.dataset.driveId || card.dataset.docId;
     console.log('[Noor-SOS] Clic detectado en:', id);
-    
-    alert("¡Seguir Leyendo!\nAbriendo este cuaderno en el visor de alta resolución...");
-    
     window.forceOpen(id);
   }
 });

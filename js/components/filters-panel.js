@@ -124,7 +124,7 @@ function renderFiltersPanel() {
             <input
               type="range"
               id="year-from"
-              min="711" max="1900"
+              min="711" max="2100"
               value="711"
               step="1"
               aria-label="Año inicial"
@@ -133,15 +133,15 @@ function renderFiltersPanel() {
             <input
               type="range"
               id="year-to"
-              min="711" max="1900"
-              value="1900"
+              min="711" max="2100"
+              value="2100"
               step="1"
               aria-label="Año final"
               style="width:100%"
             />
             <div class="date-range__labels">
               <span id="year-from-label">711</span>
-              <span id="year-to-label">1900</span>
+              <span id="year-to-label">2100</span>
             </div>
           </div>
         </div>

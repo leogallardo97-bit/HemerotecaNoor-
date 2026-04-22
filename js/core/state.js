@@ -69,6 +69,11 @@ const NoorState = (() => {
         case 'SET_DOCUMENTS':
           // Enriquecimiento de Datos: Generar etiquetas de década automáticamente
           const enrichedDocs = (payload || []).map(doc => {
+            // Auto-categorización para Mock v2
+            if (doc.id && (doc.id.startsWith('v2-') || doc.id.startsWith('rev-v2'))) {
+              if (!doc.category) doc.category = '01_REVISTAS';
+              if (!doc.language) doc.language = 'es';
+            }
             if (doc.year) {
               const decade = `Década ${Math.floor(doc.year / 10) * 10}`;
               if (!doc.tags) doc.tags = [];
@@ -276,6 +281,12 @@ const NoorState = (() => {
       const totalPages = Math.ceil(total / filters.perPage);
       const start = (filters.page - 1) * filters.perPage;
       const paginatedResults = results.slice(start, start + filters.perPage);
+
+      if (total === 0 && _state.documents.length > 0) {
+        console.warn('[NoorState] Grid vacío pero hay docs. Aplicando diagnóstico...');
+        console.log('Filtros activos:', JSON.stringify(filters));
+        console.log('Ejemplo doc 0:', JSON.stringify(_state.documents[0]));
+      }
 
       return { results: paginatedResults, total, totalPages };
     },

@@ -208,4 +208,42 @@ document.addEventListener('click', (e) => {
   console.log('[App] Admin Dashboard: Ctrl+Shift+A');
   console.log('[App] Drive Connector: js/data/drive-connector.js');
 
-})();
+// ── SISTEMA DE MANIOBRA FINAL (Simplificación Extrema) ──
+window.onclick = (e) => {
+  const card = e.target.closest('.doc-card');
+  if (card) {
+    const driveId = card.dataset.driveId;
+    const docId = card.dataset.docId;
+    const targetId = driveId || docId;
+
+    console.log('[SOS-CLICK] Clic Manual Detectado:', targetId);
+    alert('Clic detectado en: ' + targetId);
+
+    // Forzar Apertura del Visor (Brute Force)
+    const modal = document.getElementById('app-viewer-modal');
+    if (modal) {
+        modal.classList.remove('hidden');
+        modal.style.cssText = "display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: all !important;";
+        
+        // Inyectar Iframe de Drive Directo
+        if (targetId && !targetId.startsWith('v2-')) {
+            modal.innerHTML = `
+                <div style="position:relative; width:100%; height:100%; background:#000;">
+                    <button onclick="this.parentElement.parentElement.style.display='none'" 
+                            style="position:absolute; top:20px; right:20px; z-index:10001; background:red; color:white; border:none; padding:10px 20px; cursor:pointer; font-weight:bold; border-radius:4px;">
+                        CERRAR VISOR
+                    </button>
+                    <iframe src="https://drive.google.com/file/d/${targetId}/preview" 
+                            style="width:100%; height:100%; border:none;" 
+                            allow="autoplay"></iframe>
+                </div>
+            `;
+        } else {
+            console.warn('[SOS] No hay Drive ID válido o es un mock v2. Usando fallback...');
+            window.open(`https://drive.google.com/file/d/${targetId}/preview`, '_blank');
+        }
+    }
+  }
+};
+
+})(); // Fin de IIFE

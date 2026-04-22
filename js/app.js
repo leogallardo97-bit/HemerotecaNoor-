@@ -79,7 +79,7 @@ document.addEventListener('click', (e) => {
     const id = card.dataset.driveId || card.dataset.docId;
     console.log('[Noor-SOS] Clic detectado en:', id);
     
-    alert("¡Clic Funcionando!\nID detectado: " + id + "\nIntentando abrir visor...");
+    alert("¡Seguir Leyendo!\nAbriendo este cuaderno en el visor de alta resolución...");
     
     window.forceOpen(id);
   }

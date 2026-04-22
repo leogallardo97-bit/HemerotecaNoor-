@@ -27,6 +27,7 @@ const NoorState = (() => {
       regions: [],
       types: [],
       languages: [],
+      sections: [],
       yearRange: [711, 2100],
       sortBy: 'year_asc',
       viewMode: 'grid',
@@ -66,7 +67,18 @@ const NoorState = (() => {
     dispatch(action, payload) {
       switch (action) {
         case 'SET_DOCUMENTS':
-          _state.documents = payload;
+          // Enriquecimiento de Datos: Generar etiquetas de década automáticamente
+          const enrichedDocs = (payload || []).map(doc => {
+            if (doc.year) {
+              const decade = `Década ${Math.floor(doc.year / 10) * 10}`;
+              if (!doc.tags) doc.tags = [];
+              if (!doc.tags.includes(decade)) {
+                doc.tags.push(decade);
+              }
+            }
+            return doc;
+          });
+          _state.documents = enrichedDocs;
           _state.isLoading = false;
           break;
 
@@ -232,6 +244,17 @@ const NoorState = (() => {
       // ── Filtro por idioma ──
       if (filters.languages.length > 0) {
         results = results.filter(doc => filters.languages.includes(doc.language));
+      }
+
+      // ── Filtro por secciones (01_REVISTAS, etc) ──
+      if (filters.sections.length > 0) {
+        results = results.filter(doc => {
+          return filters.sections.some(secName => 
+            (doc.localPath && doc.localPath.includes(secName)) || 
+            (doc.header && doc.header.includes(secName)) ||
+            (doc.id && doc.id.startsWith('v2-') && secName === '01_REVISTAS') // Fallback para mock v2
+          );
+        });
       }
 
       // ── Filtro por rango de año ──

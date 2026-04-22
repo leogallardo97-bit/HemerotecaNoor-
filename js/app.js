@@ -13,17 +13,91 @@
  *   4. NoorRouter.init()            → Activa la navegación por URL
  */
 
+// ── Captura de Errores Globales ──
+window.onerror = function(msg, url, lineNo, columnNo, error) {
+  const meta = `[Error Fatal] ${msg}\nArchivo: ${url}\nLínea: ${lineNo}`;
+  console.error(meta, error);
+  return false;
+};
+
+/**
+ * window.forceOpen(driveId)
+ * SISTEMA DE EMERGENCIA: Apertura directa del visor.
+ */
+window.forceOpen = function(idOrDriveId) {
+  console.log('[Noor-SOS] Ejecutando apertura de emergencia:', idOrDriveId);
+  
+  const state = (window.NoorState && window.NoorState.getState) ? window.NoorState.getState() : { documents: [] };
+  let doc = state.documents.find(d => 
+    d.id === idOrDriveId || 
+    (d.media && d.media.driveFileId === idOrDriveId) || 
+    d.driveId === idOrDriveId
+  );
+  
+  if (!doc && window.NoorMockData) {
+    doc = window.NoorMockData.find(d => d.id === idOrDriveId || d.driveId === idOrDriveId);
+  }
+
+  if (!doc && idOrDriveId && idOrDriveId.length > 20) {
+    doc = {
+      id: 'SOS-' + idOrDriveId,
+      title: 'Documento Recuperado (S.O.S)',
+      driveId: idOrDriveId,
+      type: 'newspaper',
+      _source: 'emergency'
+    };
+  }
+
+  if (doc && window.DocumentViewer) {
+    window.DocumentViewer.open(doc);
+    
+    const driveIdForBack = doc.driveId || (doc.media && doc.media.driveFileId);
+    if (driveIdForBack && !driveIdForBack.startsWith('v2-')) {
+        setTimeout(() => {
+            const overlay = document.getElementById('viewer-overlay');
+            if (overlay && (!overlay.classList.contains('open') || window.getComputedStyle(overlay).opacity === '0')) {
+                console.warn('[Noor-SOS] Modal no manifestado. Intentando apertura externa...');
+                window.open(`https://drive.google.com/file/d/${driveIdForBack}/preview`, '_blank');
+            }
+        }, 2000);
+    }
+  } else {
+    if (idOrDriveId && idOrDriveId.length > 20 && !idOrDriveId.startsWith('v2-')) {
+      window.open(`https://drive.google.com/file/d/${idOrDriveId}/preview`, '_blank');
+    } else {
+      alert("Error Crítico: No se pudo localizar el recurso para el ID " + idOrDriveId);
+    }
+  }
+};
+
+// ── Delegación Universal de Clics (Anti-Errores de DOM) ──
+document.addEventListener('click', (e) => {
+  if (e.target.closest('.doc-card__report-btn') || e.target.closest('.vbtn-report')) return;
+
+  const card = e.target.closest('.doc-card');
+  if (card) {
+    const id = card.dataset.driveId || card.dataset.docId;
+    console.log('[Noor-SOS] Clic detectado en:', id);
+    
+    alert("¡Clic Funcionando!\nID detectado: " + id + "\nIntentando abrir visor...");
+    
+    window.forceOpen(id);
+  }
+});
+
 (async function initNoorApp() {
   console.log('╔══════════════════════════════════════════╗');
   console.log('║    ARCHIVO NOOR — v1.0.0 (Fase 5 ✓)    ║');
   console.log('╚══════════════════════════════════════════╝');
   console.log('[App] Iniciando...');
 
-  // ── Service Worker (caché offline + producción) ──
+  // ── Limpieza Critica de Service Worker (Plan de Emergencia) ──
   if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('/sw.js')
-      .then(reg => console.log('[SW] ✓ Registrado. Scope:', reg.scope))
-      .catch(err => console.warn('[SW] No se pudo registrar:', err));
+    navigator.serviceWorker.getRegistrations().then(registrations => {
+      for(let registration of registrations) {
+        registration.unregister().then(() => console.log('[SW] ✗ Antiguo ServiceWorker desregistrado.'));
+      }
+    });
   }
 
   // ── Inicializar autenticación del Admin ──

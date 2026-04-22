@@ -58,8 +58,11 @@ const _viewerState = {
   rotation: 0,              // grados de rotación: 0, 90, 180, 270
   osdViewer: null,          // instancia de OpenSeadragon
   isLoading: false,
+  _savedScroll: 0,           // Misión: Modo Lectura Continua
+};
   showMeta: true,
   highlightQuery: '',       // término de búsqueda a resaltar en transcripción
+  isPreviewOnly: false,     // Activa el modo Visor Seguro (Google Drive Preview)
 };
 
 // ─────────────────────────────────────────────────────────
@@ -137,10 +140,27 @@ async function openViewer(doc) {
   _viewerState.isOpen     = true;
   _viewerState.currentPage = 0;
   _viewerState.rotation   = 0;
+
+  // Modo Lectura Continua: Guardar posición actual
+  _viewerState._savedScroll = window.scrollY;
   _viewerState.imageFilters = { ...DEFAULT_IMAGE_FILTERS };
 
   // Determinar el número de páginas
   _viewerState.totalPages = (doc.media?.pages?.length) || 1;
+
+  // Misión Crítica: ¿Debe usar el Visor Seguro (Google Drive)?
+  // Si viene de la colección 01_REVISTAS o es un PDF de Drive, usamos el Previewer
+  const isRevista = doc.id.startsWith('v2-') || 
+                    doc.id.startsWith('rev-v2') || 
+                    doc.id.startsWith('local-rev') ||
+                    (doc.localPath && doc.localPath.toUpperCase().includes('REVISTAS'));
+                    
+  const hasDriveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) || 
+                    doc.driveId || 
+                    doc.media?.pdf;
+  
+  _viewerState.isPreviewOnly = isRevista && hasDriveId;
+  _viewerState.showMeta = !_viewerState.isPreviewOnly; // Ocultar metadatos por defecto en modo seguro para ganar espacio
 
   // Si el documento tiene transcripción, activar side-by-side por defecto
   const hasTranscript = doc.transcription?.pages?.length > 0 || doc.transcription?.fullText;
@@ -148,7 +168,15 @@ async function openViewer(doc) {
 
   // Mostrar el overlay
   const overlay = document.getElementById('viewer-overlay');
-  if (overlay) overlay.classList.add('open');
+  const shellBody = document.querySelector('.viewer-body');
+
+  if (overlay) {
+    overlay.classList.add('open');
+    overlay.classList.toggle('viewer-overlay--preview-mode', _viewerState.isPreviewOnly);
+  }
+  if (shellBody) {
+    shellBody.classList.toggle('viewer-body--preview', _viewerState.isPreviewOnly);
+  }
   document.body.style.overflow = 'hidden';
 
   // Re-renderizar con el nuevo documento
@@ -169,6 +197,12 @@ async function openViewer(doc) {
   const overlay = document.getElementById('viewer-overlay');
   if (overlay) overlay.classList.remove('open');
   document.body.style.overflow = '';
+
+  // Modo Lectura Continua: Restaurar posición exacta
+  window.scrollTo({
+    top: _viewerState._savedScroll,
+    behavior: 'instant'
+  });
 
   // Destruir la instancia de OSD para liberar memoria
   if (_viewerState.osdViewer) {
@@ -448,6 +482,29 @@ function _renderViewerContent() {
 
   // ── Paginación inferior ──
   _updatePageIndicator();
+
+  // ── Misión Crítica: Ajustar UI para Modo Seguro (Preview Only) ──
+  const toolbarButtons = ['vbtn-zoom-in', 'vbtn-zoom-out', 'vbtn-zoom-fit', 'vbtn-rotate-l', 'vbtn-rotate-r', 'vmode-image', 'vmode-split', 'vmode-transcript', 'vbtn-download'];
+  toolbarButtons.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = _viewerState.isPreviewOnly ? 'none' : '';
+  });
+
+  // El botón Plan B siempre visible en modo preview
+  const planBBtn = document.getElementById('vbtn-plan-b');
+  if (planBBtn) {
+    planBBtn.style.display = _viewerState.isPreviewOnly ? 'flex' : 'none';
+  }
+
+  // Forzar ocultación de panel de metadatos si es modo seguro
+  const metaPanel = document.getElementById('viewer-meta-panel');
+  if (metaPanel) {
+    metaPanel.style.display = _viewerState.showMeta ? '' : 'none';
+  }
+  const toggleMetaBtn = document.getElementById('vbtn-toggle-meta');
+  if (toggleMetaBtn) {
+    toggleMetaBtn.classList.toggle('active', _viewerState.showMeta);
+  }
 
   // ── Reinicializar íconos Lucide ──
   if (window.lucide) lucide.createIcons();
@@ -764,7 +821,7 @@ async function _loadPage(pageIdx) {
   if (!doc) return;
 
   const pages = doc.media?.pages || [];
-  const fileId = pages[pageIdx] || doc.media?.driveFileId || '';
+  const fileId = pages[pageIdx] || doc.media?.driveFileId || doc.driveId || doc.media?.pdf || '';
 
   _viewerState.currentPage = pageIdx;
   _viewerState.totalPages   = Math.max(pages.length, 1);
@@ -775,6 +832,23 @@ async function _loadPage(pageIdx) {
   _renderTranscriptionText(); // actualizar transcripción de la nueva página
 
   _setLoading(true);
+
+  // ── CASO: VISOR SEGURO (Google Drive Preview) ──
+  if (_viewerState.isPreviewOnly && fileId) {
+    const container = document.getElementById('osd-container');
+    if (container) {
+      container.innerHTML = `
+        <iframe 
+          src="https://drive.google.com/file/d/${fileId}/preview" 
+          width="100%" height="100%" 
+          style="border:none; background:#000;" 
+          allow="autoplay">
+        </iframe>
+      `;
+      _setLoading(false);
+      return; 
+    }
+  }
 
   // Comprobar si el documento es un PDF local o PDF de Drive
   const isPDF = doc.type === 'newspaper' || (doc.localPath && doc.localPath.toLowerCase().endsWith('.pdf'));
@@ -1039,6 +1113,18 @@ function _applyViewMode(mode) {
 
 function _bindViewerEvents() {
   const get = (id) => document.getElementById(id);
+
+  // ── Plan B (Apertura de Emergencia) ──
+  get('vbtn-plan-b')?.addEventListener('click', () => {
+    const doc = _viewerState.document;
+    const driveId = doc?.driveId || doc?.media?.driveFileId || doc?.media?.pdf;
+    if (driveId) {
+      console.log('[Noor-SOS] Ejecutando Plan B para:', driveId);
+      window.open(`https://drive.google.com/file/d/${driveId}/preview`, '_blank');
+    } else {
+      alert('No se detectó un ID de Drive válido para este documento.');
+    }
+  });
 
   // ── Cerrar ──
   get('viewer-close-btn')?.addEventListener('click', closeViewer);

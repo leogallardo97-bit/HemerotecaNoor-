@@ -155,30 +155,16 @@ function renderResultsGrid() {
     }
 
     container.innerHTML = `
-      <div class="documents-grid ${viewMode === 'list' ? 'list-view' : ''}" role="list" aria-label="${total} documentos">
+      <div class="documents-grid fade-in-section ${viewMode === 'list' ? 'list-view' : ''}" role="list" aria-label="${total} documentos">
         ${validResults.map(doc => buildDocumentCard(doc, HISTORICAL_ERAS)).join('')}
       </div>
     `;
 
     if (window.lucide) lucide.createIcons();
-
-    // Evento click en tarjeta → abre el visor o el PDF directamente
-    container.querySelectorAll('.doc-card').forEach(card => {
-      card.addEventListener('click', () => {
-        const docId = card.dataset.docId;
-        const documents = NoorState.getState().documents;
-        const doc = documents.find(d => d.id === docId);
-        
-        if (doc) {
-          NoorState.dispatch('SELECT_DOCUMENT', doc);
-          console.log('[Noor] Documento seleccionado para el visor:', doc.title);
-        }
-      });
-    });
-
     renderPagination(total, totalPages, state.filters.page);
   }
 
+  // Lógica de grid y suscripción
   buildGrid(NoorState.getState());
   NoorState.subscribe('*', buildGrid);
 }
@@ -213,9 +199,11 @@ function buildDocumentCard(doc, eras) {
 
   // Thumbnail: usar Drive API (con HQ w1000) o local thumbnail
   let thumbUrl = '';
-  if (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) {
+  const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) ? doc.media.driveFileId : (doc.driveId || doc.media?.pdf);
+  
+  if (driveId) {
     // Misión Crítica: Forzar HQ (w1000) para nitidez absoluta en miniaturas
-    thumbUrl = `https://drive.google.com/thumbnail?id=${doc.media.driveFileId}&sz=w1000`;
+    thumbUrl = `https://drive.google.com/thumbnail?id=${driveId}&sz=w1000`;
   } else if (doc.media?.thumbnail) {
     thumbUrl = doc.media.thumbnail;
   }
@@ -240,6 +228,7 @@ function buildDocumentCard(doc, eras) {
       <article
         class="doc-card"
         data-doc-id="${doc.id}"
+        data-drive-id="${driveId}"
         role="listitem"
         tabindex="0"
         aria-label="${doc.title}, ${doc.year}"
@@ -260,14 +249,12 @@ function buildDocumentCard(doc, eras) {
             <span>·</span>
             ${tagHtml}
             <div style="flex-grow:1"></div>
-            <a href="https://docs.google.com/forms/d/e/TU_ID_AQUI/viewform?entry.1234=${encodeURIComponent(doc.title)}" 
-               target="_blank"
-               class="doc-card__report-btn" 
-               title="Reportar error o sugerencia"
-               onclick="event.stopPropagation()"
+            <button class="doc-card__report-btn" 
+                title="Reportar error o sugerencia"
+                onclick="event.stopPropagation(); window.open(`https://docs.google.com/forms/d/e/TU_ID_AQUI/viewform?entry.1234=${encodeURIComponent(doc.title)}`, '_blank')"
             >
               <i data-lucide="message-square" width="14" height="14"></i>
-            </a>
+            </button>
           </div>
         </div>
       </article>

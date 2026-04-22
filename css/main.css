@@ -531,7 +531,7 @@ input[type="range"] {
   border: var(--border-ornate);
   border-radius: 6px;
   overflow: hidden;
-  cursor: pointer;
+  cursor: pointer !important;
   transition: var(--transition-base);
   animation: fadeIn 0.4s ease-in-out;
   position: relative;

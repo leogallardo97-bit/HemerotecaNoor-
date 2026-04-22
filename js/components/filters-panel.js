@@ -12,13 +12,12 @@ function renderFiltersPanel() {
   const localSections = window.NoorLocalDB?.sections || [];
 
   // Calculadores de conteo (para mostrar cuántos docs tiene cada filtro)
-  function countBySection(sectionId) { 
-    const section = localSections.find(s => s.id === sectionId);
-    if (section.label === '01_REVISTAS') {
-      // Conteo dinámico de Drive (tiempo real)
-      return documents.filter(d => (d.localPath && d.localPath.includes(section.label)) || d._source === 'drive').length;
-    }
-    return documents.filter(d => d.localPath && d.localPath.includes(section.label)).length; 
+  function countBySection(sectionLabel) { 
+    return documents.filter(doc => (
+      (doc.localPath && doc.localPath.includes(sectionLabel)) || 
+      (doc.header && doc.header.includes(sectionLabel)) ||
+      (doc.id && doc.id.startsWith('v2-') && sectionLabel === '01_REVISTAS')
+    )).length;
   }
   function countByEra(eraId) { return documents.filter(d => d.eraId === eraId).length; }
   function countByTheme(themeId) { return documents.filter(d => (d.themes || []).includes(themeId)).length; }
@@ -38,12 +37,12 @@ function renderFiltersPanel() {
         <div class="filter-group">
           <p class="filter-group__label">Secciones Drive</p>
           ${localSections.map(sec => `
-            <div class="filter-option" data-filter-key="query" data-filter-value="${sec.label}" role="checkbox" tabindex="0" aria-checked="false">
+            <div class="filter-option" data-filter-key="sections" data-filter-value="${sec.label}" role="checkbox" tabindex="0" aria-checked="false">
               <label class="filter-option__label" style="cursor:pointer">
                 <span class="filter-option__checkbox"></span>
                 <span style="color:var(--color-gold-light); font-weight: 600">${sec.label}</span>
               </label>
-              <span class="filter-option__count">${countBySection(sec.id)}</span>
+              <span class="filter-option__count">${countBySection(sec.label)}</span>
             </div>
           `).join('')}
         </div>
@@ -198,11 +197,11 @@ function renderFiltersPanel() {
 
     // Helpers inside state callback for realtime updates
     const getCount = (key, value) => {
-      if (key === 'query') { // Esto es para Sections (ej. 01_REVISTAS)
-        return currentDocuments.filter(d => 
-          (d.localPath && d.localPath.includes(value)) || 
-          (d.header && d.header.includes(value)) || 
-          (d.tags && d.tags.includes(value))
+      if (key === 'sections') { 
+        return currentDocuments.filter(doc => 
+          (doc.localPath && doc.localPath.includes(value)) || 
+          (doc.header && doc.header.includes(value)) ||
+          (doc.id && doc.id.startsWith('v2-') && value === '01_REVISTAS')
         ).length; 
       }
       if (key === 'eraIds') return currentDocuments.filter(d => d.eraId === value).length;

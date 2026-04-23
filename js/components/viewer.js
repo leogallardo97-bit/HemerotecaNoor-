@@ -185,11 +185,9 @@ async function openViewer(doc) {
   await _loadPage(0);
 }
 
-/**
- * closeViewer()
- * Cierra el visor y limpia los recursos de OpenSeadragon.
- */
+async function closeViewer() {
   // capturar el ID antes de limpiar para el cross-linking
+
   const closedId = _viewerState.document?.id;
 
   _viewerState.isOpen   = false;

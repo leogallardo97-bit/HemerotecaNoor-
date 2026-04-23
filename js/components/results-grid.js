@@ -243,7 +243,8 @@ function buildDocumentCard(doc, eras) {
       <article
         class="doc-card"
         data-doc-id="${doc.id}"
-        data-drive-id="${driveId}"
+        data-drive-id="${driveId || ''}"
+
         role="listitem"
         tabindex="0"
         aria-label="${doc.title}, ${doc.year}"

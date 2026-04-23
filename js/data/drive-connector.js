@@ -79,28 +79,43 @@ const DriveConnector = (() => {
       NoorState.dispatch('SET_SYNCING', true);
       if (!gapiInited) await loadScripts();
 
-      let response;
-      const listParams = {
-        q: `'${CONFIG.ROOT_FOLDER_ID}' in parents and trashed = false`,
-        fields: 'files(id, name, description, webViewLink, thumbnailLink, mimeType, size, createdTime)',
-        pageSize: 1000
-      };
+      const collections = window.APP_CONFIG.COLLECTIONS || { 'DEFAULT': window.APP_CONFIG.ROOT_FOLDER_ID };
+      let allFiles = [];
 
-      // Si no tenemos token, intentamos usar la API Key para carpetas públicas
-      const token = gapi.client.getToken();
-      if (!token) {
-        console.log('[DriveConnector] Intentando acceso público vía API Key...');
-        // GAPI permite usar 'key' en la query si no hay auth
-        listParams.key = CONFIG.API_KEY;
-        response = await gapi.client.drive.files.list(listParams);
-      } else {
-        response = await gapi.client.drive.files.list(listParams);
+      for (const [colName, folderId] of Object.entries(collections)) {
+        if (!folderId) {
+          console.warn(`[DriveConnector] Colección ${colName} sin ID configurado. Saltando...`);
+          continue;
+        }
+
+        console.log(`[DriveConnector] Sincronizando colección: ${colName} (${folderId})...`);
+        
+        let response;
+        const listParams = {
+          q: `'${folderId}' in parents and trashed = false`,
+          fields: 'files(id, name, description, webViewLink, thumbnailLink, mimeType, size, createdTime)',
+          pageSize: 1000
+        };
+
+        const token = gapi.client.getToken();
+        if (!token) {
+          listParams.key = CONFIG.API_KEY;
+          response = await gapi.client.drive.files.list(listParams);
+        } else {
+          response = await gapi.client.drive.files.list(listParams);
+        }
+
+        const files = response.result.files || [];
+        allFiles = allFiles.concat(files);
       }
 
-      const files = response.result.files || [];
-      const documents = [];
+      if (allFiles.length === 0) {
+        console.warn('[DriveConnector] No se encontraron archivos en ninguna colección.');
+        return [];
+      }
 
-      for (const file of files) {
+      const documents = [];
+      for (const file of allFiles) {
         const doc = _parseFileNameToDocument(file);
         if (doc) {
           await NoorDB.docMeta.save(doc);
@@ -108,12 +123,12 @@ const DriveConnector = (() => {
         }
       }
 
-      // Actualizar estado global y forzar re-renderizado
       const allDocs = await NoorDB.docMeta.getMergedWithMock();
       NoorState.dispatch('SET_DOCUMENTS', allDocs);
       
       console.log(`[DriveConnector] ✓ Sincronización completa. ${documents.length} archivos procesados.`);
       return documents;
+
 
     } catch (err) {
       console.error('[DriveConnector] ✗ Error de sincronización:', err);
@@ -134,17 +149,27 @@ const DriveConnector = (() => {
    */
   function _parseFileNameToDocument(file) {
     const filename = file.name;
+    const isRecetario = file._collection === '03_RECETARIO';
     
-    // 1. Extraer fecha (YYYY-MM-DD) en cualquier parte del nombre
+    // 1. Extraer fecha (YYYY-MM-DD)
     const dateMatch = filename.match(/(\d{4}-\d{2}-\d{2})/);
-    if (!dateMatch) {
-      console.warn(`[DriveConnector] Saltando archivo (sin fecha ISO): ${filename}`);
-      return null;
+    let dateStr, year;
+
+    if (dateMatch) {
+      dateStr = dateMatch[1];
+      year = parseInt(dateStr.split('-')[0]);
+    } else {
+      // Fallback para recetarios u otros: Buscar solo el año (YYYY)
+      const yearMatch = filename.match(/(\d{4})/);
+      year = yearMatch ? parseInt(yearMatch[1]) : 2024;
+      dateStr = `${year}-01-01`;
+      
+      if (!isRecetario && !yearMatch) {
+        console.warn(`[DriveConnector] Saltando archivo (sin fecha ni año): ${filename}`);
+        return null;
+      }
     }
-    
-    const dateStr = dateMatch[1];
-    const [yearStr, month, day] = dateStr.split('-');
-    const year = parseInt(yearStr);
+
 
     // 2. Limpiar nombre para extraer Cabecera y Título
     // Quitamos códigos como 05_, PER_01_, etc.

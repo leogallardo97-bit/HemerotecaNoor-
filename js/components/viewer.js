@@ -152,7 +152,9 @@ async function openViewer(doc) {
   const isRevista = doc.id.startsWith('v2-') || 
                     doc.id.startsWith('rev-v2') || 
                     doc.id.startsWith('local-rev') ||
+                    doc.id.startsWith('local-rec') ||
                     (doc.localPath && (doc.localPath.toUpperCase().includes('REVISTAS') || doc.localPath.toUpperCase().includes('LIBROS') || doc.localPath.toUpperCase().includes('RECETARIO')));
+
                     
   const hasDriveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) || 
                     doc.driveId || 

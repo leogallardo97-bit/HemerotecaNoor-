@@ -199,17 +199,22 @@ function buildDocumentCard(doc, eras) {
 
   // Thumbnail: usar Drive API (con HQ w1000) o local thumbnail
   let thumbUrl = '';
-  const isLocalRecetario = doc.id.startsWith('local-rec-') || (doc.driveId && doc.driveId.startsWith('local-rec-'));
-  const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER') && !doc.media.driveFileId.startsWith('local-')) 
-                  ? doc.media.driveFileId 
-                  : (doc.driveId && !doc.driveId.startsWith('local-') ? doc.driveId : null);
   
+  // Extracción robusta de Drive ID
+  const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER') && !doc.media.driveFileId.startsWith('local-'))
+    ? doc.media.driveFileId
+    : (doc.driveId && !doc.driveId.startsWith('local-') ? doc.driveId : 
+      (doc.media?.pdf && !doc.media.pdf.startsWith('local-') ? doc.media.pdf : null));
+  
+  const isLocalRecetario = doc.id.startsWith('local-rec-') || (driveId === null && doc.localPath?.includes('RECETARIO'));
+
   if (driveId) {
     // Misión Crítica: Forzar HQ (w1000) para nitidez absoluta en miniaturas
     thumbUrl = `https://drive.google.com/thumbnail?id=${driveId}&sz=w1000`;
   } else if (doc.media?.thumbnail) {
     thumbUrl = doc.media.thumbnail;
   }
+
 
   const thumbHtml = thumbUrl
     ? `<img src="${thumbUrl}" alt="Portada: ${doc.title}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\'doc-card__thumb-fallback\'><span>${doc.title.substring(0,20)}...</span></div>'" />`

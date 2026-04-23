@@ -1520,8 +1520,8 @@ window.NoorLocalDB = {
       localPath: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS/05_2007-12-22_PER_01_ElPais_11_Hotel_Hospes_.pdf',
       media: { thumbnail: 'img/thumbnails/local-per-2007-01.jpg' }
     },
-﻿    {
-      "id": "local-rec-03_Menu_Torralbenc_Picnic_Hotel",
+    {
+      "id": "local-rec-03_Menu_Torralbenc_Picnic_Hotel", "driveId": "local-rec-03_Menu_Torralbenc_Picnic_Hotel", "category": "03_RECETARIO",
       "title": "03_Menu_Torralbenc_Picnic_Hotel",
       "year": 2026,
       "type": "book",
@@ -1535,7 +1535,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-03_Menu_Mayusculas_Restaurante_Carta",
+      "id": "local-rec-03_Menu_Mayusculas_Restaurante_Carta", "driveId": "local-rec-03_Menu_Mayusculas_Restaurante_Carta", "category": "03_RECETARIO",
       "title": "03_Menu_Mayusculas_Restaurante_Carta",
       "year": 2026,
       "type": "book",
@@ -1549,7 +1549,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-03_Menu_No10_Taberna_Cordoba",
+      "id": "local-rec-03_Menu_No10_Taberna_Cordoba", "driveId": "local-rec-03_Menu_No10_Taberna_Cordoba", "category": "03_RECETARIO",
       "title": "03_Menu_No10_Taberna_Cordoba",
       "year": 2026,
       "type": "book",
@@ -1563,7 +1563,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-03_Sugerencias_Maridaje_Vinos_Pescaito",
+      "id": "local-rec-03_Sugerencias_Maridaje_Vinos_Pescaito", "driveId": "local-rec-03_Sugerencias_Maridaje_Vinos_Pescaito", "category": "03_RECETARIO",
       "title": "03_Sugerencias_Maridaje_Vinos_Pescaito",
       "year": 2026,
       "type": "book",
@@ -1577,7 +1577,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-Menu_Noor_Restaurante_PacoMorales",
+      "id": "local-rec-Menu_Noor_Restaurante_PacoMorales", "driveId": "local-rec-Menu_Noor_Restaurante_PacoMorales", "category": "03_RECETARIO",
       "title": "Menu_Noor_Restaurante_PacoMorales",
       "year": 2026,
       "type": "book",
@@ -1591,7 +1591,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03_(1)",
+      "id": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03_(1)", "driveId": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03_(1)", "category": "03_RECETARIO",
       "title": "2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03 (1)",
       "year": 2021,
       "type": "book",
@@ -1605,7 +1605,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_01_01_Menu_Suculencia_Casa_Gerardo",
+      "id": "local-rec-2015_01_01_Menu_Suculencia_Casa_Gerardo", "driveId": "local-rec-2015_01_01_Menu_Suculencia_Casa_Gerardo", "category": "03_RECETARIO",
       "title": "2015-01-01_Menu_Suculencia_Casa-Gerardo",
       "year": 2015,
       "type": "book",
@@ -1619,7 +1619,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-24_I_Congreso_Internacional_Halal_Cordoba_Programa_Seccion_03",
+      "id": "local-rec-24_I_Congreso_Internacional_Halal_Cordoba_Programa_Seccion_03", "driveId": "local-rec-24_I_Congreso_Internacional_Halal_Cordoba_Programa_Seccion_03", "category": "03_RECETARIO",
       "title": "24_I_Congreso_Internacional_Halal_Cordoba_Programa_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -1633,7 +1633,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_14_Carta_Senzone",
+      "id": "local-rec-2026_03_14_Carta_Senzone", "driveId": "local-rec-2026_03_14_Carta_Senzone", "category": "03_RECETARIO",
       "title": "2026-03-14_Carta_Senzone",
       "year": 2026,
       "type": "book",
@@ -1647,7 +1647,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03_(2)",
+      "id": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03_(2)", "driveId": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03_(2)", "category": "03_RECETARIO",
       "title": "2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03 (2)",
       "year": 2021,
       "type": "book",
@@ -1661,7 +1661,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-10_Malaga_Gastronomy_Festival_Cocinando_entre_amigos_Bardal_Noor_Seccion_03",
+      "id": "local-rec-10_Malaga_Gastronomy_Festival_Cocinando_entre_amigos_Bardal_Noor_Seccion_03", "driveId": "local-rec-10_Malaga_Gastronomy_Festival_Cocinando_entre_amigos_Bardal_Noor_Seccion_03", "category": "03_RECETARIO",
       "title": "10_Malaga_Gastronomy_Festival_Cocinando_entre_amigos_Bardal_Noor_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -1675,7 +1675,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03",
+      "id": "local-rec-2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03", "driveId": "local-rec-2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03", "category": "03_RECETARIO",
       "title": "2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03",
       "year": 2014,
       "type": "book",
@@ -1689,7 +1689,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-24_Menu_Territorio_Casa_Marcial_Nacho_Manzano_Seccion_03",
+      "id": "local-rec-24_Menu_Territorio_Casa_Marcial_Nacho_Manzano_Seccion_03", "driveId": "local-rec-24_Menu_Territorio_Casa_Marcial_Nacho_Manzano_Seccion_03", "category": "03_RECETARIO",
       "title": "24_Menu_Territorio_Casa_Marcial_Nacho_Manzano_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -1703,7 +1703,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2016_08_24_Menu_Territorio_Casa_Marcial",
+      "id": "local-rec-2016_08_24_Menu_Territorio_Casa_Marcial", "driveId": "local-rec-2016_08_24_Menu_Territorio_Casa_Marcial", "category": "03_RECETARIO",
       "title": "2016-08-24_Menu_Territorio_Casa-Marcial",
       "year": 2016,
       "type": "book",
@@ -1717,7 +1717,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-11_Menu_Degustacion_Lasarte_Martin_Berasategui_Seccion_03",
+      "id": "local-rec-11_Menu_Degustacion_Lasarte_Martin_Berasategui_Seccion_03", "driveId": "local-rec-11_Menu_Degustacion_Lasarte_Martin_Berasategui_Seccion_03", "category": "03_RECETARIO",
       "title": "11_Menu_Degustacion_Lasarte_Martin_Berasategui_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -1731,7 +1731,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-18_Diario_de_Navegacion_y_Mareas_Aponiente_Angel_Leon_Seccion_03",
+      "id": "local-rec-18_Diario_de_Navegacion_y_Mareas_Aponiente_Angel_Leon_Seccion_03", "driveId": "local-rec-18_Diario_de_Navegacion_y_Mareas_Aponiente_Angel_Leon_Seccion_03", "category": "03_RECETARIO",
       "title": "18_Diario_de_Navegacion_y_Mareas_Aponiente_Angel_Leon_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -1745,7 +1745,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2016_06_07_Menu_Degustacion_Dstage",
+      "id": "local-rec-2016_06_07_Menu_Degustacion_Dstage", "driveId": "local-rec-2016_06_07_Menu_Degustacion_Dstage", "category": "03_RECETARIO",
       "title": "2016-06-07_Menu_Degustacion_Dstage",
       "year": 2016,
       "type": "book",
@@ -1759,7 +1759,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2016_08_25_Menu_Suculencia_Casa_Gerardo",
+      "id": "local-rec-2016_08_25_Menu_Suculencia_Casa_Gerardo", "driveId": "local-rec-2016_08_25_Menu_Suculencia_Casa_Gerardo", "category": "03_RECETARIO",
       "title": "2016-08-25_Menu_Suculencia_Casa-Gerardo",
       "year": 2016,
       "type": "book",
@@ -1773,7 +1773,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_Menu_Especial_del_Dia_Disfrutar_Barcelona_Seccion_03",
+      "id": "local-rec-2015_Menu_Especial_del_Dia_Disfrutar_Barcelona_Seccion_03", "driveId": "local-rec-2015_Menu_Especial_del_Dia_Disfrutar_Barcelona_Seccion_03", "category": "03_RECETARIO",
       "title": "2015_Menu_Especial_del_Dia_Disfrutar_Barcelona_Seccion_03",
       "year": 2015,
       "type": "book",
@@ -1787,7 +1787,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03",
+      "id": "local-rec-11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03", "driveId": "local-rec-11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03", "category": "03_RECETARIO",
       "title": "11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -1801,7 +1801,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03",
+      "id": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03", "driveId": "local-rec-2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03", "category": "03_RECETARIO",
       "title": "2021_Menu_Retrospectiva_Noor_Restaurant_Paco_Morales_Seccion_03",
       "year": 2021,
       "type": "book",
@@ -1815,7 +1815,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2019_11_26_Menu_Especial_Disfrutar_Barcelona",
+      "id": "local-rec-2019_11_26_Menu_Especial_Disfrutar_Barcelona", "driveId": "local-rec-2019_11_26_Menu_Especial_Disfrutar_Barcelona", "category": "03_RECETARIO",
       "title": "2019-11-26_Menu_Especial_Disfrutar-Barcelona",
       "year": 2019,
       "type": "book",
@@ -1829,7 +1829,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Degustacion_Jordnaer",
+      "id": "local-rec-2026_03_18_Menu_Degustacion_Jordnaer", "driveId": "local-rec-2026_03_18_Menu_Degustacion_Jordnaer", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Degustacion_Jordnaer",
       "year": 2026,
       "type": "book",
@@ -1843,7 +1843,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_Menu_Colaboracion_Paco_Morales_Daniel_Chavez_OLA_Singapore_Seccion_03",
+      "id": "local-rec-2017_Menu_Colaboracion_Paco_Morales_Daniel_Chavez_OLA_Singapore_Seccion_03", "driveId": "local-rec-2017_Menu_Colaboracion_Paco_Morales_Daniel_Chavez_OLA_Singapore_Seccion_03", "category": "03_RECETARIO",
       "title": "2017_Menu_Colaboracion_Paco_Morales_Daniel_Chavez_OLA_Singapore_Seccion_03",
       "year": 2017,
       "type": "book",
@@ -1857,7 +1857,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_04_25_Gran_Menu_Restaurante_Santceloni_Seccion_03",
+      "id": "local-rec-2017_04_25_Gran_Menu_Restaurante_Santceloni_Seccion_03", "driveId": "local-rec-2017_04_25_Gran_Menu_Restaurante_Santceloni_Seccion_03", "category": "03_RECETARIO",
       "title": "2017-04-25_Gran_Menu_Restaurante_Santceloni_Seccion_03",
       "year": 2017,
       "type": "book",
@@ -1871,7 +1871,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_Menu_Caleidoscopio_Dani_Garcia_Puente_Romano_Seccion_03",
+      "id": "local-rec-2014_Menu_Caleidoscopio_Dani_Garcia_Puente_Romano_Seccion_03", "driveId": "local-rec-2014_Menu_Caleidoscopio_Dani_Garcia_Puente_Romano_Seccion_03", "category": "03_RECETARIO",
       "title": "2014_Menu_Caleidoscopio_Dani_Garcia_Puente_Romano_Seccion_03",
       "year": 2014,
       "type": "book",
@@ -1885,7 +1885,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2018_08_15_Menu_Degustacion_SUD777",
+      "id": "local-rec-2018_08_15_Menu_Degustacion_SUD777", "driveId": "local-rec-2018_08_15_Menu_Degustacion_SUD777", "category": "03_RECETARIO",
       "title": "2018-08-15_Menu_Degustacion_SUD777",
       "year": 2018,
       "type": "book",
@@ -1899,7 +1899,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2019_Menu_Degustacion_Restaurante_Pujol_Enrique_Olvera_Seccion_03",
+      "id": "local-rec-2019_Menu_Degustacion_Restaurante_Pujol_Enrique_Olvera_Seccion_03", "driveId": "local-rec-2019_Menu_Degustacion_Restaurante_Pujol_Enrique_Olvera_Seccion_03", "category": "03_RECETARIO",
       "title": "2019_Menu_Degustacion_Restaurante_Pujol_Enrique_Olvera_Seccion_03",
       "year": 2019,
       "type": "book",
@@ -1913,7 +1913,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2007_Armonia_de_Vinos_Aponiente_Maestro_Sierra_Seccion_03",
+      "id": "local-rec-2007_Armonia_de_Vinos_Aponiente_Maestro_Sierra_Seccion_03", "driveId": "local-rec-2007_Armonia_de_Vinos_Aponiente_Maestro_Sierra_Seccion_03", "category": "03_RECETARIO",
       "title": "2007_Armonia_de_Vinos_Aponiente_Maestro_Sierra_Seccion_03",
       "year": 2007,
       "type": "book",
@@ -1927,7 +1927,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Puerto_Escondido_Aponiente.pdf",
+      "id": "local-rec-2026_03_18_Menu_Puerto_Escondido_Aponiente.pdf", "driveId": "local-rec-2026_03_18_Menu_Puerto_Escondido_Aponiente.pdf", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Puerto-Escondido_Aponiente.pdf",
       "year": 2026,
       "type": "book",
@@ -1941,7 +1941,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Diseno_Tecnico_Taller_Paco_Roncero",
+      "id": "local-rec-2026_03_18_Diseno_Tecnico_Taller_Paco_Roncero", "driveId": "local-rec-2026_03_18_Diseno_Tecnico_Taller_Paco_Roncero", "category": "03_RECETARIO",
       "title": "2026-03-18_Diseno-Tecnico_Taller-Paco-Roncero",
       "year": 2026,
       "type": "book",
@@ -1955,7 +1955,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_Menu_New_Anatolian_Kitchen_Mikla_Restaurant_Seccion_03",
+      "id": "local-rec-2015_Menu_New_Anatolian_Kitchen_Mikla_Restaurant_Seccion_03", "driveId": "local-rec-2015_Menu_New_Anatolian_Kitchen_Mikla_Restaurant_Seccion_03", "category": "03_RECETARIO",
       "title": "2015_Menu_New_Anatolian_Kitchen_Mikla_Restaurant_Seccion_03",
       "year": 2015,
       "type": "book",
@@ -1969,7 +1969,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2018_01_09_Menu_Tradicion_Lobito_de_Mar",
+      "id": "local-rec-2018_01_09_Menu_Tradicion_Lobito_de_Mar", "driveId": "local-rec-2018_01_09_Menu_Tradicion_Lobito_de_Mar", "category": "03_RECETARIO",
       "title": "2018-01-09_Menu_Tradicion_Lobito-de-Mar",
       "year": 2018,
       "type": "book",
@@ -1983,7 +1983,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_12_11_Menu_Noches_Alhambra_Noor_Paco_Morales.pdf",
+      "id": "local-rec-2017_12_11_Menu_Noches_Alhambra_Noor_Paco_Morales.pdf", "driveId": "local-rec-2017_12_11_Menu_Noches_Alhambra_Noor_Paco_Morales.pdf", "category": "03_RECETARIO",
       "title": "2017-12-11_Menu_Noches-Alhambra_Noor-Paco-Morales.pdf",
       "year": 2017,
       "type": "book",
@@ -1997,7 +1997,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Xow_DiverXO_Dabiz_Munoz.pdf",
+      "id": "local-rec-2026_03_18_Menu_Xow_DiverXO_Dabiz_Munoz.pdf", "driveId": "local-rec-2026_03_18_Menu_Xow_DiverXO_Dabiz_Munoz.pdf", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Xow_DiverXO-Dabiz-Munoz.pdf",
       "year": 2026,
       "type": "book",
@@ -2011,7 +2011,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-14_Menu_Ria_Formosa_Sao_Gabriel_Creative_Cuisine_Seccion_03",
+      "id": "local-rec-14_Menu_Ria_Formosa_Sao_Gabriel_Creative_Cuisine_Seccion_03", "driveId": "local-rec-14_Menu_Ria_Formosa_Sao_Gabriel_Creative_Cuisine_Seccion_03", "category": "03_RECETARIO",
       "title": "14_Menu_Ria_Formosa_Sao_Gabriel_Creative_Cuisine_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2025,7 +2025,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_01_01_Menu_Historias_Miramar_Paco_Perez",
+      "id": "local-rec-2017_01_01_Menu_Historias_Miramar_Paco_Perez", "driveId": "local-rec-2017_01_01_Menu_Historias_Miramar_Paco_Perez", "category": "03_RECETARIO",
       "title": "2017-01-01_Menu_Historias_Miramar-Paco-Perez",
       "year": 2017,
       "type": "book",
@@ -2039,7 +2039,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_Filosofia_y_Tradiciones_Restaurante_Neolokal_Seccion_03",
+      "id": "local-rec-2017_Filosofia_y_Tradiciones_Restaurante_Neolokal_Seccion_03", "driveId": "local-rec-2017_Filosofia_y_Tradiciones_Restaurante_Neolokal_Seccion_03", "category": "03_RECETARIO",
       "title": "2017_Filosofia_y_Tradiciones_Restaurante_Neolokal_Seccion_03",
       "year": 2017,
       "type": "book",
@@ -2053,7 +2053,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-27_Story_Cards_Anatolian_Culinary_Neolokal_Seccion_03",
+      "id": "local-rec-27_Story_Cards_Anatolian_Culinary_Neolokal_Seccion_03", "driveId": "local-rec-27_Story_Cards_Anatolian_Culinary_Neolokal_Seccion_03", "category": "03_RECETARIO",
       "title": "27_Story_Cards_Anatolian_Culinary_Neolokal_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2067,7 +2067,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Degustacion_Noor_Restaurant",
+      "id": "local-rec-2026_03_18_Menu_Degustacion_Noor_Restaurant", "driveId": "local-rec-2026_03_18_Menu_Degustacion_Noor_Restaurant", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Degustacion_Noor-Restaurant",
       "year": 2026,
       "type": "book",
@@ -2081,7 +2081,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Mar_de_Fondo_Aponiente_Angel_Leon",
+      "id": "local-rec-2026_03_18_Menu_Mar_de_Fondo_Aponiente_Angel_Leon", "driveId": "local-rec-2026_03_18_Menu_Mar_de_Fondo_Aponiente_Angel_Leon", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Mar-de-Fondo_Aponiente-Angel-Leon",
       "year": 2026,
       "type": "book",
@@ -2095,7 +2095,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Dining_Room_Jatak_Copenhagen",
+      "id": "local-rec-2026_03_18_Menu_Dining_Room_Jatak_Copenhagen", "driveId": "local-rec-2026_03_18_Menu_Dining_Room_Jatak_Copenhagen", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Dining-Room_Jatak-Copenhagen",
       "year": 2026,
       "type": "book",
@@ -2109,7 +2109,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2019_05_07_Menu_Esencia_Q19_Madrid_Seccion_03",
+      "id": "local-rec-2019_05_07_Menu_Esencia_Q19_Madrid_Seccion_03", "driveId": "local-rec-2019_05_07_Menu_Esencia_Q19_Madrid_Seccion_03", "category": "03_RECETARIO",
       "title": "2019-05-07_Menu_Esencia_Q19_Madrid_Seccion_03",
       "year": 2019,
       "type": "book",
@@ -2123,7 +2123,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2022_Dining_Room_Menu_Jatak_Copenhagen_Seccion_03",
+      "id": "local-rec-2022_Dining_Room_Menu_Jatak_Copenhagen_Seccion_03", "driveId": "local-rec-2022_Dining_Room_Menu_Jatak_Copenhagen_Seccion_03", "category": "03_RECETARIO",
       "title": "2022_Dining_Room_Menu_Jatak_Copenhagen_Seccion_03",
       "year": 2022,
       "type": "book",
@@ -2137,7 +2137,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03_(1)",
+      "id": "local-rec-06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03_(1)", "driveId": "local-rec-06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03_(1)", "category": "03_RECETARIO",
       "title": "06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03 (1)",
       "year": 2026,
       "type": "book",
@@ -2151,7 +2151,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Alkimia_Jordi_Vila",
+      "id": "local-rec-2026_03_18_Menu_Alkimia_Jordi_Vila", "driveId": "local-rec-2026_03_18_Menu_Alkimia_Jordi_Vila", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Alkimia_Jordi-Vila",
       "year": 2026,
       "type": "book",
@@ -2165,7 +2165,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Sea_Food_Alchemist_Rasmus_Munk",
+      "id": "local-rec-2026_03_18_Menu_Sea_Food_Alchemist_Rasmus_Munk", "driveId": "local-rec-2026_03_18_Menu_Sea_Food_Alchemist_Rasmus_Munk", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Sea-Food_Alchemist-Rasmus-Munk",
       "year": 2026,
       "type": "book",
@@ -2179,7 +2179,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2021_Menu_Flos_Cibarium_Restaurante_Terra_Olea_Seccion_03",
+      "id": "local-rec-2021_Menu_Flos_Cibarium_Restaurante_Terra_Olea_Seccion_03", "driveId": "local-rec-2021_Menu_Flos_Cibarium_Restaurante_Terra_Olea_Seccion_03", "category": "03_RECETARIO",
       "title": "2021_Menu_Flos_Cibarium_Restaurante_Terra_Olea_Seccion_03",
       "year": 2021,
       "type": "book",
@@ -2193,7 +2193,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_Menus_Taifa_Bereber_Eslava_Andalusi_Noor_Paco_Morales_Seccion_03",
+      "id": "local-rec-2017_Menus_Taifa_Bereber_Eslava_Andalusi_Noor_Paco_Morales_Seccion_03", "driveId": "local-rec-2017_Menus_Taifa_Bereber_Eslava_Andalusi_Noor_Paco_Morales_Seccion_03", "category": "03_RECETARIO",
       "title": "2017_Menus_Taifa_Bereber_Eslava_Andalusi_Noor_Paco_Morales_Seccion_03",
       "year": 2017,
       "type": "book",
@@ -2207,7 +2207,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2016_09_18_Menu_Qurtuba_Noor_Restaurant",
+      "id": "local-rec-2016_09_18_Menu_Qurtuba_Noor_Restaurant", "driveId": "local-rec-2016_09_18_Menu_Qurtuba_Noor_Restaurant", "category": "03_RECETARIO",
       "title": "2016-09-18_Menu_Qurtuba_Noor-Restaurant",
       "year": 2016,
       "type": "book",
@@ -2221,7 +2221,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2020_Menu_Reino_Nazari_Noor_Restaurant_Paco_Morales_Seccion_03",
+      "id": "local-rec-2020_Menu_Reino_Nazari_Noor_Restaurant_Paco_Morales_Seccion_03", "driveId": "local-rec-2020_Menu_Reino_Nazari_Noor_Restaurant_Paco_Morales_Seccion_03", "category": "03_RECETARIO",
       "title": "2020_Menu_Reino_Nazari_Noor_Restaurant_Paco_Morales_Seccion_03",
       "year": 2020,
       "type": "book",
@@ -2235,7 +2235,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-19_Menu_Degustacion_Restaurante_Noor_Paco_Morales_Seccion_03",
+      "id": "local-rec-19_Menu_Degustacion_Restaurante_Noor_Paco_Morales_Seccion_03", "driveId": "local-rec-19_Menu_Degustacion_Restaurante_Noor_Paco_Morales_Seccion_03", "category": "03_RECETARIO",
       "title": "19_Menu_Degustacion_Restaurante_Noor_Paco_Morales_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2249,7 +2249,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_10_06_Menu_Mugaritz_Andoni_Luis_Aduriz",
+      "id": "local-rec-2015_10_06_Menu_Mugaritz_Andoni_Luis_Aduriz", "driveId": "local-rec-2015_10_06_Menu_Mugaritz_Andoni_Luis_Aduriz", "category": "03_RECETARIO",
       "title": "2015-10-06_Menu_Mugaritz_Andoni-Luis-Aduriz",
       "year": 2015,
       "type": "book",
@@ -2263,7 +2263,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2020_03_18_Menu_Temporada_5_Noor_Paco_Morales",
+      "id": "local-rec-2020_03_18_Menu_Temporada_5_Noor_Paco_Morales", "driveId": "local-rec-2020_03_18_Menu_Temporada_5_Noor_Paco_Morales", "category": "03_RECETARIO",
       "title": "2020-03-18_Menu_Temporada-5_Noor-Paco-Morales",
       "year": 2020,
       "type": "book",
@@ -2277,7 +2277,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03",
+      "id": "local-rec-06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03", "driveId": "local-rec-06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03", "category": "03_RECETARIO",
       "title": "06_Gran_Menu_Degustacion_Martin_Berasategui_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2291,7 +2291,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-06_Menu_Amor_por_la_Cocina_Luca_Fantin_Bulgari_Tokyo_Seccion_03",
+      "id": "local-rec-06_Menu_Amor_por_la_Cocina_Luca_Fantin_Bulgari_Tokyo_Seccion_03", "driveId": "local-rec-06_Menu_Amor_por_la_Cocina_Luca_Fantin_Bulgari_Tokyo_Seccion_03", "category": "03_RECETARIO",
       "title": "06_Menu_Amor_por_la_Cocina_Luca_Fantin_Bulgari_Tokyo_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2305,7 +2305,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2008_08_05_Menu_Clasicos_Calima_Dani_Garcia.pdf",
+      "id": "local-rec-2008_08_05_Menu_Clasicos_Calima_Dani_Garcia.pdf", "driveId": "local-rec-2008_08_05_Menu_Clasicos_Calima_Dani_Garcia.pdf", "category": "03_RECETARIO",
       "title": "2008-08-05_Menu_Clasicos_Calima-Dani-Garcia.pdf",
       "year": 2008,
       "type": "book",
@@ -2319,7 +2319,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03",
+      "id": "local-rec-2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03", "driveId": "local-rec-2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03", "category": "03_RECETARIO",
       "title": "2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03",
       "year": 2013,
       "type": "book",
@@ -2333,7 +2333,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_Menu_Carta_Fruits_de_Mer_Balthazar_Seccion_03.pdf",
+      "id": "local-rec-2015_Menu_Carta_Fruits_de_Mer_Balthazar_Seccion_03.pdf", "driveId": "local-rec-2015_Menu_Carta_Fruits_de_Mer_Balthazar_Seccion_03.pdf", "category": "03_RECETARIO",
       "title": "2015_Menu_Carta_Fruits_de_Mer_Balthazar_Seccion_03.pdf",
       "year": 2015,
       "type": "book",
@@ -2347,7 +2347,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2009_02_07_Grand_Menu_Charlie_Trotters_Seccion_03_(1)",
+      "id": "local-rec-2009_02_07_Grand_Menu_Charlie_Trotters_Seccion_03_(1)", "driveId": "local-rec-2009_02_07_Grand_Menu_Charlie_Trotters_Seccion_03_(1)", "category": "03_RECETARIO",
       "title": "2009-02-07_Grand_Menu_Charlie_Trotters_Seccion_03 (1)",
       "year": 2009,
       "type": "book",
@@ -2361,7 +2361,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2009_02_07_Menu_Grand_Menu_Charlie_Trotters",
+      "id": "local-rec-2009_02_07_Menu_Grand_Menu_Charlie_Trotters", "driveId": "local-rec-2009_02_07_Menu_Grand_Menu_Charlie_Trotters", "category": "03_RECETARIO",
       "title": "2009-02-07_Menu_Grand-Menu_Charlie-Trotters",
       "year": 2009,
       "type": "book",
@@ -2375,7 +2375,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-23_Menu_Degustacion_Mugaritz_Andoni_Luis_Aduriz_Seccion_03",
+      "id": "local-rec-23_Menu_Degustacion_Mugaritz_Andoni_Luis_Aduriz_Seccion_03", "driveId": "local-rec-23_Menu_Degustacion_Mugaritz_Andoni_Luis_Aduriz_Seccion_03", "category": "03_RECETARIO",
       "title": "23_Menu_Degustacion_Mugaritz_Andoni_Luis_Aduriz_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2389,7 +2389,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Gastronomico_Casa_Marcial.pdf",
+      "id": "local-rec-2026_03_18_Menu_Gastronomico_Casa_Marcial.pdf", "driveId": "local-rec-2026_03_18_Menu_Gastronomico_Casa_Marcial.pdf", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Gastronomico_Casa-Marcial.pdf",
       "year": 2026,
       "type": "book",
@@ -2403,7 +2403,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2004_Tasting_Menu_Auberge_du_Soleil_Robert_Curry_Seccion_03",
+      "id": "local-rec-2004_Tasting_Menu_Auberge_du_Soleil_Robert_Curry_Seccion_03", "driveId": "local-rec-2004_Tasting_Menu_Auberge_du_Soleil_Robert_Curry_Seccion_03", "category": "03_RECETARIO",
       "title": "2004_Tasting_Menu_Auberge_du_Soleil_Robert_Curry_Seccion_03",
       "year": 2004,
       "type": "book",
@@ -2417,7 +2417,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2009_02_06_Menu_Tour_Alinea_Grant_Achatz",
+      "id": "local-rec-2009_02_06_Menu_Tour_Alinea_Grant_Achatz", "driveId": "local-rec-2009_02_06_Menu_Tour_Alinea_Grant_Achatz", "category": "03_RECETARIO",
       "title": "2009-02-06_Menu_Tour_Alinea-Grant-Achatz",
       "year": 2009,
       "type": "book",
@@ -2431,7 +2431,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2009_02_06_Menu_Tour_Alinea_Grant_Achatz_(1)",
+      "id": "local-rec-2009_02_06_Menu_Tour_Alinea_Grant_Achatz_(1)", "driveId": "local-rec-2009_02_06_Menu_Tour_Alinea_Grant_Achatz_(1)", "category": "03_RECETARIO",
       "title": "2009-02-06_Menu_Tour_Alinea-Grant-Achatz (1)",
       "year": 2009,
       "type": "book",
@@ -2445,7 +2445,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-17_Menu_Degustacion_El_Celler_de_Can_Roca_Seccion_03",
+      "id": "local-rec-17_Menu_Degustacion_El_Celler_de_Can_Roca_Seccion_03", "driveId": "local-rec-17_Menu_Degustacion_El_Celler_de_Can_Roca_Seccion_03", "category": "03_RECETARIO",
       "title": "17_Menu_Degustacion_El_Celler_de_Can_Roca_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2459,7 +2459,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_Menu_Suculencia_Casa_Gerardo_Marcos_Moran_Seccion_03",
+      "id": "local-rec-2015_Menu_Suculencia_Casa_Gerardo_Marcos_Moran_Seccion_03", "driveId": "local-rec-2015_Menu_Suculencia_Casa_Gerardo_Marcos_Moran_Seccion_03", "category": "03_RECETARIO",
       "title": "2015_Menu_Suculencia_Casa_Gerardo_Marcos_Moran_Seccion_03",
       "year": 2015,
       "type": "book",
@@ -2473,7 +2473,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03_(1)",
+      "id": "local-rec-2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03_(1)", "driveId": "local-rec-2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03_(1)", "category": "03_RECETARIO",
       "title": "2013_Menu_Antojos_de_un_Marinero_en_Tierra_Aponiente_Seccion_03 (1)",
       "year": 2013,
       "type": "book",
@@ -2487,7 +2487,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Clasicos_Calima_Dani_Garcia",
+      "id": "local-rec-2026_03_18_Menu_Clasicos_Calima_Dani_Garcia", "driveId": "local-rec-2026_03_18_Menu_Clasicos_Calima_Dani_Garcia", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Clasicos_Calima-Dani-Garcia",
       "year": 2026,
       "type": "book",
@@ -2501,7 +2501,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-22_Factura_Menu_Decouverte_et_Nature_Bras_Laguiole_Seccion_03",
+      "id": "local-rec-22_Factura_Menu_Decouverte_et_Nature_Bras_Laguiole_Seccion_03", "driveId": "local-rec-22_Factura_Menu_Decouverte_et_Nature_Bras_Laguiole_Seccion_03", "category": "03_RECETARIO",
       "title": "22_Factura_Menu_Decouverte_et_Nature_Bras_Laguiole_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2515,7 +2515,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03_(1)",
+      "id": "local-rec-05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03_(1)", "driveId": "local-rec-05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03_(1)", "category": "03_RECETARIO",
       "title": "05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03 (1)",
       "year": 2026,
       "type": "book",
@@ -2529,7 +2529,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2009_02_07_Grand_Menu_Charlie_Trotters_Seccion_03",
+      "id": "local-rec-2009_02_07_Grand_Menu_Charlie_Trotters_Seccion_03", "driveId": "local-rec-2009_02_07_Grand_Menu_Charlie_Trotters_Seccion_03", "category": "03_RECETARIO",
       "title": "2009-02-07_Grand_Menu_Charlie_Trotters_Seccion_03",
       "year": 2009,
       "type": "book",
@@ -2543,7 +2543,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2010_Menu_Degustacion_Restaurant_Lameloise_Seccion_03",
+      "id": "local-rec-2010_Menu_Degustacion_Restaurant_Lameloise_Seccion_03", "driveId": "local-rec-2010_Menu_Degustacion_Restaurant_Lameloise_Seccion_03", "category": "03_RECETARIO",
       "title": "2010_Menu_Degustacion_Restaurant_Lameloise_Seccion_03",
       "year": 2010,
       "type": "book",
@@ -2557,7 +2557,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-03_Menu_Endemica_Borago_Rodolfo_Guzman_Seccion_03{",
+      "id": "local-rec-03_Menu_Endemica_Borago_Rodolfo_Guzman_Seccion_03{", "driveId": "local-rec-03_Menu_Endemica_Borago_Rodolfo_Guzman_Seccion_03{", "category": "03_RECETARIO",
       "title": "03_Menu_Endemica_Borago_Rodolfo_Guzman_Seccion_03{",
       "year": 2026,
       "type": "book",
@@ -2571,7 +2571,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-28_Paco_Morales_A_Michelin_Experience_Chengdu_Menu_Tapas_Seccion_03",
+      "id": "local-rec-28_Paco_Morales_A_Michelin_Experience_Chengdu_Menu_Tapas_Seccion_03", "driveId": "local-rec-28_Paco_Morales_A_Michelin_Experience_Chengdu_Menu_Tapas_Seccion_03", "category": "03_RECETARIO",
       "title": "28_Paco_Morales_A_Michelin_Experience_Chengdu_Menu_Tapas_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2585,7 +2585,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2011_Menu_Degustacion_elBulli_Ferran_Adria_Seccion_03",
+      "id": "local-rec-2011_Menu_Degustacion_elBulli_Ferran_Adria_Seccion_03", "driveId": "local-rec-2011_Menu_Degustacion_elBulli_Ferran_Adria_Seccion_03", "category": "03_RECETARIO",
       "title": "2011_Menu_Degustacion_elBulli_Ferran_Adria_Seccion_03",
       "year": 2011,
       "type": "book",
@@ -2599,7 +2599,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Navidad_FinDeAño_Alotrapo",
+      "id": "local-rec-2026_03_18_Menu_Navidad_FinDeAño_Alotrapo", "driveId": "local-rec-2026_03_18_Menu_Navidad_FinDeAño_Alotrapo", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Navidad-FinDeAño_Alotrapo",
       "year": 2026,
       "type": "book",
@@ -2613,7 +2613,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-18_Charity_Gala_Dinner_UNICEF_Hotel_Arts_Barcelona_Seccion_03",
+      "id": "local-rec-18_Charity_Gala_Dinner_UNICEF_Hotel_Arts_Barcelona_Seccion_03", "driveId": "local-rec-18_Charity_Gala_Dinner_UNICEF_Hotel_Arts_Barcelona_Seccion_03", "category": "03_RECETARIO",
       "title": "18_Charity_Gala_Dinner_UNICEF_Hotel_Arts_Barcelona_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2627,7 +2627,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Carta_Restaurante_Cambio_de_Tercio",
+      "id": "local-rec-2026_03_18_Carta_Restaurante_Cambio_de_Tercio", "driveId": "local-rec-2026_03_18_Carta_Restaurante_Cambio_de_Tercio", "category": "03_RECETARIO",
       "title": "2026-03-18_Carta_Restaurante_Cambio-de-Tercio",
       "year": 2026,
       "type": "book",
@@ -2641,7 +2641,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-05_41_Experience_Albert_Adria_Menu_Degustacion_Seccion_03",
+      "id": "local-rec-05_41_Experience_Albert_Adria_Menu_Degustacion_Seccion_03", "driveId": "local-rec-05_41_Experience_Albert_Adria_Menu_Degustacion_Seccion_03", "category": "03_RECETARIO",
       "title": "05_41_Experience_Albert_Adria_Menu_Degustacion_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2655,7 +2655,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03",
+      "id": "local-rec-05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03", "driveId": "local-rec-05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03", "category": "03_RECETARIO",
       "title": "05_Menu_Cocina_Tradicion_Calima_Dani_Garcia_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2669,7 +2669,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2011_Carta_Maset_Ferrero_Paco_Morales_Seccion_03",
+      "id": "local-rec-2011_Carta_Maset_Ferrero_Paco_Morales_Seccion_03", "driveId": "local-rec-2011_Carta_Maset_Ferrero_Paco_Morales_Seccion_03", "category": "03_RECETARIO",
       "title": "2011_Carta_Maset_Ferrero_Paco_Morales_Seccion_03",
       "year": 2011,
       "type": "book",
@@ -2683,7 +2683,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2016_Menu_Cena_Paco_Morales_Puerta_del_Perdon_Seccion_03",
+      "id": "local-rec-2016_Menu_Cena_Paco_Morales_Puerta_del_Perdon_Seccion_03", "driveId": "local-rec-2016_Menu_Cena_Paco_Morales_Puerta_del_Perdon_Seccion_03", "category": "03_RECETARIO",
       "title": "2016_Menu_Cena_Paco_Morales_Puerta_del_Perdon_Seccion_03",
       "year": 2016,
       "type": "book",
@@ -2697,7 +2697,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Puerto_Escondido_Aponiente",
+      "id": "local-rec-2026_03_18_Menu_Puerto_Escondido_Aponiente", "driveId": "local-rec-2026_03_18_Menu_Puerto_Escondido_Aponiente", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Puerto-Escondido_Aponiente",
       "year": 2026,
       "type": "book",
@@ -2711,7 +2711,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_Menu_Dinner_Paco_Morales_The_White_Rabbit_Singapore_Seccion_03",
+      "id": "local-rec-2015_Menu_Dinner_Paco_Morales_The_White_Rabbit_Singapore_Seccion_03", "driveId": "local-rec-2015_Menu_Dinner_Paco_Morales_The_White_Rabbit_Singapore_Seccion_03", "category": "03_RECETARIO",
       "title": "2015_Menu_Dinner_Paco_Morales_The_White_Rabbit_Singapore_Seccion_03",
       "year": 2015,
       "type": "book",
@@ -2725,7 +2725,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_06_29_Menu_Apicius_Session_Alotrapo",
+      "id": "local-rec-2015_06_29_Menu_Apicius_Session_Alotrapo", "driveId": "local-rec-2015_06_29_Menu_Apicius_Session_Alotrapo", "category": "03_RECETARIO",
       "title": "2015-06-29_Menu_Apicius-Session_Alotrapo",
       "year": 2015,
       "type": "book",
@@ -2739,7 +2739,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_06_06_Menu_Amor_Cocina_Luca_Fantin",
+      "id": "local-rec-2015_06_06_Menu_Amor_Cocina_Luca_Fantin", "driveId": "local-rec-2015_06_06_Menu_Amor_Cocina_Luca_Fantin", "category": "03_RECETARIO",
       "title": "2015-06-06_Menu_Amor-Cocina_Luca-Fantin",
       "year": 2015,
       "type": "book",
@@ -2753,7 +2753,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-05_Menu_Degustacion_Paco_Morales_Iberostar_On_Tour_Seccion_03",
+      "id": "local-rec-05_Menu_Degustacion_Paco_Morales_Iberostar_On_Tour_Seccion_03", "driveId": "local-rec-05_Menu_Degustacion_Paco_Morales_Iberostar_On_Tour_Seccion_03", "category": "03_RECETARIO",
       "title": "05_Menu_Degustacion_Paco_Morales_Iberostar_On_Tour_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -2767,7 +2767,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2005_Tasting_Menu_and_Wine_The_Fat_Duck_Seccion_03",
+      "id": "local-rec-2005_Tasting_Menu_and_Wine_The_Fat_Duck_Seccion_03", "driveId": "local-rec-2005_Tasting_Menu_and_Wine_The_Fat_Duck_Seccion_03", "category": "03_RECETARIO",
       "title": "2005_Tasting_Menu_and_Wine_The_Fat_Duck_Seccion_03",
       "year": 2005,
       "type": "book",
@@ -2781,7 +2781,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03_(1)",
+      "id": "local-rec-2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03_(1)", "driveId": "local-rec-2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03_(1)", "category": "03_RECETARIO",
       "title": "2014_Menu_Degustacion_Olive_Sanuki_Wagyu_Ricardo_Sanz_Seccion_03 (1)",
       "year": 2014,
       "type": "book",
@@ -2795,7 +2795,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_14_Catalogo_Collections_Multi_Chef",
+      "id": "local-rec-2026_03_14_Catalogo_Collections_Multi_Chef", "driveId": "local-rec-2026_03_14_Catalogo_Collections_Multi_Chef", "category": "03_RECETARIO",
       "title": "2026-03-14_Catalogo_Collections_Multi-Chef",
       "year": 2026,
       "type": "book",
@@ -2809,7 +2809,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-02_Jornadas_Gastronomicas_A_Cuatro_Manos_Dani_Garcia_Andoni_Luis_Aduriz_Seccion_03.pdf",
+      "id": "local-rec-02_Jornadas_Gastronomicas_A_Cuatro_Manos_Dani_Garcia_Andoni_Luis_Aduriz_Seccion_03.pdf", "driveId": "local-rec-02_Jornadas_Gastronomicas_A_Cuatro_Manos_Dani_Garcia_Andoni_Luis_Aduriz_Seccion_03.pdf", "category": "03_RECETARIO",
       "title": "02_Jornadas_Gastronomicas_A_Cuatro_Manos_Dani_Garcia_Andoni_Luis_Aduriz_Seccion_03.pdf",
       "year": 2026,
       "type": "book",
@@ -2823,7 +2823,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2013_04_13_Menu_Mugaritz_Andoni_Luis_Aduriz",
+      "id": "local-rec-2013_04_13_Menu_Mugaritz_Andoni_Luis_Aduriz", "driveId": "local-rec-2013_04_13_Menu_Mugaritz_Andoni_Luis_Aduriz", "category": "03_RECETARIO",
       "title": "2013-04-13_Menu_Mugaritz_Andoni-Luis-Aduriz",
       "year": 2013,
       "type": "book",
@@ -2837,7 +2837,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba",
+      "id": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba", "driveId": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba", "category": "03_RECETARIO",
       "title": "2017_Noor_Menu-Largo-Andalusi_Cordoba",
       "year": 2017,
       "type": "book",
@@ -2851,7 +2851,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba_(1)",
+      "id": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba_(1)", "driveId": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba_(1)", "category": "03_RECETARIO",
       "title": "2017_Noor_Menu-Largo-Andalusi_Cordoba (1)",
       "year": 2017,
       "type": "book",
@@ -2865,7 +2865,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2006_10_31_The_French_Laundry_Chefs_Tasting_Menu_Napa_Valley",
+      "id": "local-rec-2006_10_31_The_French_Laundry_Chefs_Tasting_Menu_Napa_Valley", "driveId": "local-rec-2006_10_31_The_French_Laundry_Chefs_Tasting_Menu_Napa_Valley", "category": "03_RECETARIO",
       "title": "2006-10-31_The-French-Laundry_Chefs-Tasting-Menu_Napa-Valley",
       "year": 2006,
       "type": "book",
@@ -2879,7 +2879,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2011_Bar_Ferrero_Carta_Taberna_y_Arroces_Bocairent",
+      "id": "local-rec-2011_Bar_Ferrero_Carta_Taberna_y_Arroces_Bocairent", "driveId": "local-rec-2011_Bar_Ferrero_Carta_Taberna_y_Arroces_Bocairent", "category": "03_RECETARIO",
       "title": "2011_Bar-Ferrero_Carta-Taberna-y-Arroces_Bocairent",
       "year": 2011,
       "type": "book",
@@ -2893,7 +2893,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2010_01_Paco_Morales_Hotel_Ferrero_Stratford_Chefs_School_Canada_(1)",
+      "id": "local-rec-2010_01_Paco_Morales_Hotel_Ferrero_Stratford_Chefs_School_Canada_(1)", "driveId": "local-rec-2010_01_Paco_Morales_Hotel_Ferrero_Stratford_Chefs_School_Canada_(1)", "category": "03_RECETARIO",
       "title": "2010-01_Paco-Morales_Hotel-Ferrero_Stratford-Chefs-School_Canada (1)",
       "year": 2010,
       "type": "book",
@@ -2907,7 +2907,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2016_Aponiente_Maridaje_Vinos_de_Jerez_El_Puerto",
+      "id": "local-rec-2016_Aponiente_Maridaje_Vinos_de_Jerez_El_Puerto", "driveId": "local-rec-2016_Aponiente_Maridaje_Vinos_de_Jerez_El_Puerto", "category": "03_RECETARIO",
       "title": "2016_Aponiente_Maridaje-Vinos-de-Jerez_El-Puerto",
       "year": 2016,
       "type": "book",
@@ -2921,7 +2921,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2006_El_Poblet_Quique_Dacosta_Menu_Universo_Local_Denia",
+      "id": "local-rec-2006_El_Poblet_Quique_Dacosta_Menu_Universo_Local_Denia", "driveId": "local-rec-2006_El_Poblet_Quique_Dacosta_Menu_Universo_Local_Denia", "category": "03_RECETARIO",
       "title": "2006_El-Poblet-Quique-Dacosta_Menu-Universo-Local_Denia",
       "year": 2006,
       "type": "book",
@@ -2935,7 +2935,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2012_Carracuca_Carta_Tasca_y_Tapeo_Alicante",
+      "id": "local-rec-2012_Carracuca_Carta_Tasca_y_Tapeo_Alicante", "driveId": "local-rec-2012_Carracuca_Carta_Tasca_y_Tapeo_Alicante", "category": "03_RECETARIO",
       "title": "2012_Carracuca_Carta-Tasca-y-Tapeo_Alicante",
       "year": 2012,
       "type": "book",
@@ -2949,7 +2949,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2012_Carracusa_Carta_Sala_y_Vinos_Alicante",
+      "id": "local-rec-2012_Carracusa_Carta_Sala_y_Vinos_Alicante", "driveId": "local-rec-2012_Carracusa_Carta_Sala_y_Vinos_Alicante", "category": "03_RECETARIO",
       "title": "2012_Carracusa_Carta-Sala-y-Vinos_Alicante",
       "year": 2012,
       "type": "book",
@@ -2963,7 +2963,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2010_Maison_Lameloise_Dossier_Presentacion_Chagny_Francia",
+      "id": "local-rec-2010_Maison_Lameloise_Dossier_Presentacion_Chagny_Francia", "driveId": "local-rec-2010_Maison_Lameloise_Dossier_Presentacion_Chagny_Francia", "category": "03_RECETARIO",
       "title": "2010_Maison-Lameloise_Dossier-Presentacion_Chagny-Francia",
       "year": 2010,
       "type": "book",
@@ -2977,7 +2977,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba_(2)",
+      "id": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba_(2)", "driveId": "local-rec-2017_Noor_Menu_Largo_Andalusi_Cordoba_(2)", "category": "03_RECETARIO",
       "title": "2017_Noor_Menu-Largo-Andalusi_Cordoba (2)",
       "year": 2017,
       "type": "book",
@@ -2991,7 +2991,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2013_01_20_Menu_Evento_Ramses_Ricard_Camarena.pdf",
+      "id": "local-rec-2013_01_20_Menu_Evento_Ramses_Ricard_Camarena.pdf", "driveId": "local-rec-2013_01_20_Menu_Evento_Ramses_Ricard_Camarena.pdf", "category": "03_RECETARIO",
       "title": "2013-01-20_Menu_Evento_Ramses-Ricard-Camarena.pdf",
       "year": 2013,
       "type": "book",
@@ -3005,7 +3005,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Begona_Rodrigo_Seccion_03",
+      "id": "local-rec-2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Begona_Rodrigo_Seccion_03", "driveId": "local-rec-2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Begona_Rodrigo_Seccion_03", "category": "03_RECETARIO",
       "title": "2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Begona_Rodrigo_Seccion_03",
       "year": 2014,
       "type": "book",
@@ -3019,7 +3019,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Seccion_03",
+      "id": "local-rec-2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Seccion_03", "driveId": "local-rec-2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Seccion_03", "category": "03_RECETARIO",
       "title": "2014_Menu_La_Casa_de_los_Caramelos_La_Salita_Seccion_03",
       "year": 2014,
       "type": "book",
@@ -3033,7 +3033,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2010_Menu_Degustacion_Restaurant_l_Arnsbourg_Hôtel_K_Seccion_03",
+      "id": "local-rec-2010_Menu_Degustacion_Restaurant_l_Arnsbourg_Hôtel_K_Seccion_03", "driveId": "local-rec-2010_Menu_Degustacion_Restaurant_l_Arnsbourg_Hôtel_K_Seccion_03", "category": "03_RECETARIO",
       "title": "2010_Menu_Degustacion_Restaurant_l_Arnsbourg_Hôtel_K_Seccion_03",
       "year": 2010,
       "type": "book",
@@ -3047,7 +3047,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2011_Noma_Menu_Degustacion_Copenhague",
+      "id": "local-rec-2011_Noma_Menu_Degustacion_Copenhague", "driveId": "local-rec-2011_Noma_Menu_Degustacion_Copenhague", "category": "03_RECETARIO",
       "title": "2011_Noma_Menu-Degustacion_Copenhague",
       "year": 2011,
       "type": "book",
@@ -3061,7 +3061,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-13_Factura_Menu_Pierre_Gagnaire_Paris_Seccion_03",
+      "id": "local-rec-13_Factura_Menu_Pierre_Gagnaire_Paris_Seccion_03", "driveId": "local-rec-13_Factura_Menu_Pierre_Gagnaire_Paris_Seccion_03", "category": "03_RECETARIO",
       "title": "13_Factura_Menu_Pierre_Gagnaire_Paris_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -3075,7 +3075,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Invierno_Pierre_Gagnaire",
+      "id": "local-rec-2026_03_18_Menu_Invierno_Pierre_Gagnaire", "driveId": "local-rec-2026_03_18_Menu_Invierno_Pierre_Gagnaire", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Invierno_Pierre-Gagnaire",
       "year": 2026,
       "type": "book",
@@ -3089,7 +3089,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03_(1)",
+      "id": "local-rec-11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03_(1)", "driveId": "local-rec-11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03_(1)", "category": "03_RECETARIO",
       "title": "11_Evento_Infusion_Fondazione_Bisazza_Paco_Morales_Virgilio_Martinez_Seccion_03 (1)",
       "year": 2026,
       "type": "book",
@@ -3103,7 +3103,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2008_Menu_Zuberoa_Arbelaitz_X_Congreso_LMG_Seccion_03",
+      "id": "local-rec-2008_Menu_Zuberoa_Arbelaitz_X_Congreso_LMG_Seccion_03", "driveId": "local-rec-2008_Menu_Zuberoa_Arbelaitz_X_Congreso_LMG_Seccion_03", "category": "03_RECETARIO",
       "title": "2008_Menu_Zuberoa_Arbelaitz_X_Congreso_LMG_Seccion_03",
       "year": 2008,
       "type": "book",
@@ -3117,7 +3117,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-23_Comunicado_Autorizacion_Plancton_Marino_Angel_Leon_Seccion_03",
+      "id": "local-rec-23_Comunicado_Autorizacion_Plancton_Marino_Angel_Leon_Seccion_03", "driveId": "local-rec-23_Comunicado_Autorizacion_Plancton_Marino_Angel_Leon_Seccion_03", "category": "03_RECETARIO",
       "title": "23_Comunicado_Autorizacion_Plancton_Marino_Angel_Leon_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -3131,7 +3131,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_09_23_Carta_Anuncio_Plancton_Aponiente",
+      "id": "local-rec-2014_09_23_Carta_Anuncio_Plancton_Aponiente", "driveId": "local-rec-2014_09_23_Carta_Anuncio_Plancton_Aponiente", "category": "03_RECETARIO",
       "title": "2014-09-23_Carta_Anuncio-Plancton_Aponiente",
       "year": 2014,
       "type": "book",
@@ -3145,7 +3145,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2012_11_08_Menu_Degustacion_Millesime_Mexico_Seccion_03",
+      "id": "local-rec-2012_11_08_Menu_Degustacion_Millesime_Mexico_Seccion_03", "driveId": "local-rec-2012_11_08_Menu_Degustacion_Millesime_Mexico_Seccion_03", "category": "03_RECETARIO",
       "title": "2012-11-08_Menu_Degustacion_Millesime_Mexico_Seccion_03",
       "year": 2012,
       "type": "book",
@@ -3159,7 +3159,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-09_Factura_Menu_Dans_les_jardins_en_hiver_Arpege_Seccion_03",
+      "id": "local-rec-09_Factura_Menu_Dans_les_jardins_en_hiver_Arpege_Seccion_03", "driveId": "local-rec-09_Factura_Menu_Dans_les_jardins_en_hiver_Arpege_Seccion_03", "category": "03_RECETARIO",
       "title": "09_Factura_Menu_Dans_les_jardins_en_hiver_Arpege_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -3173,7 +3173,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03",
+      "id": "local-rec-28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03", "driveId": "local-rec-28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03", "category": "03_RECETARIO",
       "title": "28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03",
       "year": 2026,
       "type": "book",
@@ -3187,7 +3187,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_02_28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03",
+      "id": "local-rec-2015_02_28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03", "driveId": "local-rec-2015_02_28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03", "category": "03_RECETARIO",
       "title": "2015-02-28_Menu_Paco_Morales_Al_Trapo_Rusia_Seccion_03",
       "year": 2015,
       "type": "book",
@@ -3201,7 +3201,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_03_29_Michelin_Experience_Paco_Morales_Shangri_La_Chengdu_Seccion_03",
+      "id": "local-rec-2014_03_29_Michelin_Experience_Paco_Morales_Shangri_La_Chengdu_Seccion_03", "driveId": "local-rec-2014_03_29_Michelin_Experience_Paco_Morales_Shangri_La_Chengdu_Seccion_03", "category": "03_RECETARIO",
       "title": "2014-03-29_Michelin_Experience_Paco_Morales_Shangri-La_Chengdu_Seccion_03",
       "year": 2014,
       "type": "book",
@@ -3215,7 +3215,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_06_10_Menu_Degustacion_Lasarte_Berasategui",
+      "id": "local-rec-2026_06_10_Menu_Degustacion_Lasarte_Berasategui", "driveId": "local-rec-2026_06_10_Menu_Degustacion_Lasarte_Berasategui", "category": "03_RECETARIO",
       "title": "2026-06-10_Menu_Degustacion_Lasarte-Berasategui",
       "year": 2026,
       "type": "book",
@@ -3229,7 +3229,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2014_01_01_Gran_Menu_Mar_de_Sentimientos_Aponiente",
+      "id": "local-rec-2014_01_01_Gran_Menu_Mar_de_Sentimientos_Aponiente", "driveId": "local-rec-2014_01_01_Gran_Menu_Mar_de_Sentimientos_Aponiente", "category": "03_RECETARIO",
       "title": "2014-01-01_Gran-Menu_Mar-de-Sentimientos_Aponiente",
       "year": 2014,
       "type": "book",
@@ -3243,7 +3243,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2015_Menu_Room_Service_Hotel_Condes_Barcelona_Seccion_03",
+      "id": "local-rec-2015_Menu_Room_Service_Hotel_Condes_Barcelona_Seccion_03", "driveId": "local-rec-2015_Menu_Room_Service_Hotel_Condes_Barcelona_Seccion_03", "category": "03_RECETARIO",
       "title": "2015_Menu_Room_Service_Hotel_Condes_Barcelona_Seccion_03",
       "year": 2015,
       "type": "book",
@@ -3257,7 +3257,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Carta_Tapas_Alotrapo_Madrid",
+      "id": "local-rec-2026_03_18_Carta_Tapas_Alotrapo_Madrid", "driveId": "local-rec-2026_03_18_Carta_Tapas_Alotrapo_Madrid", "category": "03_RECETARIO",
       "title": "2026-03-18_Carta_Tapas_Alotrapo-Madrid",
       "year": 2026,
       "type": "book",
@@ -3271,7 +3271,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_18_Menu_Brunch_Bocablo_Paco_Morales.pdf",
+      "id": "local-rec-2026_03_18_Menu_Brunch_Bocablo_Paco_Morales.pdf", "driveId": "local-rec-2026_03_18_Menu_Brunch_Bocablo_Paco_Morales.pdf", "category": "03_RECETARIO",
       "title": "2026-03-18_Menu_Brunch_Bocablo-Paco-Morales.pdf",
       "year": 2026,
       "type": "book",
@@ -3285,7 +3285,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_17_Carta_Taberna_El_Convent",
+      "id": "local-rec-2026_03_17_Carta_Taberna_El_Convent", "driveId": "local-rec-2026_03_17_Carta_Taberna_El_Convent", "category": "03_RECETARIO",
       "title": "2026-03-17_Carta_Taberna_El-Convent",
       "year": 2026,
       "type": "book",
@@ -3299,7 +3299,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2026_03_17_Menu_El_Convent.Al_Trapo",
+      "id": "local-rec-2026_03_17_Menu_El_Convent.Al_Trapo", "driveId": "local-rec-2026_03_17_Menu_El_Convent.Al_Trapo", "category": "03_RECETARIO",
       "title": "2026-03-17_Menu_El-Convent.Al_Trapo",
       "year": 2026,
       "type": "book",
@@ -3313,7 +3313,7 @@ window.NoorLocalDB = {
       "media": { "thumbnail": "" }
     },
     {
-      "id": "local-rec-2010_01_Paco_Morales_Stratford_Chefs_School_Canada",
+      "id": "local-rec-2010_01_Paco_Morales_Stratford_Chefs_School_Canada", "driveId": "local-rec-2010_01_Paco_Morales_Stratford_Chefs_School_Canada", "category": "03_RECETARIO",
       "title": "2010-01_Paco-Morales_Stratford-Chefs-School_Canada",
       "year": 2010,
       "type": "book",

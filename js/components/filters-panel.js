@@ -16,6 +16,7 @@ function renderFiltersPanel() {
     return documents.filter(doc => (
       (doc.localPath && doc.localPath.includes(sectionLabel)) || 
       (doc.header && doc.header.includes(sectionLabel)) ||
+      (doc.category && doc.category.includes(sectionLabel)) ||
       (doc.id && doc.id.startsWith('v2-') && sectionLabel === '01_REVISTAS')
     )).length;
   }
@@ -201,6 +202,7 @@ function renderFiltersPanel() {
         return currentDocuments.filter(doc => 
           (doc.localPath && doc.localPath.includes(value)) || 
           (doc.header && doc.header.includes(value)) ||
+          (doc.category && doc.category.includes(value)) ||
           (doc.id && doc.id.startsWith('v2-') && value === '01_REVISTAS')
         ).length; 
       }

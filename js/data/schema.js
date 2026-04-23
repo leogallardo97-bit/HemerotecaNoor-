@@ -15,6 +15,7 @@
 /** Tipos de documento soportados */
 const DOCUMENT_TYPES = {
   NEWSPAPER:  'newspaper',
+  BOOK:       'book',
   CHRONICLE:  'chronicle',
   DECREE:     'decree',
   MANUSCRIPT: 'manuscript',

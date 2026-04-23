@@ -25,7 +25,7 @@ window.onerror = function(msg, url, lineNo, columnNo, error) {
  * SISTEMA DE EMERGENCIA: Apertura directa del visor.
  */
 window.forceOpen = function(idOrDriveId) {
-  console.log('[Noor-SOS] Ejecutando apertura de emergencia:', idOrDriveId);
+  console.log('[Noor-App] Solicitando apertura:', idOrDriveId);
   
   const state = (window.NoorState && window.NoorState.getState) ? window.NoorState.getState() : { documents: [] };
   let doc = state.documents.find(d => 
@@ -38,10 +38,11 @@ window.forceOpen = function(idOrDriveId) {
     doc = window.NoorMockData.find(d => d.id === idOrDriveId || d.driveId === idOrDriveId);
   }
 
-  if (!doc && idOrDriveId && idOrDriveId.length > 20) {
+  // Si no se encuentra pero parece un ID de Drive real (>20 chars), creamos un objeto virtual
+  if (!doc && idOrDriveId && idOrDriveId.length > 20 && !idOrDriveId.startsWith('local-')) {
     doc = {
       id: 'SOS-' + idOrDriveId,
-      title: 'Documento Recuperado (S.O.S)',
+      title: 'Documento en Proceso',
       driveId: idOrDriveId,
       type: 'newspaper',
       _source: 'emergency'
@@ -49,25 +50,25 @@ window.forceOpen = function(idOrDriveId) {
   }
 
   if (doc && window.DocumentViewer) {
+    // Misión v1.5: Apertura instantánea
     window.DocumentViewer.open(doc);
     
+    // Verificación silenciosa en segundo plano
     const driveIdForBack = doc.driveId || (doc.media && doc.media.driveFileId);
-    if (driveIdForBack && !driveIdForBack.startsWith('v2-')) {
+    if (driveIdForBack && !driveIdForBack.startsWith('local-')) {
         setTimeout(() => {
             const overlay = document.getElementById('viewer-overlay');
             if (overlay && (!overlay.classList.contains('open') || window.getComputedStyle(overlay).opacity === '0')) {
-                console.warn('[Noor-SOS] Modal no manifestado. Intentando apertura externa...');
+                console.warn('[Noor-App] Recuperación externa activada para:', driveIdForBack);
                 window.open(`https://drive.google.com/file/d/${driveIdForBack}/preview`, '_blank');
             }
-        }, 2000);
+        }, 3000);
     }
   } else {
-    if (idOrDriveId && idOrDriveId.length > 20 && !idOrDriveId.startsWith('v2-')) {
-      window.open(`https://drive.google.com/file/d/${idOrDriveId}/preview`, '_blank');
-      console.error("Error Crítico: No se pudo localizar el recurso para el ID " + idOrDriveId);
-    }
+    console.error('[Noor-App] ✗ Imposible abrir documento:', idOrDriveId);
   }
 };
+
 
 // ── Delegación Universal de Clics (Anti-Errores de DOM) ──
 document.addEventListener('click', (e) => {

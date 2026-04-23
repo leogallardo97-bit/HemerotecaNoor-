@@ -205,8 +205,6 @@ const NoorState = (() => {
      */
     getFilteredDocuments() {
       const { documents, filters } = _state;
-      console.log(`[DEBUG] getFilteredDocuments ejecutado. Total docs en estado: ${documents.length}`);
-      console.log(`[DEBUG] Filtros activos:`, JSON.stringify(filters));
       let results = [...documents];
 
       // ── Filtro de texto libre ──
@@ -265,7 +263,6 @@ const NoorState = (() => {
             (doc.id && doc.id.startsWith('v2-') && secName === '01_REVISTAS') // Fallback para mock v2
           );
         });
-        console.log(`[DEBUG] Filtrado por secciones (${filters.sections}): ${results.length} resultados.`);
       }
 
       // ── Filtro por rango de año ──

@@ -621,6 +621,63 @@ input[type="range"] {
   letter-spacing: 0.05em;
 }
 
+/* Fallback Estético para Recetarios (v1.5.1) */
+.doc-card__thumb-placeholder--recetario {
+  background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%);
+  border: 1px solid rgba(201, 168, 76, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.recetario-cover-design {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  z-index: 2;
+}
+
+.recetario-title-short {
+  font-family: var(--font-serif);
+  font-size: 0.75rem;
+  color: var(--color-parchment);
+  opacity: 0.6;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.5rem;
+  line-height: 1.4;
+}
+
+.recetario-decoration {
+  width: 40px;
+  height: 2px;
+  background: var(--color-gold-dark);
+  margin-top: 1rem;
+  opacity: 0.3;
+}
+
+.recetario-sync-label {
+  position: absolute;
+  bottom: 1rem;
+  font-size: 0.5rem;
+  letter-spacing: 0.15em;
+  color: var(--color-gold);
+  opacity: 0.4;
+  font-weight: 700;
+}
+
+.doc-card__thumb-placeholder--recetario::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 10px; bottom: 0;
+  width: 1px;
+  background: rgba(201, 168, 76, 0.05);
+  box-shadow: 2px 0 5px rgba(0,0,0,0.5);
+}
+
+
 /* Vista de lista */
 .documents-grid.list-view .doc-card {
   display: flex;

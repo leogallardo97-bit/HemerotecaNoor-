@@ -199,7 +199,10 @@ function buildDocumentCard(doc, eras) {
 
   // Thumbnail: usar Drive API (con HQ w1000) o local thumbnail
   let thumbUrl = '';
-  const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER')) ? doc.media.driveFileId : (doc.driveId || doc.media?.pdf);
+  const isLocalRecetario = doc.id.startsWith('local-rec-') || (doc.driveId && doc.driveId.startsWith('local-rec-'));
+  const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER') && !doc.media.driveFileId.startsWith('local-')) 
+                  ? doc.media.driveFileId 
+                  : (doc.driveId && !doc.driveId.startsWith('local-') ? doc.driveId : null);
   
   if (driveId) {
     // Misión Crítica: Forzar HQ (w1000) para nitidez absoluta en miniaturas
@@ -209,13 +212,25 @@ function buildDocumentCard(doc, eras) {
   }
 
   const thumbHtml = thumbUrl
-    ? `<img src="${thumbUrl}" alt="Portada: ${doc.title}" loading="lazy" />`
-    : `
-      <div class="doc-card__thumb-placeholder">
-        <i data-lucide="${icon}" width="32" height="32" style="opacity: 0.2"></i>
-        <span style="font-size:0.6rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.4">${doc.type}</span>
-      </div>
-    `;
+    ? `<img src="${thumbUrl}" alt="Portada: ${doc.title}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\'doc-card__thumb-fallback\'><span>${doc.title.substring(0,20)}...</span></div>'" />`
+    : (isLocalRecetario 
+        ? `
+          <div class="doc-card__thumb-placeholder doc-card__thumb-placeholder--recetario">
+            <div class="recetario-cover-design">
+                <i data-lucide="book-open" width="32" height="32" style="opacity: 0.4; margin-bottom: 0.5rem"></i>
+                <span class="recetario-title-short">${doc.title.split('_').slice(0,3).join(' ')}</span>
+                <div class="recetario-decoration"></div>
+            </div>
+            <span class="recetario-sync-label">PENDIENTE DE SINCRONIZACIÓN</span>
+          </div>
+        `
+        : `
+          <div class="doc-card__thumb-placeholder">
+            <i data-lucide="${icon}" width="32" height="32" style="opacity: 0.2"></i>
+            <span style="font-size:0.6rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.4">${doc.type}</span>
+          </div>
+        `);
+
 
   const tagHtml = (doc.tags || []).slice(0, 2).map(tag => `
     <span class="doc-card__tag">${tag}</span>

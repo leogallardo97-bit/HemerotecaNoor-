@@ -76,11 +76,20 @@ document.addEventListener('click', (e) => {
 
   const card = e.target.closest('.doc-card');
   if (card) {
-    const id = card.dataset.driveId || card.dataset.docId;
-    console.log('[Noor-SOS] Clic detectado en:', id);
-    window.forceOpen(id);
+    const driveId = card.dataset.driveId;
+    const docId = card.dataset.docId;
+    
+    if (driveId && driveId.length > 20 && !driveId.startsWith('local-')) {
+      console.log('[Noor-App] Apertura directa en Drive:', driveId);
+      window.open(`https://drive.google.com/file/d/${driveId}/preview`, '_blank');
+    } else {
+      console.log('[Noor-App] Seleccionando documento:', docId);
+      const doc = (window.NoorState.getState().documents || []).find(d => d.id === docId);
+      if (doc) NoorState.dispatch('SELECT_DOCUMENT', doc);
+    }
   }
 });
+
 
 (async function initNoorApp() {
   console.log('╔══════════════════════════════════════════╗');

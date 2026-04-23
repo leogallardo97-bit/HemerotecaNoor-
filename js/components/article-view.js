@@ -78,11 +78,18 @@ const ArticleView = (() => {
 
   function openViewer(docId) {
     const state = NoorState.getState();
-    const doc = state.documents.find(d => d.id === docId);
-    if (doc) {
+    const doc = (state.documents || []).find(d => d.id === docId);
+    if (!doc) return;
+
+    const driveId = doc.driveId || (doc.media && doc.media.driveFileId);
+    if (driveId && driveId.length > 20 && !driveId.startsWith('local-')) {
+      console.log('[ArticleView] Apertura directa en Drive:', driveId);
+      window.open(`https://drive.google.com/file/d/${driveId}/preview`, '_blank');
+    } else {
       window.DocumentViewer.open(doc);
     }
   }
+
 
   return { render, close, openViewer };
 })();

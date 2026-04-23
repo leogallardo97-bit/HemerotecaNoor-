@@ -13,6 +13,7 @@ const DOC_TYPE_ICONS = {
   map:        'map',
   image:      'image',
   mixed:      'layers',
+  book:       'book',
 };
 
 // ── Mapa de idiomas ──
@@ -186,7 +187,10 @@ function buildDocumentCard(doc, eras) {
                       
     displayType = isRevista ? 'Revista' : 'Newspaper';
   } else if (doc.type === 'book') {
-    displayType = 'Libro';
+    const isRecetario = doc.id.startsWith('local-rec') || 
+                       doc.tags?.includes('03_RECETARIO') ||
+                       (doc.localPath && doc.localPath.toUpperCase().includes('RECETARIO'));
+    displayType = isRecetario ? 'Recetario' : 'Libro';
   } else if (doc.type === 'manuscript') {
     displayType = 'Manuscrito';
   } else {

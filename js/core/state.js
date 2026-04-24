@@ -85,6 +85,9 @@ const NoorState = (() => {
               } else if (id.startsWith('local-rec') || path.includes('03_RECETARIO')
                   || col === '03_RECETARIO' || tags.includes('03_RECETARIO')) {
                 doc.category = '03_RECETARIO';
+              } else if (id.startsWith('local-art') || doc.type === 'article'
+                  || path.includes('04_CONTENIDO_WEB') || col === '04_CONTENIDO_WEB' || tags.includes('04_CONTENIDO_WEB')) {
+                doc.category = '04_CONTENIDO_WEB';
               }
             }
 

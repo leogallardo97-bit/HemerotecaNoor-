@@ -7,10 +7,11 @@ window.NoorLocalDB = {
   active: true,
   lastUpdate: new Date().toISOString(),
   sections: [
-    { id: 'sec-03', label: '03_RECETARIO', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/03_RECETARIO' },
-    { id: 'sec-01', label: '01_REVISTAS', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS' },
-    { id: 'sec-02', label: '02_LIBROS', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS' },
-    { id: 'sec-05', label: '05_PERIODICOS', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS' }
+    { id: 'sec-03', label: '03_RECETARIO',     path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/03_RECETARIO' },
+    { id: 'sec-01', label: '01_REVISTAS',      path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS' },
+    { id: 'sec-02', label: '02_LIBROS',        path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS' },
+    { id: 'sec-04', label: '04_CONTENIDO_WEB', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)' },
+    { id: 'sec-05', label: '05_PERIODICOS',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS' }
   ],
   documents: [
     // --- 01_REVISTAS ---
@@ -3330,6 +3331,93 @@ window.NoorLocalDB = {
       "coordinates": [37.8847, -4.7791],
       "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/03_RECETARIO/2010-01_Paco-Morales_Stratford-Chefs-School_Canada.pdf",
       "media": { "driveFileId": "1pNbTAxwjTXgRba2rJ80PgL-Zry6ErJ29", "pdf": "1pNbTAxwjTXgRba2rJ80PgL-Zry6ErJ29", "thumbnail": "https://drive.google.com/thumbnail?id=1pNbTAxwjTXgRba2rJ80PgL-Zry6ErJ29&sz=w1000" }
+    },
+
+    // ─── 04_CONTENIDO_WEB ──────────────────────────────────────────────────────
+    {
+      "id": "local-art-2007-cronicas-web",
+      "driveId": "1KwJkT714M37rXg3OsFeK211tFhJiNiAw",
+      "category": "04_CONTENIDO_WEB",
+      "title": "Noticias Web — Crónicas",
+      "year": 2007,
+      "type": "article",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": ["Artículo", "Blog", "Noticias", "Paco Morales", "04_CONTENIDO_WEB"],
+      "regions": ["QURTUBA"],
+      "coordinates": [37.8847, -4.7791],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)/2007 8_NOT_Noticias_Web_Crónicas.pdf",
+      "description": "Crónicas y noticias web sobre Paco Morales. Año 2007.",
+      "media": { "driveFileId": "1KwJkT714M37rXg3OsFeK211tFhJiNiAw", "pdf": "1KwJkT714M37rXg3OsFeK211tFhJiNiAw", "thumbnail": "https://drive.google.com/thumbnail?id=1KwJkT714M37rXg3OsFeK211tFhJiNiAw&sz=w1000" }
+    },
+    {
+      "id": "local-art-2007-blog-los3cerditos",
+      "driveId": "103_o6hXzPXHKfFTIYqE6CIyQOvmsYLAf",
+      "category": "04_CONTENIDO_WEB",
+      "title": "Blog Los 3 Cerditos",
+      "year": 2007,
+      "type": "article",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": ["Artículo", "Blog", "Los 3 Cerditos", "Paco Morales", "04_CONTENIDO_WEB"],
+      "regions": ["QURTUBA"],
+      "coordinates": [37.8847, -4.7791],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)/2007_NOT_Noticia_Blog_Los3cerditos.pdf",
+      "description": "Noticia en blog Los 3 Cerditos sobre Paco Morales. Año 2007.",
+      "media": { "driveFileId": "103_o6hXzPXHKfFTIYqE6CIyQOvmsYLAf", "pdf": "103_o6hXzPXHKfFTIYqE6CIyQOvmsYLAf", "thumbnail": "https://drive.google.com/thumbnail?id=103_o6hXzPXHKfFTIYqE6CIyQOvmsYLAf&sz=w1000" }
+    },
+    {
+      "id": "local-art-2010-blog-larazon",
+      "driveId": "14-nKCPsCftgmeDBsZmO04DfeQfTnUgaL",
+      "category": "04_CONTENIDO_WEB",
+      "title": "Noticia Blog — La Razón",
+      "year": 2010,
+      "type": "article",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": ["Artículo", "Blog", "La Razón", "Paco Morales", "04_CONTENIDO_WEB"],
+      "regions": ["QURTUBA"],
+      "coordinates": [37.8847, -4.7791],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)/2010_08_03_NOT_Noticia_Blog_LaRazon.pdf",
+      "description": "Noticia publicada en blog La Razón sobre Paco Morales. Agosto 2010.",
+      "media": { "driveFileId": "14-nKCPsCftgmeDBsZmO04DfeQfTnUgaL", "pdf": "14-nKCPsCftgmeDBsZmO04DfeQfTnUgaL", "thumbnail": "https://drive.google.com/thumbnail?id=14-nKCPsCftgmeDBsZmO04DfeQfTnUgaL&sz=w1000" }
+    },
+    {
+      "id": "local-art-2012-blog-laverdad",
+      "driveId": "1ZclBk3o_Y7Qic6hxRrbI-R7HR_neN7SD",
+      "category": "04_CONTENIDO_WEB",
+      "title": "Blog La Verdad",
+      "year": 2012,
+      "type": "article",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": ["Artículo", "Blog", "La Verdad", "Paco Morales", "04_CONTENIDO_WEB"],
+      "regions": ["QURTUBA"],
+      "coordinates": [37.8847, -4.7791],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)/2012_10_03_NOT_LaVerdad_Blog_.pdf",
+      "description": "Noticia publicada en el blog La Verdad sobre Paco Morales. Octubre 2012.",
+      "media": { "driveFileId": "1ZclBk3o_Y7Qic6hxRrbI-R7HR_neN7SD", "pdf": "1ZclBk3o_Y7Qic6hxRrbI-R7HR_neN7SD", "thumbnail": "https://drive.google.com/thumbnail?id=1ZclBk3o_Y7Qic6hxRrbI-R7HR_neN7SD&sz=w1000" }
+    },
+    {
+      "id": "local-art-2012-palacete-laseda",
+      "driveId": "13vuTSGtcXr4jRZdSzCt3OlVa9LvVjw2e",
+      "category": "04_CONTENIDO_WEB",
+      "title": "Palacete La Seda — Murcia.com",
+      "year": 2012,
+      "type": "article",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": ["Artículo", "Noticia Web", "Murcia", "Palacete La Seda", "Paco Morales", "04_CONTENIDO_WEB"],
+      "regions": ["QURTUBA"],
+      "coordinates": [37.8847, -4.7791],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)/2012_NOT_Noticia_PacoMorales_PalaceteLaSeda_Murcia.com.pdf.pdf",
+      "description": "Noticia en Murcia.com sobre Paco Morales en el Palacete La Seda. 2012.",
+      "media": { "driveFileId": "13vuTSGtcXr4jRZdSzCt3OlVa9LvVjw2e", "pdf": "13vuTSGtcXr4jRZdSzCt3OlVa9LvVjw2e", "thumbnail": "https://drive.google.com/thumbnail?id=13vuTSGtcXr4jRZdSzCt3OlVa9LvVjw2e&sz=w1000" }
     }
   ]
 };

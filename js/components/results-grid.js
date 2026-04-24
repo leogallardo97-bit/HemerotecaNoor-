@@ -14,6 +14,7 @@ const DOC_TYPE_ICONS = {
   image:      'image',
   mixed:      'layers',
   book:       'book',
+  article:    'file-text',
 };
 
 // ── Mapa de idiomas ──

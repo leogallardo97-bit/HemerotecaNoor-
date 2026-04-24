@@ -1,76 +1,51 @@
 """
-patch_local_db_v2.py
-Corrige driveId en 02_LIBROS: usa el valor de media.pdf (ya correcto) 
-como fuente de verdad para actualizar driveId en cada entrada.
-
-Estructura actual de cada entrada 02_LIBROS:
-  "localPath": "...02_LIBROS/INT_2018_05.pdf",
-  "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",   <-- INCORRECTO (folder)
-  "media": {
-    "thumbnail": "...?id=1sq-NpgfpGfx...&sz=w1000",
-    "pdf": "1sq-NpgfpGfx..."                          <-- CORRECTO (archivo individual)
-  }
-
-Objetivo: driveId = media.pdf (para cada entrada)
+get_contenido_web_ids.py
+Obtiene los IDs individuales de los archivos de 04_CONTENIDO_WEB
+usando la carpeta correcta (stable_id=15932, drive_id=18Fod8n8noj6aEUZG_JlJsr19kHk6iaxQ)
 """
-import sys, re
+import os, sys, shutil, sqlite3, json
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-OLD_FOLDER_ID = "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
-DB_PATH = r"c:\Users\leoga\Desktop\Noor\Antigravity Macro- Proyecto Drive\js\data\local-db.js"
+APPDATA = os.environ.get('LOCALAPPDATA', '')
+DRIVEFS_ROOT = os.path.join(APPDATA, 'Google', 'DriveFS')
+account_folder = next(
+    (os.path.join(DRIVEFS_ROOT, n) for n in os.listdir(DRIVEFS_ROOT)
+     if n.isdigit() and os.path.isdir(os.path.join(DRIVEFS_ROOT, n))),
+    None
+)
+DB_SRC  = os.path.join(account_folder, 'metadata_sqlite_db')
+DB_COPY = os.path.join(os.path.dirname(__file__), 'drive_meta_copy.db')
+shutil.copy2(DB_SRC, DB_COPY)
+conn = sqlite3.connect(DB_COPY)
+c = conn.cursor()
 
-with open(DB_PATH, 'r', encoding='utf-8') as f:
-    lines = f.readlines()
+FOLDER_STABLE_ID   = 15932
+FOLDER_CLOUD_ID    = '18Fod8n8noj6aEUZG_JlJsr19kHk6iaxQ'
 
-updated = 0
-total_lines = len(lines)
+print(f"=== ARCHIVOS DENTRO DE 04_CONTENIDO_WEB (stable_id={FOLDER_STABLE_ID}) ===")
+c.execute("""
+    SELECT i.stable_id, i.id, i.local_title, i.mime_type, i.is_folder
+    FROM items i
+    JOIN stable_parents sp ON i.stable_id = sp.item_stable_id
+    WHERE sp.parent_stable_id = ?
+    ORDER BY i.local_title
+""", (FOLDER_STABLE_ID,))
+children = c.fetchall()
+print(f"Hijos directos: {len(children)}")
+results = {}
+for row in children:
+    stable_id, cloud_id, title, mime, is_folder = row
+    flag = "[DIR]" if is_folder else "[FILE]"
+    print(f"  {flag} {title:70s} | id={cloud_id}")
+    if not is_folder:
+        results[title] = cloud_id
 
-i = 0
-while i < total_lines:
-    # Detectar línea con driveId incorrecto
-    if f'"driveId": "{OLD_FOLDER_ID}"' in lines[i]:
-        # Buscar el valor de media.pdf en las siguientes 8 líneas
-        real_id = None
-        for j in range(i + 1, min(i + 10, total_lines)):
-            # Buscar "pdf": "ID"
-            match = re.search(r'"pdf":\s*"([A-Za-z0-9_\-]+)"', lines[j])
-            if match:
-                candidate = match.group(1)
-                if candidate != OLD_FOLDER_ID and len(candidate) > 20:
-                    real_id = candidate
-                    break
-            # También buscar en thumbnail URL el ID
-            match2 = re.search(r'thumbnail.*?id=([A-Za-z0-9_\-]+)&sz=', lines[j])
-            if match2:
-                candidate = match2.group(1)
-                if candidate != OLD_FOLDER_ID and len(candidate) > 20:
-                    real_id = candidate
-                    break
-        
-        if real_id:
-            old_line = lines[i]
-            lines[i] = lines[i].replace(
-                f'"driveId": "{OLD_FOLDER_ID}"',
-                f'"driveId": "{real_id}"'
-            )
-            updated += 1
-            # Extraer localPath de contexto para log
-            for k in range(max(0, i - 5), i):
-                lp_match = re.search(r'/([^/]+\.pdf)"', lines[k])
-                if lp_match:
-                    print(f"  [{updated:3d}] {lp_match.group(1)} -> {real_id}")
-                    break
-        else:
-            print(f"  [WARN] Línea {i+1}: no se encontró real_id para entrada con folder ID")
-    
-    i += 1
+conn.close()
+if os.path.exists(DB_COPY):
+    os.remove(DB_COPY)
 
-print(f"\nTotal actualizadas: {updated}")
-
-if updated > 0:
-    with open(DB_PATH, 'w', encoding='utf-8') as f:
-        f.writelines(lines)
-    print("local-db.js guardado correctamente.")
-else:
-    print("No se realizaron cambios.")
+out_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'contenido_web_ids.json')
+with open(out_path, 'w', encoding='utf-8') as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+print(f"\nTotal: {len(results)} | Guardado en: {out_path}")

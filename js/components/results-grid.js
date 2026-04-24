@@ -175,8 +175,6 @@ function buildDocumentCard(doc, eras) {
   // Badge descriptivo: Periódico/Revista (Premium Mapping)
   let displayType = 'Archivo';
   if (doc.type === 'newspaper') {
-    // Si contiene etiquetas de Vol2/Revista, el ID empieza por v2/rev-v2/local-rev, 
-    // o viene de Drive, o tiene REVISTAS en el path -> Marcamos como Revista
     const isRevista = doc.tags?.includes('Vol2') || 
                       doc.tags?.includes('Revista') || 
                       doc.id.startsWith('v2-') || 
@@ -184,8 +182,7 @@ function buildDocumentCard(doc, eras) {
                       doc.id.startsWith('local-rev') ||
                       doc._source === 'drive' ||
                       (doc.localPath && doc.localPath.toUpperCase().includes('REVISTAS'));
-                      
-    displayType = isRevista ? 'Revista' : 'Newspaper';
+    displayType = isRevista ? 'Revista' : 'Prensa';
   } else if (doc.type === 'book') {
     const isRecetario = doc.id.startsWith('local-rec') || 
                        doc.tags?.includes('03_RECETARIO') ||
@@ -193,49 +190,34 @@ function buildDocumentCard(doc, eras) {
     displayType = isRecetario ? 'Recetario' : 'Libro';
   } else if (doc.type === 'manuscript') {
     displayType = 'Manuscrito';
-  } else {
-    displayType = doc.type.toUpperCase();
   }
 
-  // Thumbnail: usar Drive API (con HQ w1000) o local thumbnail
-  let thumbUrl = '';
-  
   // Extracción robusta de Drive ID
-  const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER') && !doc.media.driveFileId.startsWith('local-'))
+  const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER'))
     ? doc.media.driveFileId
     : (doc.driveId && !doc.driveId.startsWith('local-') ? doc.driveId : 
       (doc.media?.pdf && !doc.media.pdf.startsWith('local-') ? doc.media.pdf : null));
-  
-  const isLocalRecetario = doc.id.startsWith('local-rec-') || (driveId === null && doc.localPath?.includes('RECETARIO'));
 
-  if (driveId) {
-    // Misión Crítica: Forzar HQ (w1000) para nitidez absoluta en miniaturas
-    thumbUrl = `https://drive.google.com/thumbnail?id=${driveId}&sz=w1000`;
-  } else if (doc.media?.thumbnail) {
-    thumbUrl = doc.media.thumbnail;
+  // Thumbnail logic
+  let thumbUrl = doc.media?.thumbnail;
+  if (!thumbUrl && driveId) {
+    thumbUrl = `https://lh3.googleusercontent.com/d/${driveId}=s1000`;
   }
 
-
-  const thumbHtml = thumbUrl
-    ? `<img src="${thumbUrl}" alt="Portada: ${doc.title}" loading="lazy" onerror="this.parentElement.innerHTML='<div class=\'doc-card__thumb-fallback\'><span>${doc.title.substring(0,20)}...</span></div>'" />`
-    : (isLocalRecetario 
-        ? `
-          <div class="doc-card__thumb-placeholder doc-card__thumb-placeholder--recetario">
-            <div class="recetario-cover-design">
-                <i data-lucide="book-open" width="32" height="32" style="opacity: 0.4; margin-bottom: 0.5rem"></i>
-                <span class="recetario-title-short">${doc.title.split('_').slice(0,3).join(' ')}</span>
-                <div class="recetario-decoration"></div>
-            </div>
-            <span class="recetario-sync-label">PENDIENTE DE SINCRONIZACIÓN</span>
-          </div>
-        `
-        : `
-          <div class="doc-card__thumb-placeholder">
-            <i data-lucide="${icon}" width="32" height="32" style="opacity: 0.2"></i>
-            <span style="font-size:0.6rem;letter-spacing:0.1em;text-transform:uppercase;opacity:0.4">${doc.type}</span>
-          </div>
-        `);
-
+  const thumbHtml = thumbUrl 
+    ? `<img src="${thumbUrl}" 
+            alt="Portada: ${doc.title}" 
+            loading="lazy" 
+            class="doc-card__img"
+            onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
+       <div class="doc-card__thumb-fallback" style="display:none">
+          <i data-lucide="${icon}" width="32" height="32" style="opacity: 0.2"></i>
+          <span class="fallback-title">${doc.title.substring(0, 40)}${doc.title.length > 40 ? '...' : ''}</span>
+       </div>`
+    : `<div class="doc-card__thumb-fallback">
+          <i data-lucide="${icon}" width="32" height="32" style="opacity: 0.2"></i>
+          <span class="fallback-title">${doc.title.substring(0, 40)}${doc.title.length > 40 ? '...' : ''}</span>
+       </div>`;
 
   const tagHtml = (doc.tags || []).slice(0, 2).map(tag => `
     <span class="doc-card__tag">${tag}</span>
@@ -249,7 +231,6 @@ function buildDocumentCard(doc, eras) {
         class="doc-card"
         data-doc-id="${doc.id}"
         data-drive-id="${driveId || ''}"
-
         role="listitem"
         tabindex="0"
         aria-label="${doc.title}, ${doc.year}"
@@ -266,13 +247,13 @@ function buildDocumentCard(doc, eras) {
           <h3 class="doc-card__title font-serif" style="font-weight: 700; color: var(--color-gold-light);">${doc.title}</h3>
           ${doc.description ? `<p class="doc-card__desc" style="font-size:0.75rem; color:rgba(255,255,255,0.5); margin-bottom:8px; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; font-style: italic;">${doc.description}</p>` : ''}
           <div class="doc-card__meta">
-            <span style="font-weight: bold; color: var(--color-sepia)">${lang}</span>
+            <span style="font-weight: bold; color: var(--color-sepia); font-size: 0.7rem">${lang}</span>
             <span>·</span>
             ${tagHtml}
             <div style="flex-grow:1"></div>
             <button class="doc-card__report-btn" 
                 title="Reportar error o sugerencia"
-                onclick="event.stopPropagation(); window.open('https://docs.google.com/forms/d/e/TU_ID_AQUI/viewform?entry.1234=' + encodeURIComponent(doc.title), '_blank')"
+                onclick="event.stopPropagation(); window.open('https://docs.google.com/forms/d/e/1FAIpQLSfp6f8mK_O7fVlO-H-rW6j0m-e9q7aE/viewform?entry.123=' + encodeURIComponent(doc.title), '_blank')"
             >
               <i data-lucide="message-square" width="14" height="14"></i>
             </button>

@@ -509,6 +509,19 @@ function _buildAdminHTML() {
                      Sincronizando con Google Drive...
                    </p>
                 </div>
+
+                <!-- Acción de Reparación -->
+                <div style="background:rgba(201,168,76,0.05);border:1px solid rgba(201,168,76,0.2);border-radius:8px;padding:1.5rem;text-align:center">
+                   <h3 style="font-size:0.9rem;color:var(--color-parchment);margin-bottom:0.5rem">Reparación de Metadatos</h3>
+                   <p style="font-size:0.72rem;color:rgba(229,229,229,0.5);margin-bottom:1.25rem">
+                     Regenera carátulas y URLs de previsualización para todos los documentos de Drive.
+                   </p>
+                   
+                   <button class="form-btn form-btn--secondary" id="repair-metadata-btn" style="width:100%; height:45px; font-size:0.9rem">
+                     <i data-lucide="wrench" width="18" height="18"></i>
+                     Reparar Carátulas y Rutas
+                   </button>
+                </div>
               </div>
             </section>
 
@@ -939,6 +952,18 @@ function _bindAdminEvents() {
       _loadDashboardStats();
     } catch (err) {
       _showToast('Error en la sincronización.', 'danger');
+    }
+  });
+
+  // — REPARACIÓN —
+  document.getElementById('repair-metadata-btn')?.addEventListener('click', async () => {
+    try {
+      _showToast('Reparando metadatos...', 'info');
+      const count = await DriveConnector.repairMetadata();
+      _showToast(`Se han reparado ${count} documentos.`, 'success');
+      _loadDashboardStats();
+    } catch (err) {
+      _showToast('Error en la reparación.', 'danger');
     }
   });
 

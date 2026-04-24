@@ -80,8 +80,10 @@ document.addEventListener('click', (e) => {
     const docId = card.dataset.docId;
     
     if (driveId && driveId.length > 20 && !driveId.startsWith('local-')) {
-      console.log('[Noor-App] Apertura directa en Drive:', driveId);
-      window.open(`https://drive.google.com/file/d/${driveId}/preview`, '_blank');
+      console.log('[Noor-App] Apertura directa en Drive (Preview):', driveId);
+      // Forzamos target="_blank" con la URL de previsualización de Drive para evitar bloqueos
+      const previewUrl = `https://drive.google.com/file/d/${driveId}/preview`;
+      window.open(previewUrl, '_blank');
     } else {
       console.log('[Noor-App] Seleccionando documento:', docId);
       const doc = (window.NoorState.getState().documents || []).find(d => d.id === docId);

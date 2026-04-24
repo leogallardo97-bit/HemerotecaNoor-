@@ -69,11 +69,22 @@ const NoorState = (() => {
         case 'SET_DOCUMENTS':
           // Enriquecimiento de Datos: Generar etiquetas de década automáticamente
           const enrichedDocs = (payload || []).map(doc => {
-            // Auto-categorización para Mock v2
-            if (doc.id && (doc.id.startsWith('v2-') || doc.id.startsWith('rev-v2'))) {
-              if (!doc.category) doc.category = '01_REVISTAS';
-              if (!doc.language) doc.language = 'es';
+            // Auto-categorización por ID o Ruta
+            if (!doc.category) {
+              if (doc.id && (doc.id.startsWith('v2-') || doc.id.startsWith('rev-v2') || doc.id.startsWith('local-rev'))) {
+                doc.category = '01_REVISTAS';
+              } else if (doc.id && (doc.id.startsWith('local-lib') || doc.type === 'book')) {
+                doc.category = '02_LIBROS';
+              } else if (doc.id && (doc.id.startsWith('local-rec'))) {
+                doc.category = '03_RECETARIO';
+              } else if (doc.localPath) {
+                if (doc.localPath.includes('01_REVISTAS')) doc.category = '01_REVISTAS';
+                if (doc.localPath.includes('02_LIBROS'))   doc.category = '02_LIBROS';
+                if (doc.localPath.includes('03_RECETARIO')) doc.category = '03_RECETARIO';
+              }
             }
+            if (!doc.language) doc.language = 'es';
+
             if (doc.year) {
               const decade = `Década ${Math.floor(doc.year / 10) * 10}`;
               if (!doc.tags) doc.tags = [];

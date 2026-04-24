@@ -11,12 +11,16 @@ function renderTaxonomyNav() {
 
   // Contar documentos por época (para los badges)
   const counts = {};
-  (window.NoorMockData?.documents || []).forEach(doc => {
-    counts[doc.eraId] = (counts[doc.eraId] || 0) + 1;
+  const allDocs = (window.NoorMockData && Array.isArray(window.NoorMockData)) ? window.NoorMockData : [];
+  allDocs.forEach(function(doc) {
+    if (doc.eraId) {
+      counts[doc.eraId] = (counts[doc.eraId] || 0) + 1;
+    }
   });
 
   // ── Construir ítems del dropdown de Épocas ──
-  const erasItems = Object.values(HISTORICAL_ERAS).map(era => `
+  const erasItems = Object.values(HISTORICAL_ERAS).map(function(era) {
+    return `
     <a href="#"
        class="taxonomy-dropdown__item"
        data-filter-key="eraIds"
@@ -29,10 +33,11 @@ function renderTaxonomyNav() {
       </span>
       <span class="taxonomy-dropdown__count">${counts[era.id] || 0} docs</span>
     </a>
-  `).join('');
+  `; }).join('');
 
   // ── Construir ítems del dropdown de Temas ──
-  const themesItems = Object.values(THEMATIC_DIMENSIONS).map(t => `
+  const themesItems = Object.values(THEMATIC_DIMENSIONS).map(function(t) {
+    return `
     <a href="#"
        class="taxonomy-dropdown__item"
        data-filter-key="themes"
@@ -40,10 +45,11 @@ function renderTaxonomyNav() {
     >
       <span>${t.label}</span>
     </a>
-  `).join('');
+  `; }).join('');
 
   // ── Construir ítems del dropdown de Tipos ──
-  const typesItems = Object.values(DOCUMENT_TYPES).map(type => `
+  const typesItems = Object.values(DOCUMENT_TYPES).map(function(type) {
+    return `
     <a href="#"
        class="taxonomy-dropdown__item"
        data-filter-key="types"
@@ -51,18 +57,32 @@ function renderTaxonomyNav() {
     >
       <span style="text-transform:capitalize">${type}</span>
     </a>
-  `).join('');
+  `; }).join('');
 
   // ── Construir ítems del dropdown de Regiones ──
-  const regionsItems = Object.values(REGIONS).map(region => `
+  const regionsItems = Object.values(REGIONS).map(function(region) {
+    const regionKey = Object.keys(REGIONS).find(function(k) { return REGIONS[k] === region; });
+    return `
     <a href="#"
        class="taxonomy-dropdown__item"
        data-filter-key="regions"
-       data-filter-value="${Object.keys(REGIONS).find(k => REGIONS[k] === region)}"
+       data-filter-value="${regionKey}"
     >
       <span>${region}</span>
     </a>
-  `).join('');
+  `; }).join('');
+
+  // ── Construir ítems del dropdown de Secciones ──
+  const sectionsItems = ['01_REVISTAS', '02_LIBROS', '03_RECETARIO'].map(function(sec) {
+    return `
+    <a href="#"
+       class="taxonomy-dropdown__item"
+       data-filter-key="sections"
+       data-filter-value="${sec}"
+    >
+      <span>${sec.replace(/^\d+_/, '')}</span>
+    </a>
+  `; }).join('');
 
   el.innerHTML = `
     <nav class="taxonomy-nav" aria-label="Taxonomía histórica">
@@ -122,6 +142,17 @@ function renderTaxonomyNav() {
           </div>
         </div>
 
+        <!-- Secciones del Archivo -->
+        <div class="taxonomy-nav__item">
+          <button class="taxonomy-nav__btn" id="tax-tab-sections" data-tab="sections">
+            <i data-lucide="library" width="13" height="13"></i>
+            Secciones
+          </button>
+          <div class="taxonomy-dropdown" id="dropdown-sections">
+            ${sectionsItems}
+          </div>
+        </div>
+
       </div>
     </nav>
   `;
@@ -130,7 +161,7 @@ function renderTaxonomyNav() {
   if (window.lucide) lucide.createIcons();
 
   // ── Lógica de filtrado al hacer click en dropdown ──
-  el.addEventListener('click', (e) => {
+  el.addEventListener('click', function(e) {
     const item = e.target.closest('[data-filter-key]');
     if (!item) return;
     e.preventDefault();
@@ -138,12 +169,12 @@ function renderTaxonomyNav() {
     const key = item.dataset.filterKey;
     const value = item.dataset.filterValue;
 
-    NoorState.dispatch('TOGGLE_FILTER_VALUE', { key, value });
+    NoorState.dispatch('TOGGLE_FILTER_VALUE', { key: key, value: value });
     item.classList.toggle('active');
   });
 
   // ── Reset épocas ──
-  el.querySelector('[data-action="reset-era"]')?.addEventListener('click', (e) => {
+  el.querySelector('[data-action="reset-era"]')?.addEventListener('click', function(e) {
     e.preventDefault();
     NoorState.dispatch('SET_FILTER', { key: 'eraIds', value: [] });
   });

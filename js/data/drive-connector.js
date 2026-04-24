@@ -93,7 +93,7 @@ const DriveConnector = (() => {
         let response;
         const listParams = {
           q: `'${folderId}' in parents and trashed = false`,
-          fields: 'files(id, name, description, webViewLink, thumbnailLink, mimeType, size, createdTime)',
+          fields: 'files(id, name, description, webViewLink, thumbnailLink, iconLink, mimeType, size, createdTime)',
           pageSize: 1000
         };
 
@@ -105,7 +105,7 @@ const DriveConnector = (() => {
           response = await gapi.client.drive.files.list(listParams);
         }
 
-        const files = response.result.files || [];
+        const files = (response.result.files || []).map(f => ({ ...f, _collection: colName }));
         allFiles = allFiles.concat(files);
       }
 
@@ -193,15 +193,16 @@ const DriveConnector = (() => {
       header: header,
       location: detail.split(' ')[0] || 'Archivo',
       regions: [regionKey],
-      type: filename.toLowerCase().endsWith('.pdf') ? 'newspaper' : 'image',
+      category: file._collection || '01_REVISTAS',
+      type: file._collection === '02_LIBROS' ? 'book' : (filename.toLowerCase().endsWith('.pdf') ? 'newspaper' : 'image'),
       media: {
-        thumbnail: file.thumbnailLink ? file.thumbnailLink.replace('=s220', '=s800') : '',
+        thumbnail: file.thumbnailLink ? file.thumbnailLink.replace('=s220', '=s1000') : `https://lh3.googleusercontent.com/d/${file.id}=s1000`,
         pdf: filename.toLowerCase().endsWith('.pdf') ? file.id : null,
         driveFileId: file.id,
-        viewUrl: file.webViewLink
+        viewUrl: file.webViewLink || `https://drive.google.com/file/d/${file.id}/view`
       },
       coordinates: window.NoorSchema.REGION_DEFAULT_COORDS[regionKey] || null,
-      tags: ['Drive', 'Sincronizado', header],
+      tags: ['Drive', 'Sincronizado', header, file._collection].filter(Boolean),
       _source: 'drive'
     };
   }
@@ -319,11 +320,51 @@ const DriveConnector = (() => {
     return `https://drive.google.com/file/d/${fileId}/view`;
   }
 
+  /**
+   * repairMetadata()
+   * Recorre todos los documentos locales y refresca sus URLs de Drive.
+   */
+  async function repairMetadata() {
+    try {
+      console.log('[DriveConnector] Iniciando reparación de metadatos...');
+      // Obtener todos los documentos de la DB
+      const docs = await NoorDB.getAllDocuments();
+      const driveDocs = docs.filter(d => d._source === 'drive' && d.media?.driveFileId);
+      
+      if (driveDocs.length === 0) {
+        console.warn('[DriveConnector] No hay documentos de Drive para reparar.');
+        return;
+      }
+
+      for (const doc of driveDocs) {
+        const fileId = doc.media.driveFileId;
+        // Regeneramos el thumbnail forzando HQ y link directo lh3
+        doc.media.thumbnail = `https://lh3.googleusercontent.com/d/${fileId}=s1000`;
+        doc.media.viewUrl = `https://drive.google.com/file/d/${fileId}/preview`;
+        
+        // Actualizar en IndexedDB
+        await NoorDB.saveDocument(doc);
+      }
+
+      console.log(`[DriveConnector] ✓ Se repararon ${driveDocs.length} documentos.`);
+      
+      // Refrescar el estado global para que la UI se entere
+      const updatedDocs = await NoorDB.getAllDocuments();
+      NoorState.dispatch('SET_DOCUMENTS', updatedDocs);
+      
+      return driveDocs.length;
+    } catch (error) {
+      console.error('[DriveConnector] Error en reparación:', error);
+      throw error;
+    }
+  }
+
   // API Pública
   return {
     initialize,
     fetchMasterIndex,
     syncHemeroteca,
+    repairMetadata,
     updateConfig,
     getPDFBlobUrl,
     getThumbnailUrl,

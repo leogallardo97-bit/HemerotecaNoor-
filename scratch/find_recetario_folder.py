@@ -13,7 +13,12 @@ def find_folder(name):
         print(f"Error searching for folder {name}: {e}")
         return []
 
-print("Searching for 03_RECETARIO folder...")
-folders = find_folder("03_RECETARIO")
-for f in folders:
-    print(f"Found: {f['name']} ({f['id']})")
+print("Searching for folders...")
+collection_names = ["01_REVISTAS", "02_LIBROS", "03_RECETARIO"]
+for name in collection_names:
+    print(f"\nLooking for: {name}")
+    folders = find_folder(name)
+    if not folders:
+        print("  Not found.")
+    for f in folders:
+        print(f"  Found: {f['name']} ({f['id']})")

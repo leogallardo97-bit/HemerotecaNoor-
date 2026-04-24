@@ -80,10 +80,17 @@ document.addEventListener('click', (e) => {
     const docId = card.dataset.docId;
     
     if (driveId && driveId.length > 20 && !driveId.startsWith('local-')) {
-      console.log('[Noor-App] Apertura directa en Drive (Preview):', driveId);
-      // Forzamos target="_blank" con la URL de previsualización de Drive para evitar bloqueos
-      const previewUrl = `https://drive.google.com/file/d/${driveId}/preview`;
-      window.open(previewUrl, '_blank');
+      // Detectar si es referencia a carpeta (02_LIBROS sin IDs individuales)
+      const _colFolders = Object.values(window.APP_CONFIG?.COLLECTIONS || {});
+      const _isFolderRef = _colFolders.includes(driveId);
+
+      if (_isFolderRef) {
+        console.log('[Noor-App] Apertura de carpeta Drive (colección sin IDs individuales):', driveId);
+        window.open(`https://drive.google.com/drive/folders/${driveId}`, '_blank');
+      } else {
+        console.log('[Noor-App] Apertura directa en Drive (Preview):', driveId);
+        window.open(`https://drive.google.com/file/d/${driveId}/preview`, '_blank');
+      }
     } else {
       console.log('[Noor-App] Seleccionando documento:', docId);
       const doc = (window.NoorState.getState().documents || []).find(d => d.id === docId);
@@ -95,7 +102,7 @@ document.addEventListener('click', (e) => {
 
 (async function initNoorApp() {
   console.log('╔══════════════════════════════════════════╗');
-  console.log('║    ARCHIVO NOOR — v1.0.0 (Fase 5 ✓)    ║');
+  console.log('║  ARCHIVO NOOR — v1.6.1 (02_LIBROS Fix ✓)  ║');
   console.log('╚══════════════════════════════════════════╝');
   console.log('[App] Iniciando...');
 

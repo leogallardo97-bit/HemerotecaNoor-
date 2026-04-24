@@ -197,9 +197,14 @@ function buildDocumentCard(doc, eras) {
     : (doc.driveId && doc.driveId.length > 20 && !doc.driveId.startsWith('local-') ? doc.driveId
       : (doc.media?.pdf && doc.media.pdf.length > 20 && !doc.media.pdf.startsWith('local-') ? doc.media.pdf : null));
 
-  // Thumbnail logic
-  let thumbUrl = doc.media?.thumbnail;
-  if (!thumbUrl && driveId) {
+  // ── Detección de referencia a carpeta (ej: 02_LIBROS sin IDs individuales) ──
+  // Si el driveId coincide con el ID de una carpeta de colección, NO lo usamos como archivo
+  const _knownFolderIds = Object.values(window.APP_CONFIG?.COLLECTIONS || {});
+  const isFolderRef = !!(driveId && _knownFolderIds.includes(driveId));
+
+  // Thumbnail: solo si es un ID de archivo real (no carpeta)
+  let thumbUrl = !isFolderRef ? doc.media?.thumbnail : null;
+  if (!thumbUrl && driveId && !isFolderRef) {
     thumbUrl = `https://lh3.googleusercontent.com/d/${driveId}=s1000`;
   }
 

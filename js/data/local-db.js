@@ -52,10 +52,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2017_024.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1nv3iaDi-AGf1AgQFuvHGnjfspR7D4fU7",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1nv3iaDi-AGf1AgQFuvHGnjfspR7D4fU7&sz=w1000",
+                "pdf": "1nv3iaDi-AGf1AgQFuvHGnjfspR7D4fU7"
           },
           "description": "Paco Morales (Restaurante Noor, Córdoba). Chef of the Year. Portada minimalista con retrato del chef en entorno de cocina de vanguardia. la langosta en la cabeza. Gastronomía; Alta Cocina; Chef; Innovación; Andalucía; Patrimonio Culinario"
     },
@@ -78,10 +78,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_060.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq&sz=w1000",
+                "pdf": "19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq"
           },
           "description": "Robb Report- Arzak - Juan Mari y Elena. Paco Morales Padre e Hijo"
     },
@@ -104,10 +104,11 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_061.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "driveFileId": "19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq",
+                "thumbnail": "https://drive.google.com/thumbnail?id=19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq&sz=w1000",
+                "pdf": "19NrwfI4ZTf5Cw6NJR2xiOGTNJOXmNpuq"
           },
           "description": "Encuestre. Un banchetto Imperiale"
     },
@@ -130,10 +131,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2011_1.834.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1ULUtHgHblS3xWUX8X9SWDx_L_JgY6s2s",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1ULUtHgHblS3xWUX8X9SWDx_L_JgY6s2s&sz=w1000",
+                "pdf": "1ULUtHgHblS3xWUX8X9SWDx_L_JgY6s2s"
           },
           "description": "Especial Gastronomía: \"Un voto por la buena cocina\". Paco Morales Ferrero"
     },
@@ -156,10 +157,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_009.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1Cnd5MsKYl8757hOCJiyMQHMlrCOBcynW",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Cnd5MsKYl8757hOCJiyMQHMlrCOBcynW&sz=w1000",
+                "pdf": "1Cnd5MsKYl8757hOCJiyMQHMlrCOBcynW"
           },
           "description": "Paco Morales un enamorado de las Verduras. Paco Morales un enamorado de las Verduras"
     },
@@ -182,10 +183,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_010.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "17YrIFsXnYMblvLNDURp_h9iABt7vY6yv",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=17YrIFsXnYMblvLNDURp_h9iABt7vY6yv&sz=w1000",
+                "pdf": "17YrIFsXnYMblvLNDURp_h9iABt7vY6yv"
           },
           "description": "Verano de sol. Paco Morales mi cocina es algo excitante"
     },
@@ -208,10 +209,11 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_011.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "17YrIFsXnYMblvLNDURp_h9iABt7vY6yv",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "driveFileId": "17YrIFsXnYMblvLNDURp_h9iABt7vY6yv",
+                "thumbnail": "https://drive.google.com/thumbnail?id=17YrIFsXnYMblvLNDURp_h9iABt7vY6yv&sz=w1000",
+                "pdf": "17YrIFsXnYMblvLNDURp_h9iABt7vY6yv"
           },
           "description": "Dont Waste. chefs alps Paco Morales"
     },
@@ -234,10 +236,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_AN.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1w-Rw4yu_hK2vbefVRQXrXfpo8To8iDs4",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1w-Rw4yu_hK2vbefVRQXrXfpo8To8iDs4&sz=w1000",
+                "pdf": "1w-Rw4yu_hK2vbefVRQXrXfpo8To8iDs4"
           },
           "description": "Guia Gastronómica. Noor  Paco Morales"
     },
@@ -260,10 +262,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_45.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1v8J0gK2c39AyhICu_-dzd0YH2Rt0gFMq",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1v8J0gK2c39AyhICu_-dzd0YH2Rt0gFMq&sz=w1000",
+                "pdf": "1v8J0gK2c39AyhICu_-dzd0YH2Rt0gFMq"
           },
           "description": "Las 50 españolas más poderosas. Paco Morales Noor"
     },
@@ -286,10 +288,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_64.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1r_an4B3rbm_O923g3h4RLZyWVXfPjhZO",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1r_an4B3rbm_O923g3h4RLZyWVXfPjhZO&sz=w1000",
+                "pdf": "1r_an4B3rbm_O923g3h4RLZyWVXfPjhZO"
           },
           "description": "Las mejores ginebras. Chef del año  Paco morales"
     },
@@ -312,10 +314,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2011_237.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1Fv_ekWfAgUrpMgLVTYJwO03VttF4jk4R",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Fv_ekWfAgUrpMgLVTYJwO03VttF4jk4R&sz=w1000",
+                "pdf": "1Fv_ekWfAgUrpMgLVTYJwO03VttF4jk4R"
           },
           "description": "El salsifi fosilizado aliñado. Aduriz/Mugaritz"
     },
@@ -338,10 +340,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2010_411_412.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1_ZO5DTmZ9MvT1mZwNkL5hgCnD9DBJfoT",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_ZO5DTmZ9MvT1mZwNkL5hgCnD9DBJfoT&sz=w1000",
+                "pdf": "1_ZO5DTmZ9MvT1mZwNkL5hgCnD9DBJfoT"
           },
           "description": "Paco Morales Vuela solo. Paco morales sumario"
     },
@@ -364,10 +366,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2017_369.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1kkf0EUf0QMJ-k9oTGn9G-mgTDrvhGvoS",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1kkf0EUf0QMJ-k9oTGn9G-mgTDrvhGvoS&sz=w1000",
+                "pdf": "1kkf0EUf0QMJ-k9oTGn9G-mgTDrvhGvoS"
           },
           "description": "Noor Regreso al_Andalus. Noor Al Andalus"
     },
@@ -390,10 +392,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2013_06.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1gsBwFPpQ1CMDrYdAlbJMb48PQVGYv_MO",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1gsBwFPpQ1CMDrYdAlbJMb48PQVGYv_MO&sz=w1000",
+                "pdf": "1gsBwFPpQ1CMDrYdAlbJMb48PQVGYv_MO"
           },
           "description": "Destinos donde saboraear la noche de fin de año. Deliciosa Vanguardia"
     },
@@ -416,10 +418,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_09.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1PFHMAXgFENrbckDgSwS3gCYYMt2OtK1x",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1PFHMAXgFENrbckDgSwS3gCYYMt2OtK1x&sz=w1000",
+                "pdf": "1PFHMAXgFENrbckDgSwS3gCYYMt2OtK1x"
           },
           "description": "Soluciones financieras con metodología Time. Paco Morales la estrella Más Joven"
     },
@@ -440,10 +442,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_55.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx&sz=w1000",
+                "pdf": "1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx"
           },
           "description": "20 Hoteles con encanto. -"
     },
@@ -464,10 +466,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2008_228.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1p0XaUJeZVKY9ocVNbp0TWXKQanTupZKn",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1p0XaUJeZVKY9ocVNbp0TWXKQanTupZKn&sz=w1000",
+                "pdf": "1p0XaUJeZVKY9ocVNbp0TWXKQanTupZKn"
           },
           "description": "el bulli con su paisaje. -"
     },
@@ -490,10 +492,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2014_148.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "16lWeGEP_TVD7NEoevJucnOYirywrXLCD",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=16lWeGEP_TVD7NEoevJucnOYirywrXLCD&sz=w1000",
+                "pdf": "16lWeGEP_TVD7NEoevJucnOYirywrXLCD"
           },
           "description": "oilmotion carles tejedor. Paco morales la Trapo"
     },
@@ -516,10 +518,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_876.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1dQXL0wlPraBOJpXaZzC2vCLdvZB5CBfP",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1dQXL0wlPraBOJpXaZzC2vCLdvZB5CBfP&sz=w1000",
+                "pdf": "1dQXL0wlPraBOJpXaZzC2vCLdvZB5CBfP"
           },
           "description": "Inversion y finanzas. En busca de la perfección Gastronómica"
     },
@@ -542,10 +544,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_00.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1__aLYJyXPelO4xF8junDNpBWbT8N-2W-",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1__aLYJyXPelO4xF8junDNpBWbT8N-2W-&sz=w1000",
+                "pdf": "1__aLYJyXPelO4xF8junDNpBWbT8N-2W-"
           },
           "description": "Recetas de los mejores cocineros. Paco Morales Hotel Ferrero"
     },
@@ -568,10 +570,11 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2016_55.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "driveFileId": "1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx",
+                "thumbnail": "https://drive.google.com/thumbnail?id=1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx&sz=w1000",
+                "pdf": "1c33Jz1Ya0jL8YaEDax6VSyHX_p6cRDCx"
           },
           "description": "Risto Mejide. Paco Morales un paseo por al Andalus"
     },
@@ -594,10 +597,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2014_76.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1nt7tSE3_vpSblXJoGRZnKoOeFFGhj370",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1nt7tSE3_vpSblXJoGRZnKoOeFFGhj370&sz=w1000",
+                "pdf": "1nt7tSE3_vpSblXJoGRZnKoOeFFGhj370"
           },
           "description": "gourmets awards. al Trapo Paco Morales"
     },
@@ -620,10 +623,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2022_106.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1ktLHeP2HF9O03Bb8bRZsCDuwYOzdAE-4",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1ktLHeP2HF9O03Bb8bRZsCDuwYOzdAE-4&sz=w1000",
+                "pdf": "1ktLHeP2HF9O03Bb8bRZsCDuwYOzdAE-4"
           },
           "description": "Mijotés de Printemps. Noor recetas del palacio Árabe"
     },
@@ -646,10 +649,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_29.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1UOQCs2ajNJMlOFh46-lqumwUzjaIPVNF",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1UOQCs2ajNJMlOFh46-lqumwUzjaIPVNF&sz=w1000",
+                "pdf": "1UOQCs2ajNJMlOFh46-lqumwUzjaIPVNF"
           },
           "description": "Best in the world. Noor Paco Morales"
     },
@@ -672,10 +675,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/TAP_2011_464.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "18qy3CJNcfj4OSfeIwp4IjyY3b_-bMhXH",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=18qy3CJNcfj4OSfeIwp4IjyY3b_-bMhXH&sz=w1000",
+                "pdf": "18qy3CJNcfj4OSfeIwp4IjyY3b_-bMhXH"
           },
           "description": "Dominical. Paco Morales El Cuchillo sobre la cabeza"
     },
@@ -698,10 +701,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_249.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "16AVIGFYlSELwh0HK-mbW-HQ84T-CGXLa",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=16AVIGFYlSELwh0HK-mbW-HQ84T-CGXLa&sz=w1000",
+                "pdf": "16AVIGFYlSELwh0HK-mbW-HQ84T-CGXLa"
           },
           "description": "Justin Oshea. La buena vida homenaje al origen"
     },
@@ -724,10 +727,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_00.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr&sz=w1000",
+                "pdf": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr"
           },
           "description": "SOUTH Art culture , gastronomy, lifestyle. Noor restaurant Contemporany Nasri Cooking"
     },
@@ -750,10 +753,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_22.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1JW8mn2o35sI4DaPQOM_rFqAunPw9aq7Q",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1JW8mn2o35sI4DaPQOM_rFqAunPw9aq7Q&sz=w1000",
+                "pdf": "1JW8mn2o35sI4DaPQOM_rFqAunPw9aq7Q"
           },
           "description": "Cuerpo Sano. Noor legado andalusí"
     },
@@ -776,10 +779,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2003_60.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1oqHuswInOoIPcl6c4PamhUSmmoNXTSaf",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1oqHuswInOoIPcl6c4PamhUSmmoNXTSaf&sz=w1000",
+                "pdf": "1oqHuswInOoIPcl6c4PamhUSmmoNXTSaf"
           },
           "description": "Pizza y Restauración carlos arguiñano. maquinaria"
     },
@@ -802,10 +805,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_05.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1sq-NpgfpGfxReapg5UMgMUx5JJMcmEXX",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1sq-NpgfpGfxReapg5UMgMUx5JJMcmEXX&sz=w1000",
+                "pdf": "1sq-NpgfpGfxReapg5UMgMUx5JJMcmEXX"
           },
           "description": "Andreas Döllerer (un famoso chef austriaco).. Paco morales revista en alemán"
     },
@@ -828,10 +831,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_04.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1MQVfyqjE9WlzsKn5Q-9bh4CY6mqzfLhv",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1MQVfyqjE9WlzsKn5Q-9bh4CY6mqzfLhv&sz=w1000",
+                "pdf": "1MQVfyqjE9WlzsKn5Q-9bh4CY6mqzfLhv"
           },
           "description": "Osterkuche. Paco morales noor"
     },
@@ -854,10 +857,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_90.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1NP6cvSC5JfXa48fNzDSOer0IgFt2Tvtn",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1NP6cvSC5JfXa48fNzDSOer0IgFt2Tvtn&sz=w1000",
+                "pdf": "1NP6cvSC5JfXa48fNzDSOer0IgFt2Tvtn"
           },
           "description": "Cambio de Marcha. Paco Morales Alma Andalusí"
     },
@@ -880,10 +883,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_235.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1N-OuEOlTzghRrANBRBshsZ0m9mreoT5g",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1N-OuEOlTzghRrANBRBshsZ0m9mreoT5g&sz=w1000",
+                "pdf": "1N-OuEOlTzghRrANBRBshsZ0m9mreoT5g"
           },
           "description": "Los mejores Vinos. Paco Morales Hotel Ferrero"
     },
@@ -906,10 +909,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2009_02.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "19EoMcKWeBaf1kcTsvbWDRjAm8mv2jrLe",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=19EoMcKWeBaf1kcTsvbWDRjAm8mv2jrLe&sz=w1000",
+                "pdf": "19EoMcKWeBaf1kcTsvbWDRjAm8mv2jrLe"
           },
           "description": "El Nuevo Descubrimiento. Paco Morales Hotel Ferrero"
     },
@@ -932,10 +935,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_02.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1HeSdTH9P9OxWpwoVvvd6QIgFu2UfBO9A",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1HeSdTH9P9OxWpwoVvvd6QIgFu2UfBO9A&sz=w1000",
+                "pdf": "1HeSdTH9P9OxWpwoVvvd6QIgFu2UfBO9A"
           },
           "description": "Neue Szene - Treffs in Hamburg. Paco Morales Hotel Ferrero"
     },
@@ -958,10 +961,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_72.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1_gf0Ssig4L1oUwRjznnH1824Mg3HCC4h",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_gf0Ssig4L1oUwRjznnH1824Mg3HCC4h&sz=w1000",
+                "pdf": "1_gf0Ssig4L1oUwRjznnH1824Mg3HCC4h"
           },
           "description": "La edad de oro de la cocina española. Paco Morales hotel ferrero"
     },
@@ -984,10 +987,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2012_00.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1qHH5Egea_6j3nZ6hgH1CZymnPHMrAhQV",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1qHH5Egea_6j3nZ6hgH1CZymnPHMrAhQV&sz=w1000",
+                "pdf": "1qHH5Egea_6j3nZ6hgH1CZymnPHMrAhQV"
           },
           "description": "Ruido una plaga moderna. Paco Morales Hotel ferrero"
     },
@@ -1010,10 +1013,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2008_10.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1u6VzMkkpfc3aguTBDKAMspRLxylFN-SI",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1u6VzMkkpfc3aguTBDKAMspRLxylFN-SI&sz=w1000",
+                "pdf": "1u6VzMkkpfc3aguTBDKAMspRLxylFN-SI"
           },
           "description": "Empezar de cero. Paco Morales Senzone"
     },
@@ -1036,10 +1039,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2010_108.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "15hKSobMnMHf17EL9sO2vaackcJAwb-BJ",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=15hKSobMnMHf17EL9sO2vaackcJAwb-BJ&sz=w1000",
+                "pdf": "15hKSobMnMHf17EL9sO2vaackcJAwb-BJ"
           },
           "description": "Bacalao . Avellanas . Algas .Cocinando con. Las Ostras"
     },
@@ -1062,10 +1065,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2009_10.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1VZRw2ldfgmiJDXsZgualRNn3HxuT5dn0",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1VZRw2ldfgmiJDXsZgualRNn3HxuT5dn0&sz=w1000",
+                "pdf": "1VZRw2ldfgmiJDXsZgualRNn3HxuT5dn0"
           },
           "description": "El Forum de todos. Paco morales Senzone"
     },
@@ -1088,10 +1091,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2007_373.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1b9QQzelTT_IOVBNTxMs_1CX7cpIG9-cu",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1b9QQzelTT_IOVBNTxMs_1CX7cpIG9-cu&sz=w1000",
+                "pdf": "1b9QQzelTT_IOVBNTxMs_1CX7cpIG9-cu"
           },
           "description": "Roma citta del gusto. Aduriz/Mugaritz"
     },
@@ -1114,10 +1117,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2016_113.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1bQBshJ8o2uABBVPNH-cwT8VqcjC-vZ0y",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1bQBshJ8o2uABBVPNH-cwT8VqcjC-vZ0y&sz=w1000",
+                "pdf": "1bQBshJ8o2uABBVPNH-cwT8VqcjC-vZ0y"
           },
           "description": "La casa suave. Paco Morales Noor"
     },
@@ -1140,10 +1143,11 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2020_00.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "driveFileId": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr",
+                "thumbnail": "https://drive.google.com/thumbnail?id=1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr&sz=w1000",
+                "pdf": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr"
           },
           "description": "Un viaje gastronomico por españa y portugal. Noor Paco Morales"
     },
@@ -1166,10 +1170,11 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2020_00.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1wCFW3ySIuOdwu7gcPn6NvOZdDpEZTlOR",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "driveFileId": "1wCFW3ySIuOdwu7gcPn6NvOZdDpEZTlOR",
+                "thumbnail": "https://drive.google.com/thumbnail?id=1wCFW3ySIuOdwu7gcPn6NvOZdDpEZTlOR&sz=w1000",
+                "pdf": "1wCFW3ySIuOdwu7gcPn6NvOZdDpEZTlOR"
           },
           "description": "\"La Guía Comer 2020: 100 restaurantes que no te puedes perder\". Noor Paco Morales"
     },
@@ -1192,10 +1197,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_01.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "18E63iSYLpFXcNgvwkh8bOi93wLk9TPzs",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=18E63iSYLpFXcNgvwkh8bOi93wLk9TPzs&sz=w1000",
+                "pdf": "18E63iSYLpFXcNgvwkh8bOi93wLk9TPzs"
           },
           "description": "Un viaje Gastronómico por españa y Portugal. Noor Paco Morales"
     },
@@ -1218,10 +1223,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2019_00.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr&sz=w1000",
+                "pdf": "1RVAUTqgpSqhJLE79iCmVJBp4fpGMCsZr"
           },
           "description": "the delicate pleasure of extra vigin olive oil. Noor Paco Morales"
     },
@@ -1244,10 +1249,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_12.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1eRo6KEGQgkseqLPl4jkhs2qKan1g1LDV",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1eRo6KEGQgkseqLPl4jkhs2qKan1g1LDV&sz=w1000",
+                "pdf": "1eRo6KEGQgkseqLPl4jkhs2qKan1g1LDV"
           },
           "description": "Die sprache der spanishen kushe. Noor Paco Morales"
     },
@@ -1270,10 +1275,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_49.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1DnVAPw1M8pDMBvZ3m0ePXf7MuBY0cy0t",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1DnVAPw1M8pDMBvZ3m0ePXf7MuBY0cy0t&sz=w1000",
+                "pdf": "1DnVAPw1M8pDMBvZ3m0ePXf7MuBY0cy0t"
           },
           "description": "Miguel Ángel Muñoz. Noor Paco Morales"
     },
@@ -1296,10 +1301,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_177.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1H4uJcB-lrjNn6otDdQTnJnT0lhU_Og5o",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1H4uJcB-lrjNn6otDdQTnJnT0lhU_Og5o&sz=w1000",
+                "pdf": "1H4uJcB-lrjNn6otDdQTnJnT0lhU_Og5o"
           },
           "description": "Gastronomía y Vinos exqusitos  Extremadura. Noor PAco Morales"
     },
@@ -1320,10 +1325,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2011_241.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1LeUyoHIHA75kubZniA9e5UypaESGgU14",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1LeUyoHIHA75kubZniA9e5UypaESGgU14&sz=w1000",
+                "pdf": "1LeUyoHIHA75kubZniA9e5UypaESGgU14"
           },
           "description": "la nana de la cebolla, creada por fernando josé del cerro. -"
     },
@@ -1346,10 +1351,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2016_221.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1su__rMifUX1PGwMAYX5EmI6g5Pn3YAqL",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1su__rMifUX1PGwMAYX5EmI6g5Pn3YAqL&sz=w1000",
+                "pdf": "1su__rMifUX1PGwMAYX5EmI6g5Pn3YAqL"
           },
           "description": "Llega la nueva generación , solo ellos pueden salvar a Hollywood de la crisis. Noor Paco Morales"
     },
@@ -1370,10 +1375,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2015_06.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "18CAczn7zW29nQaHL53ouAhbrneIXsZxk",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=18CAczn7zW29nQaHL53ouAhbrneIXsZxk&sz=w1000",
+                "pdf": "18CAczn7zW29nQaHL53ouAhbrneIXsZxk"
           },
           "description": "Cheap eats just int time for spring. -"
     },
@@ -1396,10 +1401,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2009_02.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "19EoMcKWeBaf1kcTsvbWDRjAm8mv2jrLe",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=19EoMcKWeBaf1kcTsvbWDRjAm8mv2jrLe&sz=w1000",
+                "pdf": "19EoMcKWeBaf1kcTsvbWDRjAm8mv2jrLe"
           },
           "description": "Comer y Beber en Madrid 2009. Senzone Paco Morales"
     },
@@ -1422,10 +1427,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2017_229.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1B9MDPQFztoQorbSS069EMfxFDt951CPt",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1B9MDPQFztoQorbSS069EMfxFDt951CPt&sz=w1000",
+                "pdf": "1B9MDPQFztoQorbSS069EMfxFDt951CPt"
           },
           "description": "Y otras cosas que volverán a estar de moda este 2017. Paco Morales Noor"
     },
@@ -1448,10 +1453,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_160.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1XQrRJiss6jqm0l2tFVlk7K5CKsAZFyQp",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1XQrRJiss6jqm0l2tFVlk7K5CKsAZFyQp&sz=w1000",
+                "pdf": "1XQrRJiss6jqm0l2tFVlk7K5CKsAZFyQp"
           },
           "description": "La Leyenda Continua. Paco Morales Noor"
     },
@@ -1474,10 +1479,10 @@ window.NoorLocalDB = {
                 -4.7791
           ],
           "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS/INT_2018_01.pdf",
-          "driveId": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa",
+          "driveId": "1KE-4NejgT_lFohaPlZY6cAC3JhZcyAxj",
           "media": {
-                "thumbnail": "https://drive.google.com/thumbnail?id=1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa&sz=w1000",
-                "pdf": "1i163IvoRbIyIIkWeUcStD8OKE8b5UHqa"
+                "thumbnail": "https://drive.google.com/thumbnail?id=1KE-4NejgT_lFohaPlZY6cAC3JhZcyAxj&sz=w1000",
+                "pdf": "1KE-4NejgT_lFohaPlZY6cAC3JhZcyAxj"
           },
           "description": "Dishing Uo the Thyssen. Paco Morales Noor"
     },

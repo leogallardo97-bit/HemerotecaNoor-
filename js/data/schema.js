@@ -148,6 +148,7 @@ window.NoorSchema = {
   HISTORICAL_ERAS,
   THEMATIC_DIMENSIONS,
   REGIONS,
+  REGION_DEFAULT_COORDS,
   DocumentTemplate,
   EventTemplate,
   FilterStateSchema,

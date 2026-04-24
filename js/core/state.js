@@ -67,30 +67,43 @@ const NoorState = (() => {
     dispatch(action, payload) {
       switch (action) {
         case 'SET_DOCUMENTS':
-          // Enriquecimiento de Datos: Generar etiquetas de década automáticamente
+          // Enriquecimiento de Datos: Normalización de categorías y etiquetas
           const enrichedDocs = (payload || []).map(doc => {
-            // Auto-categorización por ID o Ruta
+            // ── Auto-categorización por ID, Path, o tag de Drive ──
             if (!doc.category) {
-              if (doc.id && (doc.id.startsWith('v2-') || doc.id.startsWith('rev-v2') || doc.id.startsWith('local-rev'))) {
+              const id = doc.id || '';
+              const path = doc.localPath || '';
+              const tags = doc.tags || [];
+              const col = doc._collection || '';
+
+              if (id.startsWith('v2-') || id.startsWith('rev-v2') || id.startsWith('local-rev')
+                  || path.includes('01_REVISTAS') || col === '01_REVISTAS' || tags.includes('01_REVISTAS')) {
                 doc.category = '01_REVISTAS';
-              } else if (doc.id && (doc.id.startsWith('local-lib') || doc.type === 'book')) {
+              } else if (id.startsWith('local-lib') || doc.type === 'book'
+                  || path.includes('02_LIBROS') || col === '02_LIBROS' || tags.includes('02_LIBROS')) {
                 doc.category = '02_LIBROS';
-              } else if (doc.id && (doc.id.startsWith('local-rec'))) {
+              } else if (id.startsWith('local-rec') || path.includes('03_RECETARIO')
+                  || col === '03_RECETARIO' || tags.includes('03_RECETARIO')) {
                 doc.category = '03_RECETARIO';
-              } else if (doc.localPath) {
-                if (doc.localPath.includes('01_REVISTAS')) doc.category = '01_REVISTAS';
-                if (doc.localPath.includes('02_LIBROS'))   doc.category = '02_LIBROS';
-                if (doc.localPath.includes('03_RECETARIO')) doc.category = '03_RECETARIO';
               }
             }
+
+            // ── Geolocalización unificada a QURTUBA para documentos sin región ──
+            if (!doc.regions || doc.regions.length === 0) {
+              doc.regions = ['QURTUBA'];
+            }
+            if (!doc.coordinates) {
+              doc.coordinates = { lat: 37.8882, lng: -4.7794 };
+            }
+
+            // ── Idioma por defecto ──
             if (!doc.language) doc.language = 'es';
 
+            // ── Etiqueta de década ──
             if (doc.year) {
               const decade = `Década ${Math.floor(doc.year / 10) * 10}`;
               if (!doc.tags) doc.tags = [];
-              if (!doc.tags.includes(decade)) {
-                doc.tags.push(decade);
-              }
+              if (!doc.tags.includes(decade)) doc.tags.push(decade);
             }
             return doc;
           });
@@ -266,12 +279,10 @@ const NoorState = (() => {
       // ── Filtro por secciones (01_REVISTAS, etc) ──
       if (filters.sections.length > 0) {
         results = results.filter(doc => {
-          return filters.sections.some(secName => 
-            (doc.localPath && doc.localPath.includes(secName)) || 
-            (doc.header && doc.header.includes(secName)) ||
-            (doc.parentFolder && doc.parentFolder.includes(secName)) ||
-            (doc.category && doc.category.includes(secName)) ||
-            (doc.id && doc.id.startsWith('v2-') && secName === '01_REVISTAS') // Fallback para mock v2
+          return filters.sections.some(secName =>
+            doc.category === secName ||
+            (doc.localPath && doc.localPath.includes(secName)) ||
+            (doc.id && doc.id.startsWith('v2-') && secName === '01_REVISTAS')
           );
         });
       }

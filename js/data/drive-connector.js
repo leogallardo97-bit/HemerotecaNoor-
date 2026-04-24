@@ -201,19 +201,22 @@ const DriveConnector = (() => {
         driveFileId: file.id,
         viewUrl: file.webViewLink || `https://drive.google.com/file/d/${file.id}/view`
       },
-      coordinates: window.NoorSchema.REGION_DEFAULT_COORDS[regionKey] || null,
+      coordinates: (window.NoorSchema?.REGION_DEFAULT_COORDS || {})[regionKey] || null,
       tags: ['Drive', 'Sincronizado', header, file._collection].filter(Boolean),
       _source: 'drive'
     };
   }
 
   function _getEraFromYear(year) {
-    const eras = window.NoorSchema.HISTORICAL_ERAS;
+    const eras = window.NoorSchema?.HISTORICAL_ERAS || {};
     for (const key in eras) {
-      const [start, end] = eras[key].range;
-      if (year >= start && year <= end) return key;
+      const era = eras[key];
+      if (era && era.range) {
+        const [start, end] = era.range;
+        if (year >= start && year <= end) return key;
+      }
     }
-    return 'S19'; // Fallback
+    return 'S20'; // Fallback
   }
 
   function _guessRegionKey(location) {

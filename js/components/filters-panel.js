@@ -13,12 +13,11 @@ function renderFiltersPanel() {
 
   // Calculadores de conteo (para mostrar cuántos docs tiene cada filtro)
   function countBySection(sectionLabel) { 
-    return documents.filter(doc => (
-      (doc.localPath && doc.localPath.includes(sectionLabel)) || 
-      (doc.header && doc.header.includes(sectionLabel)) ||
-      (doc.category && doc.category.includes(sectionLabel)) ||
+    return documents.filter(doc =>
+      doc.category === sectionLabel ||
+      (doc.localPath && doc.localPath.includes(sectionLabel)) ||
       (doc.id && doc.id.startsWith('v2-') && sectionLabel === '01_REVISTAS')
-    )).length;
+    ).length;
   }
   function countByEra(eraId) { return documents.filter(d => d.eraId === eraId).length; }
   function countByTheme(themeId) { return documents.filter(d => (d.themes || []).includes(themeId)).length; }
@@ -199,12 +198,11 @@ function renderFiltersPanel() {
     // Helpers inside state callback for realtime updates
     const getCount = (key, value) => {
       if (key === 'sections') { 
-        return currentDocuments.filter(doc => 
-          (doc.localPath && doc.localPath.includes(value)) || 
-          (doc.header && doc.header.includes(value)) ||
-          (doc.category && doc.category.includes(value)) ||
+        return currentDocuments.filter(doc =>
+          doc.category === value ||
+          (doc.localPath && doc.localPath.includes(value)) ||
           (doc.id && doc.id.startsWith('v2-') && value === '01_REVISTAS')
-        ).length; 
+        ).length;
       }
       if (key === 'eraIds') return currentDocuments.filter(d => d.eraId === value).length;
       if (key === 'themes') return currentDocuments.filter(d => (d.themes || []).includes(value)).length;

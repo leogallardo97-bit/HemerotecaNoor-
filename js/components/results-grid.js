@@ -172,31 +172,30 @@ function buildDocumentCard(doc, eras) {
   const icon = DOC_TYPE_ICONS[doc.type] || 'file';
   const lang = LANG_LABELS[doc.language] || (doc.language ? doc.language.toUpperCase() : 'ES');
 
-  // Badge descriptivo: Periódico/Revista (Premium Mapping)
+  // Badge descriptivo — usa el campo canónico category (seteado por state.js)
   let displayType = 'Archivo';
-  if (doc.type === 'newspaper') {
-    const isRevista = doc.tags?.includes('Vol2') || 
-                      doc.tags?.includes('Revista') || 
-                      doc.id.startsWith('v2-') || 
-                      doc.id.startsWith('rev-v2') || 
-                      doc.id.startsWith('local-rev') ||
-                      doc._source === 'drive' ||
-                      (doc.localPath && doc.localPath.toUpperCase().includes('REVISTAS'));
-    displayType = isRevista ? 'Revista' : 'Prensa';
+  let badgeClass = '';
+  const category = doc.category || '';
+
+  if (category === '01_REVISTAS') {
+    displayType = 'Revista'; badgeClass = 'doc-card__type-badge--revista';
+  } else if (category === '02_LIBROS') {
+    displayType = 'Libro'; badgeClass = 'doc-card__type-badge--libro';
+  } else if (category === '03_RECETARIO') {
+    displayType = 'Recetario'; badgeClass = 'doc-card__type-badge--recetario';
+  } else if (doc.type === 'newspaper') {
+    displayType = 'Revista'; badgeClass = 'doc-card__type-badge--revista';
   } else if (doc.type === 'book') {
-    const isRecetario = doc.id.startsWith('local-rec') || 
-                       doc.tags?.includes('03_RECETARIO') ||
-                       (doc.localPath && doc.localPath.toUpperCase().includes('RECETARIO'));
-    displayType = isRecetario ? 'Recetario' : 'Libro';
+    displayType = 'Libro'; badgeClass = 'doc-card__type-badge--libro';
   } else if (doc.type === 'manuscript') {
     displayType = 'Manuscrito';
   }
 
-  // Extracción robusta de Drive ID
+  // Extracción robusta de Drive ID — soporta local-db.js (driveId directo), admin (driveFileId), y mock (media.pdf)
   const driveId = (doc.media?.driveFileId && !doc.media.driveFileId.startsWith('PLACEHOLDER'))
     ? doc.media.driveFileId
-    : (doc.driveId && !doc.driveId.startsWith('local-') ? doc.driveId : 
-      (doc.media?.pdf && !doc.media.pdf.startsWith('local-') ? doc.media.pdf : null));
+    : (doc.driveId && doc.driveId.length > 20 && !doc.driveId.startsWith('local-') ? doc.driveId
+      : (doc.media?.pdf && doc.media.pdf.length > 20 && !doc.media.pdf.startsWith('local-') ? doc.media.pdf : null));
 
   // Thumbnail logic
   let thumbUrl = doc.media?.thumbnail;
@@ -237,7 +236,7 @@ function buildDocumentCard(doc, eras) {
       >
         <div class="doc-card__thumb">
           ${thumbHtml}
-          <span class="doc-card__type-badge">${displayType}</span>
+          <span class="doc-card__type-badge ${badgeClass}">${displayType}</span>
         </div>
         <div class="doc-card__body">
           <p class="doc-card__date">

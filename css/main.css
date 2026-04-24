@@ -583,6 +583,20 @@ input[type="range"] {
   backdrop-filter: blur(4px);
 }
 
+/* Badge diferenciado por colección */
+.doc-card__type-badge--revista {
+  border-color: rgba(201, 168, 76, 0.5);
+  color: var(--color-gold-light);
+}
+.doc-card__type-badge--libro {
+  border-color: rgba(100, 180, 220, 0.5);
+  color: #80c8e8;
+}
+.doc-card__type-badge--recetario {
+  border-color: rgba(190, 120, 80, 0.5);
+  color: #d4956a;
+}
+
 /* Fallback de carátula premium */
 .doc-card__thumb-fallback {
   width: 100%;

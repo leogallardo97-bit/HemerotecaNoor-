@@ -12,12 +12,18 @@ window.NoorLocalDB = {
     { id: 'sec-02', label: '02_LIBROS',        path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS' },
     { id: 'sec-04', label: '04_CONTENIDO_WEB', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)' },
     { id: 'sec-05', label: '05_PERIODICOS',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS' },
-    { id: 'sec-06', label: '06_PRODUCTO_CONTEXTUALIZACION', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/06_PRODUCTO_CONTEXTUALIZACION' }
+    { id: 'sec-06', label: '06_PRODUCTO_CONTEXTUALIZACION', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/06_PRODUCTO_CONTEXTUALIZACION' },
+    { id: 'sec-07', label: '07_CD_VID_Digital', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital' },
+    { id: 'sec-08', label: '08_CD_VID_Fisico',  path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios' },
+    { id: 'sec-09', label: '09_CD_AUD_Digital', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero' },
+    { id: 'sec-10', label: '10_CD_AUD_Fisico',  path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen' },
+    { id: 'sec-11', label: '11_MANUSCRITOS',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar' }
   ],
   documents: [
     // --- 01_REVISTAS ---
     {
       id: 'local-rev-2008-01',
+      category: "01_REVISTAS",
       title: 'Revista Crítica: Comer (Senzone)',
       year: 2008,
       type: 'newspaper',
@@ -32,6 +38,7 @@ window.NoorLocalDB = {
         // --- Ingesta Masiva 02_LIBROS (v1.4) ---
     {
           "id": "local-lib-TAP_2017_024",
+      category: "02_LIBROS",
           "title": "Spainmedia Magazines/ Tapas Magazine",
           "year": 2017,
           "type": "book",
@@ -63,6 +70,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_060",
+      category: "02_LIBROS",
           "title": "Robb Report",
           "year": 2017,
           "type": "book",
@@ -89,6 +97,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_061",
+      category: "02_LIBROS",
           "title": "Meridiani",
           "year": 2019,
           "type": "book",
@@ -116,6 +125,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2011_1.834",
+      category: "02_LIBROS",
           "title": "El País Semanal (EPS)",
           "year": 2011,
           "type": "book",
@@ -142,6 +152,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2012_009",
+      category: "02_LIBROS",
           "title": "Gastrónomo",
           "year": 2012,
           "type": "book",
@@ -168,6 +179,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_010",
+      category: "02_LIBROS",
           "title": "Look Your style",
           "year": 2018,
           "type": "book",
@@ -194,6 +206,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_011",
+      category: "02_LIBROS",
           "title": "Falstaff Karriere",
           "year": 2018,
           "type": "book",
@@ -221,6 +234,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_AN",
+      category: "02_LIBROS",
           "title": "Conde Nast Traveler",
           "year": 2017,
           "type": "book",
@@ -247,6 +261,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_45",
+      category: "02_LIBROS",
           "title": "Forbes",
           "year": 2017,
           "type": "book",
@@ -273,6 +288,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_64",
+      category: "02_LIBROS",
           "title": "Robb Report",
           "year": 2017,
           "type": "book",
@@ -299,6 +315,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2011_237",
+      category: "02_LIBROS",
           "title": "vino + Gastronomía",
           "year": 2011,
           "type": "book",
@@ -325,6 +342,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-TAP_2010_411_412",
+      category: "02_LIBROS",
           "title": "Gourmets",
           "year": 2010,
           "type": "book",
@@ -351,6 +369,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-TAP_2017_369",
+      category: "02_LIBROS",
           "title": "Sobremesa",
           "year": 2017,
           "type": "book",
@@ -377,6 +396,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2013_06",
+      category: "02_LIBROS",
           "title": "Gastronoautas",
           "year": 2013,
           "type": "book",
@@ -403,6 +423,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2012_09",
+      category: "02_LIBROS",
           "title": "De Autor",
           "year": 2012,
           "type": "book",
@@ -429,6 +450,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2012_55",
+      category: "02_LIBROS",
           "title": "Condé Nast traveler",
           "year": 2012,
           "type": "book",
@@ -453,6 +475,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2008_228",
+      category: "02_LIBROS",
           "title": "vino + Gastronomía",
           "year": 2008,
           "type": "book",
@@ -477,6 +500,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2014_148",
+      category: "02_LIBROS",
           "title": "Saber y sabor",
           "year": 2014,
           "type": "book",
@@ -503,6 +527,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2012_876",
+      category: "02_LIBROS",
           "title": "Inversion",
           "year": 2012,
           "type": "book",
@@ -529,6 +554,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2010_00",
+      category: "02_LIBROS",
           "title": "Turrón en la cocina",
           "year": 2010,
           "type": "book",
@@ -555,6 +581,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2016_55",
+      category: "02_LIBROS",
           "title": "Robb Report",
           "year": 2016,
           "type": "book",
@@ -582,6 +609,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2014_76",
+      category: "02_LIBROS",
           "title": "Travel Leisure",
           "year": 2014,
           "type": "book",
@@ -608,6 +636,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2022_106",
+      category: "02_LIBROS",
           "title": "Regal",
           "year": 2022,
           "type": "book",
@@ -634,6 +663,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_29",
+      category: "02_LIBROS",
           "title": "Apicius",
           "year": 2017,
           "type": "book",
@@ -660,6 +690,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-TAP_2011_464",
+      category: "02_LIBROS",
           "title": "Dominical",
           "year": 2011,
           "type": "book",
@@ -686,6 +717,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_249",
+      category: "02_LIBROS",
           "title": "GQ Gentlenmen´s Quarterly",
           "year": 2018,
           "type": "book",
@@ -712,6 +744,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2019_00",
+      category: "02_LIBROS",
           "title": "South Art Culture Gastronomy",
           "year": 2019,
           "type": "book",
@@ -738,6 +771,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2019_22",
+      category: "02_LIBROS",
           "title": "Look your Style",
           "year": 2019,
           "type": "book",
@@ -764,6 +798,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2003_60",
+      category: "02_LIBROS",
           "title": "Pizza y Restauración",
           "year": 2003,
           "type": "book",
@@ -790,6 +825,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_05",
+      category: "02_LIBROS",
           "title": "Falstaff Karriere",
           "year": 2018,
           "type": "book",
@@ -816,6 +852,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_04",
+      category: "02_LIBROS",
           "title": "Der Feinschmecker",
           "year": 2018,
           "type": "book",
@@ -842,6 +879,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_90",
+      category: "02_LIBROS",
           "title": "Bazar España",
           "year": 2018,
           "type": "book",
@@ -868,6 +906,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2010_235",
+      category: "02_LIBROS",
           "title": "Vino + Gastronomía",
           "year": 2010,
           "type": "book",
@@ -894,6 +933,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2009_02",
+      category: "02_LIBROS",
           "title": "Andalucía Sabor",
           "year": 2009,
           "type": "book",
@@ -920,6 +960,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2012_02",
+      category: "02_LIBROS",
           "title": "Der Feinschmecker",
           "year": 2012,
           "type": "book",
@@ -946,6 +987,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2010_72",
+      category: "02_LIBROS",
           "title": "Gentleman",
           "year": 2010,
           "type": "book",
@@ -972,6 +1014,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2012_00",
+      category: "02_LIBROS",
           "title": "La vanguardia - Magazine",
           "year": 2012,
           "type": "book",
@@ -998,6 +1041,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2008_10",
+      category: "02_LIBROS",
           "title": "Lo mejor de la gastronomía",
           "year": 2008,
           "type": "book",
@@ -1024,6 +1068,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2010_108",
+      category: "02_LIBROS",
           "title": "Cocina Futuro",
           "year": 2010,
           "type": "book",
@@ -1050,6 +1095,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2009_10",
+      category: "02_LIBROS",
           "title": "El Forum de Todos Catalunya",
           "year": 2009,
           "type": "book",
@@ -1076,6 +1122,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2007_373",
+      category: "02_LIBROS",
           "title": "Gourmets",
           "year": 2007,
           "type": "book",
@@ -1102,6 +1149,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2016_113",
+      category: "02_LIBROS",
           "title": "AD Ediciones Condé Nast",
           "year": 2016,
           "type": "book",
@@ -1128,6 +1176,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2020_00",
+      category: "02_LIBROS",
           "title": "Cónde Nast Traveler",
           "year": 2020,
           "type": "book",
@@ -1155,6 +1204,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2020_00",
+      category: "02_LIBROS",
           "title": "La vanguardia - La Guía Comer",
           "year": 2020,
           "type": "book",
@@ -1182,6 +1232,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2019_01",
+      category: "02_LIBROS",
           "title": "conde Nast Traveler",
           "year": 2019,
           "type": "book",
@@ -1208,6 +1259,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2019_00",
+      category: "02_LIBROS",
           "title": "Oliva Tessen",
           "year": 2020,
           "type": "book",
@@ -1234,6 +1286,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_12",
+      category: "02_LIBROS",
           "title": "ECOS einfach besser spanish",
           "year": 2018,
           "type": "book",
@@ -1260,6 +1313,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_49",
+      category: "02_LIBROS",
           "title": "hsm Madrid",
           "year": 2017,
           "type": "book",
@@ -1286,6 +1340,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_177",
+      category: "02_LIBROS",
           "title": "VInos y restaurantes",
           "year": 2018,
           "type": "book",
@@ -1312,6 +1367,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2011_241",
+      category: "02_LIBROS",
           "title": "vino + gastronomía",
           "year": 2012,
           "type": "book",
@@ -1336,6 +1392,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2016_221",
+      category: "02_LIBROS",
           "title": "GC Gentleman Querterly",
           "year": 2016,
           "type": "book",
@@ -1362,6 +1419,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2015_06",
+      category: "02_LIBROS",
           "title": "Time OUT Tokyo",
           "year": 2015,
           "type": "book",
@@ -1386,6 +1444,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2009_02",
+      category: "02_LIBROS",
           "title": "Guia Metropoli",
           "year": 2009,
           "type": "book",
@@ -1412,6 +1471,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2017_229",
+      category: "02_LIBROS",
           "title": "GQ Gentlenmen´s Quarterly",
           "year": 2017,
           "type": "book",
@@ -1438,6 +1498,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_160",
+      category: "02_LIBROS",
           "title": "Gentleman",
           "year": 2018,
           "type": "book",
@@ -1464,6 +1525,7 @@ window.NoorLocalDB = {
     },
     {
           "id": "local-lib-INT_2018_01",
+      category: "02_LIBROS",
           "title": "Thynsen en el plato",
           "year": 2018,
           "type": "book",
@@ -5806,5 +5868,3002 @@ window.NoorLocalDB = {
       "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/06_PRODUCTO_CONTEXTUALIZACION/TRANSCRIPT_06_DIG_Siglo_Xl_Almorávides_Contextualización.docx",
       "media": { "driveFileId": "1pAgEZUBF_xxW84cyOKeYw1xj2Zm2pnZb", "pdf": "1pAgEZUBF_xxW84cyOKeYw1xj2Zm2pnZb", "thumbnail": "https://drive.google.com/thumbnail?id=1pAgEZUBF_xxW84cyOKeYw1xj2Zm2pnZb&sz=w1000" }
     }
+  ,
+    {
+      "id": "local-07_cd_vid_digital-07_VID_84_Tex__Lyo_Ing_mp4",
+      "driveId": "14EQlZ1sOWvZChE3TWq7ojh3gsb_HddiV",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_84_Tex _Lyo_Ing.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_84_Tex _Lyo_Ing.mp4",
+      "media": {
+            "driveFileId": "14EQlZ1sOWvZChE3TWq7ojh3gsb_HddiV",
+            "pdf": "14EQlZ1sOWvZChE3TWq7ojh3gsb_HddiV",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14EQlZ1sOWvZChE3TWq7ojh3gsb_HddiV&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_HotelFerrero_Jornada_HD_mp4__mp4",
+      "driveId": "1b1bg3qquJYkiHE2L7KVbRRakirqRFy1t",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_HotelFerrero_Jornada_HD_mp4..mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_HotelFerrero_Jornada_HD_mp4..mp4",
+      "media": {
+            "driveFileId": "1b1bg3qquJYkiHE2L7KVbRRakirqRFy1t",
+            "pdf": "1b1bg3qquJYkiHE2L7KVbRRakirqRFy1t",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1b1bg3qquJYkiHE2L7KVbRRakirqRFy1t&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_HotelFerrero_Manzana_al_horno_HD_mp4__mp4",
+      "driveId": "1FcPcv8JDRKWoTabXI_N2FCpPPf4KrItz",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_HotelFerrero_Manzana_al_horno_HD_mp4..mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_HotelFerrero_Manzana_al_horno_HD_mp4..mp4",
+      "media": {
+            "driveFileId": "1FcPcv8JDRKWoTabXI_N2FCpPPf4KrItz",
+            "pdf": "1FcPcv8JDRKWoTabXI_N2FCpPPf4KrItz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1FcPcv8JDRKWoTabXI_N2FCpPPf4KrItz&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_HotelFerrero_Mollejas_de_Cordero_HD2_mp4_mp4",
+      "driveId": "1YBwnzNB8UohRZdzSZYGYFQrFtgmzgqZY",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_HotelFerrero_Mollejas_de_Cordero_HD2_mp4.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_HotelFerrero_Mollejas_de_Cordero_HD2_mp4.mp4",
+      "media": {
+            "driveFileId": "1YBwnzNB8UohRZdzSZYGYFQrFtgmzgqZY",
+            "pdf": "1YBwnzNB8UohRZdzSZYGYFQrFtgmzgqZY",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YBwnzNB8UohRZdzSZYGYFQrFtgmzgqZY&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_HotelFerrero_Mollejas_de_Cordero_HD_mp4__mp4",
+      "driveId": "1MaZge4cLfP9_KZOTOX8Zxq6PIYlT-LsC",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_HotelFerrero_Mollejas_de_Cordero_HD_mp4..mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_HotelFerrero_Mollejas_de_Cordero_HD_mp4..mp4",
+      "media": {
+            "driveFileId": "1MaZge4cLfP9_KZOTOX8Zxq6PIYlT-LsC",
+            "pdf": "1MaZge4cLfP9_KZOTOX8Zxq6PIYlT-LsC",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1MaZge4cLfP9_KZOTOX8Zxq6PIYlT-LsC&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Hotel_Ferrero_Pureza_Creatividad_Naturalism_HD_mp4__1__mp4",
+      "driveId": "1KlocxnYE-9tG9AH4yOUGjlxLociD8skJ",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Hotel_Ferrero_Pureza_Creatividad_Naturalism_HD_mp4 (1).mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Hotel_Ferrero_Pureza_Creatividad_Naturalism_HD_mp4 (1).mp4",
+      "media": {
+            "driveFileId": "1KlocxnYE-9tG9AH4yOUGjlxLociD8skJ",
+            "pdf": "1KlocxnYE-9tG9AH4yOUGjlxLociD8skJ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KlocxnYE-9tG9AH4yOUGjlxLociD8skJ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Hotel_Hospes_Senzone_Madrid__mp4",
+      "driveId": "1mYl__Kjyz9XxcrxuG55W7t_92rxCQx8r",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Hotel_Hospes_Senzone_Madrid .mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Hotel_Hospes_Senzone_Madrid .mp4",
+      "media": {
+            "driveFileId": "1mYl__Kjyz9XxcrxuG55W7t_92rxCQx8r",
+            "pdf": "1mYl__Kjyz9XxcrxuG55W7t_92rxCQx8r",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1mYl__Kjyz9XxcrxuG55W7t_92rxCQx8r&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Hotel_ferrero_internet_mp4",
+      "driveId": "1gO6WO_85v_DEvoDj-yh9tJFoTQ1KGDZR",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Hotel_ferrero_internet.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Hotel_ferrero_internet.mp4",
+      "media": {
+            "driveFileId": "1gO6WO_85v_DEvoDj-yh9tJFoTQ1KGDZR",
+            "pdf": "1gO6WO_85v_DEvoDj-yh9tJFoTQ1KGDZR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1gO6WO_85v_DEvoDj-yh9tJFoTQ1KGDZR&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Madrid_Fusion_2012_mp4",
+      "driveId": "1AGZDLiYEtjrwP5L9kE37OuNZb2eR3DAm",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Madrid_Fusion_2012.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Madrid_Fusion_2012.mp4",
+      "media": {
+            "driveFileId": "1AGZDLiYEtjrwP5L9kE37OuNZb2eR3DAm",
+            "pdf": "1AGZDLiYEtjrwP5L9kE37OuNZb2eR3DAm",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1AGZDLiYEtjrwP5L9kE37OuNZb2eR3DAm&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Madrid_Fusi_n_Tuberculos_mp4",
+      "driveId": "16eruMhz71H8-Wq51rzkg0BcQO0GXwf2z",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Madrid_Fusión_Tuberculos.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Madrid_Fusión_Tuberculos.mp4",
+      "media": {
+            "driveFileId": "16eruMhz71H8-Wq51rzkg0BcQO0GXwf2z",
+            "pdf": "16eruMhz71H8-Wq51rzkg0BcQO0GXwf2z",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16eruMhz71H8-Wq51rzkg0BcQO0GXwf2z&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Memeoria_visual_algarbia_mp4",
+      "driveId": "1pE8jIveoNe9rLMTiMI1DmRbBvA-6uJ2U",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Memeoria_visual_algarbia.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Memeoria_visual_algarbia.mp4",
+      "media": {
+            "driveFileId": "1pE8jIveoNe9rLMTiMI1DmRbBvA-6uJ2U",
+            "pdf": "1pE8jIveoNe9rLMTiMI1DmRbBvA-6uJ2U",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1pE8jIveoNe9rLMTiMI1DmRbBvA-6uJ2U&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Paco_Morales_Al_trapo_mp4",
+      "driveId": "15KBWZV_NhfaP3URg33mWrQV19018SvXU",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Paco_Morales_Al_trapo.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Paco_Morales_Al_trapo.mp4",
+      "media": {
+            "driveFileId": "15KBWZV_NhfaP3URg33mWrQV19018SvXU",
+            "pdf": "15KBWZV_NhfaP3URg33mWrQV19018SvXU",
+            "thumbnail": "https://drive.google.com/thumbnail?id=15KBWZV_NhfaP3URg33mWrQV19018SvXU&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_Tapas__Y__Barras__Cordoba_mp4",
+      "driveId": "1XzMVmbTUTRcbR_G6FT4I4M19atxknb9Y",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_Tapas _Y _Barras _Cordoba.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Tapas _Y _Barras _Cordoba.mp4",
+      "media": {
+            "driveFileId": "1XzMVmbTUTRcbR_G6FT4I4M19atxknb9Y",
+            "pdf": "1XzMVmbTUTRcbR_G6FT4I4M19atxknb9Y",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1XzMVmbTUTRcbR_G6FT4I4M19atxknb9Y&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-07_VID_madrid_fusion_2012_mp4",
+      "driveId": "1HQ3F4uG7ZYZpr3d7ksZbxphBK-BDsNqO",
+      "category": "07_CD_VID_Digital",
+      "title": "07_VID_madrid fusion_2012.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_madrid fusion_2012.mp4",
+      "media": {
+            "driveFileId": "1HQ3F4uG7ZYZpr3d7ksZbxphBK-BDsNqO",
+            "pdf": "1HQ3F4uG7ZYZpr3d7ksZbxphBK-BDsNqO",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1HQ3F4uG7ZYZpr3d7ksZbxphBK-BDsNqO&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-Aduriz_mp4",
+      "driveId": "1AqN3mz6yV-QZpxxh10S9QrU_r1Hkbozz",
+      "category": "07_CD_VID_Digital",
+      "title": "Aduriz.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/Aduriz.mp4",
+      "media": {
+            "driveFileId": "1AqN3mz6yV-QZpxxh10S9QrU_r1Hkbozz",
+            "pdf": "1AqN3mz6yV-QZpxxh10S9QrU_r1Hkbozz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1AqN3mz6yV-QZpxxh10S9QrU_r1Hkbozz&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-Madinat_mp4",
+      "driveId": "1zPkThh1Y7B3iNJ6x3ZNb3mRbhEmEGjhl",
+      "category": "07_CD_VID_Digital",
+      "title": "Madinat.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/Madinat.mp4",
+      "media": {
+            "driveFileId": "1zPkThh1Y7B3iNJ6x3ZNb3mRbhEmEGjhl",
+            "pdf": "1zPkThh1Y7B3iNJ6x3ZNb3mRbhEmEGjhl",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1zPkThh1Y7B3iNJ6x3ZNb3mRbhEmEGjhl&sz=w1000"
+      }
+},
+    {
+      "id": "local-07_cd_vid_digital-Paco_Torreblanca_mp4",
+      "driveId": "1WRxXUx8fsXwdhlLsxX2voPmteWKEcHSS",
+      "category": "07_CD_VID_Digital",
+      "title": "Paco Torreblanca.mp4",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/Paco Torreblanca.mp4",
+      "media": {
+            "driveFileId": "1WRxXUx8fsXwdhlLsxX2voPmteWKEcHSS",
+            "pdf": "1WRxXUx8fsXwdhlLsxX2voPmteWKEcHSS",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1WRxXUx8fsXwdhlLsxX2voPmteWKEcHSS&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__1__pdf",
+      "driveId": "1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (1).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (1).pdf",
+      "media": {
+            "driveFileId": "1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo",
+            "pdf": "1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1aU69Xyqbc9riR8y1Z0dO36ITt2NFVPIo&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__10__pdf",
+      "driveId": "1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (10).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (10).pdf",
+      "media": {
+            "driveFileId": "1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW",
+            "pdf": "1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Y9ktOpPTcIazMm627w4C9BuX2EsnodhW&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__11__pdf",
+      "driveId": "1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (11).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (11).pdf",
+      "media": {
+            "driveFileId": "1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN",
+            "pdf": "1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1RPpuCX3rE6O0E3YIzw1QMJPXVqPH9-ZN&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__12__pdf",
+      "driveId": "1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (12).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (12).pdf",
+      "media": {
+            "driveFileId": "1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1",
+            "pdf": "1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Zk8yct6NA5MbQBbPgZ6VgoGD7VSJU0_1&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__13__pdf",
+      "driveId": "1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (13).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (13).pdf",
+      "media": {
+            "driveFileId": "1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR",
+            "pdf": "1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1eWUnzg3dICLsWKHLJ9OyCWa3g2eUCOUR&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__14__pdf",
+      "driveId": "1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (14).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (14).pdf",
+      "media": {
+            "driveFileId": "1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs",
+            "pdf": "1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1DWYtYUm3krs2cB-TU48wp5yyeRUj8IWs&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__15__pdf",
+      "driveId": "1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (15).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (15).pdf",
+      "media": {
+            "driveFileId": "1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54",
+            "pdf": "1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1WBmuSdXAquKM9MzqEJNk3K9aTZR2vA54&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__16__pdf",
+      "driveId": "1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (16).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (16).pdf",
+      "media": {
+            "driveFileId": "1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_",
+            "pdf": "1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1DoylV12Dmk33Xn-Nug3xtKaggL1lbfT_&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__17__pdf",
+      "driveId": "1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (17).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (17).pdf",
+      "media": {
+            "driveFileId": "1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S",
+            "pdf": "1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1HS9F3Yg9ar2B-Ry3ANaS6f88K3H60q0S&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__18__pdf",
+      "driveId": "1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (18).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (18).pdf",
+      "media": {
+            "driveFileId": "1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9",
+            "pdf": "1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1U5Mu--L561nc-EDy3NJzDoXzMWG4Mbn9&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__19__pdf",
+      "driveId": "1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (19).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (19).pdf",
+      "media": {
+            "driveFileId": "1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx",
+            "pdf": "1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ad2XOfRmAWdypuwdWUR5jUgfXtujzSmx&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__2__pdf",
+      "driveId": "1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (2).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (2).pdf",
+      "media": {
+            "driveFileId": "1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr",
+            "pdf": "1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1rIFw6mk3_1WRQuTfat29Hn1HzS-dNhhr&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__20__pdf",
+      "driveId": "1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (20).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (20).pdf",
+      "media": {
+            "driveFileId": "1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D",
+            "pdf": "1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ylgfooM28lJGwQuK9yakY9gEyb9zXb5D&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__21__pdf",
+      "driveId": "1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (21).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (21).pdf",
+      "media": {
+            "driveFileId": "1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm",
+            "pdf": "1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TmF5ziJ0xv9yuHR2d02YT9Dws6nCEqEm&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__22__pdf",
+      "driveId": "14fPXt38u3jWAto_jTjNUTJg8p7dJ479R",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (22).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (22).pdf",
+      "media": {
+            "driveFileId": "14fPXt38u3jWAto_jTjNUTJg8p7dJ479R",
+            "pdf": "14fPXt38u3jWAto_jTjNUTJg8p7dJ479R",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14fPXt38u3jWAto_jTjNUTJg8p7dJ479R&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__23__pdf",
+      "driveId": "1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (23).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (23).pdf",
+      "media": {
+            "driveFileId": "1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes",
+            "pdf": "1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Jxv7L5smhFIYUw1B0JT2W_vXtEO5rTes&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__24__pdf",
+      "driveId": "1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (24).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (24).pdf",
+      "media": {
+            "driveFileId": "1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV",
+            "pdf": "1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1WIa_1Ga-OSJwMyHzpiBYQjAEGRalIxPV&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__25__pdf",
+      "driveId": "1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (25).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (25).pdf",
+      "media": {
+            "driveFileId": "1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-",
+            "pdf": "1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1oq9T95LHweqJgCb4ph_DtNhSjDyX5sd-&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__26__pdf",
+      "driveId": "1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (26).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (26).pdf",
+      "media": {
+            "driveFileId": "1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4",
+            "pdf": "1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1psxvtuRZ6hKP_7Yh73lEmte45aXvbCT4&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__27__pdf",
+      "driveId": "1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (27).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (27).pdf",
+      "media": {
+            "driveFileId": "1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc",
+            "pdf": "1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Eaqy1wQXIrzn2py2IGRVuzVhIZ10Unfc&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__3__pdf",
+      "driveId": "1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (3).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (3).pdf",
+      "media": {
+            "driveFileId": "1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK",
+            "pdf": "1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1QDdEzQ9QqkLbyz0MUHKJ-m0PV1gva4rK&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__4__pdf",
+      "driveId": "1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (4).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (4).pdf",
+      "media": {
+            "driveFileId": "1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv",
+            "pdf": "1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1eqIQ4AHSwYXUjANGl9f-9bC7ep9qfWmv&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__5__pdf",
+      "driveId": "1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (5).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (5).pdf",
+      "media": {
+            "driveFileId": "1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX",
+            "pdf": "1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Bfhz3ooEuI5EZc4Zz_jNBG94edjul3VX&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__6__pdf",
+      "driveId": "1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (6).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (6).pdf",
+      "media": {
+            "driveFileId": "1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v",
+            "pdf": "1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1lsQefLgtRBrLoBVg91OcMBzzKiqdFB9v&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__7__pdf",
+      "driveId": "1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (7).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (7).pdf",
+      "media": {
+            "driveFileId": "1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa",
+            "pdf": "1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1f7kOQ2DTCSDf-YilidhcMEvtQYPFt-qa&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__8__pdf",
+      "driveId": "1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (8).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (8).pdf",
+      "media": {
+            "driveFileId": "1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9",
+            "pdf": "1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1rPZl_RyRQ70PqZFuyS5YrLspWI0_4Jq9&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf__9__pdf",
+      "driveId": "1SMcf9_8p7beu-gLATiN7StHHow4--y9j",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf (9).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf (9).pdf",
+      "media": {
+            "driveFileId": "1SMcf9_8p7beu-gLATiN7StHHow4--y9j",
+            "pdf": "1SMcf9_8p7beu-gLATiN7StHHow4--y9j",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1SMcf9_8p7beu-gLATiN7StHHow4--y9j&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-_pdf_pdf",
+      "driveId": "1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1",
+      "category": "10_CD_AUD_Fisico",
+      "title": ".pdf.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/.pdf.pdf",
+      "media": {
+            "driveFileId": "1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1",
+            "pdf": "1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1cg0FSGaWHbt47KtQ6axmSIBVTeXTlrI1&sz=w1000"
+      }
+},
+    {
+      "id": "local-10_cd_aud_fisico-Adobe_Scan_28_mar_2026__28__pdf",
+      "driveId": "13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5",
+      "category": "10_CD_AUD_Fisico",
+      "title": "Adobe Scan 28 mar 2026 (28).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "10_CD_AUD_Fisico",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen/Adobe Scan 28 mar 2026 (28).pdf",
+      "media": {
+            "driveFileId": "13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5",
+            "pdf": "13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5",
+            "thumbnail": "https://drive.google.com/thumbnail?id=13Kaq64RTwlPohwRj2jSctpbPxMDjb3h5&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__13__pdf",
+      "driveId": "1Ljtm1YesAgiUSZOmh0-l-z4Ei5hlC45Q",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (13).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (13).pdf",
+      "media": {
+            "driveFileId": "1Ljtm1YesAgiUSZOmh0-l-z4Ei5hlC45Q",
+            "pdf": "1Ljtm1YesAgiUSZOmh0-l-z4Ei5hlC45Q",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Ljtm1YesAgiUSZOmh0-l-z4Ei5hlC45Q&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__14__pdf",
+      "driveId": "1rqcddCLs2Vv6tOH0uJEAp3CmOTMTCXZZ",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (14).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (14).pdf",
+      "media": {
+            "driveFileId": "1rqcddCLs2Vv6tOH0uJEAp3CmOTMTCXZZ",
+            "pdf": "1rqcddCLs2Vv6tOH0uJEAp3CmOTMTCXZZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1rqcddCLs2Vv6tOH0uJEAp3CmOTMTCXZZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__15__pdf",
+      "driveId": "15_48FAqQhsFkGL7Je8_MoWMcDvK6evL4",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (15).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (15).pdf",
+      "media": {
+            "driveFileId": "15_48FAqQhsFkGL7Je8_MoWMcDvK6evL4",
+            "pdf": "15_48FAqQhsFkGL7Je8_MoWMcDvK6evL4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=15_48FAqQhsFkGL7Je8_MoWMcDvK6evL4&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__16__pdf",
+      "driveId": "1bK8wgLiboRIIs7BFeAoRVrAQIYK2CFxa",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (16).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (16).pdf",
+      "media": {
+            "driveFileId": "1bK8wgLiboRIIs7BFeAoRVrAQIYK2CFxa",
+            "pdf": "1bK8wgLiboRIIs7BFeAoRVrAQIYK2CFxa",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1bK8wgLiboRIIs7BFeAoRVrAQIYK2CFxa&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__17__pdf",
+      "driveId": "1JdR0JM-mTkXT9Q4TMGNQi0cCrSiLxv04",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (17).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (17).pdf",
+      "media": {
+            "driveFileId": "1JdR0JM-mTkXT9Q4TMGNQi0cCrSiLxv04",
+            "pdf": "1JdR0JM-mTkXT9Q4TMGNQi0cCrSiLxv04",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1JdR0JM-mTkXT9Q4TMGNQi0cCrSiLxv04&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__18__pdf",
+      "driveId": "1o3P1FteGZVww8ArRtwdVrQZ4WUUV-6sK",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (18).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (18).pdf",
+      "media": {
+            "driveFileId": "1o3P1FteGZVww8ArRtwdVrQZ4WUUV-6sK",
+            "pdf": "1o3P1FteGZVww8ArRtwdVrQZ4WUUV-6sK",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1o3P1FteGZVww8ArRtwdVrQZ4WUUV-6sK&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__19__pdf",
+      "driveId": "10yaFmlVNPVzRrKt1Hjj8FzNCNy4yRpEJ",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (19).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (19).pdf",
+      "media": {
+            "driveFileId": "10yaFmlVNPVzRrKt1Hjj8FzNCNy4yRpEJ",
+            "pdf": "10yaFmlVNPVzRrKt1Hjj8FzNCNy4yRpEJ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=10yaFmlVNPVzRrKt1Hjj8FzNCNy4yRpEJ&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__20__pdf",
+      "driveId": "1uJAFVVwI0W79Lyg5b-h2b28nYUQMTu7g",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (20).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (20).pdf",
+      "media": {
+            "driveFileId": "1uJAFVVwI0W79Lyg5b-h2b28nYUQMTu7g",
+            "pdf": "1uJAFVVwI0W79Lyg5b-h2b28nYUQMTu7g",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1uJAFVVwI0W79Lyg5b-h2b28nYUQMTu7g&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__21__pdf",
+      "driveId": "13ojr-bctJ0E7PGaNt75J09kS_JzQ_E24",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (21).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (21).pdf",
+      "media": {
+            "driveFileId": "13ojr-bctJ0E7PGaNt75J09kS_JzQ_E24",
+            "pdf": "13ojr-bctJ0E7PGaNt75J09kS_JzQ_E24",
+            "thumbnail": "https://drive.google.com/thumbnail?id=13ojr-bctJ0E7PGaNt75J09kS_JzQ_E24&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__22__pdf",
+      "driveId": "1zXheYST8aqIlmnSPBq7TZCw7TfkuUqMP",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (22).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (22).pdf",
+      "media": {
+            "driveFileId": "1zXheYST8aqIlmnSPBq7TZCw7TfkuUqMP",
+            "pdf": "1zXheYST8aqIlmnSPBq7TZCw7TfkuUqMP",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1zXheYST8aqIlmnSPBq7TZCw7TfkuUqMP&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__23__pdf",
+      "driveId": "1WATfDzpYR1PO1zy8d587iFtdrl6gINzg",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (23).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (23).pdf",
+      "media": {
+            "driveFileId": "1WATfDzpYR1PO1zy8d587iFtdrl6gINzg",
+            "pdf": "1WATfDzpYR1PO1zy8d587iFtdrl6gINzg",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1WATfDzpYR1PO1zy8d587iFtdrl6gINzg&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__24__pdf",
+      "driveId": "1h2eWMgbE1_7ajEOYsDAQgef59o8pDSMa",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (24).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (24).pdf",
+      "media": {
+            "driveFileId": "1h2eWMgbE1_7ajEOYsDAQgef59o8pDSMa",
+            "pdf": "1h2eWMgbE1_7ajEOYsDAQgef59o8pDSMa",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1h2eWMgbE1_7ajEOYsDAQgef59o8pDSMa&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__25__pdf",
+      "driveId": "1toRnk5RKRm2Fe4To9EAOvIdK2J8cbq8B",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (25).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (25).pdf",
+      "media": {
+            "driveFileId": "1toRnk5RKRm2Fe4To9EAOvIdK2J8cbq8B",
+            "pdf": "1toRnk5RKRm2Fe4To9EAOvIdK2J8cbq8B",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1toRnk5RKRm2Fe4To9EAOvIdK2J8cbq8B&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__26__pdf",
+      "driveId": "1SbhqfjCj1wDG68vzryHUmxj6Y_X_QyQ4",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (26).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (26).pdf",
+      "media": {
+            "driveFileId": "1SbhqfjCj1wDG68vzryHUmxj6Y_X_QyQ4",
+            "pdf": "1SbhqfjCj1wDG68vzryHUmxj6Y_X_QyQ4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1SbhqfjCj1wDG68vzryHUmxj6Y_X_QyQ4&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__27__pdf",
+      "driveId": "1N06xqVcEvpSHOkKnE8sGuzTs_tGrCOpP",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (27).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (27).pdf",
+      "media": {
+            "driveFileId": "1N06xqVcEvpSHOkKnE8sGuzTs_tGrCOpP",
+            "pdf": "1N06xqVcEvpSHOkKnE8sGuzTs_tGrCOpP",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1N06xqVcEvpSHOkKnE8sGuzTs_tGrCOpP&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__28__pdf",
+      "driveId": "12zB5E6ECrjGBlY25LHRl6buuSa1PyzoF",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (28).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (28).pdf",
+      "media": {
+            "driveFileId": "12zB5E6ECrjGBlY25LHRl6buuSa1PyzoF",
+            "pdf": "12zB5E6ECrjGBlY25LHRl6buuSa1PyzoF",
+            "thumbnail": "https://drive.google.com/thumbnail?id=12zB5E6ECrjGBlY25LHRl6buuSa1PyzoF&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__29__pdf",
+      "driveId": "1v-eZ2Qd3D9s1A28FyU9Vlh9DmdtMxwR8",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (29).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (29).pdf",
+      "media": {
+            "driveFileId": "1v-eZ2Qd3D9s1A28FyU9Vlh9DmdtMxwR8",
+            "pdf": "1v-eZ2Qd3D9s1A28FyU9Vlh9DmdtMxwR8",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1v-eZ2Qd3D9s1A28FyU9Vlh9DmdtMxwR8&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__30__pdf",
+      "driveId": "1-lyRz-YF_NKRxoXGEsrlsF_xcM0ceHoo",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (30).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (30).pdf",
+      "media": {
+            "driveFileId": "1-lyRz-YF_NKRxoXGEsrlsF_xcM0ceHoo",
+            "pdf": "1-lyRz-YF_NKRxoXGEsrlsF_xcM0ceHoo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-lyRz-YF_NKRxoXGEsrlsF_xcM0ceHoo&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__31__pdf",
+      "driveId": "1XtFS3YIUcZ0NQHe3EFsSJLx4oWEYxwDk",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (31).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (31).pdf",
+      "media": {
+            "driveFileId": "1XtFS3YIUcZ0NQHe3EFsSJLx4oWEYxwDk",
+            "pdf": "1XtFS3YIUcZ0NQHe3EFsSJLx4oWEYxwDk",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1XtFS3YIUcZ0NQHe3EFsSJLx4oWEYxwDk&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__32__pdf",
+      "driveId": "1uIrQ2cA1m6rhjVSYkfEI0cIsTTRnAA7y",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (32).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (32).pdf",
+      "media": {
+            "driveFileId": "1uIrQ2cA1m6rhjVSYkfEI0cIsTTRnAA7y",
+            "pdf": "1uIrQ2cA1m6rhjVSYkfEI0cIsTTRnAA7y",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1uIrQ2cA1m6rhjVSYkfEI0cIsTTRnAA7y&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__33__pdf",
+      "driveId": "10XZhw7bs6f-0Ah79wBOtceaHVutw1SxP",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (33).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (33).pdf",
+      "media": {
+            "driveFileId": "10XZhw7bs6f-0Ah79wBOtceaHVutw1SxP",
+            "pdf": "10XZhw7bs6f-0Ah79wBOtceaHVutw1SxP",
+            "thumbnail": "https://drive.google.com/thumbnail?id=10XZhw7bs6f-0Ah79wBOtceaHVutw1SxP&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__34__pdf",
+      "driveId": "1g0_ZNi4MBHOuO1PEKHK35MNlZQNg_JoM",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (34).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (34).pdf",
+      "media": {
+            "driveFileId": "1g0_ZNi4MBHOuO1PEKHK35MNlZQNg_JoM",
+            "pdf": "1g0_ZNi4MBHOuO1PEKHK35MNlZQNg_JoM",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1g0_ZNi4MBHOuO1PEKHK35MNlZQNg_JoM&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__35__pdf",
+      "driveId": "1KioN_som1TI968s8qBkYZwVFXjatNKg7",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (35).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (35).pdf",
+      "media": {
+            "driveFileId": "1KioN_som1TI968s8qBkYZwVFXjatNKg7",
+            "pdf": "1KioN_som1TI968s8qBkYZwVFXjatNKg7",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KioN_som1TI968s8qBkYZwVFXjatNKg7&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__36__pdf",
+      "driveId": "18Ti1tL5ZSur8Vatbb3VKL_Qw5RRA-GHK",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (36).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (36).pdf",
+      "media": {
+            "driveFileId": "18Ti1tL5ZSur8Vatbb3VKL_Qw5RRA-GHK",
+            "pdf": "18Ti1tL5ZSur8Vatbb3VKL_Qw5RRA-GHK",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18Ti1tL5ZSur8Vatbb3VKL_Qw5RRA-GHK&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__37__pdf",
+      "driveId": "1VjG64sPkpL_WWnTymjbcypOK-61RuS4m",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (37).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (37).pdf",
+      "media": {
+            "driveFileId": "1VjG64sPkpL_WWnTymjbcypOK-61RuS4m",
+            "pdf": "1VjG64sPkpL_WWnTymjbcypOK-61RuS4m",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VjG64sPkpL_WWnTymjbcypOK-61RuS4m&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__38__pdf",
+      "driveId": "1H4f2S3Ok2b6rF7y9MfqNOSlF-56t25f9",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (38).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (38).pdf",
+      "media": {
+            "driveFileId": "1H4f2S3Ok2b6rF7y9MfqNOSlF-56t25f9",
+            "pdf": "1H4f2S3Ok2b6rF7y9MfqNOSlF-56t25f9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1H4f2S3Ok2b6rF7y9MfqNOSlF-56t25f9&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__39__pdf",
+      "driveId": "1mg6-WOzUqX03-hJajJS9nM_jfkhK-1nY",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (39).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (39).pdf",
+      "media": {
+            "driveFileId": "1mg6-WOzUqX03-hJajJS9nM_jfkhK-1nY",
+            "pdf": "1mg6-WOzUqX03-hJajJS9nM_jfkhK-1nY",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1mg6-WOzUqX03-hJajJS9nM_jfkhK-1nY&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__40__pdf",
+      "driveId": "1V9AXkyvMb0TUDl0mkoE0R9UFoS62JGcN",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (40).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (40).pdf",
+      "media": {
+            "driveFileId": "1V9AXkyvMb0TUDl0mkoE0R9UFoS62JGcN",
+            "pdf": "1V9AXkyvMb0TUDl0mkoE0R9UFoS62JGcN",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1V9AXkyvMb0TUDl0mkoE0R9UFoS62JGcN&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__41__pdf",
+      "driveId": "1CwcHVfGIBLdw8W29ISCiRHyCixbqlYz4",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (41).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (41).pdf",
+      "media": {
+            "driveFileId": "1CwcHVfGIBLdw8W29ISCiRHyCixbqlYz4",
+            "pdf": "1CwcHVfGIBLdw8W29ISCiRHyCixbqlYz4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1CwcHVfGIBLdw8W29ISCiRHyCixbqlYz4&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__42__pdf",
+      "driveId": "1N3_uMyZ_QL-ezUwGG38E3dcVpft7YWfT",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (42).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (42).pdf",
+      "media": {
+            "driveFileId": "1N3_uMyZ_QL-ezUwGG38E3dcVpft7YWfT",
+            "pdf": "1N3_uMyZ_QL-ezUwGG38E3dcVpft7YWfT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1N3_uMyZ_QL-ezUwGG38E3dcVpft7YWfT&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__43__pdf",
+      "driveId": "1329bNDuRmles9CMuf8Lo5q3PuWFVrOtk",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (43).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (43).pdf",
+      "media": {
+            "driveFileId": "1329bNDuRmles9CMuf8Lo5q3PuWFVrOtk",
+            "pdf": "1329bNDuRmles9CMuf8Lo5q3PuWFVrOtk",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1329bNDuRmles9CMuf8Lo5q3PuWFVrOtk&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__44__pdf",
+      "driveId": "1RBiwVPouVaV8D6ripGANy6yYeso39r74",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (44).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (44).pdf",
+      "media": {
+            "driveFileId": "1RBiwVPouVaV8D6ripGANy6yYeso39r74",
+            "pdf": "1RBiwVPouVaV8D6ripGANy6yYeso39r74",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1RBiwVPouVaV8D6ripGANy6yYeso39r74&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__45__pdf",
+      "driveId": "1IJeUBfNLUyWDps2xaUKQAAEp-W8zYKr2",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (45).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (45).pdf",
+      "media": {
+            "driveFileId": "1IJeUBfNLUyWDps2xaUKQAAEp-W8zYKr2",
+            "pdf": "1IJeUBfNLUyWDps2xaUKQAAEp-W8zYKr2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IJeUBfNLUyWDps2xaUKQAAEp-W8zYKr2&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__46__pdf",
+      "driveId": "1c9QcMcX7QstOOj-vTAjm27JGFlwg4PWg",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (46).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (46).pdf",
+      "media": {
+            "driveFileId": "1c9QcMcX7QstOOj-vTAjm27JGFlwg4PWg",
+            "pdf": "1c9QcMcX7QstOOj-vTAjm27JGFlwg4PWg",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1c9QcMcX7QstOOj-vTAjm27JGFlwg4PWg&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__47__pdf",
+      "driveId": "13O7THl6wzqPQCwDj8Zfh-LMV29zrJmHo",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (47).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (47).pdf",
+      "media": {
+            "driveFileId": "13O7THl6wzqPQCwDj8Zfh-LMV29zrJmHo",
+            "pdf": "13O7THl6wzqPQCwDj8Zfh-LMV29zrJmHo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=13O7THl6wzqPQCwDj8Zfh-LMV29zrJmHo&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__48__pdf",
+      "driveId": "11Aia4qSB77wBEUc1LHgR0nmcPpnuGvBS",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (48).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (48).pdf",
+      "media": {
+            "driveFileId": "11Aia4qSB77wBEUc1LHgR0nmcPpnuGvBS",
+            "pdf": "11Aia4qSB77wBEUc1LHgR0nmcPpnuGvBS",
+            "thumbnail": "https://drive.google.com/thumbnail?id=11Aia4qSB77wBEUc1LHgR0nmcPpnuGvBS&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__49__pdf",
+      "driveId": "1-jOCwB-wzC7d6cxbVGiNruE-VADsQ1aM",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (49).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (49).pdf",
+      "media": {
+            "driveFileId": "1-jOCwB-wzC7d6cxbVGiNruE-VADsQ1aM",
+            "pdf": "1-jOCwB-wzC7d6cxbVGiNruE-VADsQ1aM",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-jOCwB-wzC7d6cxbVGiNruE-VADsQ1aM&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__50__pdf",
+      "driveId": "1nUNJsllm_AkD34wzBJsePjRxisIrwRT5",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (50).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (50).pdf",
+      "media": {
+            "driveFileId": "1nUNJsllm_AkD34wzBJsePjRxisIrwRT5",
+            "pdf": "1nUNJsllm_AkD34wzBJsePjRxisIrwRT5",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1nUNJsllm_AkD34wzBJsePjRxisIrwRT5&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__51__pdf",
+      "driveId": "1IdGPpTwlIg4AChvALz0v4TnvIN0SGSG5",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (51).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (51).pdf",
+      "media": {
+            "driveFileId": "1IdGPpTwlIg4AChvALz0v4TnvIN0SGSG5",
+            "pdf": "1IdGPpTwlIg4AChvALz0v4TnvIN0SGSG5",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IdGPpTwlIg4AChvALz0v4TnvIN0SGSG5&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__52__pdf",
+      "driveId": "1Shgp5g_f2mRjlRuU_AOTmGLbMktxXq7L",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (52).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (52).pdf",
+      "media": {
+            "driveFileId": "1Shgp5g_f2mRjlRuU_AOTmGLbMktxXq7L",
+            "pdf": "1Shgp5g_f2mRjlRuU_AOTmGLbMktxXq7L",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Shgp5g_f2mRjlRuU_AOTmGLbMktxXq7L&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__53__pdf",
+      "driveId": "1feHBdZQ45VUqyIHXjGl6T7vowrCkvSgl",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (53).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (53).pdf",
+      "media": {
+            "driveFileId": "1feHBdZQ45VUqyIHXjGl6T7vowrCkvSgl",
+            "pdf": "1feHBdZQ45VUqyIHXjGl6T7vowrCkvSgl",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1feHBdZQ45VUqyIHXjGl6T7vowrCkvSgl&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__54__pdf",
+      "driveId": "1Gu39yuZEFDBq2Xi6eaQ5_vfS3L-cz7i0",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (54).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (54).pdf",
+      "media": {
+            "driveFileId": "1Gu39yuZEFDBq2Xi6eaQ5_vfS3L-cz7i0",
+            "pdf": "1Gu39yuZEFDBq2Xi6eaQ5_vfS3L-cz7i0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Gu39yuZEFDBq2Xi6eaQ5_vfS3L-cz7i0&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__55__pdf",
+      "driveId": "1rk2QL0llwedXTM3j5Hu_h6iWMmr1LuIB",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (55).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (55).pdf",
+      "media": {
+            "driveFileId": "1rk2QL0llwedXTM3j5Hu_h6iWMmr1LuIB",
+            "pdf": "1rk2QL0llwedXTM3j5Hu_h6iWMmr1LuIB",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1rk2QL0llwedXTM3j5Hu_h6iWMmr1LuIB&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__56__pdf",
+      "driveId": "1Mnu_y6erLtNN_mX-5x4Xl7_iJlTTPT7r",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (56).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (56).pdf",
+      "media": {
+            "driveFileId": "1Mnu_y6erLtNN_mX-5x4Xl7_iJlTTPT7r",
+            "pdf": "1Mnu_y6erLtNN_mX-5x4Xl7_iJlTTPT7r",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Mnu_y6erLtNN_mX-5x4Xl7_iJlTTPT7r&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__57__pdf",
+      "driveId": "1ebAkX-kuZBl8OHH8N7DS0Jt_KeJsRSzz",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (57).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (57).pdf",
+      "media": {
+            "driveFileId": "1ebAkX-kuZBl8OHH8N7DS0Jt_KeJsRSzz",
+            "pdf": "1ebAkX-kuZBl8OHH8N7DS0Jt_KeJsRSzz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ebAkX-kuZBl8OHH8N7DS0Jt_KeJsRSzz&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__58__pdf",
+      "driveId": "1iskBuszG6bVo6KiG8VI31zV0PAc9dxLt",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (58).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (58).pdf",
+      "media": {
+            "driveFileId": "1iskBuszG6bVo6KiG8VI31zV0PAc9dxLt",
+            "pdf": "1iskBuszG6bVo6KiG8VI31zV0PAc9dxLt",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1iskBuszG6bVo6KiG8VI31zV0PAc9dxLt&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf__59__pdf",
+      "driveId": "14q0BDbeC2AjKuJLE-jW2XTJqBmCptnX_",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf (59).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf (59).pdf",
+      "media": {
+            "driveFileId": "14q0BDbeC2AjKuJLE-jW2XTJqBmCptnX_",
+            "pdf": "14q0BDbeC2AjKuJLE-jW2XTJqBmCptnX_",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14q0BDbeC2AjKuJLE-jW2XTJqBmCptnX_&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-_pdf_pdf",
+      "driveId": "1sc5fDPcDV4ISJMpKLZgzEEZ0iUoLkPEW",
+      "category": "11_MANUSCRITOS",
+      "title": ".pdf.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/.pdf.pdf",
+      "media": {
+            "driveFileId": "1sc5fDPcDV4ISJMpKLZgzEEZ0iUoLkPEW",
+            "pdf": "1sc5fDPcDV4ISJMpKLZgzEEZ0iUoLkPEW",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1sc5fDPcDV4ISJMpKLZgzEEZ0iUoLkPEW&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2003_Email_Albert_Adria_Andoni_Luis_Aduriz_pdf",
+      "driveId": "1KNInPNhsOQ-kaVt_isFFiuPDkUOCocjc",
+      "category": "11_MANUSCRITOS",
+      "title": "2003_Email_Albert_Adria_Andoni_Luis_Aduriz.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2003_Email_Albert_Adria_Andoni_Luis_Aduriz.pdf",
+      "media": {
+            "driveFileId": "1KNInPNhsOQ-kaVt_isFFiuPDkUOCocjc",
+            "pdf": "1KNInPNhsOQ-kaVt_isFFiuPDkUOCocjc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KNInPNhsOQ-kaVt_isFFiuPDkUOCocjc&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2006_Nomina_Paco_Morales_Feb_Mugaritz_pdf",
+      "driveId": "1GL2_mKvO-igHU-lLgvrGRw-wWOxQ0hNp",
+      "category": "11_MANUSCRITOS",
+      "title": "2006_Nomina_Paco_Morales_Feb_Mugaritz.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2006_Nomina_Paco_Morales_Feb_Mugaritz.pdf",
+      "media": {
+            "driveFileId": "1GL2_mKvO-igHU-lLgvrGRw-wWOxQ0hNp",
+            "pdf": "1GL2_mKvO-igHU-lLgvrGRw-wWOxQ0hNp",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1GL2_mKvO-igHU-lLgvrGRw-wWOxQ0hNp&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2006_Nominas_Certificado_Paco_Morales_Mugaritz_pdf",
+      "driveId": "1VY0PQ2jphVGq7cLkwI6MadKtL-hMvSgt",
+      "category": "11_MANUSCRITOS",
+      "title": "2006_Nominas_Certificado_Paco_Morales_Mugaritz.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2006_Nominas_Certificado_Paco_Morales_Mugaritz.pdf",
+      "media": {
+            "driveFileId": "1VY0PQ2jphVGq7cLkwI6MadKtL-hMvSgt",
+            "pdf": "1VY0PQ2jphVGq7cLkwI6MadKtL-hMvSgt",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VY0PQ2jphVGq7cLkwI6MadKtL-hMvSgt&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2007_Email_Andoni_Aduriz_Reflexion_Ferran_Adria_pdf",
+      "driveId": "1qmnf_bMoVu4sxjtcER1IMdd4llo9Qxw7",
+      "category": "11_MANUSCRITOS",
+      "title": "2007_Email_Andoni_Aduriz_Reflexion_Ferran_Adria.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2007_Email_Andoni_Aduriz_Reflexion_Ferran_Adria.pdf",
+      "media": {
+            "driveFileId": "1qmnf_bMoVu4sxjtcER1IMdd4llo9Qxw7",
+            "pdf": "1qmnf_bMoVu4sxjtcER1IMdd4llo9Qxw7",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1qmnf_bMoVu4sxjtcER1IMdd4llo9Qxw7&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2011_2020_Facturas_Fichas_Tecnicas_Ferrero_pdf",
+      "driveId": "1InMLAV78AOuS0OByO1124DSCw7vu--up",
+      "category": "11_MANUSCRITOS",
+      "title": "2011_2020_Facturas_Fichas_Tecnicas_Ferrero.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2011_2020_Facturas_Fichas_Tecnicas_Ferrero.pdf",
+      "media": {
+            "driveFileId": "1InMLAV78AOuS0OByO1124DSCw7vu--up",
+            "pdf": "1InMLAV78AOuS0OByO1124DSCw7vu--up",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1InMLAV78AOuS0OByO1124DSCw7vu--up&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2012_Flyer_Evento_Siete_Horas_Paco_Morales_pdf",
+      "driveId": "1OB6qwLOHZlbhBsgB_5IXiTvxOF5idim0",
+      "category": "11_MANUSCRITOS",
+      "title": "2012_Flyer_Evento_Siete_Horas_Paco_Morales.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2012_Flyer_Evento_Siete_Horas_Paco_Morales.pdf",
+      "media": {
+            "driveFileId": "1OB6qwLOHZlbhBsgB_5IXiTvxOF5idim0",
+            "pdf": "1OB6qwLOHZlbhBsgB_5IXiTvxOF5idim0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1OB6qwLOHZlbhBsgB_5IXiTvxOF5idim0&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2012_Paco_Morales_Conceptualizacion_Noor_pdf",
+      "driveId": "1cjdqKVcVKitI4VCPPW88CVwmtA1F-MnD",
+      "category": "11_MANUSCRITOS",
+      "title": "2012_Paco_Morales_Conceptualizacion_Noor.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2012_Paco_Morales_Conceptualizacion_Noor.pdf",
+      "media": {
+            "driveFileId": "1cjdqKVcVKitI4VCPPW88CVwmtA1F-MnD",
+            "pdf": "1cjdqKVcVKitI4VCPPW88CVwmtA1F-MnD",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1cjdqKVcVKitI4VCPPW88CVwmtA1F-MnD&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2012_Tickets_Facturas_Hotel_Ferrero_pdf",
+      "driveId": "1XSyaJPnWUdwI4TPxCqYOpNi6E10xXbrw",
+      "category": "11_MANUSCRITOS",
+      "title": "2012_Tickets_Facturas_Hotel_Ferrero.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2012_Tickets_Facturas_Hotel_Ferrero.pdf",
+      "media": {
+            "driveFileId": "1XSyaJPnWUdwI4TPxCqYOpNi6E10xXbrw",
+            "pdf": "1XSyaJPnWUdwI4TPxCqYOpNi6E10xXbrw",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1XSyaJPnWUdwI4TPxCqYOpNi6E10xXbrw&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2014_Manifiesto_Evolucion_Paco_Morales_pdf",
+      "driveId": "1F-SbULZEQEYHp04f7dYGjDu02VJyt6HU",
+      "category": "11_MANUSCRITOS",
+      "title": "2014_Manifiesto_Evolucion_Paco_Morales.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2014_Manifiesto_Evolucion_Paco_Morales.pdf",
+      "media": {
+            "driveFileId": "1F-SbULZEQEYHp04f7dYGjDu02VJyt6HU",
+            "pdf": "1F-SbULZEQEYHp04f7dYGjDu02VJyt6HU",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1F-SbULZEQEYHp04f7dYGjDu02VJyt6HU&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-2017_Invitacion_Gala_Michelin_Noor_Cordoba_pdf",
+      "driveId": "1SQDUqyiuEbmDxH7gAXQiUo7Trko_HvR9",
+      "category": "11_MANUSCRITOS",
+      "title": "2017_Invitacion_Gala_Michelin_Noor_Cordoba.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/2017_Invitacion_Gala_Michelin_Noor_Cordoba.pdf",
+      "media": {
+            "driveFileId": "1SQDUqyiuEbmDxH7gAXQiUo7Trko_HvR9",
+            "pdf": "1SQDUqyiuEbmDxH7gAXQiUo7Trko_HvR9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1SQDUqyiuEbmDxH7gAXQiUo7Trko_HvR9&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-Adobe_Scan_01_abr_2026_pdf",
+      "driveId": "1rakgpluaFwRJFWNTR56nogxMBzC_cSZh",
+      "category": "11_MANUSCRITOS",
+      "title": "Adobe Scan 01 abr 2026.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/Adobe Scan 01 abr 2026.pdf",
+      "media": {
+            "driveFileId": "1rakgpluaFwRJFWNTR56nogxMBzC_cSZh",
+            "pdf": "1rakgpluaFwRJFWNTR56nogxMBzC_cSZh",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1rakgpluaFwRJFWNTR56nogxMBzC_cSZh&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-Adobe_Scan_02_abr_2026__19__pdf",
+      "driveId": "1pnNCOeIZFHXR7rcmu-LU3P2wL_OfUJ3d",
+      "category": "11_MANUSCRITOS",
+      "title": "Adobe Scan 02 abr 2026 (19).pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/Adobe Scan 02 abr 2026 (19).pdf",
+      "media": {
+            "driveFileId": "1pnNCOeIZFHXR7rcmu-LU3P2wL_OfUJ3d",
+            "pdf": "1pnNCOeIZFHXR7rcmu-LU3P2wL_OfUJ3d",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1pnNCOeIZFHXR7rcmu-LU3P2wL_OfUJ3d&sz=w1000"
+      }
+},
+    {
+      "id": "local-11_manuscritos-Dabiz_Munoz_Manifiesto_DiverXO_pdf",
+      "driveId": "1VB4WFboCXmhTMkatQiLz3BQxlKI6Qm9Z",
+      "category": "11_MANUSCRITOS",
+      "title": "Dabiz_Munoz_Manifiesto_DiverXO.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "11_MANUSCRITOS",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar/Dabiz_Munoz_Manifiesto_DiverXO.pdf",
+      "media": {
+            "driveFileId": "1VB4WFboCXmhTMkatQiLz3BQxlKI6Qm9Z",
+            "pdf": "1VB4WFboCXmhTMkatQiLz3BQxlKI6Qm9Z",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VB4WFboCXmhTMkatQiLz3BQxlKI6Qm9Z&sz=w1000"
+      }
+}
   ]
 };

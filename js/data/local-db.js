@@ -11,7 +11,8 @@ window.NoorLocalDB = {
     { id: 'sec-01', label: '01_REVISTAS',      path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS' },
     { id: 'sec-02', label: '02_LIBROS',        path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/02_LIBROS' },
     { id: 'sec-04', label: '04_CONTENIDO_WEB', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/04_CONTENIDO_WEB (Artículos y Blogs)' },
-    { id: 'sec-05', label: '05_PERIODICOS',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS' }
+    { id: 'sec-05', label: '05_PERIODICOS',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS' },
+    { id: 'sec-06', label: '06_PRODUCTO_CONTEXTUALIZACION', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/06_PRODUCTO_CONTEXTUALIZACION' }
   ],
   documents: [
     // --- 01_REVISTAS ---

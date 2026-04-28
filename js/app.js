@@ -102,9 +102,10 @@ document.addEventListener('click', (e) => {
 
 (async function initNoorApp() {
   console.log('╔══════════════════════════════════════════╗');
-  console.log('║  ARCHIVO NOOR — v1.6.1 (02_LIBROS Fix ✓)  ║');
+  console.log('║  ARCHIVO NOOR — v1.7 (06_CONTEXTUALIZACION) ║');
   console.log('╚══════════════════════════════════════════╝');
   console.log('[App] Iniciando...');
+  console.log('Sistema v1.7 - Total esperado: 393');
 
   // ── Limpieza Critica de Service Worker (Plan de Emergencia) ──
   if ('serviceWorker' in navigator) {

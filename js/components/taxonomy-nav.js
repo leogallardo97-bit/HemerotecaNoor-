@@ -73,14 +73,15 @@ function renderTaxonomyNav() {
   `; }).join('');
 
   // ── Construir ítems del dropdown de Secciones ──
-  const sectionsItems = ['01_REVISTAS', '02_LIBROS', '03_RECETARIO'].map(function(sec) {
+  const localSections = window.NoorLocalDB?.sections || [];
+  const sectionsItems = localSections.map(function(sec) {
     return `
     <a href="#"
        class="taxonomy-dropdown__item"
        data-filter-key="sections"
-       data-filter-value="${sec}"
+       data-filter-value="${sec.label}"
     >
-      <span>${sec.replace(/^\d+_/, '')}</span>
+      <span>${sec.label.replace(/^\d+_/, '')}</span>
     </a>
   `; }).join('');
 

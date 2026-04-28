@@ -36,15 +36,28 @@ function renderFiltersPanel() {
         <!-- Grupo: Secciones Drive (DINÁMICO) -->
         <div class="filter-group">
           <p class="filter-group__label">Secciones Drive</p>
-          ${localSections.map(sec => `
-            <div class="filter-option" data-filter-key="sections" data-filter-value="${sec.label}" role="checkbox" tabindex="0" aria-checked="false">
-              <label class="filter-option__label" style="cursor:pointer">
-                <span class="filter-option__checkbox"></span>
-                <span style="color:var(--color-gold-light); font-weight: 600">${sec.label}</span>
-              </label>
-              <span class="filter-option__count">${countBySection(sec.label)}</span>
-            </div>
-          `).join('')}
+          ${localSections.map(sec => {
+            // Sanitización para ID seguro en HTML
+            const safeId = sec.label.toLowerCase()
+              .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')
+              .replace(/ñ/g, 'n').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
+            
+            return `
+              <div class="filter-option" 
+                   id="filter-section-${safeId}"
+                   data-filter-key="sections" 
+                   data-filter-value="${sec.label}" 
+                   role="checkbox" 
+                   tabindex="0" 
+                   aria-checked="false">
+                <label class="filter-option__label" style="cursor:pointer">
+                  <span class="filter-option__checkbox"></span>
+                  <span style="color:var(--color-gold-light); font-weight: 600">${sec.label}</span>
+                </label>
+                <span class="filter-option__count">${countBySection(sec.label)}</span>
+              </div>
+            `;
+          }).join('')}
         </div>
 
         <div style="height:1px;background:rgba(201,168,76,0.12);margin:0.5rem 0 1rem"></div>

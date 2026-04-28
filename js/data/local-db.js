@@ -14,10 +14,10 @@ window.NoorLocalDB = {
     { id: 'sec-05', label: '05_PERIODICOS',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/05_PERIODICOS' },
     { id: 'sec-06', label: '06_PRODUCTO_CONTEXTUALIZACION', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/06_PRODUCTO_CONTEXTUALIZACION' },
     { id: 'sec-07', label: '07_CD_VID_Digital', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital' },
-    { id: 'sec-08', label: '08_CD_VID_Fisico',  path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios' },
-    { id: 'sec-09', label: '09_CD_AUD_Digital', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero' },
-    { id: 'sec-10', label: '10_CD_AUD_Fisico',  path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen' },
-    { id: 'sec-11', label: '11_MANUSCRITOS',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar' }
+    { id: 'sec-08', label: '08_Producto_Recetarios',  path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios' },
+    { id: 'sec-09', label: '09_Tarjetero', path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero' },
+    { id: 'sec-10', label: '10_Artículos_Imagen',  path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/10_Artículos_Imagen' },
+    { id: 'sec-11', label: '11_Sin clasificar',    path: 'G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/11_Sin clasificar' }
   ],
   documents: [
     // --- 01_REVISTAS ---

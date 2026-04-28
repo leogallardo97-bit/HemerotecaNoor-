@@ -75,8 +75,14 @@ function renderTaxonomyNav() {
   // ── Construir ítems del dropdown de Secciones ──
   const localSections = window.NoorLocalDB?.sections || [];
   const sectionsItems = localSections.map(function(sec) {
+    // Sanitización para ID seguro en HTML
+    const safeId = sec.label.toLowerCase()
+      .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')
+      .replace(/ñ/g, 'n').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
+
     return `
     <a href="#"
+       id="tax-section-${safeId}"
        class="taxonomy-dropdown__item"
        data-filter-key="sections"
        data-filter-value="${sec.label}"

@@ -8865,5 +8865,7536 @@ window.NoorLocalDB = {
             "thumbnail": "https://drive.google.com/thumbnail?id=1VB4WFboCXmhTMkatQiLz3BQxlKI6Qm9Z&sz=w1000"
       }
 }
+  ,
+    {
+      "id": "local-07-Filosof_a_de_desayunos_docx",
+      "driveId": "15B_Bsh36slY3TvSrj2I32tklqrRrO_Cz",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Sanidad_Empleados_2012_Paco_Morales",
+      "title": "Filosofía de desayunos.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Sanidad_Empleados_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Sanidad_Empleados_2012_Paco_Morales/Filosofía de desayunos.docx",
+      "media": {
+            "driveFileId": "15B_Bsh36slY3TvSrj2I32tklqrRrO_Cz",
+            "pdf": "15B_Bsh36slY3TvSrj2I32tklqrRrO_Cz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=15B_Bsh36slY3TvSrj2I32tklqrRrO_Cz&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-NORMAS_DE_EMPLEADOS_htm",
+      "driveId": "1J986ubNhvMgdF6QNENJoWn0l1rUA1G1u",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Sanidad_Empleados_2012_Paco_Morales",
+      "title": "NORMAS DE EMPLEADOS.htm",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Sanidad_Empleados_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Sanidad_Empleados_2012_Paco_Morales/NORMAS DE EMPLEADOS.htm",
+      "media": {
+            "driveFileId": "1J986ubNhvMgdF6QNENJoWn0l1rUA1G1u",
+            "pdf": "1J986ubNhvMgdF6QNENJoWn0l1rUA1G1u",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1J986ubNhvMgdF6QNENJoWn0l1rUA1G1u&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-desayunos_docx",
+      "driveId": "1iSXzwP5QY7hVmRhDENpVjnxkw9fV6XMq",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Sanidad_Empleados_2012_Paco_Morales",
+      "title": "desayunos.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Sanidad_Empleados_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Sanidad_Empleados_2012_Paco_Morales/desayunos.docx",
+      "media": {
+            "driveFileId": "1iSXzwP5QY7hVmRhDENpVjnxkw9fV6XMq",
+            "pdf": "1iSXzwP5QY7hVmRhDENpVjnxkw9fV6XMq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1iSXzwP5QY7hVmRhDENpVjnxkw9fV6XMq&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Filosof_a_de_desayunos_doc",
+      "driveId": "1GVPP_JJG6Xtpk_4tvkeJ2xIIHPCGNibg",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Sanidad_Empleados_2012_Paco_Morales",
+      "title": "Filosofía de desayunos.doc",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Sanidad_Empleados_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Sanidad_Empleados_2012_Paco_Morales/Filosofía de desayunos.doc",
+      "media": {
+            "driveFileId": "1GVPP_JJG6Xtpk_4tvkeJ2xIIHPCGNibg",
+            "pdf": "1GVPP_JJG6Xtpk_4tvkeJ2xIIHPCGNibg",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1GVPP_JJG6Xtpk_4tvkeJ2xIIHPCGNibg&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-DESAYUNO_GASTRONOMICO_docx",
+      "driveId": "1f-1T1bBbzfwLswbhBSrtZ8kssceVWblD",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Sanidad_Empleados_2012_Paco_Morales",
+      "title": "DESAYUNO GASTRONOMICO.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Sanidad_Empleados_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Sanidad_Empleados_2012_Paco_Morales/DESAYUNO GASTRONOMICO.docx",
+      "media": {
+            "driveFileId": "1f-1T1bBbzfwLswbhBSrtZ8kssceVWblD",
+            "pdf": "1f-1T1bBbzfwLswbhBSrtZ8kssceVWblD",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1f-1T1bBbzfwLswbhBSrtZ8kssceVWblD&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__19__JPG",
+      "driveId": "1rcP1vm_fXiGsVbGR2V5b4IJ1xvca4Q-r",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (19).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (19).JPG",
+      "media": {
+            "driveFileId": "1rcP1vm_fXiGsVbGR2V5b4IJ1xvca4Q-r",
+            "pdf": "1rcP1vm_fXiGsVbGR2V5b4IJ1xvca4Q-r",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1rcP1vm_fXiGsVbGR2V5b4IJ1xvca4Q-r&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__25__JPG",
+      "driveId": "11bsDKM7yGwXojs-e_J98AHpNjfkRycJm",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (25).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (25).JPG",
+      "media": {
+            "driveFileId": "11bsDKM7yGwXojs-e_J98AHpNjfkRycJm",
+            "pdf": "11bsDKM7yGwXojs-e_J98AHpNjfkRycJm",
+            "thumbnail": "https://drive.google.com/thumbnail?id=11bsDKM7yGwXojs-e_J98AHpNjfkRycJm&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__26__JPG",
+      "driveId": "11DbnJLQBAAFJzsCYk5eCwVlA24cKWQwd",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (26).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (26).JPG",
+      "media": {
+            "driveFileId": "11DbnJLQBAAFJzsCYk5eCwVlA24cKWQwd",
+            "pdf": "11DbnJLQBAAFJzsCYk5eCwVlA24cKWQwd",
+            "thumbnail": "https://drive.google.com/thumbnail?id=11DbnJLQBAAFJzsCYk5eCwVlA24cKWQwd&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__10__JPG",
+      "driveId": "1Xr8s4m1D53VTI1KQQzfDpJMn0rU3s4bq",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (10).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (10).JPG",
+      "media": {
+            "driveFileId": "1Xr8s4m1D53VTI1KQQzfDpJMn0rU3s4bq",
+            "pdf": "1Xr8s4m1D53VTI1KQQzfDpJMn0rU3s4bq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Xr8s4m1D53VTI1KQQzfDpJMn0rU3s4bq&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__17__JPG",
+      "driveId": "1EYUL0ulZzBG8fLVOoJ_JSEb-ppMBSAbR",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (17).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (17).JPG",
+      "media": {
+            "driveFileId": "1EYUL0ulZzBG8fLVOoJ_JSEb-ppMBSAbR",
+            "pdf": "1EYUL0ulZzBG8fLVOoJ_JSEb-ppMBSAbR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1EYUL0ulZzBG8fLVOoJ_JSEb-ppMBSAbR&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__30__JPG",
+      "driveId": "1-3ANVzjZ6-Ko-c2BFxrEGwSmbJTbK42h",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (30).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (30).JPG",
+      "media": {
+            "driveFileId": "1-3ANVzjZ6-Ko-c2BFxrEGwSmbJTbK42h",
+            "pdf": "1-3ANVzjZ6-Ko-c2BFxrEGwSmbJTbK42h",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-3ANVzjZ6-Ko-c2BFxrEGwSmbJTbK42h&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__12__JPG",
+      "driveId": "1RQdppYvsAaHgsL5Vwn5nwrpIfGsOabJ7",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (12).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (12).JPG",
+      "media": {
+            "driveFileId": "1RQdppYvsAaHgsL5Vwn5nwrpIfGsOabJ7",
+            "pdf": "1RQdppYvsAaHgsL5Vwn5nwrpIfGsOabJ7",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1RQdppYvsAaHgsL5Vwn5nwrpIfGsOabJ7&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__15__JPG",
+      "driveId": "1S4TepJ_7rC_k6oeRnTlpzc3AxPR8C7e6",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (15).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (15).JPG",
+      "media": {
+            "driveFileId": "1S4TepJ_7rC_k6oeRnTlpzc3AxPR8C7e6",
+            "pdf": "1S4TepJ_7rC_k6oeRnTlpzc3AxPR8C7e6",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1S4TepJ_7rC_k6oeRnTlpzc3AxPR8C7e6&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__29__JPG",
+      "driveId": "1LPWK01HrxLH1BXsGBVoAe4cyzMbo4jcG",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (29).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (29).JPG",
+      "media": {
+            "driveFileId": "1LPWK01HrxLH1BXsGBVoAe4cyzMbo4jcG",
+            "pdf": "1LPWK01HrxLH1BXsGBVoAe4cyzMbo4jcG",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1LPWK01HrxLH1BXsGBVoAe4cyzMbo4jcG&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__5__JPG",
+      "driveId": "1aU-PzzuXqOyRqWoAi-sMl1qJdqxoLVbn",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (5).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (5).JPG",
+      "media": {
+            "driveFileId": "1aU-PzzuXqOyRqWoAi-sMl1qJdqxoLVbn",
+            "pdf": "1aU-PzzuXqOyRqWoAi-sMl1qJdqxoLVbn",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1aU-PzzuXqOyRqWoAi-sMl1qJdqxoLVbn&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__9__JPG",
+      "driveId": "1tsgr9Sis6unKEilsU7TcH4n8EYTl8dit",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (9).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (9).JPG",
+      "media": {
+            "driveFileId": "1tsgr9Sis6unKEilsU7TcH4n8EYTl8dit",
+            "pdf": "1tsgr9Sis6unKEilsU7TcH4n8EYTl8dit",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1tsgr9Sis6unKEilsU7TcH4n8EYTl8dit&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__18__JPG",
+      "driveId": "1zMZtBccPgNwXFC6g_SmZpJMy00MGyz5-",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (18).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (18).JPG",
+      "media": {
+            "driveFileId": "1zMZtBccPgNwXFC6g_SmZpJMy00MGyz5-",
+            "pdf": "1zMZtBccPgNwXFC6g_SmZpJMy00MGyz5-",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1zMZtBccPgNwXFC6g_SmZpJMy00MGyz5-&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__3__JPG",
+      "driveId": "1yP06gC5beYP-uE9zrVuSCcojsoDfA2B9",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (3).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (3).JPG",
+      "media": {
+            "driveFileId": "1yP06gC5beYP-uE9zrVuSCcojsoDfA2B9",
+            "pdf": "1yP06gC5beYP-uE9zrVuSCcojsoDfA2B9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1yP06gC5beYP-uE9zrVuSCcojsoDfA2B9&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__2__JPG",
+      "driveId": "1K71c0nmAI2iJ_dgKLHXW54VSzBFHJK5Z",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (2).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (2).JPG",
+      "media": {
+            "driveFileId": "1K71c0nmAI2iJ_dgKLHXW54VSzBFHJK5Z",
+            "pdf": "1K71c0nmAI2iJ_dgKLHXW54VSzBFHJK5Z",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1K71c0nmAI2iJ_dgKLHXW54VSzBFHJK5Z&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__4__JPG",
+      "driveId": "13VoK69EyJpy1vG3ACsPoNfbDv_POKCht",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (4).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (4).JPG",
+      "media": {
+            "driveFileId": "13VoK69EyJpy1vG3ACsPoNfbDv_POKCht",
+            "pdf": "13VoK69EyJpy1vG3ACsPoNfbDv_POKCht",
+            "thumbnail": "https://drive.google.com/thumbnail?id=13VoK69EyJpy1vG3ACsPoNfbDv_POKCht&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__31__JPG",
+      "driveId": "15qoZKEkXLHY7snDPDWh9iGjIRaDdc3ND",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (31).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (31).JPG",
+      "media": {
+            "driveFileId": "15qoZKEkXLHY7snDPDWh9iGjIRaDdc3ND",
+            "pdf": "15qoZKEkXLHY7snDPDWh9iGjIRaDdc3ND",
+            "thumbnail": "https://drive.google.com/thumbnail?id=15qoZKEkXLHY7snDPDWh9iGjIRaDdc3ND&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__33__JPG",
+      "driveId": "1MS8H38QuNwTJ6LK7jXa-nTacZitG6hpK",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (33).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (33).JPG",
+      "media": {
+            "driveFileId": "1MS8H38QuNwTJ6LK7jXa-nTacZitG6hpK",
+            "pdf": "1MS8H38QuNwTJ6LK7jXa-nTacZitG6hpK",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1MS8H38QuNwTJ6LK7jXa-nTacZitG6hpK&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__23__JPG",
+      "driveId": "1uYvkRGa-K5A-0Jw5oAm4l3TjGSOnAzSN",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (23).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (23).JPG",
+      "media": {
+            "driveFileId": "1uYvkRGa-K5A-0Jw5oAm4l3TjGSOnAzSN",
+            "pdf": "1uYvkRGa-K5A-0Jw5oAm4l3TjGSOnAzSN",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1uYvkRGa-K5A-0Jw5oAm4l3TjGSOnAzSN&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__7__JPG",
+      "driveId": "18ZcrZjz4FqfeRq5caamNUiC2_D-UnqVZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (7).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (7).JPG",
+      "media": {
+            "driveFileId": "18ZcrZjz4FqfeRq5caamNUiC2_D-UnqVZ",
+            "pdf": "18ZcrZjz4FqfeRq5caamNUiC2_D-UnqVZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18ZcrZjz4FqfeRq5caamNUiC2_D-UnqVZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__20__JPG",
+      "driveId": "1QR6yBPFZhtSwq1OvPAGJC88FSNlrQhGZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (20).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (20).JPG",
+      "media": {
+            "driveFileId": "1QR6yBPFZhtSwq1OvPAGJC88FSNlrQhGZ",
+            "pdf": "1QR6yBPFZhtSwq1OvPAGJC88FSNlrQhGZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1QR6yBPFZhtSwq1OvPAGJC88FSNlrQhGZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__14__JPG",
+      "driveId": "1Mx3ljEO3bdfYpnINFewqtUooGbnWKI4w",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (14).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (14).JPG",
+      "media": {
+            "driveFileId": "1Mx3ljEO3bdfYpnINFewqtUooGbnWKI4w",
+            "pdf": "1Mx3ljEO3bdfYpnINFewqtUooGbnWKI4w",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Mx3ljEO3bdfYpnINFewqtUooGbnWKI4w&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__8__JPG",
+      "driveId": "1QKZJncUwkBhglBH8LRlPr2772f2YyZHN",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (8).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (8).JPG",
+      "media": {
+            "driveFileId": "1QKZJncUwkBhglBH8LRlPr2772f2YyZHN",
+            "pdf": "1QKZJncUwkBhglBH8LRlPr2772f2YyZHN",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1QKZJncUwkBhglBH8LRlPr2772f2YyZHN&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__11__JPG",
+      "driveId": "1LT3bk9aelubweDO-X4z2vAUGFJSkD5fx",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (11).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (11).JPG",
+      "media": {
+            "driveFileId": "1LT3bk9aelubweDO-X4z2vAUGFJSkD5fx",
+            "pdf": "1LT3bk9aelubweDO-X4z2vAUGFJSkD5fx",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1LT3bk9aelubweDO-X4z2vAUGFJSkD5fx&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__13__JPG",
+      "driveId": "1ffMikCPc81EZKq59iNuYmuRLnxBfQTPy",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (13).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (13).JPG",
+      "media": {
+            "driveFileId": "1ffMikCPc81EZKq59iNuYmuRLnxBfQTPy",
+            "pdf": "1ffMikCPc81EZKq59iNuYmuRLnxBfQTPy",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ffMikCPc81EZKq59iNuYmuRLnxBfQTPy&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__32__JPG",
+      "driveId": "1l4ug24pKHQT9tnqsmaKE0yx5N6disVMZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (32).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (32).JPG",
+      "media": {
+            "driveFileId": "1l4ug24pKHQT9tnqsmaKE0yx5N6disVMZ",
+            "pdf": "1l4ug24pKHQT9tnqsmaKE0yx5N6disVMZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1l4ug24pKHQT9tnqsmaKE0yx5N6disVMZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__24__JPG",
+      "driveId": "1s6C1Br-zMkRbDA037AWo6yEI43KYYaFk",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (24).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (24).JPG",
+      "media": {
+            "driveFileId": "1s6C1Br-zMkRbDA037AWo6yEI43KYYaFk",
+            "pdf": "1s6C1Br-zMkRbDA037AWo6yEI43KYYaFk",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1s6C1Br-zMkRbDA037AWo6yEI43KYYaFk&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__6__JPG",
+      "driveId": "1WJ3TPT9LwzS1sOxcu2mCViiWz18zurFq",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (6).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (6).JPG",
+      "media": {
+            "driveFileId": "1WJ3TPT9LwzS1sOxcu2mCViiWz18zurFq",
+            "pdf": "1WJ3TPT9LwzS1sOxcu2mCViiWz18zurFq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1WJ3TPT9LwzS1sOxcu2mCViiWz18zurFq&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__21__JPG",
+      "driveId": "1YeUdur3ioRDCKxgCOjdLLGxbsmcQL4Tr",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (21).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (21).JPG",
+      "media": {
+            "driveFileId": "1YeUdur3ioRDCKxgCOjdLLGxbsmcQL4Tr",
+            "pdf": "1YeUdur3ioRDCKxgCOjdLLGxbsmcQL4Tr",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YeUdur3ioRDCKxgCOjdLLGxbsmcQL4Tr&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__22__JPG",
+      "driveId": "1wk9MWpENlY4byZ7E5nd6ImCek_O9xNM1",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (22).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (22).JPG",
+      "media": {
+            "driveFileId": "1wk9MWpENlY4byZ7E5nd6ImCek_O9xNM1",
+            "pdf": "1wk9MWpENlY4byZ7E5nd6ImCek_O9xNM1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1wk9MWpENlY4byZ7E5nd6ImCek_O9xNM1&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales_JPG",
+      "driveId": "1zd9xRYWGZP-F4ivXBZ5N22qacot8DqRh",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales.JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales.JPG",
+      "media": {
+            "driveFileId": "1zd9xRYWGZP-F4ivXBZ5N22qacot8DqRh",
+            "pdf": "1zd9xRYWGZP-F4ivXBZ5N22qacot8DqRh",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1zd9xRYWGZP-F4ivXBZ5N22qacot8DqRh&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__28__JPG",
+      "driveId": "1wbKquBuUN9AokaddWi7QKdAME8Xb-7RZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (28).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (28).JPG",
+      "media": {
+            "driveFileId": "1wbKquBuUN9AokaddWi7QKdAME8Xb-7RZ",
+            "pdf": "1wbKquBuUN9AokaddWi7QKdAME8Xb-7RZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1wbKquBuUN9AokaddWi7QKdAME8Xb-7RZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Paco_Morales__27__JPG",
+      "driveId": "1Hcu1iMSBbhnDSLdhKnnrByQM_3g70cWH",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Senzone_Fotografías",
+      "title": "Paco Morales (27).JPG",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Senzone_Fotografías",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Senzone_Fotografías/Paco Morales (27).JPG",
+      "media": {
+            "driveFileId": "1Hcu1iMSBbhnDSLdhKnnrByQM_3g70cWH",
+            "pdf": "1Hcu1iMSBbhnDSLdhKnnrByQM_3g70cWH",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Hcu1iMSBbhnDSLdhKnnrByQM_3g70cWH&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-PRIMEROS_doc",
+      "driveId": "1y8K7h2847tI48XZegsOo-A4dU28_6DCx",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_Word",
+      "title": "PRIMEROS.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_Word",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_Word/PRIMEROS.doc",
+      "media": {
+            "driveFileId": "1y8K7h2847tI48XZegsOo-A4dU28_6DCx",
+            "pdf": "1y8K7h2847tI48XZegsOo-A4dU28_6DCx",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1y8K7h2847tI48XZegsOo-A4dU28_6DCx&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-PASTELER_c3_8dA_doc",
+      "driveId": "1iG_jEknslhJdapFPbE4azfMH_NU1EMba",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_Word",
+      "title": "PASTELER%c3%8dA.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_Word",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_Word/PASTELER%c3%8dA.doc",
+      "media": {
+            "driveFileId": "1iG_jEknslhJdapFPbE4azfMH_NU1EMba",
+            "pdf": "1iG_jEknslhJdapFPbE4azfMH_NU1EMba",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1iG_jEknslhJdapFPbE4azfMH_NU1EMba&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO__8__jpg",
+      "driveId": "1b0vIrZu9F9CX1pzv7YfwW28tENLGvlIZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (8).jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (8).jpg",
+      "media": {
+            "driveFileId": "1b0vIrZu9F9CX1pzv7YfwW28tENLGvlIZ",
+            "pdf": "1b0vIrZu9F9CX1pzv7YfwW28tENLGvlIZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1b0vIrZu9F9CX1pzv7YfwW28tENLGvlIZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO__54__jpg",
+      "driveId": "1TVyha6hZL2KZSBNE3-ULKzgUjEUzE2XB",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (54).jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (54).jpg",
+      "media": {
+            "driveFileId": "1TVyha6hZL2KZSBNE3-ULKzgUjEUzE2XB",
+            "pdf": "1TVyha6hZL2KZSBNE3-ULKzgUjEUzE2XB",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TVyha6hZL2KZSBNE3-ULKzgUjEUzE2XB&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO__53__jpg",
+      "driveId": "1hcVNgNE8JUvBjvpbThXn1QdsieGpse2p",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (53).jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (53).jpg",
+      "media": {
+            "driveFileId": "1hcVNgNE8JUvBjvpbThXn1QdsieGpse2p",
+            "pdf": "1hcVNgNE8JUvBjvpbThXn1QdsieGpse2p",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1hcVNgNE8JUvBjvpbThXn1QdsieGpse2p&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO__52__MOV",
+      "driveId": "1-2jJd1ChfXoGJU2X0StQmfrElkLqED9_",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (52).MOV",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (52).MOV",
+      "media": {
+            "driveFileId": "1-2jJd1ChfXoGJU2X0StQmfrElkLqED9_",
+            "pdf": "1-2jJd1ChfXoGJU2X0StQmfrElkLqED9_",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-2jJd1ChfXoGJU2X0StQmfrElkLqED9_&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO__7__jpg",
+      "driveId": "13qfl2lAJTJNTQpZIuEDL59Ozy8ErRMho",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (7).jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (7).jpg",
+      "media": {
+            "driveFileId": "13qfl2lAJTJNTQpZIuEDL59Ozy8ErRMho",
+            "pdf": "13qfl2lAJTJNTQpZIuEDL59Ozy8ErRMho",
+            "thumbnail": "https://drive.google.com/thumbnail?id=13qfl2lAJTJNTQpZIuEDL59Ozy8ErRMho&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO__6__jpg",
+      "driveId": "1nYkhO4b4XMXiLrm_Pvg3_E0F-HnynakQ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (6).jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (6).jpg",
+      "media": {
+            "driveFileId": "1nYkhO4b4XMXiLrm_Pvg3_E0F-HnynakQ",
+            "pdf": "1nYkhO4b4XMXiLrm_Pvg3_E0F-HnynakQ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1nYkhO4b4XMXiLrm_Pvg3_E0F-HnynakQ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO_jpg",
+      "driveId": "191u_mpGq58pp-XWJdTqStl_Z2g0xeX6W",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO.jpg",
+      "media": {
+            "driveFileId": "191u_mpGq58pp-XWJdTqStl_Z2g0xeX6W",
+            "pdf": "191u_mpGq58pp-XWJdTqStl_Z2g0xeX6W",
+            "thumbnail": "https://drive.google.com/thumbnail?id=191u_mpGq58pp-XWJdTqStl_Z2g0xeX6W&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ENTREGA_PREMIOS_I_SOCIAL_HOTEL_FERRERO__9__jpg",
+      "driveId": "1MazqCyxjbdPsN_roazeWlx2qj89DW9Ti",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+      "title": "ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (9).jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Engtrega_de_Premios_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Engtrega_de_Premios_Hotel_Ferrero/ENTREGA PREMIOS I SOCIAL HOTEL FERRERO (9).jpg",
+      "media": {
+            "driveFileId": "1MazqCyxjbdPsN_roazeWlx2qj89DW9Ti",
+            "pdf": "1MazqCyxjbdPsN_roazeWlx2qj89DW9Ti",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1MazqCyxjbdPsN_roazeWlx2qj89DW9Ti&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track01_cda",
+      "driveId": "1jq-WJo_sI-TYGyxQ2bdu4y1m8KYm9CCn",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track01.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track01.cda",
+      "media": {
+            "driveFileId": "1jq-WJo_sI-TYGyxQ2bdu4y1m8KYm9CCn",
+            "pdf": "1jq-WJo_sI-TYGyxQ2bdu4y1m8KYm9CCn",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1jq-WJo_sI-TYGyxQ2bdu4y1m8KYm9CCn&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track09_cda",
+      "driveId": "15BPaALFMrljzUUO2dzSQbqI3Qh5P5nEU",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track09.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track09.cda",
+      "media": {
+            "driveFileId": "15BPaALFMrljzUUO2dzSQbqI3Qh5P5nEU",
+            "pdf": "15BPaALFMrljzUUO2dzSQbqI3Qh5P5nEU",
+            "thumbnail": "https://drive.google.com/thumbnail?id=15BPaALFMrljzUUO2dzSQbqI3Qh5P5nEU&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track10_cda",
+      "driveId": "1FjGFb9_Z5ElBpp2zRvL2ebCrLVqrF81k",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track10.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track10.cda",
+      "media": {
+            "driveFileId": "1FjGFb9_Z5ElBpp2zRvL2ebCrLVqrF81k",
+            "pdf": "1FjGFb9_Z5ElBpp2zRvL2ebCrLVqrF81k",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1FjGFb9_Z5ElBpp2zRvL2ebCrLVqrF81k&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track03_cda",
+      "driveId": "1xExhkSh34xK7tpaTPMcMan0hkaRDnCBU",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track03.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track03.cda",
+      "media": {
+            "driveFileId": "1xExhkSh34xK7tpaTPMcMan0hkaRDnCBU",
+            "pdf": "1xExhkSh34xK7tpaTPMcMan0hkaRDnCBU",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1xExhkSh34xK7tpaTPMcMan0hkaRDnCBU&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track08_cda",
+      "driveId": "1aLfkrWlrZaDLPYb_j8iWEet9XlWlRBaD",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track08.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track08.cda",
+      "media": {
+            "driveFileId": "1aLfkrWlrZaDLPYb_j8iWEet9XlWlRBaD",
+            "pdf": "1aLfkrWlrZaDLPYb_j8iWEet9XlWlRBaD",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1aLfkrWlrZaDLPYb_j8iWEet9XlWlRBaD&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track07_cda",
+      "driveId": "1gypterR4JS7EAayEeqKbrhF4i4TqOzXH",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track07.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track07.cda",
+      "media": {
+            "driveFileId": "1gypterR4JS7EAayEeqKbrhF4i4TqOzXH",
+            "pdf": "1gypterR4JS7EAayEeqKbrhF4i4TqOzXH",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1gypterR4JS7EAayEeqKbrhF4i4TqOzXH&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track02_cda",
+      "driveId": "1nGl7k76jL4ZS8QyFNDHS5IYH_bsij_9X",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track02.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track02.cda",
+      "media": {
+            "driveFileId": "1nGl7k76jL4ZS8QyFNDHS5IYH_bsij_9X",
+            "pdf": "1nGl7k76jL4ZS8QyFNDHS5IYH_bsij_9X",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1nGl7k76jL4ZS8QyFNDHS5IYH_bsij_9X&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track14_cda",
+      "driveId": "19v5fSXVGF4mJtSH1hNdbNpwsHbNGAMec",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track14.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track14.cda",
+      "media": {
+            "driveFileId": "19v5fSXVGF4mJtSH1hNdbNpwsHbNGAMec",
+            "pdf": "19v5fSXVGF4mJtSH1hNdbNpwsHbNGAMec",
+            "thumbnail": "https://drive.google.com/thumbnail?id=19v5fSXVGF4mJtSH1hNdbNpwsHbNGAMec&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track13_cda",
+      "driveId": "18bM2CJX7b02B6TSeS_OjsK6o1WnJ3rGo",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track13.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track13.cda",
+      "media": {
+            "driveFileId": "18bM2CJX7b02B6TSeS_OjsK6o1WnJ3rGo",
+            "pdf": "18bM2CJX7b02B6TSeS_OjsK6o1WnJ3rGo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18bM2CJX7b02B6TSeS_OjsK6o1WnJ3rGo&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track15_cda",
+      "driveId": "1t-fkbAOT_X2dO5DMeXm6I-eMctfrnwfS",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track15.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track15.cda",
+      "media": {
+            "driveFileId": "1t-fkbAOT_X2dO5DMeXm6I-eMctfrnwfS",
+            "pdf": "1t-fkbAOT_X2dO5DMeXm6I-eMctfrnwfS",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1t-fkbAOT_X2dO5DMeXm6I-eMctfrnwfS&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track05_cda",
+      "driveId": "111Y-Oxh1CvvPtDXg5W8CqS_5rNDZH-vR",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track05.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track05.cda",
+      "media": {
+            "driveFileId": "111Y-Oxh1CvvPtDXg5W8CqS_5rNDZH-vR",
+            "pdf": "111Y-Oxh1CvvPtDXg5W8CqS_5rNDZH-vR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=111Y-Oxh1CvvPtDXg5W8CqS_5rNDZH-vR&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track12_cda",
+      "driveId": "1agHuvqHLk5XRbukMuihfQcNm1dyfVBkz",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track12.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track12.cda",
+      "media": {
+            "driveFileId": "1agHuvqHLk5XRbukMuihfQcNm1dyfVBkz",
+            "pdf": "1agHuvqHLk5XRbukMuihfQcNm1dyfVBkz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1agHuvqHLk5XRbukMuihfQcNm1dyfVBkz&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track04_cda",
+      "driveId": "1Dn4eLPY03qRD2pWbKRN3a4LPUelZd--f",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track04.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track04.cda",
+      "media": {
+            "driveFileId": "1Dn4eLPY03qRD2pWbKRN3a4LPUelZd--f",
+            "pdf": "1Dn4eLPY03qRD2pWbKRN3a4LPUelZd--f",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Dn4eLPY03qRD2pWbKRN3a4LPUelZd--f&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track11_cda",
+      "driveId": "1YWdPy_MM6NSfs-0SOCXNMrBio2GxSgY1",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track11.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track11.cda",
+      "media": {
+            "driveFileId": "1YWdPy_MM6NSfs-0SOCXNMrBio2GxSgY1",
+            "pdf": "1YWdPy_MM6NSfs-0SOCXNMrBio2GxSgY1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YWdPy_MM6NSfs-0SOCXNMrBio2GxSgY1&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track06_cda",
+      "driveId": "16fWUu3KWCFv6EJCIhg5QCw5Oj57zfAAD",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track06.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track06.cda",
+      "media": {
+            "driveFileId": "16fWUu3KWCFv6EJCIhg5QCw5Oj57zfAAD",
+            "pdf": "16fWUu3KWCFv6EJCIhg5QCw5Oj57zfAAD",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16fWUu3KWCFv6EJCIhg5QCw5Oj57zfAAD&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track16_cda",
+      "driveId": "1fO0dWnRo6UwM82cCsdwmDNArAowaYqfa",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_Quique_dacosta",
+      "title": "Track16.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_Quique_dacosta",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_Quique_dacosta/Track16.cda",
+      "media": {
+            "driveFileId": "1fO0dWnRo6UwM82cCsdwmDNArAowaYqfa",
+            "pdf": "1fO0dWnRo6UwM82cCsdwmDNArAowaYqfa",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1fO0dWnRo6UwM82cCsdwmDNArAowaYqfa&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track01_cda",
+      "driveId": "1Fz6sdh1AK054UcxchzuPU7L80CmWiLCZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track01.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track01.cda",
+      "media": {
+            "driveFileId": "1Fz6sdh1AK054UcxchzuPU7L80CmWiLCZ",
+            "pdf": "1Fz6sdh1AK054UcxchzuPU7L80CmWiLCZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Fz6sdh1AK054UcxchzuPU7L80CmWiLCZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track18_cda",
+      "driveId": "1TfdmWNYCS49lYGO_OVMl6NrPGK_6jzVa",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track18.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track18.cda",
+      "media": {
+            "driveFileId": "1TfdmWNYCS49lYGO_OVMl6NrPGK_6jzVa",
+            "pdf": "1TfdmWNYCS49lYGO_OVMl6NrPGK_6jzVa",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TfdmWNYCS49lYGO_OVMl6NrPGK_6jzVa&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track09_cda",
+      "driveId": "1hfLl_Stv07dJ3NW0DRgu64jCtB2xIS_p",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track09.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track09.cda",
+      "media": {
+            "driveFileId": "1hfLl_Stv07dJ3NW0DRgu64jCtB2xIS_p",
+            "pdf": "1hfLl_Stv07dJ3NW0DRgu64jCtB2xIS_p",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1hfLl_Stv07dJ3NW0DRgu64jCtB2xIS_p&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track10_cda",
+      "driveId": "1vPcazvktQCX_KBLsqlG1RS3MowmHmkOF",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track10.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track10.cda",
+      "media": {
+            "driveFileId": "1vPcazvktQCX_KBLsqlG1RS3MowmHmkOF",
+            "pdf": "1vPcazvktQCX_KBLsqlG1RS3MowmHmkOF",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1vPcazvktQCX_KBLsqlG1RS3MowmHmkOF&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track03_cda",
+      "driveId": "1FMbg7rotlk3ruoN8SB2h6RGK7OjmvUQe",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track03.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track03.cda",
+      "media": {
+            "driveFileId": "1FMbg7rotlk3ruoN8SB2h6RGK7OjmvUQe",
+            "pdf": "1FMbg7rotlk3ruoN8SB2h6RGK7OjmvUQe",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1FMbg7rotlk3ruoN8SB2h6RGK7OjmvUQe&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track19_cda",
+      "driveId": "1GP2cXuArBgoRE6RP9o0OyJ191QWjtkHM",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track19.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track19.cda",
+      "media": {
+            "driveFileId": "1GP2cXuArBgoRE6RP9o0OyJ191QWjtkHM",
+            "pdf": "1GP2cXuArBgoRE6RP9o0OyJ191QWjtkHM",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1GP2cXuArBgoRE6RP9o0OyJ191QWjtkHM&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track08_cda",
+      "driveId": "1CeW-IHuIgJaT3VjKCrqFrW3PnLbH2kUo",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track08.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track08.cda",
+      "media": {
+            "driveFileId": "1CeW-IHuIgJaT3VjKCrqFrW3PnLbH2kUo",
+            "pdf": "1CeW-IHuIgJaT3VjKCrqFrW3PnLbH2kUo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1CeW-IHuIgJaT3VjKCrqFrW3PnLbH2kUo&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track07_cda",
+      "driveId": "1e56LWXNYjvbUf-Eyo_hZDiSzBvFPS-u2",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track07.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track07.cda",
+      "media": {
+            "driveFileId": "1e56LWXNYjvbUf-Eyo_hZDiSzBvFPS-u2",
+            "pdf": "1e56LWXNYjvbUf-Eyo_hZDiSzBvFPS-u2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1e56LWXNYjvbUf-Eyo_hZDiSzBvFPS-u2&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track02_cda",
+      "driveId": "12d1G6oseUfDyxmE6DcFaSHYkmhvKFZZc",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track02.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track02.cda",
+      "media": {
+            "driveFileId": "12d1G6oseUfDyxmE6DcFaSHYkmhvKFZZc",
+            "pdf": "12d1G6oseUfDyxmE6DcFaSHYkmhvKFZZc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=12d1G6oseUfDyxmE6DcFaSHYkmhvKFZZc&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track14_cda",
+      "driveId": "132hLC9rTfK_f0TcaT7uKlf9P_ZDX-5zC",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track14.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track14.cda",
+      "media": {
+            "driveFileId": "132hLC9rTfK_f0TcaT7uKlf9P_ZDX-5zC",
+            "pdf": "132hLC9rTfK_f0TcaT7uKlf9P_ZDX-5zC",
+            "thumbnail": "https://drive.google.com/thumbnail?id=132hLC9rTfK_f0TcaT7uKlf9P_ZDX-5zC&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track13_cda",
+      "driveId": "1EfYZWCFDa8ZAQyTY2j5Afhag9Dno92-1",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track13.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track13.cda",
+      "media": {
+            "driveFileId": "1EfYZWCFDa8ZAQyTY2j5Afhag9Dno92-1",
+            "pdf": "1EfYZWCFDa8ZAQyTY2j5Afhag9Dno92-1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1EfYZWCFDa8ZAQyTY2j5Afhag9Dno92-1&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track15_cda",
+      "driveId": "1DWGmIrjkeKx1YntqpTY1ix_v0PKPawG8",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track15.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track15.cda",
+      "media": {
+            "driveFileId": "1DWGmIrjkeKx1YntqpTY1ix_v0PKPawG8",
+            "pdf": "1DWGmIrjkeKx1YntqpTY1ix_v0PKPawG8",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1DWGmIrjkeKx1YntqpTY1ix_v0PKPawG8&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track17_cda",
+      "driveId": "18d-RK3i06tjtAVYifoZdaaTBCBlwlTLf",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track17.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track17.cda",
+      "media": {
+            "driveFileId": "18d-RK3i06tjtAVYifoZdaaTBCBlwlTLf",
+            "pdf": "18d-RK3i06tjtAVYifoZdaaTBCBlwlTLf",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18d-RK3i06tjtAVYifoZdaaTBCBlwlTLf&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track05_cda",
+      "driveId": "1bTXzvX33GsTNX2Ho8bs_qQTDsZ7bEDKl",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track05.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track05.cda",
+      "media": {
+            "driveFileId": "1bTXzvX33GsTNX2Ho8bs_qQTDsZ7bEDKl",
+            "pdf": "1bTXzvX33GsTNX2Ho8bs_qQTDsZ7bEDKl",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1bTXzvX33GsTNX2Ho8bs_qQTDsZ7bEDKl&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track12_cda",
+      "driveId": "1Roj6EtUcUmr_mEmO6LUdZF6QFmX4NmUd",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track12.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track12.cda",
+      "media": {
+            "driveFileId": "1Roj6EtUcUmr_mEmO6LUdZF6QFmX4NmUd",
+            "pdf": "1Roj6EtUcUmr_mEmO6LUdZF6QFmX4NmUd",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Roj6EtUcUmr_mEmO6LUdZF6QFmX4NmUd&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track04_cda",
+      "driveId": "1m4aPBZ-HltPeHnncXLM03NV_t32UO_cp",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track04.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track04.cda",
+      "media": {
+            "driveFileId": "1m4aPBZ-HltPeHnncXLM03NV_t32UO_cp",
+            "pdf": "1m4aPBZ-HltPeHnncXLM03NV_t32UO_cp",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1m4aPBZ-HltPeHnncXLM03NV_t32UO_cp&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track11_cda",
+      "driveId": "1G-zZ9x1al3MkZnB1qbzUixRiC_I3QApT",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track11.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track11.cda",
+      "media": {
+            "driveFileId": "1G-zZ9x1al3MkZnB1qbzUixRiC_I3QApT",
+            "pdf": "1G-zZ9x1al3MkZnB1qbzUixRiC_I3QApT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1G-zZ9x1al3MkZnB1qbzUixRiC_I3QApT&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track06_cda",
+      "driveId": "1YacXcHPa6lbOD71gGLBHqGCC2RxdrRVT",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track06.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track06.cda",
+      "media": {
+            "driveFileId": "1YacXcHPa6lbOD71gGLBHqGCC2RxdrRVT",
+            "pdf": "1YacXcHPa6lbOD71gGLBHqGCC2RxdrRVT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YacXcHPa6lbOD71gGLBHqGCC2RxdrRVT&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Track16_cda",
+      "driveId": "1E8jwLgs-VufS74NiGaSDsuvBkxNMPUi1",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Música_track06_Dca",
+      "title": "Track16.cda",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Música_track06_Dca",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Música_track06_Dca/Track16.cda",
+      "media": {
+            "driveFileId": "1E8jwLgs-VufS74NiGaSDsuvBkxNMPUi1",
+            "pdf": "1E8jwLgs-VufS74NiGaSDsuvBkxNMPUi1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1E8jwLgs-VufS74NiGaSDsuvBkxNMPUi1&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_1_B__nines_minguez_tif",
+      "driveId": "17dkLgVQu96MElw9pqEXMt03bSMZqfqi-",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 1-B ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 1-B ©nines minguez.tif",
+      "media": {
+            "driveFileId": "17dkLgVQu96MElw9pqEXMt03bSMZqfqi-",
+            "pdf": "17dkLgVQu96MElw9pqEXMt03bSMZqfqi-",
+            "thumbnail": "https://drive.google.com/thumbnail?id=17dkLgVQu96MElw9pqEXMt03bSMZqfqi-&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_2_A__nines_minguez_tif",
+      "driveId": "14PP1NEARPdUgWCXXURPI4ZpMWtskiOkm",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 2-A ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 2-A ©nines minguez.tif",
+      "media": {
+            "driveFileId": "14PP1NEARPdUgWCXXURPI4ZpMWtskiOkm",
+            "pdf": "14PP1NEARPdUgWCXXURPI4ZpMWtskiOkm",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14PP1NEARPdUgWCXXURPI4ZpMWtskiOkm&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_5__nines_minguez_tif",
+      "driveId": "1DbVjubtYy7fIJ3znz_VCIhc1TgpYFmIV",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 5 ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 5 ©nines minguez.tif",
+      "media": {
+            "driveFileId": "1DbVjubtYy7fIJ3znz_VCIhc1TgpYFmIV",
+            "pdf": "1DbVjubtYy7fIJ3znz_VCIhc1TgpYFmIV",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1DbVjubtYy7fIJ3znz_VCIhc1TgpYFmIV&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_4_B__nines_minguez_tif",
+      "driveId": "1XrrEucmvh_ekTa6tNheMhDW3pfGW09o1",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 4-B ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 4-B ©nines minguez.tif",
+      "media": {
+            "driveFileId": "1XrrEucmvh_ekTa6tNheMhDW3pfGW09o1",
+            "pdf": "1XrrEucmvh_ekTa6tNheMhDW3pfGW09o1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1XrrEucmvh_ekTa6tNheMhDW3pfGW09o1&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_3_A__nines_minguez_tif",
+      "driveId": "163JFuUuW7mFulrp_OfcmH7XDqMRpHjQC",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 3-A ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 3-A ©nines minguez.tif",
+      "media": {
+            "driveFileId": "163JFuUuW7mFulrp_OfcmH7XDqMRpHjQC",
+            "pdf": "163JFuUuW7mFulrp_OfcmH7XDqMRpHjQC",
+            "thumbnail": "https://drive.google.com/thumbnail?id=163JFuUuW7mFulrp_OfcmH7XDqMRpHjQC&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_4_A__nines_minguez_tif",
+      "driveId": "1mheNFCn7DGTkBBZnuCzF14HPmYDjqj6R",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 4-A ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 4-A ©nines minguez.tif",
+      "media": {
+            "driveFileId": "1mheNFCn7DGTkBBZnuCzF14HPmYDjqj6R",
+            "pdf": "1mheNFCn7DGTkBBZnuCzF14HPmYDjqj6R",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1mheNFCn7DGTkBBZnuCzF14HPmYDjqj6R&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_2_B__nines_minguez_tif",
+      "driveId": "10gS1PKDdQhGV53BeMAMexPfWE8CQmhtG",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 2-B ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 2-B ©nines minguez.tif",
+      "media": {
+            "driveFileId": "10gS1PKDdQhGV53BeMAMexPfWE8CQmhtG",
+            "pdf": "10gS1PKDdQhGV53BeMAMexPfWE8CQmhtG",
+            "thumbnail": "https://drive.google.com/thumbnail?id=10gS1PKDdQhGV53BeMAMexPfWE8CQmhtG&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_1_A__nines_minguez_tif",
+      "driveId": "1AG_PfTTwhD40JaN8j3Xtzlb7JpoDST-o",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 1-A ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 1-A ©nines minguez.tif",
+      "media": {
+            "driveFileId": "1AG_PfTTwhD40JaN8j3Xtzlb7JpoDST-o",
+            "pdf": "1AG_PfTTwhD40JaN8j3Xtzlb7JpoDST-o",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1AG_PfTTwhD40JaN8j3Xtzlb7JpoDST-o&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-LALAMA_jpg",
+      "driveId": "1FtK5RKUhMZZIzKEKXLKtTN-ULwdKks8o",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "LALAMA.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/LALAMA.jpg",
+      "media": {
+            "driveFileId": "1FtK5RKUhMZZIzKEKXLKtTN-ULwdKks8o",
+            "pdf": "1FtK5RKUhMZZIzKEKXLKtTN-ULwdKks8o",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1FtK5RKUhMZZIzKEKXLKtTN-ULwdKks8o&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-FRANCISO_MORALES_3_B__nines_minguez_tif",
+      "driveId": "1PUetPUqW3CMoS7pO8_CyMRyX1amhssWH",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+      "title": "FRANCISO MORALES 3-B ©nines minguez.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_NINES_MINGUEZ_Fotografías_Varias_Manzana_Al_Horno/FRANCISO MORALES 3-B ©nines minguez.tif",
+      "media": {
+            "driveFileId": "1PUetPUqW3CMoS7pO8_CyMRyX1amhssWH",
+            "pdf": "1PUetPUqW3CMoS7pO8_CyMRyX1amhssWH",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1PUetPUqW3CMoS7pO8_CyMRyX1amhssWH&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7904_tif",
+      "driveId": "1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7904.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7904.tif",
+      "media": {
+            "driveFileId": "1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx",
+            "pdf": "1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7893_tif",
+      "driveId": "1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7893.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7893.tif",
+      "media": {
+            "driveFileId": "1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR",
+            "pdf": "1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7879_tif",
+      "driveId": "1RIgLqLEMcL00MgIADOf973ml0ydUXO4g",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7879.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7879.tif",
+      "media": {
+            "driveFileId": "1RIgLqLEMcL00MgIADOf973ml0ydUXO4g",
+            "pdf": "1RIgLqLEMcL00MgIADOf973ml0ydUXO4g",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1RIgLqLEMcL00MgIADOf973ml0ydUXO4g&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7960_tif",
+      "driveId": "18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7960.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7960.tif",
+      "media": {
+            "driveFileId": "18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB",
+            "pdf": "18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7906_tif",
+      "driveId": "1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7906.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7906.tif",
+      "media": {
+            "driveFileId": "1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k",
+            "pdf": "1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7878_tif",
+      "driveId": "1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7878.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7878.tif",
+      "media": {
+            "driveFileId": "1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq",
+            "pdf": "1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7902_tif",
+      "driveId": "1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7902.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7902.tif",
+      "media": {
+            "driveFileId": "1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9",
+            "pdf": "1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7957_tif",
+      "driveId": "1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_varias",
+      "title": "_MG_7957.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_varias/_MG_7957.tif",
+      "media": {
+            "driveFileId": "1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU",
+            "pdf": "1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7904_tif",
+      "driveId": "1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7904.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7904.tif",
+      "media": {
+            "driveFileId": "1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx",
+            "pdf": "1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Ny0Ln5Nb5bRVWroZiKKLRgF8xTLukwgx&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7893_tif",
+      "driveId": "1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7893.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7893.tif",
+      "media": {
+            "driveFileId": "1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR",
+            "pdf": "1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-UtkYztYn0_3lif-OlZH_QZTnbI8khUR&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7879_tif",
+      "driveId": "1RIgLqLEMcL00MgIADOf973ml0ydUXO4g",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7879.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7879.tif",
+      "media": {
+            "driveFileId": "1RIgLqLEMcL00MgIADOf973ml0ydUXO4g",
+            "pdf": "1RIgLqLEMcL00MgIADOf973ml0ydUXO4g",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1RIgLqLEMcL00MgIADOf973ml0ydUXO4g&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7960_tif",
+      "driveId": "18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7960.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7960.tif",
+      "media": {
+            "driveFileId": "18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB",
+            "pdf": "18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18n6vJPh44nZR56Zdo4Jj1dmGsOXNo_GB&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7906_tif",
+      "driveId": "1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7906.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7906.tif",
+      "media": {
+            "driveFileId": "1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k",
+            "pdf": "1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1nPzCre0uCSEYs0e_ikvj5xXKWzICds-k&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7878_tif",
+      "driveId": "1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7878.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7878.tif",
+      "media": {
+            "driveFileId": "1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq",
+            "pdf": "1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TMqKlS2-Kr1rz_mXVUKlP00BfXVIjFNq&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7902_tif",
+      "driveId": "1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7902.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7902.tif",
+      "media": {
+            "driveFileId": "1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9",
+            "pdf": "1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1hADq3PU5MDEyPTCAIkkREUa889OQSGJ9&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_7957_tif",
+      "driveId": "1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Varias",
+      "title": "_MG_7957.tif",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Varias",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Varias/_MG_7957.tif",
+      "media": {
+            "driveFileId": "1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU",
+            "pdf": "1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1On2aBr5vx6mXCHcnQ-4SwHAt71-eYNXU&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-ARROZ_MELOSO_DE_POLLO_DE_CAMPO__ESPARDE_AS_Y_JUD_AS_VERDES_pdf",
+      "driveId": "143xYVSN5r3U0gwYiTKrgPZch-vpmzj16",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+      "title": "ARROZ MELOSO DE POLLO DE CAMPO, ESPARDEÑAS Y JUDÍAS VERDES.pdf",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_2012_Torrefiel_Paco_Morales/ARROZ MELOSO DE POLLO DE CAMPO, ESPARDEÑAS Y JUDÍAS VERDES.pdf",
+      "media": {
+            "driveFileId": "143xYVSN5r3U0gwYiTKrgPZch-vpmzj16",
+            "pdf": "143xYVSN5r3U0gwYiTKrgPZch-vpmzj16",
+            "thumbnail": "https://drive.google.com/thumbnail?id=143xYVSN5r3U0gwYiTKrgPZch-vpmzj16&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Plantilla_de_recetas_2011_docx",
+      "driveId": "1uLhJbLHrBMKy3lAVbLGWnWkhgJcwFNUl",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+      "title": "Plantilla de recetas 2011.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_2012_Torrefiel_Paco_Morales/Plantilla de recetas 2011.docx",
+      "media": {
+            "driveFileId": "1uLhJbLHrBMKy3lAVbLGWnWkhgJcwFNUl",
+            "pdf": "1uLhJbLHrBMKy3lAVbLGWnWkhgJcwFNUl",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1uLhJbLHrBMKy3lAVbLGWnWkhgJcwFNUl&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Plantilla_de_Recetas_doc",
+      "driveId": "18Xgq8qRyo_Ig3sIsUd85h4sY2KgSlmRX",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+      "title": "Plantilla de Recetas.doc",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_2012_Torrefiel_Paco_Morales/Plantilla de Recetas.doc",
+      "media": {
+            "driveFileId": "18Xgq8qRyo_Ig3sIsUd85h4sY2KgSlmRX",
+            "pdf": "18Xgq8qRyo_Ig3sIsUd85h4sY2KgSlmRX",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18Xgq8qRyo_Ig3sIsUd85h4sY2KgSlmRX&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-libro_Paco_TESCOMA_txt",
+      "driveId": "1FwZKFsDzhc5Bj789itlqDAyM7DHMljAk",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+      "title": "libro_Paco TESCOMA.txt",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_2012_Torrefiel_Paco_Morales/libro_Paco TESCOMA.txt",
+      "media": {
+            "driveFileId": "1FwZKFsDzhc5Bj789itlqDAyM7DHMljAk",
+            "pdf": "1FwZKFsDzhc5Bj789itlqDAyM7DHMljAk",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1FwZKFsDzhc5Bj789itlqDAyM7DHMljAk&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Ensalada_oto_al_pdf",
+      "driveId": "1VsraeKUSBjl798s39DMEDBI9elUHmStB",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+      "title": "Ensalada otoñal.pdf",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_2012_Torrefiel_Paco_Morales/Ensalada otoñal.pdf",
+      "media": {
+            "driveFileId": "1VsraeKUSBjl798s39DMEDBI9elUHmStB",
+            "pdf": "1VsraeKUSBjl798s39DMEDBI9elUHmStB",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VsraeKUSBjl798s39DMEDBI9elUHmStB&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Proporcines_texturas_docx",
+      "driveId": "1P3pXvldDQTVy76xBjEm1owXQqmrB-1B3",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+      "title": "Proporcines texturas.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Recetas_Varias_2012_Torrefiel_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Recetas_Varias_2012_Torrefiel_Paco_Morales/Proporcines texturas.docx",
+      "media": {
+            "driveFileId": "1P3pXvldDQTVy76xBjEm1owXQqmrB-1B3",
+            "pdf": "1P3pXvldDQTVy76xBjEm1owXQqmrB-1B3",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1P3pXvldDQTVy76xBjEm1owXQqmrB-1B3&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-A5_recetas_dvd_fra_F2_pdf",
+      "driveId": "1jBe8OR_FI6b_mTWZVqpFsy5r1HNN5pS_",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Albert_y_Ferrán_Adriá",
+      "title": "A5_recetas_dvd_fra_F2.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Albert_y_Ferrán_Adriá",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Albert_y_Ferrán_Adriá/A5_recetas_dvd_fra_F2.pdf",
+      "media": {
+            "driveFileId": "1jBe8OR_FI6b_mTWZVqpFsy5r1HNN5pS_",
+            "pdf": "1jBe8OR_FI6b_mTWZVqpFsy5r1HNN5pS_",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1jBe8OR_FI6b_mTWZVqpFsy5r1HNN5pS_&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-A5_recetas_dvd_esp_F2_pdf",
+      "driveId": "1mJ1tuDTrrAwWQfLbiIOkxYCKZZd-2cG7",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Albert_y_Ferrán_Adriá",
+      "title": "A5_recetas_dvd_esp_F2.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Albert_y_Ferrán_Adriá",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Albert_y_Ferrán_Adriá/A5_recetas_dvd_esp_F2.pdf",
+      "media": {
+            "driveFileId": "1mJ1tuDTrrAwWQfLbiIOkxYCKZZd-2cG7",
+            "pdf": "1mJ1tuDTrrAwWQfLbiIOkxYCKZZd-2cG7",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1mJ1tuDTrrAwWQfLbiIOkxYCKZZd-2cG7&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-A5_recetas_dvd_eng_F2_pdf",
+      "driveId": "1KmVfMKGI5fqc9COgIRGVJJoQJyMHvgnh",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Albert_y_Ferrán_Adriá",
+      "title": "A5_recetas_dvd_eng_F2.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Albert_y_Ferrán_Adriá",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Albert_y_Ferrán_Adriá/A5_recetas_dvd_eng_F2.pdf",
+      "media": {
+            "driveFileId": "1KmVfMKGI5fqc9COgIRGVJJoQJyMHvgnh",
+            "pdf": "1KmVfMKGI5fqc9COgIRGVJJoQJyMHvgnh",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KmVfMKGI5fqc9COgIRGVJJoQJyMHvgnh&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-A5_recetas_dvd_ita_F2_pdf",
+      "driveId": "1ya80s1kRbQvWL5-akJOVrtKV7_pMCID8",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_VID_Albert_y_Ferrán_Adriá",
+      "title": "A5_recetas_dvd_ita_F2.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_VID_Albert_y_Ferrán_Adriá",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_VID_Albert_y_Ferrán_Adriá/A5_recetas_dvd_ita_F2.pdf",
+      "media": {
+            "driveFileId": "1ya80s1kRbQvWL5-akJOVrtKV7_pMCID8",
+            "pdf": "1ya80s1kRbQvWL5-akJOVrtKV7_pMCID8",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ya80s1kRbQvWL5-akJOVrtKV7_pMCID8&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1114_jpg",
+      "driveId": "1G6XymlikT7zbdvZC_j85UkvNbbS62Sra",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1114.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1114.jpg",
+      "media": {
+            "driveFileId": "1G6XymlikT7zbdvZC_j85UkvNbbS62Sra",
+            "pdf": "1G6XymlikT7zbdvZC_j85UkvNbbS62Sra",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1G6XymlikT7zbdvZC_j85UkvNbbS62Sra&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1177_jpg",
+      "driveId": "1FsWOwE5wQeRFNkA95NRt7NToeJxBcVCx",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1177.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1177.jpg",
+      "media": {
+            "driveFileId": "1FsWOwE5wQeRFNkA95NRt7NToeJxBcVCx",
+            "pdf": "1FsWOwE5wQeRFNkA95NRt7NToeJxBcVCx",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1FsWOwE5wQeRFNkA95NRt7NToeJxBcVCx&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1110_jpg",
+      "driveId": "1kcNSULrplRTPdQ-tN6fQPRGzV21q222F",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1110.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1110.jpg",
+      "media": {
+            "driveFileId": "1kcNSULrplRTPdQ-tN6fQPRGzV21q222F",
+            "pdf": "1kcNSULrplRTPdQ-tN6fQPRGzV21q222F",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1kcNSULrplRTPdQ-tN6fQPRGzV21q222F&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1186_jpg",
+      "driveId": "13JXVJqXNNxDSvRSmTGNzpY346bn3kmgV",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1186.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1186.jpg",
+      "media": {
+            "driveFileId": "13JXVJqXNNxDSvRSmTGNzpY346bn3kmgV",
+            "pdf": "13JXVJqXNNxDSvRSmTGNzpY346bn3kmgV",
+            "thumbnail": "https://drive.google.com/thumbnail?id=13JXVJqXNNxDSvRSmTGNzpY346bn3kmgV&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1143_jpg",
+      "driveId": "1vjK8pHjrqJkZnMizzQCzll2gaK_NLcXc",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1143.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1143.jpg",
+      "media": {
+            "driveFileId": "1vjK8pHjrqJkZnMizzQCzll2gaK_NLcXc",
+            "pdf": "1vjK8pHjrqJkZnMizzQCzll2gaK_NLcXc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1vjK8pHjrqJkZnMizzQCzll2gaK_NLcXc&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1070_jpg",
+      "driveId": "1kmmY7-lfWg-Pgs5grdt2tCldAP3QFlvE",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1070.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1070.jpg",
+      "media": {
+            "driveFileId": "1kmmY7-lfWg-Pgs5grdt2tCldAP3QFlvE",
+            "pdf": "1kmmY7-lfWg-Pgs5grdt2tCldAP3QFlvE",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1kmmY7-lfWg-Pgs5grdt2tCldAP3QFlvE&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1131_jpg",
+      "driveId": "14FpKe-2XhJPi8UlRKO2dBBsAiSLtX_LW",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1131.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1131.jpg",
+      "media": {
+            "driveFileId": "14FpKe-2XhJPi8UlRKO2dBBsAiSLtX_LW",
+            "pdf": "14FpKe-2XhJPi8UlRKO2dBBsAiSLtX_LW",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14FpKe-2XhJPi8UlRKO2dBBsAiSLtX_LW&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1149_jpg",
+      "driveId": "1L2b5HVTDWxX0qn_vnbaivejPZMHjsMr0",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1149.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1149.jpg",
+      "media": {
+            "driveFileId": "1L2b5HVTDWxX0qn_vnbaivejPZMHjsMr0",
+            "pdf": "1L2b5HVTDWxX0qn_vnbaivejPZMHjsMr0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1L2b5HVTDWxX0qn_vnbaivejPZMHjsMr0&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1185_jpg",
+      "driveId": "1ibx8mvYqIT3tVE4oxmZdPDk03InZI6x_",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1185.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1185.jpg",
+      "media": {
+            "driveFileId": "1ibx8mvYqIT3tVE4oxmZdPDk03InZI6x_",
+            "pdf": "1ibx8mvYqIT3tVE4oxmZdPDk03InZI6x_",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ibx8mvYqIT3tVE4oxmZdPDk03InZI6x_&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1130_jpg",
+      "driveId": "1IPtn2wkEatJLjQeDZMr50MhsugznjZYz",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1130.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1130.jpg",
+      "media": {
+            "driveFileId": "1IPtn2wkEatJLjQeDZMr50MhsugznjZYz",
+            "pdf": "1IPtn2wkEatJLjQeDZMr50MhsugznjZYz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IPtn2wkEatJLjQeDZMr50MhsugznjZYz&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1136_jpg",
+      "driveId": "1LJ4IsDGc9kh6AMxbduTEhyBzIP4BNib0",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1136.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1136.jpg",
+      "media": {
+            "driveFileId": "1LJ4IsDGc9kh6AMxbduTEhyBzIP4BNib0",
+            "pdf": "1LJ4IsDGc9kh6AMxbduTEhyBzIP4BNib0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1LJ4IsDGc9kh6AMxbduTEhyBzIP4BNib0&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1112_jpg",
+      "driveId": "1RBdYFp1xZ02frtH9z25nh_KM8IMaK8wb",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1112.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1112.jpg",
+      "media": {
+            "driveFileId": "1RBdYFp1xZ02frtH9z25nh_KM8IMaK8wb",
+            "pdf": "1RBdYFp1xZ02frtH9z25nh_KM8IMaK8wb",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1RBdYFp1xZ02frtH9z25nh_KM8IMaK8wb&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1107_jpg",
+      "driveId": "1sDOEUpGq1vG68Dr0yNAvjKj-onxggF4g",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1107.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1107.jpg",
+      "media": {
+            "driveFileId": "1sDOEUpGq1vG68Dr0yNAvjKj-onxggF4g",
+            "pdf": "1sDOEUpGq1vG68Dr0yNAvjKj-onxggF4g",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1sDOEUpGq1vG68Dr0yNAvjKj-onxggF4g&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1129_jpg",
+      "driveId": "15YrBnrAzFYLEnYAQz3gR3MFz9FkFLPSu",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1129.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1129.jpg",
+      "media": {
+            "driveFileId": "15YrBnrAzFYLEnYAQz3gR3MFz9FkFLPSu",
+            "pdf": "15YrBnrAzFYLEnYAQz3gR3MFz9FkFLPSu",
+            "thumbnail": "https://drive.google.com/thumbnail?id=15YrBnrAzFYLEnYAQz3gR3MFz9FkFLPSu&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1133_jpg",
+      "driveId": "1IZNPQ_w8k0q_5IWkWsWYp6hobfUM5dSm",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1133.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1133.jpg",
+      "media": {
+            "driveFileId": "1IZNPQ_w8k0q_5IWkWsWYp6hobfUM5dSm",
+            "pdf": "1IZNPQ_w8k0q_5IWkWsWYp6hobfUM5dSm",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IZNPQ_w8k0q_5IWkWsWYp6hobfUM5dSm&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1169_jpg",
+      "driveId": "1VSaTgyc609uDbv2kau61A1jy-uW6jQJv",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1169.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1169.jpg",
+      "media": {
+            "driveFileId": "1VSaTgyc609uDbv2kau61A1jy-uW6jQJv",
+            "pdf": "1VSaTgyc609uDbv2kau61A1jy-uW6jQJv",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VSaTgyc609uDbv2kau61A1jy-uW6jQJv&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1071_jpg",
+      "driveId": "16UXZAzA_gsSa6SvDAOhYPi5CfbNYejy8",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1071.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1071.jpg",
+      "media": {
+            "driveFileId": "16UXZAzA_gsSa6SvDAOhYPi5CfbNYejy8",
+            "pdf": "16UXZAzA_gsSa6SvDAOhYPi5CfbNYejy8",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16UXZAzA_gsSa6SvDAOhYPi5CfbNYejy8&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1198_jpg",
+      "driveId": "1xjvwO7JCFzftdPtzludKOWRj8PCi80Kt",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1198.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1198.jpg",
+      "media": {
+            "driveFileId": "1xjvwO7JCFzftdPtzludKOWRj8PCi80Kt",
+            "pdf": "1xjvwO7JCFzftdPtzludKOWRj8PCi80Kt",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1xjvwO7JCFzftdPtzludKOWRj8PCi80Kt&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1170_jpg",
+      "driveId": "1mGCH6yWqbmvHfxwdQ6IaX2i32Erl2dvu",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1170.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1170.jpg",
+      "media": {
+            "driveFileId": "1mGCH6yWqbmvHfxwdQ6IaX2i32Erl2dvu",
+            "pdf": "1mGCH6yWqbmvHfxwdQ6IaX2i32Erl2dvu",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1mGCH6yWqbmvHfxwdQ6IaX2i32Erl2dvu&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1172_jpg",
+      "driveId": "1YiB7-w7M9EbDl71qBVGeHd7SVbek8BGr",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1172.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1172.jpg",
+      "media": {
+            "driveFileId": "1YiB7-w7M9EbDl71qBVGeHd7SVbek8BGr",
+            "pdf": "1YiB7-w7M9EbDl71qBVGeHd7SVbek8BGr",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YiB7-w7M9EbDl71qBVGeHd7SVbek8BGr&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1168_jpg",
+      "driveId": "121xktQsGku0p64DjDfLMYocukBnu0SEQ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1168.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1168.jpg",
+      "media": {
+            "driveFileId": "121xktQsGku0p64DjDfLMYocukBnu0SEQ",
+            "pdf": "121xktQsGku0p64DjDfLMYocukBnu0SEQ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=121xktQsGku0p64DjDfLMYocukBnu0SEQ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1161_jpg",
+      "driveId": "1HFsRCKwVhyUIVKvM2RnJtd_u6IJOraCI",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1161.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1161.jpg",
+      "media": {
+            "driveFileId": "1HFsRCKwVhyUIVKvM2RnJtd_u6IJOraCI",
+            "pdf": "1HFsRCKwVhyUIVKvM2RnJtd_u6IJOraCI",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1HFsRCKwVhyUIVKvM2RnJtd_u6IJOraCI&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1087_jpg",
+      "driveId": "1iM1M7MJ8i8KKuJG0kqBZ2pShVG4e_CL4",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1087.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1087.jpg",
+      "media": {
+            "driveFileId": "1iM1M7MJ8i8KKuJG0kqBZ2pShVG4e_CL4",
+            "pdf": "1iM1M7MJ8i8KKuJG0kqBZ2pShVG4e_CL4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1iM1M7MJ8i8KKuJG0kqBZ2pShVG4e_CL4&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1178_jpg",
+      "driveId": "12nX5oYjgoyW9-HzZHUHLq_X6Ly9oDB6G",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1178.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1178.jpg",
+      "media": {
+            "driveFileId": "12nX5oYjgoyW9-HzZHUHLq_X6Ly9oDB6G",
+            "pdf": "12nX5oYjgoyW9-HzZHUHLq_X6Ly9oDB6G",
+            "thumbnail": "https://drive.google.com/thumbnail?id=12nX5oYjgoyW9-HzZHUHLq_X6Ly9oDB6G&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1159_jpg",
+      "driveId": "1UuVc5lJkb376sXl2XgUexaZBGk6EJOpl",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1159.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1159.jpg",
+      "media": {
+            "driveFileId": "1UuVc5lJkb376sXl2XgUexaZBGk6EJOpl",
+            "pdf": "1UuVc5lJkb376sXl2XgUexaZBGk6EJOpl",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1UuVc5lJkb376sXl2XgUexaZBGk6EJOpl&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1166_jpg",
+      "driveId": "1Zo-KP24Z7XLKO8lTWNO2NRNYkN5oyIpE",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1166.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1166.jpg",
+      "media": {
+            "driveFileId": "1Zo-KP24Z7XLKO8lTWNO2NRNYkN5oyIpE",
+            "pdf": "1Zo-KP24Z7XLKO8lTWNO2NRNYkN5oyIpE",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Zo-KP24Z7XLKO8lTWNO2NRNYkN5oyIpE&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1082_jpg",
+      "driveId": "1718OsfP3F_QF2kNqIdVLv2d2ppIW62d8",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1082.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1082.jpg",
+      "media": {
+            "driveFileId": "1718OsfP3F_QF2kNqIdVLv2d2ppIW62d8",
+            "pdf": "1718OsfP3F_QF2kNqIdVLv2d2ppIW62d8",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1718OsfP3F_QF2kNqIdVLv2d2ppIW62d8&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1134_jpg",
+      "driveId": "1qVvkMRuahH60nwVXWcYzVjUCau12H447",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1134.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1134.jpg",
+      "media": {
+            "driveFileId": "1qVvkMRuahH60nwVXWcYzVjUCau12H447",
+            "pdf": "1qVvkMRuahH60nwVXWcYzVjUCau12H447",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1qVvkMRuahH60nwVXWcYzVjUCau12H447&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1180_jpg",
+      "driveId": "1gSq7RlotSp7MV6MFK_AcePHkf8w0wcVD",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1180.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1180.jpg",
+      "media": {
+            "driveFileId": "1gSq7RlotSp7MV6MFK_AcePHkf8w0wcVD",
+            "pdf": "1gSq7RlotSp7MV6MFK_AcePHkf8w0wcVD",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1gSq7RlotSp7MV6MFK_AcePHkf8w0wcVD&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1076_jpg",
+      "driveId": "1q9B-BVWkQqhfZ0vhKGAjnnuDjSfnuN_-",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1076.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1076.jpg",
+      "media": {
+            "driveFileId": "1q9B-BVWkQqhfZ0vhKGAjnnuDjSfnuN_-",
+            "pdf": "1q9B-BVWkQqhfZ0vhKGAjnnuDjSfnuN_-",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1q9B-BVWkQqhfZ0vhKGAjnnuDjSfnuN_-&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1125_jpg",
+      "driveId": "1UohaduOhEEs0Nso9zYX2sjC49xEr2I-D",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1125.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1125.jpg",
+      "media": {
+            "driveFileId": "1UohaduOhEEs0Nso9zYX2sjC49xEr2I-D",
+            "pdf": "1UohaduOhEEs0Nso9zYX2sjC49xEr2I-D",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1UohaduOhEEs0Nso9zYX2sjC49xEr2I-D&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1173_jpg",
+      "driveId": "1sMy9SP-jL8HgJm9axzjlp0kMRoqV_R3A",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1173.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1173.jpg",
+      "media": {
+            "driveFileId": "1sMy9SP-jL8HgJm9axzjlp0kMRoqV_R3A",
+            "pdf": "1sMy9SP-jL8HgJm9axzjlp0kMRoqV_R3A",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1sMy9SP-jL8HgJm9axzjlp0kMRoqV_R3A&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1151_jpg",
+      "driveId": "11VTUqk9sTEpcSjg22wgfUF9Kmg95TACJ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1151.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1151.jpg",
+      "media": {
+            "driveFileId": "11VTUqk9sTEpcSjg22wgfUF9Kmg95TACJ",
+            "pdf": "11VTUqk9sTEpcSjg22wgfUF9Kmg95TACJ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=11VTUqk9sTEpcSjg22wgfUF9Kmg95TACJ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1108_jpg",
+      "driveId": "1g7qsS2fmqZU6VbfZ9Qt_or88rHxA5Z_f",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1108.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1108.jpg",
+      "media": {
+            "driveFileId": "1g7qsS2fmqZU6VbfZ9Qt_or88rHxA5Z_f",
+            "pdf": "1g7qsS2fmqZU6VbfZ9Qt_or88rHxA5Z_f",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1g7qsS2fmqZU6VbfZ9Qt_or88rHxA5Z_f&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1150_jpg",
+      "driveId": "11y8rRzcPR9N4N7_orddWqPZ4isV5vrJc",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1150.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1150.jpg",
+      "media": {
+            "driveFileId": "11y8rRzcPR9N4N7_orddWqPZ4isV5vrJc",
+            "pdf": "11y8rRzcPR9N4N7_orddWqPZ4isV5vrJc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=11y8rRzcPR9N4N7_orddWqPZ4isV5vrJc&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-_MG_1152_jpg",
+      "driveId": "16gJOUbsGZnvrG6egPHb49lRG7m0hlOBX",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Hotel_Ferrero",
+      "title": "_MG_1152.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Hotel_Ferrero",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Hotel_Ferrero/_MG_1152.jpg",
+      "media": {
+            "driveFileId": "16gJOUbsGZnvrG6egPHb49lRG7m0hlOBX",
+            "pdf": "16gJOUbsGZnvrG6egPHb49lRG7m0hlOBX",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16gJOUbsGZnvrG6egPHb49lRG7m0hlOBX&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000122_jpg",
+      "driveId": "1_5nf2mMCx8NDbVV4LZYPMLp6_3zvIQV5",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000122.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000122.jpg",
+      "media": {
+            "driveFileId": "1_5nf2mMCx8NDbVV4LZYPMLp6_3zvIQV5",
+            "pdf": "1_5nf2mMCx8NDbVV4LZYPMLp6_3zvIQV5",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1_5nf2mMCx8NDbVV4LZYPMLp6_3zvIQV5&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000139_jpg",
+      "driveId": "1YeVePMK2j24gRuyC1EXIF-YOSJEVXPjL",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000139.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000139.jpg",
+      "media": {
+            "driveFileId": "1YeVePMK2j24gRuyC1EXIF-YOSJEVXPjL",
+            "pdf": "1YeVePMK2j24gRuyC1EXIF-YOSJEVXPjL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YeVePMK2j24gRuyC1EXIF-YOSJEVXPjL&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000125_jpg",
+      "driveId": "1ibLzC3FCDwJrBcPoKx3HDtMa6Y24xiub",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000125.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000125.jpg",
+      "media": {
+            "driveFileId": "1ibLzC3FCDwJrBcPoKx3HDtMa6Y24xiub",
+            "pdf": "1ibLzC3FCDwJrBcPoKx3HDtMa6Y24xiub",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ibLzC3FCDwJrBcPoKx3HDtMa6Y24xiub&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000119_jpg",
+      "driveId": "1u3X9_9YHi0f9gTR5OUxdSpOTv-eklsMR",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000119.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000119.jpg",
+      "media": {
+            "driveFileId": "1u3X9_9YHi0f9gTR5OUxdSpOTv-eklsMR",
+            "pdf": "1u3X9_9YHi0f9gTR5OUxdSpOTv-eklsMR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1u3X9_9YHi0f9gTR5OUxdSpOTv-eklsMR&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000120_jpg",
+      "driveId": "1BUxPxKLeDeNxK1USLCVcCNyVnKw_nGO4",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000120.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000120.jpg",
+      "media": {
+            "driveFileId": "1BUxPxKLeDeNxK1USLCVcCNyVnKw_nGO4",
+            "pdf": "1BUxPxKLeDeNxK1USLCVcCNyVnKw_nGO4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1BUxPxKLeDeNxK1USLCVcCNyVnKw_nGO4&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000101_jpg",
+      "driveId": "1P4jhD0rhAZbM1RlgLZUrCMV3310oenRz",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000101.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000101.jpg",
+      "media": {
+            "driveFileId": "1P4jhD0rhAZbM1RlgLZUrCMV3310oenRz",
+            "pdf": "1P4jhD0rhAZbM1RlgLZUrCMV3310oenRz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1P4jhD0rhAZbM1RlgLZUrCMV3310oenRz&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000130_jpg",
+      "driveId": "1pNGjPQd9jbPUxNMNN1krNXoMZgEow9dk",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000130.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000130.jpg",
+      "media": {
+            "driveFileId": "1pNGjPQd9jbPUxNMNN1krNXoMZgEow9dk",
+            "pdf": "1pNGjPQd9jbPUxNMNN1krNXoMZgEow9dk",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1pNGjPQd9jbPUxNMNN1krNXoMZgEow9dk&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000127_jpg",
+      "driveId": "1bF0k-5drxOfz4Ukz1C6WUdVATEFTaO55",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000127.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000127.jpg",
+      "media": {
+            "driveFileId": "1bF0k-5drxOfz4Ukz1C6WUdVATEFTaO55",
+            "pdf": "1bF0k-5drxOfz4Ukz1C6WUdVATEFTaO55",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1bF0k-5drxOfz4Ukz1C6WUdVATEFTaO55&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000118_jpg",
+      "driveId": "17a21g7HfaAgNMOa4Sfj2pExyB9HqyUqy",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000118.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000118.jpg",
+      "media": {
+            "driveFileId": "17a21g7HfaAgNMOa4Sfj2pExyB9HqyUqy",
+            "pdf": "17a21g7HfaAgNMOa4Sfj2pExyB9HqyUqy",
+            "thumbnail": "https://drive.google.com/thumbnail?id=17a21g7HfaAgNMOa4Sfj2pExyB9HqyUqy&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000095_jpg",
+      "driveId": "1aoj82-r93DDArQQiK0fIH8khihIcPFUI",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000095.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000095.jpg",
+      "media": {
+            "driveFileId": "1aoj82-r93DDArQQiK0fIH8khihIcPFUI",
+            "pdf": "1aoj82-r93DDArQQiK0fIH8khihIcPFUI",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1aoj82-r93DDArQQiK0fIH8khihIcPFUI&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000132_jpg",
+      "driveId": "1eLNCB--ozx-9ZlqP3V-cXuCOPa4spdTA",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000132.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000132.jpg",
+      "media": {
+            "driveFileId": "1eLNCB--ozx-9ZlqP3V-cXuCOPa4spdTA",
+            "pdf": "1eLNCB--ozx-9ZlqP3V-cXuCOPa4spdTA",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1eLNCB--ozx-9ZlqP3V-cXuCOPa4spdTA&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000113_jpg",
+      "driveId": "11-5jUXESu7gGQQZJ_3ykk68vMpPSJM54",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000113.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000113.jpg",
+      "media": {
+            "driveFileId": "11-5jUXESu7gGQQZJ_3ykk68vMpPSJM54",
+            "pdf": "11-5jUXESu7gGQQZJ_3ykk68vMpPSJM54",
+            "thumbnail": "https://drive.google.com/thumbnail?id=11-5jUXESu7gGQQZJ_3ykk68vMpPSJM54&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000110_jpg",
+      "driveId": "1mWCqT7nQpmK0ZFFRimsXvKkEWrqC_Sm9",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000110.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000110.jpg",
+      "media": {
+            "driveFileId": "1mWCqT7nQpmK0ZFFRimsXvKkEWrqC_Sm9",
+            "pdf": "1mWCqT7nQpmK0ZFFRimsXvKkEWrqC_Sm9",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1mWCqT7nQpmK0ZFFRimsXvKkEWrqC_Sm9&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000103_jpg",
+      "driveId": "1a-3awPqRxHzOhz2sUZzMGnDOM5ZaPRDu",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000103.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000103.jpg",
+      "media": {
+            "driveFileId": "1a-3awPqRxHzOhz2sUZzMGnDOM5ZaPRDu",
+            "pdf": "1a-3awPqRxHzOhz2sUZzMGnDOM5ZaPRDu",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1a-3awPqRxHzOhz2sUZzMGnDOM5ZaPRDu&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000131_jpg",
+      "driveId": "1-iAj4wkhFAqi8Ak6U5Dnv14L-63MaF1y",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000131.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000131.jpg",
+      "media": {
+            "driveFileId": "1-iAj4wkhFAqi8Ak6U5Dnv14L-63MaF1y",
+            "pdf": "1-iAj4wkhFAqi8Ak6U5Dnv14L-63MaF1y",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-iAj4wkhFAqi8Ak6U5Dnv14L-63MaF1y&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000117_jpg",
+      "driveId": "1d7XuEBOqphaPbtbN9wL-FKVvIAxlRm-D",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000117.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000117.jpg",
+      "media": {
+            "driveFileId": "1d7XuEBOqphaPbtbN9wL-FKVvIAxlRm-D",
+            "pdf": "1d7XuEBOqphaPbtbN9wL-FKVvIAxlRm-D",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1d7XuEBOqphaPbtbN9wL-FKVvIAxlRm-D&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000094_jpg",
+      "driveId": "1pgZJdhfp_SqXJL9-RVqqBJa_kBXIRspz",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000094.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000094.jpg",
+      "media": {
+            "driveFileId": "1pgZJdhfp_SqXJL9-RVqqBJa_kBXIRspz",
+            "pdf": "1pgZJdhfp_SqXJL9-RVqqBJa_kBXIRspz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1pgZJdhfp_SqXJL9-RVqqBJa_kBXIRspz&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000123_jpg",
+      "driveId": "1EZqWBdJbbpXkcQ_NEf1fH5Ad1Vxg3x-b",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000123.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000123.jpg",
+      "media": {
+            "driveFileId": "1EZqWBdJbbpXkcQ_NEf1fH5Ad1Vxg3x-b",
+            "pdf": "1EZqWBdJbbpXkcQ_NEf1fH5Ad1Vxg3x-b",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1EZqWBdJbbpXkcQ_NEf1fH5Ad1Vxg3x-b&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000126_jpg",
+      "driveId": "1VYsmLlJbYIad-yH7QNLFGc1hOOadzh5q",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000126.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000126.jpg",
+      "media": {
+            "driveFileId": "1VYsmLlJbYIad-yH7QNLFGc1hOOadzh5q",
+            "pdf": "1VYsmLlJbYIad-yH7QNLFGc1hOOadzh5q",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VYsmLlJbYIad-yH7QNLFGc1hOOadzh5q&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000133_jpg",
+      "driveId": "10q8hAzi91BQCBs5gZhLxcHpEQT24Hzi1",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000133.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000133.jpg",
+      "media": {
+            "driveFileId": "10q8hAzi91BQCBs5gZhLxcHpEQT24Hzi1",
+            "pdf": "10q8hAzi91BQCBs5gZhLxcHpEQT24Hzi1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=10q8hAzi91BQCBs5gZhLxcHpEQT24Hzi1&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000140_jpg",
+      "driveId": "1DdD5iBEXuIUZNlkoMpZI6QKhsMTOUM7M",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000140.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000140.jpg",
+      "media": {
+            "driveFileId": "1DdD5iBEXuIUZNlkoMpZI6QKhsMTOUM7M",
+            "pdf": "1DdD5iBEXuIUZNlkoMpZI6QKhsMTOUM7M",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1DdD5iBEXuIUZNlkoMpZI6QKhsMTOUM7M&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000107_jpg",
+      "driveId": "1yHvwrpzx9kJm6ErdVp3c-WOicRGr-ZCK",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000107.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000107.jpg",
+      "media": {
+            "driveFileId": "1yHvwrpzx9kJm6ErdVp3c-WOicRGr-ZCK",
+            "pdf": "1yHvwrpzx9kJm6ErdVp3c-WOicRGr-ZCK",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1yHvwrpzx9kJm6ErdVp3c-WOicRGr-ZCK&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000116_jpg",
+      "driveId": "1-bdKtLMTdVeOgE3MzCbt9sSQosPQ9zSN",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000116.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000116.jpg",
+      "media": {
+            "driveFileId": "1-bdKtLMTdVeOgE3MzCbt9sSQosPQ9zSN",
+            "pdf": "1-bdKtLMTdVeOgE3MzCbt9sSQosPQ9zSN",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-bdKtLMTdVeOgE3MzCbt9sSQosPQ9zSN&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000091_jpg",
+      "driveId": "12pcDjI1KRrfISaYuneDUc0BkYyJuDVPI",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000091.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000091.jpg",
+      "media": {
+            "driveFileId": "12pcDjI1KRrfISaYuneDUc0BkYyJuDVPI",
+            "pdf": "12pcDjI1KRrfISaYuneDUc0BkYyJuDVPI",
+            "thumbnail": "https://drive.google.com/thumbnail?id=12pcDjI1KRrfISaYuneDUc0BkYyJuDVPI&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000138_jpg",
+      "driveId": "1WX3mf5zP4HgrM3cChj6Oiepp7CxAQmf6",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000138.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000138.jpg",
+      "media": {
+            "driveFileId": "1WX3mf5zP4HgrM3cChj6Oiepp7CxAQmf6",
+            "pdf": "1WX3mf5zP4HgrM3cChj6Oiepp7CxAQmf6",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1WX3mf5zP4HgrM3cChj6Oiepp7CxAQmf6&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000112_jpg",
+      "driveId": "1sr5TH7oLPDvwDrztpfs51kCebHvBgdBZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000112.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000112.jpg",
+      "media": {
+            "driveFileId": "1sr5TH7oLPDvwDrztpfs51kCebHvBgdBZ",
+            "pdf": "1sr5TH7oLPDvwDrztpfs51kCebHvBgdBZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1sr5TH7oLPDvwDrztpfs51kCebHvBgdBZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000105_jpg",
+      "driveId": "1Pz5TIGwcuVYL2xmmZQZVY2mcelQ7SoXi",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000105.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000105.jpg",
+      "media": {
+            "driveFileId": "1Pz5TIGwcuVYL2xmmZQZVY2mcelQ7SoXi",
+            "pdf": "1Pz5TIGwcuVYL2xmmZQZVY2mcelQ7SoXi",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Pz5TIGwcuVYL2xmmZQZVY2mcelQ7SoXi&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000111_jpg",
+      "driveId": "17SRTzhDOw7mK6OD9UTbkTgJbm5ezP9QA",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000111.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000111.jpg",
+      "media": {
+            "driveFileId": "17SRTzhDOw7mK6OD9UTbkTgJbm5ezP9QA",
+            "pdf": "17SRTzhDOw7mK6OD9UTbkTgJbm5ezP9QA",
+            "thumbnail": "https://drive.google.com/thumbnail?id=17SRTzhDOw7mK6OD9UTbkTgJbm5ezP9QA&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000102_jpg",
+      "driveId": "16uhp42njO_8nZ9rb14JqJdcZt2-N66WR",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000102.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000102.jpg",
+      "media": {
+            "driveFileId": "16uhp42njO_8nZ9rb14JqJdcZt2-N66WR",
+            "pdf": "16uhp42njO_8nZ9rb14JqJdcZt2-N66WR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16uhp42njO_8nZ9rb14JqJdcZt2-N66WR&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000051_jpg",
+      "driveId": "1dNYTEDYZHvl1xkYvdDcN-xk8Qcymj_wn",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000051.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000051.jpg",
+      "media": {
+            "driveFileId": "1dNYTEDYZHvl1xkYvdDcN-xk8Qcymj_wn",
+            "pdf": "1dNYTEDYZHvl1xkYvdDcN-xk8Qcymj_wn",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1dNYTEDYZHvl1xkYvdDcN-xk8Qcymj_wn&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000136_jpg",
+      "driveId": "14bdcEmngcwiKK4KkolAedaBIJBF5eDiS",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000136.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000136.jpg",
+      "media": {
+            "driveFileId": "14bdcEmngcwiKK4KkolAedaBIJBF5eDiS",
+            "pdf": "14bdcEmngcwiKK4KkolAedaBIJBF5eDiS",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14bdcEmngcwiKK4KkolAedaBIJBF5eDiS&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000093_jpg",
+      "driveId": "1NpPWlBBmpPa4S5DsvE0vSXZfPdbX6ri5",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000093.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000093.jpg",
+      "media": {
+            "driveFileId": "1NpPWlBBmpPa4S5DsvE0vSXZfPdbX6ri5",
+            "pdf": "1NpPWlBBmpPa4S5DsvE0vSXZfPdbX6ri5",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1NpPWlBBmpPa4S5DsvE0vSXZfPdbX6ri5&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000114_jpg",
+      "driveId": "1TvUQ2RWXXyKHvmyBwBG8KHLhN-4lFT1A",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000114.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000114.jpg",
+      "media": {
+            "driveFileId": "1TvUQ2RWXXyKHvmyBwBG8KHLhN-4lFT1A",
+            "pdf": "1TvUQ2RWXXyKHvmyBwBG8KHLhN-4lFT1A",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TvUQ2RWXXyKHvmyBwBG8KHLhN-4lFT1A&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000090_jpg",
+      "driveId": "1uiWtcTypJivmixBjGGmKcl2_Ue0OC1Bp",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000090.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000090.jpg",
+      "media": {
+            "driveFileId": "1uiWtcTypJivmixBjGGmKcl2_Ue0OC1Bp",
+            "pdf": "1uiWtcTypJivmixBjGGmKcl2_Ue0OC1Bp",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1uiWtcTypJivmixBjGGmKcl2_Ue0OC1Bp&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000092_jpg",
+      "driveId": "1neCkHXfKmvJ_zoy7OpoXGkDbhIgDKy2O",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000092.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000092.jpg",
+      "media": {
+            "driveFileId": "1neCkHXfKmvJ_zoy7OpoXGkDbhIgDKy2O",
+            "pdf": "1neCkHXfKmvJ_zoy7OpoXGkDbhIgDKy2O",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1neCkHXfKmvJ_zoy7OpoXGkDbhIgDKy2O&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000106_jpg",
+      "driveId": "1zQ90vV9dkZlDlt0eYQs9gdWt7jxSeJJL",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000106.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000106.jpg",
+      "media": {
+            "driveFileId": "1zQ90vV9dkZlDlt0eYQs9gdWt7jxSeJJL",
+            "pdf": "1zQ90vV9dkZlDlt0eYQs9gdWt7jxSeJJL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1zQ90vV9dkZlDlt0eYQs9gdWt7jxSeJJL&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000128_jpg",
+      "driveId": "1T3aPXTwOYf28-U4YxBz_Dsfx2TS8exRT",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000128.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000128.jpg",
+      "media": {
+            "driveFileId": "1T3aPXTwOYf28-U4YxBz_Dsfx2TS8exRT",
+            "pdf": "1T3aPXTwOYf28-U4YxBz_Dsfx2TS8exRT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1T3aPXTwOYf28-U4YxBz_Dsfx2TS8exRT&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000104_jpg",
+      "driveId": "1yufBNIVPAVSw-4RkYpxJJPldFPnowto4",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000104.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000104.jpg",
+      "media": {
+            "driveFileId": "1yufBNIVPAVSw-4RkYpxJJPldFPnowto4",
+            "pdf": "1yufBNIVPAVSw-4RkYpxJJPldFPnowto4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1yufBNIVPAVSw-4RkYpxJJPldFPnowto4&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000099_jpg",
+      "driveId": "1IQeYwjQX9-SMfn5pz4g2IwZ1jR9IDakw",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000099.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000099.jpg",
+      "media": {
+            "driveFileId": "1IQeYwjQX9-SMfn5pz4g2IwZ1jR9IDakw",
+            "pdf": "1IQeYwjQX9-SMfn5pz4g2IwZ1jR9IDakw",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IQeYwjQX9-SMfn5pz4g2IwZ1jR9IDakw&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000109_jpg",
+      "driveId": "1JcuSxWbFlCith7vT8IGDe5_GJdcTfv1L",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000109.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000109.jpg",
+      "media": {
+            "driveFileId": "1JcuSxWbFlCith7vT8IGDe5_GJdcTfv1L",
+            "pdf": "1JcuSxWbFlCith7vT8IGDe5_GJdcTfv1L",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1JcuSxWbFlCith7vT8IGDe5_GJdcTfv1L&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000143_jpg",
+      "driveId": "16d310HJKpUhaeV1EV8uwn-I5iUxb9S6s",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000143.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000143.jpg",
+      "media": {
+            "driveFileId": "16d310HJKpUhaeV1EV8uwn-I5iUxb9S6s",
+            "pdf": "16d310HJKpUhaeV1EV8uwn-I5iUxb9S6s",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16d310HJKpUhaeV1EV8uwn-I5iUxb9S6s&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000121_jpg",
+      "driveId": "1WULE2bcnM6MTiWwjvT-24HSPGY0D7Z3-",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000121.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000121.jpg",
+      "media": {
+            "driveFileId": "1WULE2bcnM6MTiWwjvT-24HSPGY0D7Z3-",
+            "pdf": "1WULE2bcnM6MTiWwjvT-24HSPGY0D7Z3-",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1WULE2bcnM6MTiWwjvT-24HSPGY0D7Z3-&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000050_jpg",
+      "driveId": "1M1OhjrN8nRW8ErinOO5VuKSfVsGbDaEd",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000050.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000050.jpg",
+      "media": {
+            "driveFileId": "1M1OhjrN8nRW8ErinOO5VuKSfVsGbDaEd",
+            "pdf": "1M1OhjrN8nRW8ErinOO5VuKSfVsGbDaEd",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1M1OhjrN8nRW8ErinOO5VuKSfVsGbDaEd&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000087_jpg",
+      "driveId": "1okPUEFYTX3NG_Qyy6WEgVWi6dXwnX1B4",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000087.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000087.jpg",
+      "media": {
+            "driveFileId": "1okPUEFYTX3NG_Qyy6WEgVWi6dXwnX1B4",
+            "pdf": "1okPUEFYTX3NG_Qyy6WEgVWi6dXwnX1B4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1okPUEFYTX3NG_Qyy6WEgVWi6dXwnX1B4&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000100_jpg",
+      "driveId": "199kyOSQn_eD94sZORKgjWifYowgtRabT",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000100.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000100.jpg",
+      "media": {
+            "driveFileId": "199kyOSQn_eD94sZORKgjWifYowgtRabT",
+            "pdf": "199kyOSQn_eD94sZORKgjWifYowgtRabT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=199kyOSQn_eD94sZORKgjWifYowgtRabT&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000098_jpg",
+      "driveId": "1iiiEmgxLTeFgroTXzEXEOC37jUehGQQC",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000098.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000098.jpg",
+      "media": {
+            "driveFileId": "1iiiEmgxLTeFgroTXzEXEOC37jUehGQQC",
+            "pdf": "1iiiEmgxLTeFgroTXzEXEOC37jUehGQQC",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1iiiEmgxLTeFgroTXzEXEOC37jUehGQQC&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000129_jpg",
+      "driveId": "19TX6yYbFcTZ02aXa7SYhQ5OFUDYITmd6",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000129.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000129.jpg",
+      "media": {
+            "driveFileId": "19TX6yYbFcTZ02aXa7SYhQ5OFUDYITmd6",
+            "pdf": "19TX6yYbFcTZ02aXa7SYhQ5OFUDYITmd6",
+            "thumbnail": "https://drive.google.com/thumbnail?id=19TX6yYbFcTZ02aXa7SYhQ5OFUDYITmd6&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-file000135_jpg",
+      "driveId": "1myOM_YLtHnB9d4fpHjEb5uDYR93TzDui",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Imagenes_Servicio",
+      "title": "file000135.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Imagenes_Servicio",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Imagenes_Servicio/file000135.jpg",
+      "media": {
+            "driveFileId": "1myOM_YLtHnB9d4fpHjEb5uDYR93TzDui",
+            "pdf": "1myOM_YLtHnB9d4fpHjEb5uDYR93TzDui",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1myOM_YLtHnB9d4fpHjEb5uDYR93TzDui&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-HIERBAS_EN_PLATOS_xlsx",
+      "driveId": "1ZL-9NgjLo-O_aqPvAP-K9NxmIxM1Y1Pr",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Escandallos_Hierbas_2012_Paco_Morales",
+      "title": "HIERBAS EN PLATOS.xlsx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Escandallos_Hierbas_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Escandallos_Hierbas_2012_Paco_Morales/HIERBAS EN PLATOS.xlsx",
+      "media": {
+            "driveFileId": "1ZL-9NgjLo-O_aqPvAP-K9NxmIxM1Y1Pr",
+            "pdf": "1ZL-9NgjLo-O_aqPvAP-K9NxmIxM1Y1Pr",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ZL-9NgjLo-O_aqPvAP-K9NxmIxM1Y1Pr&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Hoja_Proveedores_xlsx",
+      "driveId": "15JXtzGx3z0yV295vzAG5iSZCSsmKkmPs",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Escandallos_Hierbas_2012_Paco_Morales",
+      "title": "Hoja Proveedores.xlsx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Escandallos_Hierbas_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Escandallos_Hierbas_2012_Paco_Morales/Hoja Proveedores.xlsx",
+      "media": {
+            "driveFileId": "15JXtzGx3z0yV295vzAG5iSZCSsmKkmPs",
+            "pdf": "15JXtzGx3z0yV295vzAG5iSZCSsmKkmPs",
+            "thumbnail": "https://drive.google.com/thumbnail?id=15JXtzGx3z0yV295vzAG5iSZCSsmKkmPs&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-STOCK_CONGELADOR_xlsx",
+      "driveId": "1J8AgdwTgGpWevLyCIn_RpBdhSnVBE90o",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Escandallos_Hierbas_2012_Paco_Morales",
+      "title": "STOCK CONGELADOR.xlsx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Escandallos_Hierbas_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Escandallos_Hierbas_2012_Paco_Morales/STOCK CONGELADOR.xlsx",
+      "media": {
+            "driveFileId": "1J8AgdwTgGpWevLyCIn_RpBdhSnVBE90o",
+            "pdf": "1J8AgdwTgGpWevLyCIn_RpBdhSnVBE90o",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1J8AgdwTgGpWevLyCIn_RpBdhSnVBE90o&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-STOCK_CONGELADOR_modificado_xlsx",
+      "driveId": "1aiNy_s8ZEkn8SkFjg2cfmb_5qamfb1Wn",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Escandallos_Hierbas_2012_Paco_Morales",
+      "title": "STOCK CONGELADOR modificado.xlsx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Escandallos_Hierbas_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Escandallos_Hierbas_2012_Paco_Morales/STOCK CONGELADOR modificado.xlsx",
+      "media": {
+            "driveFileId": "1aiNy_s8ZEkn8SkFjg2cfmb_5qamfb1Wn",
+            "pdf": "1aiNy_s8ZEkn8SkFjg2cfmb_5qamfb1Wn",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1aiNy_s8ZEkn8SkFjg2cfmb_5qamfb1Wn&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-HOJA_DE_HIERBAS_2012_docx",
+      "driveId": "1EF95srhygF_GTeGLf_ah1hI2Zf2iJfHN",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Escandallos_Hierbas_2012_Paco_Morales",
+      "title": "HOJA DE HIERBAS 2012.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Escandallos_Hierbas_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Escandallos_Hierbas_2012_Paco_Morales/HOJA DE HIERBAS 2012.docx",
+      "media": {
+            "driveFileId": "1EF95srhygF_GTeGLf_ah1hI2Zf2iJfHN",
+            "pdf": "1EF95srhygF_GTeGLf_ah1hI2Zf2iJfHN",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1EF95srhygF_GTeGLf_ah1hI2Zf2iJfHN&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Comida_Familia_docx",
+      "driveId": "1D33DKFYhJgppMfhAFF1q1iSwQG7ScGJh",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Escandallos_Hierbas_2012_Paco_Morales",
+      "title": "Comida Familia.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Escandallos_Hierbas_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Escandallos_Hierbas_2012_Paco_Morales/Comida Familia.docx",
+      "media": {
+            "driveFileId": "1D33DKFYhJgppMfhAFF1q1iSwQG7ScGJh",
+            "pdf": "1D33DKFYhJgppMfhAFF1q1iSwQG7ScGJh",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1D33DKFYhJgppMfhAFF1q1iSwQG7ScGJh&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-HOJA_DE_HIERBAS_2012_2_docx",
+      "driveId": "17prgW9Al7GUMPTqAuwsRYrGwjYuQ8gqc",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Escandallos_Hierbas_2012_Paco_Morales",
+      "title": "HOJA DE HIERBAS 2012 2.docx",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Escandallos_Hierbas_2012_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Escandallos_Hierbas_2012_Paco_Morales/HOJA DE HIERBAS 2012 2.docx",
+      "media": {
+            "driveFileId": "17prgW9Al7GUMPTqAuwsRYrGwjYuQ8gqc",
+            "pdf": "17prgW9Al7GUMPTqAuwsRYrGwjYuQ8gqc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=17prgW9Al7GUMPTqAuwsRYrGwjYuQ8gqc&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CARTA_VINOS_OCTUBRE_2011_doc",
+      "driveId": "1CKvPhQ3PV5Ihur9CJG8exN1PZXOBOUVP",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "CARTA VINOS OCTUBRE 2011.doc",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/CARTA VINOS OCTUBRE 2011.doc",
+      "media": {
+            "driveFileId": "1CKvPhQ3PV5Ihur9CJG8exN1PZXOBOUVP",
+            "pdf": "1CKvPhQ3PV5Ihur9CJG8exN1PZXOBOUVP",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1CKvPhQ3PV5Ihur9CJG8exN1PZXOBOUVP&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-calendario_nuevo",
+      "driveId": "1JMOWqmF_BRLfEPnJPA9S0MTnLDcJkpVc",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "calendario nuevo",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/calendario nuevo",
+      "media": {
+            "driveFileId": "1JMOWqmF_BRLfEPnJPA9S0MTnLDcJkpVc",
+            "pdf": "1JMOWqmF_BRLfEPnJPA9S0MTnLDcJkpVc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1JMOWqmF_BRLfEPnJPA9S0MTnLDcJkpVc&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CALENDARIO_EVENTOS_2011_nuevo",
+      "driveId": "1aXWEqvmKJx9lQlfDlL6JZYrYMuvJICCr",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "CALENDARIO EVENTOS 2011 nuevo",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/CALENDARIO EVENTOS 2011 nuevo",
+      "media": {
+            "driveFileId": "1aXWEqvmKJx9lQlfDlL6JZYrYMuvJICCr",
+            "pdf": "1aXWEqvmKJx9lQlfDlL6JZYrYMuvJICCr",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1aXWEqvmKJx9lQlfDlL6JZYrYMuvJICCr&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CARTA_VINOS_MARZO_2012_doc",
+      "driveId": "1kEcs7GdERt0zCdj-a409-_5GzPhNPKPQ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "CARTA VINOS MARZO 2012.doc",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/CARTA VINOS MARZO 2012.doc",
+      "media": {
+            "driveFileId": "1kEcs7GdERt0zCdj-a409-_5GzPhNPKPQ",
+            "pdf": "1kEcs7GdERt0zCdj-a409-_5GzPhNPKPQ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1kEcs7GdERt0zCdj-a409-_5GzPhNPKPQ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CARTA_VINOS_OCTUBRE_2011___copia__2__doc",
+      "driveId": "19vGW6dH-zzszCbZKhRjA1oHImJrEu1Bd",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "CARTA VINOS OCTUBRE 2011 - copia (2).doc",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/CARTA VINOS OCTUBRE 2011 - copia (2).doc",
+      "media": {
+            "driveFileId": "19vGW6dH-zzszCbZKhRjA1oHImJrEu1Bd",
+            "pdf": "19vGW6dH-zzszCbZKhRjA1oHImJrEu1Bd",
+            "thumbnail": "https://drive.google.com/thumbnail?id=19vGW6dH-zzszCbZKhRjA1oHImJrEu1Bd&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-claves_nod_nuevas_txt",
+      "driveId": "1jaGbBe5h53y1uz2tY6YXBbQ6E3ThYf-i",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "claves nod nuevas.txt",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/claves nod nuevas.txt",
+      "media": {
+            "driveFileId": "1jaGbBe5h53y1uz2tY6YXBbQ6E3ThYf-i",
+            "pdf": "1jaGbBe5h53y1uz2tY6YXBbQ6E3ThYf-i",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1jaGbBe5h53y1uz2tY6YXBbQ6E3ThYf-i&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-STAGER_CONFIRMADOS_PARA_FEBRERO_msg",
+      "driveId": "12UOCmZQaYbEoQ2Zu5T8g58oAM1oF7NIS",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "STAGER CONFIRMADOS PARA FEBRERO.msg",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/STAGER CONFIRMADOS PARA FEBRERO.msg",
+      "media": {
+            "driveFileId": "12UOCmZQaYbEoQ2Zu5T8g58oAM1oF7NIS",
+            "pdf": "12UOCmZQaYbEoQ2Zu5T8g58oAM1oF7NIS",
+            "thumbnail": "https://drive.google.com/thumbnail?id=12UOCmZQaYbEoQ2Zu5T8g58oAM1oF7NIS&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Raices_Clasicos_InnovacionMARZO2012__doc",
+      "driveId": "1DFDMX38XnVUvNRulxv0mpEbTSlh8Vw2D",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Eveventos_Pamogastro_2011_2012",
+      "title": "Raices-Clasicos-InnovacionMARZO2012 .doc",
+      "year": 2012,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Eveventos_Pamogastro_2011_2012",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Eveventos_Pamogastro_2011_2012/Raices-Clasicos-InnovacionMARZO2012 .doc",
+      "media": {
+            "driveFileId": "1DFDMX38XnVUvNRulxv0mpEbTSlh8Vw2D",
+            "pdf": "1DFDMX38XnVUvNRulxv0mpEbTSlh8Vw2D",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1DFDMX38XnVUvNRulxv0mpEbTSlh8Vw2D&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-minutaInmayJosep2011pechuga_doc",
+      "driveId": "1INtB1a8vvM50_T5xSN5413Jy8mQeJOsp",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "minutaInmayJosep2011pechuga.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/minutaInmayJosep2011pechuga.doc",
+      "media": {
+            "driveFileId": "1INtB1a8vvM50_T5xSN5413Jy8mQeJOsp",
+            "pdf": "1INtB1a8vvM50_T5xSN5413Jy8mQeJOsp",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1INtB1a8vvM50_T5xSN5413Jy8mQeJOsp&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-minutaInmayJosep2011sinaceituna_doc",
+      "driveId": "1gp32Z-vSr3DP_f_aYfd7lChh1t5Pung1",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "minutaInmayJosep2011sinaceituna.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/minutaInmayJosep2011sinaceituna.doc",
+      "media": {
+            "driveFileId": "1gp32Z-vSr3DP_f_aYfd7lChh1t5Pung1",
+            "pdf": "1gp32Z-vSr3DP_f_aYfd7lChh1t5Pung1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1gp32Z-vSr3DP_f_aYfd7lChh1t5Pung1&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Extras_Abril_xls",
+      "driveId": "18jc-UM-lMycyr0J2KG6y3k32t7tuuSBS",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "Extras Abril.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/Extras Abril.xls",
+      "media": {
+            "driveFileId": "18jc-UM-lMycyr0J2KG6y3k32t7tuuSBS",
+            "pdf": "18jc-UM-lMycyr0J2KG6y3k32t7tuuSBS",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18jc-UM-lMycyr0J2KG6y3k32t7tuuSBS&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-minutaMarianoyMatini_os_doc",
+      "driveId": "1jK0_KAz6UzoROQhSUmujocFsT5vnDy0t",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "minutaMarianoyMatiniños.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/minutaMarianoyMatiniños.doc",
+      "media": {
+            "driveFileId": "1jK0_KAz6UzoROQhSUmujocFsT5vnDy0t",
+            "pdf": "1jK0_KAz6UzoROQhSUmujocFsT5vnDy0t",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1jK0_KAz6UzoROQhSUmujocFsT5vnDy0t&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-minutaInmayJosep2011_docx",
+      "driveId": "1Fvxg-dlRRGiEgYrq7BN2ZuCfcKOwEErZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "minutaInmayJosep2011.docx",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/minutaInmayJosep2011.docx",
+      "media": {
+            "driveFileId": "1Fvxg-dlRRGiEgYrq7BN2ZuCfcKOwEErZ",
+            "pdf": "1Fvxg-dlRRGiEgYrq7BN2ZuCfcKOwEErZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Fvxg-dlRRGiEgYrq7BN2ZuCfcKOwEErZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Reuni_n_S_bado_doc",
+      "driveId": "1CYNT2PBzzgB8_EYdQcTKOh_bN-7OdmZv",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "Reunión Sábado.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/Reunión Sábado.doc",
+      "media": {
+            "driveFileId": "1CYNT2PBzzgB8_EYdQcTKOh_bN-7OdmZv",
+            "pdf": "1CYNT2PBzzgB8_EYdQcTKOh_bN-7OdmZv",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1CYNT2PBzzgB8_EYdQcTKOh_bN-7OdmZv&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Ferrero_carta_destilados_2011",
+      "driveId": "1gcBSkTxzx4lrwwr8cghZ3WXroipOmWRC",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "Ferrero carta destilados 2011",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/Ferrero carta destilados 2011",
+      "media": {
+            "driveFileId": "1gcBSkTxzx4lrwwr8cghZ3WXroipOmWRC",
+            "pdf": "1gcBSkTxzx4lrwwr8cghZ3WXroipOmWRC",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1gcBSkTxzx4lrwwr8cghZ3WXroipOmWRC&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-HOTEL_FERRERO_corte_ingl_s_xls",
+      "driveId": "1T3M3KuqDluTr20eEMhnQaLM3vgXRmLsD",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "HOTEL FERRERO corte inglés.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/HOTEL FERRERO corte inglés.xls",
+      "media": {
+            "driveFileId": "1T3M3KuqDluTr20eEMhnQaLM3vgXRmLsD",
+            "pdf": "1T3M3KuqDluTr20eEMhnQaLM3vgXRmLsD",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1T3M3KuqDluTr20eEMhnQaLM3vgXRmLsD&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-previsionmaterialboda350pax24042010_xls",
+      "driveId": "14TbynKA_uFTU2pSdzf_zDGKYNuhFawI5",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "previsionmaterialboda350pax24042010.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/previsionmaterialboda350pax24042010.xls",
+      "media": {
+            "driveFileId": "14TbynKA_uFTU2pSdzf_zDGKYNuhFawI5",
+            "pdf": "14TbynKA_uFTU2pSdzf_zDGKYNuhFawI5",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14TbynKA_uFTU2pSdzf_zDGKYNuhFawI5&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-PLANTILLA_PEPO_BODAS_XLS",
+      "driveId": "1kBL24xQnTK7nuGsZJB67_Q3BMoZ5AmCh",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "PLANTILLA PEPO BODAS.XLS",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/PLANTILLA PEPO BODAS.XLS",
+      "media": {
+            "driveFileId": "1kBL24xQnTK7nuGsZJB67_Q3BMoZ5AmCh",
+            "pdf": "1kBL24xQnTK7nuGsZJB67_Q3BMoZ5AmCh",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1kBL24xQnTK7nuGsZJB67_Q3BMoZ5AmCh&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-TAREAS_BODA_MARIANO_Y_MATI_xls",
+      "driveId": "1qOOoL4gvu7voIVuFLF0GxLxzbQmsaC5c",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "TAREAS BODA MARIANO Y MATI.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/TAREAS BODA MARIANO Y MATI.xls",
+      "media": {
+            "driveFileId": "1qOOoL4gvu7voIVuFLF0GxLxzbQmsaC5c",
+            "pdf": "1qOOoL4gvu7voIVuFLF0GxLxzbQmsaC5c",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1qOOoL4gvu7voIVuFLF0GxLxzbQmsaC5c&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CALENDARIO_EVENTOS_2011_xls",
+      "driveId": "1EBcrjDQkPVjd1cWp92TSuBmE5oTBPSUl",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "CALENDARIO EVENTOS 2011.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/CALENDARIO EVENTOS 2011.xls",
+      "media": {
+            "driveFileId": "1EBcrjDQkPVjd1cWp92TSuBmE5oTBPSUl",
+            "pdf": "1EBcrjDQkPVjd1cWp92TSuBmE5oTBPSUl",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1EBcrjDQkPVjd1cWp92TSuBmE5oTBPSUl&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-boda_elena_y_jose_XLS",
+      "driveId": "1S0-DRhxTGIlrNcsPi24la7fzfS6J5BGZ",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "boda elena y jose.XLS",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/boda elena y jose.XLS",
+      "media": {
+            "driveFileId": "1S0-DRhxTGIlrNcsPi24la7fzfS6J5BGZ",
+            "pdf": "1S0-DRhxTGIlrNcsPi24la7fzfS6J5BGZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1S0-DRhxTGIlrNcsPi24la7fzfS6J5BGZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-EXTRAS_MAYO_xls",
+      "driveId": "1KKFTq2BF5rp6zk4OUn3sVrCuDHX_PPsM",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "EXTRAS MAYO.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/EXTRAS MAYO.xls",
+      "media": {
+            "driveFileId": "1KKFTq2BF5rp6zk4OUn3sVrCuDHX_PPsM",
+            "pdf": "1KKFTq2BF5rp6zk4OUn3sVrCuDHX_PPsM",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KKFTq2BF5rp6zk4OUn3sVrCuDHX_PPsM&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-minutaInmayJosep2011solomillo_doc",
+      "driveId": "1mUtYf8QhoLQeOwz7ir6zU__ZCvuwuh6L",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "minutaInmayJosep2011solomillo.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/minutaInmayJosep2011solomillo.doc",
+      "media": {
+            "driveFileId": "1mUtYf8QhoLQeOwz7ir6zU__ZCvuwuh6L",
+            "pdf": "1mUtYf8QhoLQeOwz7ir6zU__ZCvuwuh6L",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1mUtYf8QhoLQeOwz7ir6zU__ZCvuwuh6L&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Ferrero_carta_destilados_2011__2__docx",
+      "driveId": "12uwKOsIdAEmi7MxMUi3hz8prcALnCetu",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "Ferrero carta destilados 2011 (2).docx",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/Ferrero carta destilados 2011 (2).docx",
+      "media": {
+            "driveFileId": "12uwKOsIdAEmi7MxMUi3hz8prcALnCetu",
+            "pdf": "12uwKOsIdAEmi7MxMUi3hz8prcALnCetu",
+            "thumbnail": "https://drive.google.com/thumbnail?id=12uwKOsIdAEmi7MxMUi3hz8prcALnCetu&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-comollegar_bmp",
+      "driveId": "1Ir7pURrn-DoXV5342BnwcAVNIgd09ESg",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "comollegar.bmp",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/comollegar.bmp",
+      "media": {
+            "driveFileId": "1Ir7pURrn-DoXV5342BnwcAVNIgd09ESg",
+            "pdf": "1Ir7pURrn-DoXV5342BnwcAVNIgd09ESg",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Ir7pURrn-DoXV5342BnwcAVNIgd09ESg&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CENA_DE_GALA_400_PAX_doc",
+      "driveId": "1VUqD8midLLPY5A3SKD0l05UOtM9UxpfL",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "CENA DE GALA 400 PAX.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/CENA DE GALA 400 PAX.doc",
+      "media": {
+            "driveFileId": "1VUqD8midLLPY5A3SKD0l05UOtM9UxpfL",
+            "pdf": "1VUqD8midLLPY5A3SKD0l05UOtM9UxpfL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VUqD8midLLPY5A3SKD0l05UOtM9UxpfL&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-COMU_BORJA_PASTOR_xls",
+      "driveId": "1cVHGXuMYEUejQUTI3Fn0TVoFh7Y8DfRV",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "COMU BORJA PASTOR.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/COMU BORJA PASTOR.xls",
+      "media": {
+            "driveFileId": "1cVHGXuMYEUejQUTI3Fn0TVoFh7Y8DfRV",
+            "pdf": "1cVHGXuMYEUejQUTI3Fn0TVoFh7Y8DfRV",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1cVHGXuMYEUejQUTI3Fn0TVoFh7Y8DfRV&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-PLANO_BODA_BLAS_ppt",
+      "driveId": "1Qi-aKl1G7i6UiGJROygVyct8l7JbxfhT",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "PLANO BODA BLAS.ppt",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/PLANO BODA BLAS.ppt",
+      "media": {
+            "driveFileId": "1Qi-aKl1G7i6UiGJROygVyct8l7JbxfhT",
+            "pdf": "1Qi-aKl1G7i6UiGJROygVyct8l7JbxfhT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Qi-aKl1G7i6UiGJROygVyct8l7JbxfhT&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-TAREAS_BODA_13MAYO_xls",
+      "driveId": "1g-ctH44_u26V7Elg1dOfJh333pqNgo67",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "TAREAS BODA 13MAYO.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/TAREAS BODA 13MAYO.xls",
+      "media": {
+            "driveFileId": "1g-ctH44_u26V7Elg1dOfJh333pqNgo67",
+            "pdf": "1g-ctH44_u26V7Elg1dOfJh333pqNgo67",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1g-ctH44_u26V7Elg1dOfJh333pqNgo67&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-map_localiza_hotel_jpg",
+      "driveId": "1HxIr-RgwP3_098VLmSzqrkV1myM4785u",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "map-localiza-hotel.jpg",
+      "year": 2000,
+      "type": "image",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/map-localiza-hotel.jpg",
+      "media": {
+            "driveFileId": "1HxIr-RgwP3_098VLmSzqrkV1myM4785u",
+            "pdf": "1HxIr-RgwP3_098VLmSzqrkV1myM4785u",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1HxIr-RgwP3_098VLmSzqrkV1myM4785u&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-previsionmaterialboda_xls",
+      "driveId": "1n66hQWhBM5vvho35sY4lSYgBojzIviMv",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "previsionmaterialboda.xls",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/previsionmaterialboda.xls",
+      "media": {
+            "driveFileId": "1n66hQWhBM5vvho35sY4lSYgBojzIviMv",
+            "pdf": "1n66hQWhBM5vvho35sY4lSYgBojzIviMv",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1n66hQWhBM5vvho35sY4lSYgBojzIviMv&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-minutaMarianoyMati_doc",
+      "driveId": "1nY2Iw5GI-Y89SYLQuzJlF-83hhN3DvBF",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "minutaMarianoyMati.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/minutaMarianoyMati.doc",
+      "media": {
+            "driveFileId": "1nY2Iw5GI-Y89SYLQuzJlF-83hhN3DvBF",
+            "pdf": "1nY2Iw5GI-Y89SYLQuzJlF-83hhN3DvBF",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1nY2Iw5GI-Y89SYLQuzJlF-83hhN3DvBF&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-consumo_teresa_XLS",
+      "driveId": "1ve9gz94LCtXh-j8YVI194r3j1dGIWkSC",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Bodas_Preparatorio_Paco_Morales",
+      "title": "consumo teresa.XLS",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Bodas_Preparatorio_Paco_Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Bodas_Preparatorio_Paco_Morales/consumo teresa.XLS",
+      "media": {
+            "driveFileId": "1ve9gz94LCtXh-j8YVI194r3j1dGIWkSC",
+            "pdf": "1ve9gz94LCtXh-j8YVI194r3j1dGIWkSC",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ve9gz94LCtXh-j8YVI194r3j1dGIWkSC&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Mois_s_gil_Cat_leg_pdf",
+      "driveId": "1LAhd9f3QvVFzfJmWfyHBl66IjCGrG5h2",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentación_Pdf",
+      "title": "Moisès gil Catàleg.pdf",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentación_Pdf",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentación_Pdf/Moisès gil Catàleg.pdf",
+      "media": {
+            "driveFileId": "1LAhd9f3QvVFzfJmWfyHBl66IjCGrG5h2",
+            "pdf": "1LAhd9f3QvVFzfJmWfyHBl66IjCGrG5h2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1LAhd9f3QvVFzfJmWfyHBl66IjCGrG5h2&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CARTA_VINOS_OCTUBRE_2011_doc",
+      "driveId": "16sntdyLYqlEIiVjkFaHPqW_B-PFZlQwo",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "CARTA VINOS OCTUBRE 2011.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/CARTA VINOS OCTUBRE 2011.doc",
+      "media": {
+            "driveFileId": "16sntdyLYqlEIiVjkFaHPqW_B-PFZlQwo",
+            "pdf": "16sntdyLYqlEIiVjkFaHPqW_B-PFZlQwo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16sntdyLYqlEIiVjkFaHPqW_B-PFZlQwo&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-calendario_nuevo",
+      "driveId": "1PdxkcIND9s3rnNAfoiRMmarQys-1gZJ-",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "calendario nuevo",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/calendario nuevo",
+      "media": {
+            "driveFileId": "1PdxkcIND9s3rnNAfoiRMmarQys-1gZJ-",
+            "pdf": "1PdxkcIND9s3rnNAfoiRMmarQys-1gZJ-",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1PdxkcIND9s3rnNAfoiRMmarQys-1gZJ-&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CALENDARIO_EVENTOS_2011_nuevo",
+      "driveId": "1-sTa9VIobK2BW4AXYrohdJnv9lUguP0U",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "CALENDARIO EVENTOS 2011 nuevo",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/CALENDARIO EVENTOS 2011 nuevo",
+      "media": {
+            "driveFileId": "1-sTa9VIobK2BW4AXYrohdJnv9lUguP0U",
+            "pdf": "1-sTa9VIobK2BW4AXYrohdJnv9lUguP0U",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-sTa9VIobK2BW4AXYrohdJnv9lUguP0U&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CARTA_VINOS_MARZO_2012_doc",
+      "driveId": "1Llpp95uom9vLr5s51idufoFtuRAtFUU2",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "CARTA VINOS MARZO 2012.doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/CARTA VINOS MARZO 2012.doc",
+      "media": {
+            "driveFileId": "1Llpp95uom9vLr5s51idufoFtuRAtFUU2",
+            "pdf": "1Llpp95uom9vLr5s51idufoFtuRAtFUU2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Llpp95uom9vLr5s51idufoFtuRAtFUU2&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-CARTA_VINOS_OCTUBRE_2011___copia__2__doc",
+      "driveId": "1zELBNv1n5UYnzWJ0cz9LH_66w-Qk9rIH",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "CARTA VINOS OCTUBRE 2011 - copia (2).doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/CARTA VINOS OCTUBRE 2011 - copia (2).doc",
+      "media": {
+            "driveFileId": "1zELBNv1n5UYnzWJ0cz9LH_66w-Qk9rIH",
+            "pdf": "1zELBNv1n5UYnzWJ0cz9LH_66w-Qk9rIH",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1zELBNv1n5UYnzWJ0cz9LH_66w-Qk9rIH&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-claves_nod_nuevas_txt",
+      "driveId": "12935x2ap8mLamz_6TvtP0PSUCVNuISBP",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "claves nod nuevas.txt",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/claves nod nuevas.txt",
+      "media": {
+            "driveFileId": "12935x2ap8mLamz_6TvtP0PSUCVNuISBP",
+            "pdf": "12935x2ap8mLamz_6TvtP0PSUCVNuISBP",
+            "thumbnail": "https://drive.google.com/thumbnail?id=12935x2ap8mLamz_6TvtP0PSUCVNuISBP&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-STAGER_CONFIRMADOS_PARA_FEBRERO_msg",
+      "driveId": "1fG4e7xRoAzy90s77ie2QFm0VrLfTQ65N",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "STAGER CONFIRMADOS PARA FEBRERO.msg",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/STAGER CONFIRMADOS PARA FEBRERO.msg",
+      "media": {
+            "driveFileId": "1fG4e7xRoAzy90s77ie2QFm0VrLfTQ65N",
+            "pdf": "1fG4e7xRoAzy90s77ie2QFm0VrLfTQ65N",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1fG4e7xRoAzy90s77ie2QFm0VrLfTQ65N&sz=w1000"
+      }
+},
+    {
+      "id": "local-07-Raices_Clasicos_InnovacionMARZO2012__doc",
+      "driveId": "1iPLifuGnPcVVN-tIe2imTzH4uIq57qMD",
+      "category": "07_CD_VID_Digital",
+      "subcategory": "07_Documentos_Hotel_Ferrero_Paco Morales",
+      "title": "Raices-Clasicos-InnovacionMARZO2012 .doc",
+      "year": 2000,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Archivo Digital Noor",
+      "tags": [
+            "07_CD_VID_Digital",
+            "07_Documentos_Hotel_Ferrero_Paco Morales",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/07_CD VID_Digital/07_Documentos_Hotel_Ferrero_Paco Morales/Raices-Clasicos-InnovacionMARZO2012 .doc",
+      "media": {
+            "driveFileId": "1iPLifuGnPcVVN-tIe2imTzH4uIq57qMD",
+            "pdf": "1iPLifuGnPcVVN-tIe2imTzH4uIq57qMD",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1iPLifuGnPcVVN-tIe2imTzH4uIq57qMD&sz=w1000"
+      }
+}
   ]
 };

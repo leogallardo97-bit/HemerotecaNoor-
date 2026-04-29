@@ -28,6 +28,7 @@ const NoorState = (() => {
       types: [],
       languages: [],
       sections: [],
+      subcategories: [],
       yearRange: [711, 2100],
       sortBy: 'year_asc',
       viewMode: 'grid',
@@ -160,6 +161,7 @@ const NoorState = (() => {
             sortBy: 'year_asc',
             viewMode: _state.filters.viewMode, // preserva modo de vista
             sections: [],
+            subcategories: [],
             page: 1,
             perPage: 24,
           };
@@ -288,6 +290,11 @@ const NoorState = (() => {
             (doc.id && doc.id.startsWith('v2-') && secName === '01_REVISTAS')
           );
         });
+      }
+
+      // ── Filtro por subcategorías (Taxonomía anidada 07) ──
+      if (filters.subcategories && filters.subcategories.length > 0) {
+        results = results.filter(doc => filters.subcategories.includes(doc.subcategory));
       }
 
       // ── Filtro por rango de año ──

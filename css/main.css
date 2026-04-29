@@ -798,6 +798,51 @@ input[type="range"] {
 }
 .skeleton-line:last-child { width: 60%; }
 
+/* ─── Acordeón de Subcategorías (v2.1) ─── */
+.filter-accordion {
+  margin-bottom: 0.25rem;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  transition: all 0.3s;
+}
+.filter-accordion.open {
+  background: rgba(201, 168, 76, 0.04);
+  border-color: rgba(201, 168, 76, 0.1);
+}
+.filter-accordion .filter-option {
+  padding-right: 0.25rem;
+}
+.filter-accordion .accordion-toggle {
+  background: none;
+  border: none;
+  color: var(--color-gold);
+  cursor: pointer;
+  font-size: 0.7rem;
+  padding: 0.2rem 0.5rem;
+  transition: transform 0.3s;
+  opacity: 0.6;
+}
+.filter-accordion .accordion-toggle:hover { opacity: 1; }
+.filter-accordion.open .accordion-toggle {
+  transform: rotate(180deg);
+}
+.filter-accordion .accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  padding-left: 0.5rem;
+}
+.filter-accordion.open .accordion-content {
+  max-height: 1200px;
+  padding-bottom: 0.5rem;
+}
+.filter-option.subcategory {
+  margin-top: 2px;
+  opacity: 0.7;
+}
+.filter-option.subcategory:hover { opacity: 1; }
+.filter-option.subcategory.checked { opacity: 1; font-weight: 600; }
+
 @keyframes pulse {
   0%, 100% { opacity: 1; }
   50% { opacity: 0.5; }

@@ -42,12 +42,12 @@ function renderFiltersPanel() {
               .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')
               .replace(/ñ/g, 'n').replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-');
             
-            // Si es la sección 07, renderizar como acordeón
-            if (sec.label === '07_CD_VID_Digital') {
-              const subcategories = [...new Set(documents.filter(d => d.category === '07_CD_VID_Digital' && d.subcategory).map(d => d.subcategory))].sort();
-              
+            // Renderizado genérico para secciones con subcategorías (Taxonomía Anidada)
+            const subcategories = [...new Set(documents.filter(d => d.category === sec.label && d.subcategory).map(d => d.subcategory))].sort();
+            
+            if (subcategories.length > 0) {
               return `
-                <div class="filter-accordion" id="accordion-07">
+                <div class="filter-accordion" id="accordion-${safeId}">
                   <div class="filter-option" 
                        id="filter-section-${safeId}"
                        data-filter-key="sections" 
@@ -74,49 +74,7 @@ function renderFiltersPanel() {
                            aria-checked="false">
                         <label class="filter-option__label" style="cursor:pointer; padding-left: 1.25rem; font-size: 0.75rem">
                           <span class="filter-option__checkbox"></span>
-                          ${sub.replace('07_', '').replace(/_/g, ' ')}
-                        </label>
-                        <span class="filter-option__count">${documents.filter(d => d.subcategory === sub).length}</span>
-                      </div>
-                    `).join('')}
-                  </div>
-                </div>
-              `;
-            }
-
-            // Si es la sección 08, renderizar como acordeón (v2.2)
-            if (sec.label === '08_Producto_Recetarios') {
-              const subcategories = [...new Set(documents.filter(d => d.category === '08_Producto_Recetarios' && d.subcategory).map(d => d.subcategory))].sort();
-              
-              return `
-                <div class="filter-accordion" id="accordion-08">
-                  <div class="filter-option" 
-                       id="filter-section-${safeId}"
-                       data-filter-key="sections" 
-                       data-filter-value="${sec.label}" 
-                       role="checkbox" 
-                       tabindex="0" 
-                       aria-checked="false">
-                    <label class="filter-option__label" style="cursor:pointer">
-                      <span class="filter-option__checkbox"></span>
-                      <span style="color:var(--color-gold-light); font-weight: 600">${sec.label}</span>
-                    </label>
-                    <div style="display:flex; align-items:center; gap:0.5rem">
-                      <span class="filter-option__count">${countBySection(sec.label)}</span>
-                      <button class="accordion-toggle" onclick="event.stopPropagation(); this.closest('.filter-accordion').classList.toggle('open')">▼</button>
-                    </div>
-                  </div>
-                  <div class="accordion-content">
-                    ${subcategories.map(sub => `
-                      <div class="filter-option subcategory" 
-                           data-filter-key="subcategories" 
-                           data-filter-value="${sub}"
-                           role="checkbox" 
-                           tabindex="0" 
-                           aria-checked="false">
-                        <label class="filter-option__label" style="cursor:pointer; padding-left: 1.25rem; font-size: 0.75rem">
-                          <span class="filter-option__checkbox"></span>
-                          ${sub.replace('08_', '').replace(/_/g, ' ')}
+                          ${sub.replace(/^\d+_/g, '').replace(/_/g, ' ')}
                         </label>
                         <span class="filter-option__count">${documents.filter(d => d.subcategory === sub).length}</span>
                       </div>

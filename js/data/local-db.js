@@ -16396,5 +16396,1086 @@ window.NoorLocalDB = {
             "thumbnail": "https://drive.google.com/thumbnail?id=1iPLifuGnPcVVN-tIe2imTzH4uIq57qMD&sz=w1000"
       }
 }
+  ,
+    {
+      "id": "local-08-TRANSCRIPT_08_Pro_Carta_Tes_e_Infusiones_docx",
+      "driveId": "1U3fD38HCPkjmuluTH5TRcMki0sx2rq7g",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Pro_Carta_Tes_e_Infusiones.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Pro_Carta_Tes_e_Infusiones.docx",
+      "media": {
+            "driveFileId": "1U3fD38HCPkjmuluTH5TRcMki0sx2rq7g",
+            "pdf": "1U3fD38HCPkjmuluTH5TRcMki0sx2rq7g",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1U3fD38HCPkjmuluTH5TRcMki0sx2rq7g&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Guia_Emplatado_y_Conceptos_pdf",
+      "driveId": "1JXSLrci31WxgiFCHsM75_rh3hE35cvpA",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Guia_Emplatado_y_Conceptos.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Guia_Emplatado_y_Conceptos.pdf",
+      "media": {
+            "driveFileId": "1JXSLrci31WxgiFCHsM75_rh3hE35cvpA",
+            "pdf": "1JXSLrci31WxgiFCHsM75_rh3hE35cvpA",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1JXSLrci31WxgiFCHsM75_rh3hE35cvpA&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_PRO_Recetas_Cine_Molecular_2015_pdf",
+      "driveId": "11qb-vHyxcBttUh57qH0_3N4yhbow0vfG",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_PRO_Recetas_Cine_Molecular_2015.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_PRO_Recetas_Cine_Molecular_2015.pdf",
+      "media": {
+            "driveFileId": "11qb-vHyxcBttUh57qH0_3N4yhbow0vfG",
+            "pdf": "11qb-vHyxcBttUh57qH0_3N4yhbow0vfG",
+            "thumbnail": "https://drive.google.com/thumbnail?id=11qb-vHyxcBttUh57qH0_3N4yhbow0vfG&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Escandallos_Recetario_pdf",
+      "driveId": "1EmmCrq5VibruEdh1BWBN9gTLRJTy4BkL",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Escandallos_Recetario.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Escandallos_Recetario.pdf",
+      "media": {
+            "driveFileId": "1EmmCrq5VibruEdh1BWBN9gTLRJTy4BkL",
+            "pdf": "1EmmCrq5VibruEdh1BWBN9gTLRJTy4BkL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1EmmCrq5VibruEdh1BWBN9gTLRJTy4BkL&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Pro_Documentacion_Varios_docx",
+      "driveId": "1cEJH9hWT1bsvnDbNZdJ09yvllFlWcDUQ",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Pro_Documentacion_Varios.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Pro_Documentacion_Varios.docx",
+      "media": {
+            "driveFileId": "1cEJH9hWT1bsvnDbNZdJ09yvllFlWcDUQ",
+            "pdf": "1cEJH9hWT1bsvnDbNZdJ09yvllFlWcDUQ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1cEJH9hWT1bsvnDbNZdJ09yvllFlWcDUQ&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Gastronomia_Egipto_y_Zonas_pdf",
+      "driveId": "1XAfWAo6nDH_gwV_U_zBGCs_aeK_b89bT",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Gastronomia_Egipto_y_Zonas.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Gastronomia_Egipto_y_Zonas.pdf",
+      "media": {
+            "driveFileId": "1XAfWAo6nDH_gwV_U_zBGCs_aeK_b89bT",
+            "pdf": "1XAfWAo6nDH_gwV_U_zBGCs_aeK_b89bT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1XAfWAo6nDH_gwV_U_zBGCs_aeK_b89bT&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Receta_Thierry_Marx_Tabula_pdf",
+      "driveId": "1R4AKtKjLJiI8C6tdPfMQ6SnHrvJ9oxZF",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Receta_Thierry_Marx_Tabula.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Receta_Thierry_Marx_Tabula.pdf",
+      "media": {
+            "driveFileId": "1R4AKtKjLJiI8C6tdPfMQ6SnHrvJ9oxZF",
+            "pdf": "1R4AKtKjLJiI8C6tdPfMQ6SnHrvJ9oxZF",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1R4AKtKjLJiI8C6tdPfMQ6SnHrvJ9oxZF&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Pro_Guia_Emplatado_y_Conceptos_docx",
+      "driveId": "1yiw-iEvrh82FKyMkWL0KTWhjGasdrkmy",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Pro_Guia_Emplatado_y_Conceptos.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Pro_Guia_Emplatado_y_Conceptos.docx",
+      "media": {
+            "driveFileId": "1yiw-iEvrh82FKyMkWL0KTWhjGasdrkmy",
+            "pdf": "1yiw-iEvrh82FKyMkWL0KTWhjGasdrkmy",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1yiw-iEvrh82FKyMkWL0KTWhjGasdrkmy&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Pro_Tecnicas_Vacio_y_Legislacion_docx",
+      "driveId": "1YWJv4wBAKaIBvNDuRDCUUSOAIajl99oa",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Pro_Tecnicas_Vacio_y_Legislacion.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Pro_Tecnicas_Vacio_y_Legislacion.docx",
+      "media": {
+            "driveFileId": "1YWJv4wBAKaIBvNDuRDCUUSOAIajl99oa",
+            "pdf": "1YWJv4wBAKaIBvNDuRDCUUSOAIajl99oa",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YWJv4wBAKaIBvNDuRDCUUSOAIajl99oa&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Documentacion_Varios_pdf",
+      "driveId": "1828lu_5zV4zoMyLI6Y7bynsoDS_q7MJA",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Documentacion_Varios.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Documentacion_Varios.pdf",
+      "media": {
+            "driveFileId": "1828lu_5zV4zoMyLI6Y7bynsoDS_q7MJA",
+            "pdf": "1828lu_5zV4zoMyLI6Y7bynsoDS_q7MJA",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1828lu_5zV4zoMyLI6Y7bynsoDS_q7MJA&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Pro_Escandallos_y_Calculo_Costes_docx",
+      "driveId": "1l7E7q2jzva7YpTVn4hVVoOyZGzc6mEc0",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Pro_Escandallos_y_Calculo_Costes.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Pro_Escandallos_y_Calculo_Costes.docx",
+      "media": {
+            "driveFileId": "1l7E7q2jzva7YpTVn4hVVoOyZGzc6mEc0",
+            "pdf": "1l7E7q2jzva7YpTVn4hVVoOyZGzc6mEc0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1l7E7q2jzva7YpTVn4hVVoOyZGzc6mEc0&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Proyecto_Noor_2024_pdf",
+      "driveId": "150sFw7eW7omk8e2Rtpbs4v0RhIK83qqr",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Proyecto_Noor_2024.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Proyecto_Noor_2024.pdf",
+      "media": {
+            "driveFileId": "150sFw7eW7omk8e2Rtpbs4v0RhIK83qqr",
+            "pdf": "150sFw7eW7omk8e2Rtpbs4v0RhIK83qqr",
+            "thumbnail": "https://drive.google.com/thumbnail?id=150sFw7eW7omk8e2Rtpbs4v0RhIK83qqr&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Receta_Terrina_Foie_y_Melaza_pdf",
+      "driveId": "1owG-QJxfE7KYC-q8Y5GOnPteGDVTbT2s",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Receta_Terrina_Foie_y_Melaza.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Receta_Terrina_Foie_y_Melaza.pdf",
+      "media": {
+            "driveFileId": "1owG-QJxfE7KYC-q8Y5GOnPteGDVTbT2s",
+            "pdf": "1owG-QJxfE7KYC-q8Y5GOnPteGDVTbT2s",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1owG-QJxfE7KYC-q8Y5GOnPteGDVTbT2s&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Tecnicas_Vacio_y_Legislacion_pdf",
+      "driveId": "1VZzq7rdT2YyXCSwMCnL5jA93uLroauy_",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Tecnicas_Vacio_y_Legislacion.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Tecnicas_Vacio_y_Legislacion.pdf",
+      "media": {
+            "driveFileId": "1VZzq7rdT2YyXCSwMCnL5jA93uLroauy_",
+            "pdf": "1VZzq7rdT2YyXCSwMCnL5jA93uLroauy_",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VZzq7rdT2YyXCSwMCnL5jA93uLroauy_&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Proyecto_Noor_2024_docx",
+      "driveId": "1eYdWaltVDGRl5PZPAj74Fz7Gv9rQCurR",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Proyecto_Noor_2024.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Proyecto_Noor_2024.docx",
+      "media": {
+            "driveFileId": "1eYdWaltVDGRl5PZPAj74Fz7Gv9rQCurR",
+            "pdf": "1eYdWaltVDGRl5PZPAj74Fz7Gv9rQCurR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1eYdWaltVDGRl5PZPAj74Fz7Gv9rQCurR&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Pro_Bodega_Montilla_Moriles_docx",
+      "driveId": "1NRxDUrW8tS05pr9iQL7ahN4A5XCngtyI",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Pro_Bodega_Montilla_Moriles.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Pro_Bodega_Montilla_Moriles.docx",
+      "media": {
+            "driveFileId": "1NRxDUrW8tS05pr9iQL7ahN4A5XCngtyI",
+            "pdf": "1NRxDUrW8tS05pr9iQL7ahN4A5XCngtyI",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1NRxDUrW8tS05pr9iQL7ahN4A5XCngtyI&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Recetario_y_Tecnicas_Cocina_docx",
+      "driveId": "1JFUPz7NVp5bpgV7qzI5FEM3tLaQCuVoP",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Recetario_y_Tecnicas_Cocina.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Recetario_y_Tecnicas_Cocina.docx",
+      "media": {
+            "driveFileId": "1JFUPz7NVp5bpgV7qzI5FEM3tLaQCuVoP",
+            "pdf": "1JFUPz7NVp5bpgV7qzI5FEM3tLaQCuVoP",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1JFUPz7NVp5bpgV7qzI5FEM3tLaQCuVoP&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_PRO_Menu_Boda_y_Proyecto_Carne_Eco_pdf_pdf",
+      "driveId": "1v6TtFwEckYGyNmQAR_rWYP8wHiZIgITm",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_PRO_Menu_Boda_y_Proyecto_Carne_Eco.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_PRO_Menu_Boda_y_Proyecto_Carne_Eco.pdf.pdf",
+      "media": {
+            "driveFileId": "1v6TtFwEckYGyNmQAR_rWYP8wHiZIgITm",
+            "pdf": "1v6TtFwEckYGyNmQAR_rWYP8wHiZIgITm",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1v6TtFwEckYGyNmQAR_rWYP8wHiZIgITm&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_Pro_Escandallos_Recetario_docx",
+      "driveId": "1bapjrljy-KdGeW5DVgCLxzZagObJmEar",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_Pro_Escandallos_Recetario.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_Pro_Escandallos_Recetario.docx",
+      "media": {
+            "driveFileId": "1bapjrljy-KdGeW5DVgCLxzZagObJmEar",
+            "pdf": "1bapjrljy-KdGeW5DVgCLxzZagObJmEar",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1bapjrljy-KdGeW5DVgCLxzZagObJmEar&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_PRO_Plantillas_Gestion_y_Proveedores_pdf",
+      "driveId": "1ugSgcNGsB0vJPXIiv5C2eNUuVWX_HKe0",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_PRO_Plantillas_Gestion_y_Proveedores.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_PRO_Plantillas_Gestion_y_Proveedores.pdf",
+      "media": {
+            "driveFileId": "1ugSgcNGsB0vJPXIiv5C2eNUuVWX_HKe0",
+            "pdf": "1ugSgcNGsB0vJPXIiv5C2eNUuVWX_HKe0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ugSgcNGsB0vJPXIiv5C2eNUuVWX_HKe0&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Carta_Tes_e_Infusiones_pdf",
+      "driveId": "1IS1GjWdItEIXY7P2rZSqWbeDO7zZ4i_t",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Carta_Tes_e_Infusiones.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Carta_Tes_e_Infusiones.pdf",
+      "media": {
+            "driveFileId": "1IS1GjWdItEIXY7P2rZSqWbeDO7zZ4i_t",
+            "pdf": "1IS1GjWdItEIXY7P2rZSqWbeDO7zZ4i_t",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IS1GjWdItEIXY7P2rZSqWbeDO7zZ4i_t&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_PRO_Referencias_y_Vajilla_Torta_Bellota_pdf",
+      "driveId": "19nyQ-Dvr37Ds13Ac7b5fj18t5LC1ojRT",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_PRO_Referencias_y_Vajilla_Torta_Bellota.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_PRO_Referencias_y_Vajilla_Torta_Bellota.pdf",
+      "media": {
+            "driveFileId": "19nyQ-Dvr37Ds13Ac7b5fj18t5LC1ojRT",
+            "pdf": "19nyQ-Dvr37Ds13Ac7b5fj18t5LC1ojRT",
+            "thumbnail": "https://drive.google.com/thumbnail?id=19nyQ-Dvr37Ds13Ac7b5fj18t5LC1ojRT&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Legado_Garum_y_Diccionario_pdf",
+      "driveId": "1KLrixM8LiA9skt6TJI4Z4x3jpgRId3ma",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Legado_Garum_y_Diccionario.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Legado_Garum_y_Diccionario.pdf",
+      "media": {
+            "driveFileId": "1KLrixM8LiA9skt6TJI4Z4x3jpgRId3ma",
+            "pdf": "1KLrixM8LiA9skt6TJI4Z4x3jpgRId3ma",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KLrixM8LiA9skt6TJI4Z4x3jpgRId3ma&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Escandallos_y_Calculo_Costes_pdf",
+      "driveId": "1oTo3aKDzDybKaiIVKPW7FDV4Yew9MaDM",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Escandallos_y_Calculo_Costes.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Escandallos_y_Calculo_Costes.pdf",
+      "media": {
+            "driveFileId": "1oTo3aKDzDybKaiIVKPW7FDV4Yew9MaDM",
+            "pdf": "1oTo3aKDzDybKaiIVKPW7FDV4Yew9MaDM",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1oTo3aKDzDybKaiIVKPW7FDV4Yew9MaDM&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_PRO_Referencias_I_D_Noor_2015_pdf_pdf",
+      "driveId": "1xq-moUpXoSMW2sH9Kll-LNo5eEqcit3e",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_PRO_Referencias_I+D_Noor_2015.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_PRO_Referencias_I+D_Noor_2015.pdf.pdf",
+      "media": {
+            "driveFileId": "1xq-moUpXoSMW2sH9Kll-LNo5eEqcit3e",
+            "pdf": "1xq-moUpXoSMW2sH9Kll-LNo5eEqcit3e",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1xq-moUpXoSMW2sH9Kll-LNo5eEqcit3e&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Receta_Mugaritz_Bacalao_pdf",
+      "driveId": "1QL1fI1pc3wnPRtqqXYK_Q_nqPOvIZPmZ",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Receta_Mugaritz_Bacalao.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Receta_Mugaritz_Bacalao.pdf",
+      "media": {
+            "driveFileId": "1QL1fI1pc3wnPRtqqXYK_Q_nqPOvIZPmZ",
+            "pdf": "1QL1fI1pc3wnPRtqqXYK_Q_nqPOvIZPmZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1QL1fI1pc3wnPRtqqXYK_Q_nqPOvIZPmZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Cine_Gastronomia_2006_pdf",
+      "driveId": "16wokhquwoN6AeWwmANnEY2A9gz5RIDoF",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Cine_Gastronomia_2006.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Cine_Gastronomia_2006.pdf",
+      "media": {
+            "driveFileId": "16wokhquwoN6AeWwmANnEY2A9gz5RIDoF",
+            "pdf": "16wokhquwoN6AeWwmANnEY2A9gz5RIDoF",
+            "thumbnail": "https://drive.google.com/thumbnail?id=16wokhquwoN6AeWwmANnEY2A9gz5RIDoF&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_PRO_Recetario_Oliver_2015_pdf",
+      "driveId": "10tyWjciXebNCpLxBGwNJtEkPu_6J2VAr",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_PRO_Recetario_Oliver_2015.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_PRO_Recetario_Oliver_2015.pdf",
+      "media": {
+            "driveFileId": "10tyWjciXebNCpLxBGwNJtEkPu_6J2VAr",
+            "pdf": "10tyWjciXebNCpLxBGwNJtEkPu_6J2VAr",
+            "thumbnail": "https://drive.google.com/thumbnail?id=10tyWjciXebNCpLxBGwNJtEkPu_6J2VAr&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Recetario_Aderezos_Tradicionales_pdf",
+      "driveId": "1q9p5jebBwxnzNsc-CKls7NrIIqbnCzEC",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Recetario_Aderezos_Tradicionales.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Recetario_Aderezos_Tradicionales.pdf",
+      "media": {
+            "driveFileId": "1q9p5jebBwxnzNsc-CKls7NrIIqbnCzEC",
+            "pdf": "1q9p5jebBwxnzNsc-CKls7NrIIqbnCzEC",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1q9p5jebBwxnzNsc-CKls7NrIIqbnCzEC&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Evento_Javier_Itxaso_pdf",
+      "driveId": "1u3AIXcfeN_XFZV1ZdrizX1dYEEOn9emc",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Evento_Javier_Itxaso.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Evento_Javier_Itxaso.pdf",
+      "media": {
+            "driveFileId": "1u3AIXcfeN_XFZV1ZdrizX1dYEEOn9emc",
+            "pdf": "1u3AIXcfeN_XFZV1ZdrizX1dYEEOn9emc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1u3AIXcfeN_XFZV1ZdrizX1dYEEOn9emc&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPTION_08_PRO_Recetario_Oliver_2015_docx",
+      "driveId": "1OGZr-7afAybh9vqO6mjXB3XrPKBUgRTe",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPTION_08_PRO_Recetario_Oliver_2015.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPTION_08_PRO_Recetario_Oliver_2015.docx",
+      "media": {
+            "driveFileId": "1OGZr-7afAybh9vqO6mjXB3XrPKBUgRTe",
+            "pdf": "1OGZr-7afAybh9vqO6mjXB3XrPKBUgRTe",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1OGZr-7afAybh9vqO6mjXB3XrPKBUgRTe&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_PRO_Menu_Boda_y_Proyecto_Carne_Eco_pdf_docx",
+      "driveId": "18DZY_KYVGNeCawx_4lLLpdrY_BZf9OYv",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_PRO_Menu_Boda_y_Proyecto_Carne_Eco.pdf.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_PRO_Menu_Boda_y_Proyecto_Carne_Eco.pdf.docx",
+      "media": {
+            "driveFileId": "18DZY_KYVGNeCawx_4lLLpdrY_BZf9OYv",
+            "pdf": "18DZY_KYVGNeCawx_4lLLpdrY_BZf9OYv",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18DZY_KYVGNeCawx_4lLLpdrY_BZf9OYv&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Pro_Bodega_Montilla_Moriles_pdf",
+      "driveId": "1AWf6vMVn3ZCa3AGGTgLZB66KFTfdeTz6",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Pro_Bodega_Montilla_Moriles.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Pro_Bodega_Montilla_Moriles.pdf",
+      "media": {
+            "driveFileId": "1AWf6vMVn3ZCa3AGGTgLZB66KFTfdeTz6",
+            "pdf": "1AWf6vMVn3ZCa3AGGTgLZB66KFTfdeTz6",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1AWf6vMVn3ZCa3AGGTgLZB66KFTfdeTz6&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-TRANSCRIPT_08_PRO_Referencias_y_Vajilla_Torta_Bellota_docx",
+      "driveId": "1yFhT5Tna3FFiIaRaImVIm7HAKzEfcxsL",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "TRANSCRIPT_08_PRO_Referencias_y_Vajilla_Torta_Bellota.docx",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/TRANSCRIPT_08_PRO_Referencias_y_Vajilla_Torta_Bellota.docx",
+      "media": {
+            "driveFileId": "1yFhT5Tna3FFiIaRaImVIm7HAKzEfcxsL",
+            "pdf": "1yFhT5Tna3FFiIaRaImVIm7HAKzEfcxsL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1yFhT5Tna3FFiIaRaImVIm7HAKzEfcxsL&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Recetas_Tecnicas_Merengues_y_Escabeches_pdf_pdf",
+      "driveId": "1_dbVPv89MfVoNTIjCIMJiid5MFJ6kZyE",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Recetas_Tecnicas_Merengues_y_Escabeches.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Recetas_Tecnicas_Merengues_y_Escabeches.pdf.pdf",
+      "media": {
+            "driveFileId": "1_dbVPv89MfVoNTIjCIMJiid5MFJ6kZyE",
+            "pdf": "1_dbVPv89MfVoNTIjCIMJiid5MFJ6kZyE",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1_dbVPv89MfVoNTIjCIMJiid5MFJ6kZyE&sz=w1000"
+      }
+},
+    {
+      "id": "local-08-08_Recetario_y_Tecnicas_Cocina_pdf",
+      "driveId": "1T7GuvqTRzf5w70qoJkqz0479jEkBmnIv",
+      "category": "08_Producto_Recetarios",
+      "subcategory": "Producto Organizado Tipo",
+      "title": "08_Recetario_y_Tecnicas_Cocina.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Recetarios Noor",
+      "tags": [
+            "08_Producto_Recetarios",
+            "Producto Organizado Tipo",
+            "Ingesta Masiva"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/08_Producto_Recetarios/Producto Organizado Tipo/08_Recetario_y_Tecnicas_Cocina.pdf",
+      "media": {
+            "driveFileId": "1T7GuvqTRzf5w70qoJkqz0479jEkBmnIv",
+            "pdf": "1T7GuvqTRzf5w70qoJkqz0479jEkBmnIv",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1T7GuvqTRzf5w70qoJkqz0479jEkBmnIv&sz=w1000"
+      }
+}
   ]
 };

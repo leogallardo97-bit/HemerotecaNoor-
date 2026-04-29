@@ -20988,5 +20988,2406 @@ window.NoorLocalDB = {
             "thumbnail": "https://drive.google.com/thumbnail?id=1juBQdfF9IpxsY6p1WUmuDYWFoseSgXfU&sz=w1000"
       }
 }
+  ,
+    {
+      "id": "local-09-09_Tarjetero_08_Suelto_pdf",
+      "driveId": "19feCLFfplQCc02lQ5vCEh4k2fWKNU9Ws",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_08_Suelto.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_08_Suelto.pdf",
+      "media": {
+            "driveFileId": "19feCLFfplQCc02lQ5vCEh4k2fWKNU9Ws",
+            "pdf": "19feCLFfplQCc02lQ5vCEh4k2fWKNU9Ws",
+            "thumbnail": "https://drive.google.com/thumbnail?id=19feCLFfplQCc02lQ5vCEh4k2fWKNU9Ws&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_03_pdf",
+      "driveId": "1evouEz5v9Bbvdsh9W885UmfwgUjKWqtE",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_03.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_03.pdf/09_Tarjetero_03.pdf",
+      "media": {
+            "driveFileId": "1evouEz5v9Bbvdsh9W885UmfwgUjKWqtE",
+            "pdf": "1evouEz5v9Bbvdsh9W885UmfwgUjKWqtE",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1evouEz5v9Bbvdsh9W885UmfwgUjKWqtE&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_03__1__pdf_pdf",
+      "driveId": "1pOgLVIcSnLqzMrCsaofn8cQwLr5s44Ev",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_03 (1).pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_03.pdf/09_Tarjetero_03 (1).pdf.pdf",
+      "media": {
+            "driveFileId": "1pOgLVIcSnLqzMrCsaofn8cQwLr5s44Ev",
+            "pdf": "1pOgLVIcSnLqzMrCsaofn8cQwLr5s44Ev",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1pOgLVIcSnLqzMrCsaofn8cQwLr5s44Ev&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_03_pdf_pdf",
+      "driveId": "1yGMlOrvQ3mboVDn0fH8fTjMFwikvsD9N",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_03.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_03.pdf/09_Tarjetero_03.pdf.pdf",
+      "media": {
+            "driveFileId": "1yGMlOrvQ3mboVDn0fH8fTjMFwikvsD9N",
+            "pdf": "1yGMlOrvQ3mboVDn0fH8fTjMFwikvsD9N",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1yGMlOrvQ3mboVDn0fH8fTjMFwikvsD9N&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_02_01_pdf",
+      "driveId": "100taB0q0szsW7E7JQkBDbSBoTxUNodVk",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_02_01.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_02_01.pdf",
+      "media": {
+            "driveFileId": "100taB0q0szsW7E7JQkBDbSBoTxUNodVk",
+            "pdf": "100taB0q0szsW7E7JQkBDbSBoTxUNodVk",
+            "thumbnail": "https://drive.google.com/thumbnail?id=100taB0q0szsW7E7JQkBDbSBoTxUNodVk&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_02_02_pdf_pdf",
+      "driveId": "1FVY5MHVF0MfysgyM7wJglp-YaNHp7AFR",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_02_02.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_02_02.pdf.pdf",
+      "media": {
+            "driveFileId": "1FVY5MHVF0MfysgyM7wJglp-YaNHp7AFR",
+            "pdf": "1FVY5MHVF0MfysgyM7wJglp-YaNHp7AFR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1FVY5MHVF0MfysgyM7wJglp-YaNHp7AFR&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_01_pdf",
+      "driveId": "1loEv_h1o0I58btbIMFhbRIJUEKUARwpf",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_01.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_01.pdf",
+      "media": {
+            "driveFileId": "1loEv_h1o0I58btbIMFhbRIJUEKUARwpf",
+            "pdf": "1loEv_h1o0I58btbIMFhbRIJUEKUARwpf",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1loEv_h1o0I58btbIMFhbRIJUEKUARwpf&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_06_pdf",
+      "driveId": "19Wv3qVVUL-bZja_bVAEBI-oZY2Mkpye4",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_06.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_06.pdf",
+      "media": {
+            "driveFileId": "19Wv3qVVUL-bZja_bVAEBI-oZY2Mkpye4",
+            "pdf": "19Wv3qVVUL-bZja_bVAEBI-oZY2Mkpye4",
+            "thumbnail": "https://drive.google.com/thumbnail?id=19Wv3qVVUL-bZja_bVAEBI-oZY2Mkpye4&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_04_pdf",
+      "driveId": "1Qgphi2qVbzlSn7qA7V7H9NZ6Qqz9jeHz",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_04.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_04.pdf",
+      "media": {
+            "driveFileId": "1Qgphi2qVbzlSn7qA7V7H9NZ6Qqz9jeHz",
+            "pdf": "1Qgphi2qVbzlSn7qA7V7H9NZ6Qqz9jeHz",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Qgphi2qVbzlSn7qA7V7H9NZ6Qqz9jeHz&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_05_pdf",
+      "driveId": "1Gw1J0zBB9jTXtWFJOOF-5QoQRy9VMghp",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_05.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_05.pdf",
+      "media": {
+            "driveFileId": "1Gw1J0zBB9jTXtWFJOOF-5QoQRy9VMghp",
+            "pdf": "1Gw1J0zBB9jTXtWFJOOF-5QoQRy9VMghp",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Gw1J0zBB9jTXtWFJOOF-5QoQRy9VMghp&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-09_Tarjetero_07_pdf",
+      "driveId": "1ZUltN0GvAP9TUySiqcFIZvyNJiTMX7r2",
+      "category": "09_Tarjetero",
+      "subcategory": "Tarjetero",
+      "title": "09_Tarjetero_07.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Tarjetero",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Tarjetero/09_Tarjetero_07.pdf",
+      "media": {
+            "driveFileId": "1ZUltN0GvAP9TUySiqcFIZvyNJiTMX7r2",
+            "pdf": "1ZUltN0GvAP9TUySiqcFIZvyNJiTMX7r2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ZUltN0GvAP9TUySiqcFIZvyNJiTMX7r2&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_s_N_____Navidad_____Dasha___pdf",
+      "driveId": "1DC2NImLSrU2xcGdVub94JpQeGeMXRR4z",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[s N] - [Navidad] - [Dasha] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[s N] - [Navidad] - [Dasha] .pdf",
+      "media": {
+            "driveFileId": "1DC2NImLSrU2xcGdVub94JpQeGeMXRR4z",
+            "pdf": "1DC2NImLSrU2xcGdVub94JpQeGeMXRR4z",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1DC2NImLSrU2xcGdVub94JpQeGeMXRR4z&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Antonio_S_nchez_y_Francisco_Mu_oz__Toro_Albal_____pdf",
+      "driveId": "1xX--xoMU3LEF3Shpd1RHmjw5B8H2-HNO",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [Antonio Sánchez y Francisco Muñoz (Toro Albalá)] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [Antonio Sánchez y Francisco Muñoz (Toro Albalá)] .pdf",
+      "media": {
+            "driveFileId": "1xX--xoMU3LEF3Shpd1RHmjw5B8H2-HNO",
+            "pdf": "1xX--xoMU3LEF3Shpd1RHmjw5B8H2-HNO",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1xX--xoMU3LEF3Shpd1RHmjw5B8H2-HNO&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Agradecimiento_____Hijos_de_Cecilio_Valga__n__Mantas_Ezcaray___pdf",
+      "driveId": "1qixme6SdOCmaTnz9akq9WhfV8giRSaD0",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Agradecimiento] - [Hijos de Cecilio Valgañón (Mantas Ezcaray)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Agradecimiento] - [Hijos de Cecilio Valgañón (Mantas Ezcaray)].pdf",
+      "media": {
+            "driveFileId": "1qixme6SdOCmaTnz9akq9WhfV8giRSaD0",
+            "pdf": "1qixme6SdOCmaTnz9akq9WhfV8giRSaD0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1qixme6SdOCmaTnz9akq9WhfV8giRSaD0&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2021_12_00____Navidad_____Ligre_y_Juan_Falcon__pdf",
+      "driveId": "1Upso_UojJtIEUzAAE5m-A5Lw37BAwUOf",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2021-12-00 - [Navidad] - [Ligre y Juan Falcon].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2021-12-00 - [Navidad] - [Ligre y Juan Falcon].pdf",
+      "media": {
+            "driveFileId": "1Upso_UojJtIEUzAAE5m-A5Lw37BAwUOf",
+            "pdf": "1Upso_UojJtIEUzAAE5m-A5Lw37BAwUOf",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Upso_UojJtIEUzAAE5m-A5Lw37BAwUOf&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_03_27____Pascua_____Desconocido__pdf",
+      "driveId": "1ethVKmwvKkVPhHPVQBJcFkoLxHra82Ia",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-03-27 - [Pascua] - [Desconocido].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-03-27 - [Pascua] - [Desconocido].pdf",
+      "media": {
+            "driveFileId": "1ethVKmwvKkVPhHPVQBJcFkoLxHra82Ia",
+            "pdf": "1ethVKmwvKkVPhHPVQBJcFkoLxHra82Ia",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ethVKmwvKkVPhHPVQBJcFkoLxHra82Ia&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2012_12_05____Navidad_____Lucas_y_Monte_Salgot_pdf",
+      "driveId": "1AL1U2r9IE2CxVLm-J125td0nGXExUaZN",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2012-12-05 - [Navidad] - [Lucas y Monte-Salgot.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2012-12-05 - [Navidad] - [Lucas y Monte-Salgot.pdf",
+      "media": {
+            "driveFileId": "1AL1U2r9IE2CxVLm-J125td0nGXExUaZN",
+            "pdf": "1AL1U2r9IE2CxVLm-J125td0nGXExUaZN",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1AL1U2r9IE2CxVLm-J125td0nGXExUaZN&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2022_03_23____Agradecimiento_Experiencia_____Juan_Antonio_y_Mar__pdf",
+      "driveId": "1ftIABqg7Cm9DDtRZ9qN_H_SFwlUwzZq6",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2022-03-23 - [Agradecimiento Experiencia] - [Juan Antonio y Mar].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2022-03-23 - [Agradecimiento Experiencia] - [Juan Antonio y Mar].pdf",
+      "media": {
+            "driveFileId": "1ftIABqg7Cm9DDtRZ9qN_H_SFwlUwzZq6",
+            "pdf": "1ftIABqg7Cm9DDtRZ9qN_H_SFwlUwzZq6",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ftIABqg7Cm9DDtRZ9qN_H_SFwlUwzZq6&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_12_30____Navidad_____Miguel_Torres__S_A___pdf",
+      "driveId": "143V2ObrnmmvPJTPmsEPkYK6jMgaWlsC0",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-12-30 - [Navidad] - [Miguel Torres, S.A.].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-12-30 - [Navidad] - [Miguel Torres, S.A.].pdf",
+      "media": {
+            "driveFileId": "143V2ObrnmmvPJTPmsEPkYK6jMgaWlsC0",
+            "pdf": "143V2ObrnmmvPJTPmsEPkYK6jMgaWlsC0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=143V2ObrnmmvPJTPmsEPkYK6jMgaWlsC0&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Rese_a_de_Prensa_____Pilar_Candil__Avalon___pdf",
+      "driveId": "1-iIiF36RLN8crgkRyjXuX1HnotueY85A",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Reseña de Prensa] - [Pilar Candil (Avalon)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Reseña de Prensa] - [Pilar Candil (Avalon)].pdf",
+      "media": {
+            "driveFileId": "1-iIiF36RLN8crgkRyjXuX1HnotueY85A",
+            "pdf": "1-iIiF36RLN8crgkRyjXuX1HnotueY85A",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-iIiF36RLN8crgkRyjXuX1HnotueY85A&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_11_30____Estrella_Michelin_2017_____Jorge_A__Grosse__Gonz_lez_Byass___pdf",
+      "driveId": "1LHqaQW79JNnsE0tiJaMlC81QjiyYCDRn",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-11-30 - [Estrella Michelin 2017] - [Jorge A. Grosse (González Byass)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-11-30 - [Estrella Michelin 2017] - [Jorge A. Grosse (González Byass)].pdf",
+      "media": {
+            "driveFileId": "1LHqaQW79JNnsE0tiJaMlC81QjiyYCDRn",
+            "pdf": "1LHqaQW79JNnsE0tiJaMlC81QjiyYCDRn",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1LHqaQW79JNnsE0tiJaMlC81QjiyYCDRn&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2017_00_00____Regalo_Libro_____Disfrutar_Restaurant__pdf",
+      "driveId": "1KiazJ7WeA8tr5HQUkDaxTtL442Fqailw",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2017-00-00 - [Regalo Libro] - [Disfrutar Restaurant].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2017-00-00 - [Regalo Libro] - [Disfrutar Restaurant].pdf",
+      "media": {
+            "driveFileId": "1KiazJ7WeA8tr5HQUkDaxTtL442Fqailw",
+            "pdf": "1KiazJ7WeA8tr5HQUkDaxTtL442Fqailw",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KiazJ7WeA8tr5HQUkDaxTtL442Fqailw&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2023_11_00____3_Estrellas_Michelin_____Isaac___The_Clove_Club__pdf",
+      "driveId": "1IbpkglSO6SlRz2BfNCSnC8o6UNXMBb8D",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2023-11-00 - [3 Estrellas Michelin] - [Isaac & The Clove Club].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2023-11-00 - [3 Estrellas Michelin] - [Isaac & The Clove Club].pdf",
+      "media": {
+            "driveFileId": "1IbpkglSO6SlRz2BfNCSnC8o6UNXMBb8D",
+            "pdf": "1IbpkglSO6SlRz2BfNCSnC8o6UNXMBb8D",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IbpkglSO6SlRz2BfNCSnC8o6UNXMBb8D&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Navidad_y_Estrella_Michelin_____Tom_s_Postigo____pdf",
+      "driveId": "1lk6gkM-Fi9lCPVFzLAlpty9AitkdPhvn",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Navidad y Estrella Michelin] - [Tomás Postigo]  .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Navidad y Estrella Michelin] - [Tomás Postigo]  .pdf",
+      "media": {
+            "driveFileId": "1lk6gkM-Fi9lCPVFzLAlpty9AitkdPhvn",
+            "pdf": "1lk6gkM-Fi9lCPVFzLAlpty9AitkdPhvn",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1lk6gkM-Fi9lCPVFzLAlpty9AitkdPhvn&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____A_o_Nuevo_____Belondrade___pdf",
+      "driveId": "1289iPlM0SQw5K67mGygCY0Ddb6egKkvo",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Año Nuevo] - [Belondrade] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Año Nuevo] - [Belondrade] .pdf",
+      "media": {
+            "driveFileId": "1289iPlM0SQw5K67mGygCY0Ddb6egKkvo",
+            "pdf": "1289iPlM0SQw5K67mGygCY0Ddb6egKkvo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1289iPlM0SQw5K67mGygCY0Ddb6egKkvo&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2021_12_23____Navidad________REVISAR_REMITENTE__pdf",
+      "driveId": "1f8-yEtNaD6W2QJY64-DxiUJq6ZT6Bx-6",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2021-12-23 - [Navidad] - [⚠️ REVISAR REMITENTE].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2021-12-23 - [Navidad] - [⚠️ REVISAR REMITENTE].pdf",
+      "media": {
+            "driveFileId": "1f8-yEtNaD6W2QJY64-DxiUJq6ZT6Bx-6",
+            "pdf": "1f8-yEtNaD6W2QJY64-DxiUJq6ZT6Bx-6",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1f8-yEtNaD6W2QJY64-DxiUJq6ZT6Bx-6&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2021_12_00____Navidad_____Angelines_y_Fernando__dellaSera___pdf",
+      "driveId": "196Pyyo-K8OCXRMKxxPNoIwjQQJGmE9xR",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2021-12-00 - [Navidad] - [Angelines y Fernando (dellaSera)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2021-12-00 - [Navidad] - [Angelines y Fernando (dellaSera)].pdf",
+      "media": {
+            "driveFileId": "196Pyyo-K8OCXRMKxxPNoIwjQQJGmE9xR",
+            "pdf": "196Pyyo-K8OCXRMKxxPNoIwjQQJGmE9xR",
+            "thumbnail": "https://drive.google.com/thumbnail?id=196Pyyo-K8OCXRMKxxPNoIwjQQJGmE9xR&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Agradecimiento_Cena_____Paco__Farragua_Gij_n_____pdf",
+      "driveId": "1ePPpz8pr2ICPDhzXd_k2IQIEz820eE0k",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Agradecimiento Cena] - [Paco (Farragua Gijón)]  .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Agradecimiento Cena] - [Paco (Farragua Gijón)]  .pdf",
+      "media": {
+            "driveFileId": "1ePPpz8pr2ICPDhzXd_k2IQIEz820eE0k",
+            "pdf": "1ePPpz8pr2ICPDhzXd_k2IQIEz820eE0k",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ePPpz8pr2ICPDhzXd_k2IQIEz820eE0k&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2023_12_00____Navidad_____Tempos_Vega_Sicilia__pdf",
+      "driveId": "1vQ_FbE9lFrfXzUN8U70CFf5q_8sZWE5P",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2023-12-00 - [Navidad] - [Tempos Vega Sicilia].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2023-12-00 - [Navidad] - [Tempos Vega Sicilia].pdf",
+      "media": {
+            "driveFileId": "1vQ_FbE9lFrfXzUN8U70CFf5q_8sZWE5P",
+            "pdf": "1vQ_FbE9lFrfXzUN8U70CFf5q_8sZWE5P",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1vQ_FbE9lFrfXzUN8U70CFf5q_8sZWE5P&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Navidad_____Lucia_Freitas___pdf",
+      "driveId": "17BjVWf-hDqTRGBbCqJiylqAsNFWrBs9R",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Navidad] - [Lucia Freitas] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Navidad] - [Lucia Freitas] .pdf",
+      "media": {
+            "driveFileId": "17BjVWf-hDqTRGBbCqJiylqAsNFWrBs9R",
+            "pdf": "17BjVWf-hDqTRGBbCqJiylqAsNFWrBs9R",
+            "thumbnail": "https://drive.google.com/thumbnail?id=17BjVWf-hDqTRGBbCqJiylqAsNFWrBs9R&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_12_00____Navidad_____Grup_gsr__pdf",
+      "driveId": "154MATafvnLIznc5tFGi3ZaqZfsUqY81F",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-12-00 - [Navidad] - [Grup gsr).pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-12-00 - [Navidad] - [Grup gsr).pdf",
+      "media": {
+            "driveFileId": "154MATafvnLIznc5tFGi3ZaqZfsUqY81F",
+            "pdf": "154MATafvnLIznc5tFGi3ZaqZfsUqY81F",
+            "thumbnail": "https://drive.google.com/thumbnail?id=154MATafvnLIznc5tFGi3ZaqZfsUqY81F&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2017_00_00____Navidad_y_Estrella_Michelin_____Tom_s_Postigo__pdf",
+      "driveId": "1CdVNjrBkfFMyr14yQkxhNN5eRXi1xR0G",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2017-00-00 - [Navidad y Estrella Michelin] - [Tomás Postigo].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2017-00-00 - [Navidad y Estrella Michelin] - [Tomás Postigo].pdf",
+      "media": {
+            "driveFileId": "1CdVNjrBkfFMyr14yQkxhNN5eRXi1xR0G",
+            "pdf": "1CdVNjrBkfFMyr14yQkxhNN5eRXi1xR0G",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1CdVNjrBkfFMyr14yQkxhNN5eRXi1xR0G&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_03_00____Regalo_Experiencia_Noor_____Hijos_de_Mar_a_Dolores_Rueda_y_Jos__Mart_nez_pdf",
+      "driveId": "1YN4UGaDA_vAPNw8Gg-0pxvFlpSfAf1Cu",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-03-00 - [Regalo Experiencia Noor] - [Hijos de María Dolores Rueda y José Martínez.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-03-00 - [Regalo Experiencia Noor] - [Hijos de María Dolores Rueda y José Martínez.pdf",
+      "media": {
+            "driveFileId": "1YN4UGaDA_vAPNw8Gg-0pxvFlpSfAf1Cu",
+            "pdf": "1YN4UGaDA_vAPNw8Gg-0pxvFlpSfAf1Cu",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YN4UGaDA_vAPNw8Gg-0pxvFlpSfAf1Cu&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_A_O____0000_06_12____Agradecimiento_Cena_____F_lix_Merlo___pdf",
+      "driveId": "1UdJWVX6L7XlZBTnQhWefPmnaMg1TTplX",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR AÑO] - 0000-06-12 - [Agradecimiento Cena] - [Félix Merlo] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR AÑO] - 0000-06-12 - [Agradecimiento Cena] - [Félix Merlo] .pdf",
+      "media": {
+            "driveFileId": "1UdJWVX6L7XlZBTnQhWefPmnaMg1TTplX",
+            "pdf": "1UdJWVX6L7XlZBTnQhWefPmnaMg1TTplX",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1UdJWVX6L7XlZBTnQhWefPmnaMg1TTplX&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2021_12_00____Navidad_____Cervezas_Alhambra__pdf",
+      "driveId": "1xlJEh2gB6aaMdT54rHhXKje5TtqLI0XL",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2021-12-00 - [Navidad] - [Cervezas Alhambra].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2021-12-00 - [Navidad] - [Cervezas Alhambra].pdf",
+      "media": {
+            "driveFileId": "1xlJEh2gB6aaMdT54rHhXKje5TtqLI0XL",
+            "pdf": "1xlJEh2gB6aaMdT54rHhXKje5TtqLI0XL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1xlJEh2gB6aaMdT54rHhXKje5TtqLI0XL&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2023_11_00____3_Estrellas_Michelin_____Victor_Torres__Quirat_Restaurant___pdf",
+      "driveId": "17m-b9TMzqn1SkDVKALfLyrMpz2yN3HZd",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2023-11-00 - [3 Estrellas Michelin] - [Victor Torres (Quirat Restaurant)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2023-11-00 - [3 Estrellas Michelin] - [Victor Torres (Quirat Restaurant)].pdf",
+      "media": {
+            "driveFileId": "17m-b9TMzqn1SkDVKALfLyrMpz2yN3HZd",
+            "pdf": "17m-b9TMzqn1SkDVKALfLyrMpz2yN3HZd",
+            "thumbnail": "https://drive.google.com/thumbnail?id=17m-b9TMzqn1SkDVKALfLyrMpz2yN3HZd&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2021_12_00____Navidad_____Ayuntamiento_de_C_rdoba__pdf",
+      "driveId": "1VlPmqTzJ5AmYQGAB6KbbkKzalT3N8Hw1",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2021-12-00 - [Navidad] - [Ayuntamiento de Córdoba].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2021-12-00 - [Navidad] - [Ayuntamiento de Córdoba].pdf",
+      "media": {
+            "driveFileId": "1VlPmqTzJ5AmYQGAB6KbbkKzalT3N8Hw1",
+            "pdf": "1VlPmqTzJ5AmYQGAB6KbbkKzalT3N8Hw1",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1VlPmqTzJ5AmYQGAB6KbbkKzalT3N8Hw1&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_A_O____0000_03_00____Felicitaci_n_Primavera_____Pedro_Ruiz_Aragoneses__Alma_Carraovejas___pdf",
+      "driveId": "1TPYucgR0hhQzFdWulnDJ5thcCJFgOt0G",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR AÑO] - 0000-03-00 - [Felicitación Primavera] - [Pedro Ruiz Aragoneses (Alma Carraovejas)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR AÑO] - 0000-03-00 - [Felicitación Primavera] - [Pedro Ruiz Aragoneses (Alma Carraovejas)].pdf",
+      "media": {
+            "driveFileId": "1TPYucgR0hhQzFdWulnDJ5thcCJFgOt0G",
+            "pdf": "1TPYucgR0hhQzFdWulnDJ5thcCJFgOt0G",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TPYucgR0hhQzFdWulnDJ5thcCJFgOt0G&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Regalo_____LACR_ME__pdf",
+      "driveId": "1x3ahkUOfAb6C2g2RYGwAS00B-IbTUzFn",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Regalo] - [LACRÈME].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Regalo] - [LACRÈME].pdf",
+      "media": {
+            "driveFileId": "1x3ahkUOfAb6C2g2RYGwAS00B-IbTUzFn",
+            "pdf": "1x3ahkUOfAb6C2g2RYGwAS00B-IbTUzFn",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1x3ahkUOfAb6C2g2RYGwAS00B-IbTUzFn&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2017_00_00____Experiencia_Culinaria_____Nikolas_Moussu_y_Laure__pdf",
+      "driveId": "1YgDNMbJxHe4Qn6IZhPpKJz8pF0XgE0Wq",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2017-00-00 - [Experiencia Culinaria] - [Nikolas Moussu y Laure].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2017-00-00 - [Experiencia Culinaria] - [Nikolas Moussu y Laure].pdf",
+      "media": {
+            "driveFileId": "1YgDNMbJxHe4Qn6IZhPpKJz8pF0XgE0Wq",
+            "pdf": "1YgDNMbJxHe4Qn6IZhPpKJz8pF0XgE0Wq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YgDNMbJxHe4Qn6IZhPpKJz8pF0XgE0Wq&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2021_12_00____Navidad_____Jos__M__Ruiz_Benito_y_Roc_o_Ruiz_Aragoneses__pdf",
+      "driveId": "1ITMVj0i75N3VUh-KyfQ9MzZW4pcEQQxs",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2021-12-00 - [Navidad] - [José Mª Ruiz Benito y Rocío Ruiz Aragoneses].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2021-12-00 - [Navidad] - [José Mª Ruiz Benito y Rocío Ruiz Aragoneses].pdf",
+      "media": {
+            "driveFileId": "1ITMVj0i75N3VUh-KyfQ9MzZW4pcEQQxs",
+            "pdf": "1ITMVj0i75N3VUh-KyfQ9MzZW4pcEQQxs",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ITMVj0i75N3VUh-KyfQ9MzZW4pcEQQxs&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Mar_a_Cristina_Morales__Cajasur____pdf",
+      "driveId": "1iHpSjxtM1A8CPiptEzYVJINb-VCyxIV-",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [María Cristina Morales (Cajasur)] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [María Cristina Morales (Cajasur)] .pdf",
+      "media": {
+            "driveFileId": "1iHpSjxtM1A8CPiptEzYVJINb-VCyxIV-",
+            "pdf": "1iHpSjxtM1A8CPiptEzYVJINb-VCyxIV-",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1iHpSjxtM1A8CPiptEzYVJINb-VCyxIV-&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Juanma_Moreno__Presidente_Junta_de_Andaluc_a_____pdf",
+      "driveId": "1SqJ7cJ-xM2k6YuvjW814TzajgUxm5CpG",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [Juanma Moreno (Presidente Junta de Andalucía)]  .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [Juanma Moreno (Presidente Junta de Andalucía)]  .pdf",
+      "media": {
+            "driveFileId": "1SqJ7cJ-xM2k6YuvjW814TzajgUxm5CpG",
+            "pdf": "1SqJ7cJ-xM2k6YuvjW814TzajgUxm5CpG",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1SqJ7cJ-xM2k6YuvjW814TzajgUxm5CpG&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Luc_a_y_Victor____pdf",
+      "driveId": "1ZBSAdbDw61BeAW6oeN-Ve6Zo9VvtpQH2",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [Lucía y Victor]  .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [Lucía y Victor]  .pdf",
+      "media": {
+            "driveFileId": "1ZBSAdbDw61BeAW6oeN-Ve6Zo9VvtpQH2",
+            "pdf": "1ZBSAdbDw61BeAW6oeN-Ve6Zo9VvtpQH2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ZBSAdbDw61BeAW6oeN-Ve6Zo9VvtpQH2&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Experiencia_en_Noor_____Marina_B__pdf",
+      "driveId": "1TEezDdyyZDyqZW71uoDxyu_RwmD4NaTo",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Experiencia en Noor] - [Marina B].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Experiencia en Noor] - [Marina B].pdf",
+      "media": {
+            "driveFileId": "1TEezDdyyZDyqZW71uoDxyu_RwmD4NaTo",
+            "pdf": "1TEezDdyyZDyqZW71uoDxyu_RwmD4NaTo",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TEezDdyyZDyqZW71uoDxyu_RwmD4NaTo&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Informaci_n_____Jorge_A__Grosse__Gonz_lez_Byass____pdf",
+      "driveId": "1xchyDrAV1Cp3sDlkBvDZa3WE-4IRCzur",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Información] - [Jorge A. Grosse (González Byass)] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Información] - [Jorge A. Grosse (González Byass)] .pdf",
+      "media": {
+            "driveFileId": "1xchyDrAV1Cp3sDlkBvDZa3WE-4IRCzur",
+            "pdf": "1xchyDrAV1Cp3sDlkBvDZa3WE-4IRCzur",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1xchyDrAV1Cp3sDlkBvDZa3WE-4IRCzur&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Enhorabuena_Reconocimiento_____Florister_a_Loli___pdf",
+      "driveId": "1Qus7gjjdFbo3DBEBa6O-G2b0ABrQjhhL",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Enhorabuena Reconocimiento] - [Floristería Loli] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Enhorabuena Reconocimiento] - [Floristería Loli] .pdf",
+      "media": {
+            "driveFileId": "1Qus7gjjdFbo3DBEBa6O-G2b0ABrQjhhL",
+            "pdf": "1Qus7gjjdFbo3DBEBa6O-G2b0ABrQjhhL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Qus7gjjdFbo3DBEBa6O-G2b0ABrQjhhL&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Navidad_y__xitos_Noor_____Damy_Solos__Madreamiga_____pdf",
+      "driveId": "1YsJePZg6__68Lh6dNHcnm4H2A8aMyhBq",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Navidad y Éxitos Noor] - [Damy Solos (Madreamiga)]  .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Navidad y Éxitos Noor] - [Damy Solos (Madreamiga)]  .pdf",
+      "media": {
+            "driveFileId": "1YsJePZg6__68Lh6dNHcnm4H2A8aMyhBq",
+            "pdf": "1YsJePZg6__68Lh6dNHcnm4H2A8aMyhBq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1YsJePZg6__68Lh6dNHcnm4H2A8aMyhBq&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2015_12_00____Navidad_____Cenlle__Juegaterapia___pdf",
+      "driveId": "1s3ZqbiNiMZBuM45kPTD6qFLjj_W84tZq",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2015-12-00 - [Navidad] - [Cenlle (Juegaterapia)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2015-12-00 - [Navidad] - [Cenlle (Juegaterapia)].pdf",
+      "media": {
+            "driveFileId": "1s3ZqbiNiMZBuM45kPTD6qFLjj_W84tZq",
+            "pdf": "1s3ZqbiNiMZBuM45kPTD6qFLjj_W84tZq",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1s3ZqbiNiMZBuM45kPTD6qFLjj_W84tZq&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Regalo_Macambo_____Coro_S_nchez__Ikaro___pdf",
+      "driveId": "1Lasje6VEBdyYL7N815dlsvS8eW_0ZA_c",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Regalo Macambo] - [Coro Sánchez (Ikaro)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Regalo Macambo] - [Coro Sánchez (Ikaro)].pdf",
+      "media": {
+            "driveFileId": "1Lasje6VEBdyYL7N815dlsvS8eW_0ZA_c",
+            "pdf": "1Lasje6VEBdyYL7N815dlsvS8eW_0ZA_c",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Lasje6VEBdyYL7N815dlsvS8eW_0ZA_c&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_12_00____Navidad_____Echaurren__pdf",
+      "driveId": "1lgDQPEwaaLz-jDjtBwpmEtpjQYap-VwZ",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-12-00 - [Navidad] - [Echaurren].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-12-00 - [Navidad] - [Echaurren].pdf",
+      "media": {
+            "driveFileId": "1lgDQPEwaaLz-jDjtBwpmEtpjQYap-VwZ",
+            "pdf": "1lgDQPEwaaLz-jDjtBwpmEtpjQYap-VwZ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1lgDQPEwaaLz-jDjtBwpmEtpjQYap-VwZ&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Navidad_____Echaurren___pdf",
+      "driveId": "1zlsMJtkg_o-qd9TvAMxFu9nFoRwVUtzv",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Navidad] - [Echaurren] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Navidad] - [Echaurren] .pdf",
+      "media": {
+            "driveFileId": "1zlsMJtkg_o-qd9TvAMxFu9nFoRwVUtzv",
+            "pdf": "1zlsMJtkg_o-qd9TvAMxFu9nFoRwVUtzv",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1zlsMJtkg_o-qd9TvAMxFu9nFoRwVUtzv&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Sera_y_Emilio___Felicitaci_n_por_la_estrella_sin_fecha_visible_pdf",
+      "driveId": "1-ZYKBkQOE6NokflJf69X15d2vioTzOaB",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [Sera y Emilio]  Felicitación por la estrella sin fecha visible.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [Sera y Emilio]  Felicitación por la estrella sin fecha visible.pdf",
+      "media": {
+            "driveFileId": "1-ZYKBkQOE6NokflJf69X15d2vioTzOaB",
+            "pdf": "1-ZYKBkQOE6NokflJf69X15d2vioTzOaB",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1-ZYKBkQOE6NokflJf69X15d2vioTzOaB&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Navidad_____Carrasco_Ib_ricos__pdf",
+      "driveId": "1KJtFF16mOYlC0i5cVSjM3vuh8xHFgpJ3",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Navidad] - [Carrasco Ibéricos].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Navidad] - [Carrasco Ibéricos].pdf",
+      "media": {
+            "driveFileId": "1KJtFF16mOYlC0i5cVSjM3vuh8xHFgpJ3",
+            "pdf": "1KJtFF16mOYlC0i5cVSjM3vuh8xHFgpJ3",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1KJtFF16mOYlC0i5cVSjM3vuh8xHFgpJ3&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Navidad_____Gonz_lez_Byass___pdf",
+      "driveId": "1Ldvg_V4wtbfTfyQlIte-fRW2iv0r7R4k",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Navidad] - [González Byass] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Navidad] - [González Byass] .pdf",
+      "media": {
+            "driveFileId": "1Ldvg_V4wtbfTfyQlIte-fRW2iv0r7R4k",
+            "pdf": "1Ldvg_V4wtbfTfyQlIte-fRW2iv0r7R4k",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1Ldvg_V4wtbfTfyQlIte-fRW2iv0r7R4k&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_11_25____Estrella_Michelin_____Valrhona_Espa_a__pdf",
+      "driveId": "1RpVNa54NiQ3srF8FFrsrcnZJSYv5NZZL",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-11-25 - [Estrella Michelin] - [Valrhona España].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-11-25 - [Estrella Michelin] - [Valrhona España].pdf",
+      "media": {
+            "driveFileId": "1RpVNa54NiQ3srF8FFrsrcnZJSYv5NZZL",
+            "pdf": "1RpVNa54NiQ3srF8FFrsrcnZJSYv5NZZL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1RpVNa54NiQ3srF8FFrsrcnZJSYv5NZZL&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_A_O____0000_10_20____D_a_del_Chef_____Andr_s_Rodr_guez__Tapas_Magazine_____pdf",
+      "driveId": "1yPRepvccXNoAlLlW3_64JwYkTzvHB4Gy",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR AÑO] - 0000-10-20 - [Día del Chef] - [Andrés Rodríguez (Tapas Magazine)]  .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR AÑO] - 0000-10-20 - [Día del Chef] - [Andrés Rodríguez (Tapas Magazine)]  .pdf",
+      "media": {
+            "driveFileId": "1yPRepvccXNoAlLlW3_64JwYkTzvHB4Gy",
+            "pdf": "1yPRepvccXNoAlLlW3_64JwYkTzvHB4Gy",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1yPRepvccXNoAlLlW3_64JwYkTzvHB4Gy&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_Y_OCASI_N____0000_00_00____Felicitaci_n_____Mavi__pdf",
+      "driveId": "1_tPU8q-AqhqdmoZvJDF9XW0AtDpVeLRh",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA Y OCASIÓN] - 0000-00-00 - [Felicitación] - [Mavi].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA Y OCASIÓN] - 0000-00-00 - [Felicitación] - [Mavi].pdf",
+      "media": {
+            "driveFileId": "1_tPU8q-AqhqdmoZvJDF9XW0AtDpVeLRh",
+            "pdf": "1_tPU8q-AqhqdmoZvJDF9XW0AtDpVeLRh",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1_tPU8q-AqhqdmoZvJDF9XW0AtDpVeLRh&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_12_00____Navidad_____Tescoma__pdf",
+      "driveId": "1qoEqfQY0-JpC6ezmB2KX8OJhxbuVsM_0",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-12-00 - [Navidad] - [Tescoma].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-12-00 - [Navidad] - [Tescoma].pdf",
+      "media": {
+            "driveFileId": "1qoEqfQY0-JpC6ezmB2KX8OJhxbuVsM_0",
+            "pdf": "1qoEqfQY0-JpC6ezmB2KX8OJhxbuVsM_0",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1qoEqfQY0-JpC6ezmB2KX8OJhxbuVsM_0&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2023_12_00____Navidad_____Pepe_Ravent_s__Ravent_s_i_Blanc___pdf",
+      "driveId": "1b-60wHY2iBZ8TTpmozrdtEDHEx8yqWOS",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2023-12-00 - [Navidad] - [Pepe Raventós (Raventós i Blanc)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2023-12-00 - [Navidad] - [Pepe Raventós (Raventós i Blanc)].pdf",
+      "media": {
+            "driveFileId": "1b-60wHY2iBZ8TTpmozrdtEDHEx8yqWOS",
+            "pdf": "1b-60wHY2iBZ8TTpmozrdtEDHEx8yqWOS",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1b-60wHY2iBZ8TTpmozrdtEDHEx8yqWOS&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_11_25____Estrella_Michelin_____Antoni_Mata_Casanovas__Recaredo___pdf",
+      "driveId": "1gcXEgzmB71dDTp2ZvcdWCYelvzKn0yfI",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-11-25 - [Estrella Michelin] - [Antoni Mata Casanovas (Recaredo)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-11-25 - [Estrella Michelin] - [Antoni Mata Casanovas (Recaredo)].pdf",
+      "media": {
+            "driveFileId": "1gcXEgzmB71dDTp2ZvcdWCYelvzKn0yfI",
+            "pdf": "1gcXEgzmB71dDTp2ZvcdWCYelvzKn0yfI",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1gcXEgzmB71dDTp2ZvcdWCYelvzKn0yfI&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2022_01_12____Dos_Estrellas_Michelin_____Mahou_San_Miguel__pdf",
+      "driveId": "1IzPE2vo_aoWK8Nv8-hDV1doE87mXZ5w8",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2022-01-12 - [Dos Estrellas Michelin] - [Mahou San Miguel].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2022-01-12 - [Dos Estrellas Michelin] - [Mahou San Miguel].pdf",
+      "media": {
+            "driveFileId": "1IzPE2vo_aoWK8Nv8-hDV1doE87mXZ5w8",
+            "pdf": "1IzPE2vo_aoWK8Nv8-hDV1doE87mXZ5w8",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1IzPE2vo_aoWK8Nv8-hDV1doE87mXZ5w8&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Navidad_____LM_Estrategias____pdf",
+      "driveId": "1LSrqwrVYu0LpUbOC44hT05QwcexzMfB_",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Navidad] - [LM Estrategias]  .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Navidad] - [LM Estrategias]  .pdf",
+      "media": {
+            "driveFileId": "1LSrqwrVYu0LpUbOC44hT05QwcexzMfB_",
+            "pdf": "1LSrqwrVYu0LpUbOC44hT05QwcexzMfB_",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1LSrqwrVYu0LpUbOC44hT05QwcexzMfB_&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2023_12_18____Navidad_y_Estrella_Michelin_____Mireia_Torres__Jean_Leon__pdf",
+      "driveId": "1fPSEdMwH4dLt4coOxl7U4zHSWsteDbM2",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2023-12-18 - [Navidad y Estrella Michelin] - [Mireia Torres (Jean Leon).pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2023-12-18 - [Navidad y Estrella Michelin] - [Mireia Torres (Jean Leon).pdf",
+      "media": {
+            "driveFileId": "1fPSEdMwH4dLt4coOxl7U4zHSWsteDbM2",
+            "pdf": "1fPSEdMwH4dLt4coOxl7U4zHSWsteDbM2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1fPSEdMwH4dLt4coOxl7U4zHSWsteDbM2&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2024_bodegasToro_pdf",
+      "driveId": "1APVdDFDJkyhRYL0BGds6Uh87OvaRWn2p",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2024_bodegasToro.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2024_bodegasToro.pdf",
+      "media": {
+            "driveFileId": "1APVdDFDJkyhRYL0BGds6Uh87OvaRWn2p",
+            "pdf": "1APVdDFDJkyhRYL0BGds6Uh87OvaRWn2p",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1APVdDFDJkyhRYL0BGds6Uh87OvaRWn2p&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Enhorabuena_Reconocimiento_____Fran_Agudo_e_Iv_n_Castro__Mont_Bar___pdf",
+      "driveId": "1TMcYUyqbWQSa1J10ydwNYtb_HWRTuXXO",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Enhorabuena Reconocimiento] - [Fran Agudo e Iván Castro (Mont Bar)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Enhorabuena Reconocimiento] - [Fran Agudo e Iván Castro (Mont Bar)].pdf",
+      "media": {
+            "driveFileId": "1TMcYUyqbWQSa1J10ydwNYtb_HWRTuXXO",
+            "pdf": "1TMcYUyqbWQSa1J10ydwNYtb_HWRTuXXO",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1TMcYUyqbWQSa1J10ydwNYtb_HWRTuXXO&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_Y_REMITENTE_____Felicitaci_n_____Desconocido__pdf",
+      "driveId": "1ruuQEzoS5jMmLzHgmsb6S36gcyb5TUSJ",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA Y REMITENTE] - [Felicitación] - [Desconocido].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA Y REMITENTE] - [Felicitación] - [Desconocido].pdf",
+      "media": {
+            "driveFileId": "1ruuQEzoS5jMmLzHgmsb6S36gcyb5TUSJ",
+            "pdf": "1ruuQEzoS5jMmLzHgmsb6S36gcyb5TUSJ",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ruuQEzoS5jMmLzHgmsb6S36gcyb5TUSJ&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Restaurante_Aponiente__pdf",
+      "driveId": "1pwuhKrAheXu374a15Ms0VWSX1-VcdkKk",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [Restaurante Aponiente].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [Restaurante Aponiente].pdf",
+      "media": {
+            "driveFileId": "1pwuhKrAheXu374a15Ms0VWSX1-VcdkKk",
+            "pdf": "1pwuhKrAheXu374a15Ms0VWSX1-VcdkKk",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1pwuhKrAheXu374a15Ms0VWSX1-VcdkKk&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2020_12_00____Navidad_____Tom_s_Postigo__pdf",
+      "driveId": "1nwWqvE50Ax2qGkCOKp4CXLL6rkNzVZYK",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2020-12-00 - [Navidad] - [Tomás Postigo].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2020-12-00 - [Navidad] - [Tomás Postigo].pdf",
+      "media": {
+            "driveFileId": "1nwWqvE50Ax2qGkCOKp4CXLL6rkNzVZYK",
+            "pdf": "1nwWqvE50Ax2qGkCOKp4CXLL6rkNzVZYK",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1nwWqvE50Ax2qGkCOKp4CXLL6rkNzVZYK&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Grupo_El_Gaitero__pdf",
+      "driveId": "18ZLma4xP30fLhL2Q8t6CMWleNj-65u1a",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [Grupo El Gaitero].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [Grupo El Gaitero].pdf",
+      "media": {
+            "driveFileId": "18ZLma4xP30fLhL2Q8t6CMWleNj-65u1a",
+            "pdf": "18ZLma4xP30fLhL2Q8t6CMWleNj-65u1a",
+            "thumbnail": "https://drive.google.com/thumbnail?id=18ZLma4xP30fLhL2Q8t6CMWleNj-65u1a&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2012_12_00____Navidad_____Jos__Ribagorda__pdf",
+      "driveId": "1m1wP1NENBAIXIsV7EhEnrrs9_wLs-GwE",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2012-12-00 - [Navidad] - [José Ribagorda].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2012-12-00 - [Navidad] - [José Ribagorda].pdf",
+      "media": {
+            "driveFileId": "1m1wP1NENBAIXIsV7EhEnrrs9_wLs-GwE",
+            "pdf": "1m1wP1NENBAIXIsV7EhEnrrs9_wLs-GwE",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1m1wP1NENBAIXIsV7EhEnrrs9_wLs-GwE&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_11_24____Estrella_Michelin_____Bodegas_Riojanas__pdf",
+      "driveId": "1JQI9Zjs-2atUrqYtKSVXZ4bRBOXlXYIL",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-11-24 - [Estrella Michelin] - [Bodegas Riojanas].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2016-11-24 - [Estrella Michelin] - [Bodegas Riojanas].pdf",
+      "media": {
+            "driveFileId": "1JQI9Zjs-2atUrqYtKSVXZ4bRBOXlXYIL",
+            "pdf": "1JQI9Zjs-2atUrqYtKSVXZ4bRBOXlXYIL",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1JQI9Zjs-2atUrqYtKSVXZ4bRBOXlXYIL&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2021_11_00____Navidad_y_Comunidad_____Quille_Viglione_y_Nagore_Garc_a__LACR_ME___pdf",
+      "driveId": "1MgfDgeuY_QLWIt8_HSaDK6Xh17sv1SyV",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2021-11-00 - [Navidad y Comunidad] - [Quille Viglione y Nagore García (LACRÈME)].pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/2021-11-00 - [Navidad y Comunidad] - [Quille Viglione y Nagore García (LACRÈME)].pdf",
+      "media": {
+            "driveFileId": "1MgfDgeuY_QLWIt8_HSaDK6Xh17sv1SyV",
+            "pdf": "1MgfDgeuY_QLWIt8_HSaDK6Xh17sv1SyV",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1MgfDgeuY_QLWIt8_HSaDK6Xh17sv1SyV&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-_REVISAR_FECHA_____Estrella_Michelin_____Xanty_El_as__Acanthum____pdf",
+      "driveId": "1ycvhJgXcrPV40-fyMAZo59BuXysM1PxF",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "[REVISAR FECHA] - [Estrella Michelin] - [Xanty Elías (Acanthum)] .pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Felicitaciones/[REVISAR FECHA] - [Estrella Michelin] - [Xanty Elías (Acanthum)] .pdf",
+      "media": {
+            "driveFileId": "1ycvhJgXcrPV40-fyMAZo59BuXysM1PxF",
+            "pdf": "1ycvhJgXcrPV40-fyMAZo59BuXysM1PxF",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1ycvhJgXcrPV40-fyMAZo59BuXysM1PxF&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2016_11_29_Parlamento_Andalucia_Felicitacion_Estrella_Michelin_Noor_pdf_pdf",
+      "driveId": "1LhY5tFFkaUB9i7TXAL7Ledq2aUaX4p_o",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2016-11-29_Parlamento-Andalucia_Felicitacion-Estrella-Michelin-Noor.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Reconocimientos/2016-11-29_Parlamento-Andalucia_Felicitacion-Estrella-Michelin-Noor.pdf.pdf",
+      "media": {
+            "driveFileId": "1LhY5tFFkaUB9i7TXAL7Ledq2aUaX4p_o",
+            "pdf": "1LhY5tFFkaUB9i7TXAL7Ledq2aUaX4p_o",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1LhY5tFFkaUB9i7TXAL7Ledq2aUaX4p_o&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2003_11_20_Lo_Mejor_Gastronomia_Diploma_Finalista_Jovenes_Chefs_Paco_Morales_pdf_pdf",
+      "driveId": "1uuWVNl87UK4ZmmGJXWg8Zh0lhLhL-GHe",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2003-11-20_Lo-Mejor-Gastronomia_Diploma-Finalista-Jovenes-Chefs_Paco-Morales.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Reconocimientos/2003-11-20_Lo-Mejor-Gastronomia_Diploma-Finalista-Jovenes-Chefs_Paco-Morales.pdf.pdf",
+      "media": {
+            "driveFileId": "1uuWVNl87UK4ZmmGJXWg8Zh0lhLhL-GHe",
+            "pdf": "1uuWVNl87UK4ZmmGJXWg8Zh0lhLhL-GHe",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1uuWVNl87UK4ZmmGJXWg8Zh0lhLhL-GHe&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2007_12_20_Academia_Espanola_Gastronomia_Premio_Riscal_Cocinero_Siglo_XXI_pdf_pdf",
+      "driveId": "1QIwgvAPMIMMacrfVCXJwwrnf7S5QStX2",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2007-12-20_Academia-Espanola-Gastronomia_Premio-Riscal-Cocinero-Siglo-XXI.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Reconocimientos/2007-12-20_Academia-Espanola-Gastronomia_Premio-Riscal-Cocinero-Siglo-XXI.pdf.pdf",
+      "media": {
+            "driveFileId": "1QIwgvAPMIMMacrfVCXJwwrnf7S5QStX2",
+            "pdf": "1QIwgvAPMIMMacrfVCXJwwrnf7S5QStX2",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1QIwgvAPMIMMacrfVCXJwwrnf7S5QStX2&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2011_04_07_Zaldiaran_Campeon_Espana_Jovenes_Chefs_Paco_Morales_pdf_pdf",
+      "driveId": "14-2lScAsgczhK6GCBHCJ1LPnR-H4hjk5",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2011-04-07_Zaldiaran_Campeon-Espana-Jovenes-Chefs_Paco-Morales.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Reconocimientos/2011-04-07_Zaldiaran_Campeon-Espana-Jovenes-Chefs_Paco-Morales.pdf.pdf",
+      "media": {
+            "driveFileId": "14-2lScAsgczhK6GCBHCJ1LPnR-H4hjk5",
+            "pdf": "14-2lScAsgczhK6GCBHCJ1LPnR-H4hjk5",
+            "thumbnail": "https://drive.google.com/thumbnail?id=14-2lScAsgczhK6GCBHCJ1LPnR-H4hjk5&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2023_01_17_Diputacion_Cordoba_Felicitacion_Renovacion_Dos_Estrellas_Michelin_pdf_pdf",
+      "driveId": "1eEDo5F3v2ofC6MksDa4fst9ESzGTEbHc",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2023-01-17_Diputacion-Cordoba_Felicitacion-Renovacion-Dos-Estrellas-Michelin.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Reconocimientos/2023-01-17_Diputacion-Cordoba_Felicitacion-Renovacion-Dos-Estrellas-Michelin.pdf.pdf",
+      "media": {
+            "driveFileId": "1eEDo5F3v2ofC6MksDa4fst9ESzGTEbHc",
+            "pdf": "1eEDo5F3v2ofC6MksDa4fst9ESzGTEbHc",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1eEDo5F3v2ofC6MksDa4fst9ESzGTEbHc&sz=w1000"
+      }
+},
+    {
+      "id": "local-09-2011_05_00_Restaurante_Zaldiaran_Carta_Enhorabuena_Campeonato_Espana_pdf_pdf",
+      "driveId": "1z9VNWd7GJvWS53CS_R9lxqeK7epPMSal",
+      "category": "09_Tarjetero",
+      "subcategory": "Reconocimientos y Felicitaciones",
+      "title": "2011-05-00_Restaurante-Zaldiaran_Carta-Enhorabuena-Campeonato-Espana.pdf.pdf",
+      "year": 2026,
+      "type": "book",
+      "eraId": "S21",
+      "language": "es",
+      "source": "Tarjetero Noor",
+      "tags": [
+            "09_Tarjetero",
+            "Reconocimientos y Felicitaciones",
+            "Ingesta Masiva v2.4"
+      ],
+      "regions": [
+            "QURTUBA"
+      ],
+      "coordinates": [
+            37.8847,
+            -4.7791
+      ],
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/09_Tarjetero/Reconocimientos_Felicitaciones/Reconocimientos/2011-05-00_Restaurante-Zaldiaran_Carta-Enhorabuena-Campeonato-Espana.pdf.pdf",
+      "media": {
+            "driveFileId": "1z9VNWd7GJvWS53CS_R9lxqeK7epPMSal",
+            "pdf": "1z9VNWd7GJvWS53CS_R9lxqeK7epPMSal",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1z9VNWd7GJvWS53CS_R9lxqeK7epPMSal&sz=w1000"
+      }
+}
   ]
 };

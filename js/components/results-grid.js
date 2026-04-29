@@ -224,8 +224,15 @@ function buildDocumentCard(doc, eras) {
           <span class="fallback-title">${doc.title.substring(0, 40)}${doc.title.length > 40 ? '...' : ''}</span>
        </div>`;
 
-  const tagHtml = (doc.tags || []).slice(0, 2).map(tag => `
+  const tags = [...(doc.tags || []).slice(0, 2)];
+  const smartTags = (doc.content_tags || []).slice(0, 2);
+
+  const tagHtml = tags.map(tag => `
     <span class="doc-card__tag">${tag}</span>
+  `).join('') + smartTags.map(tag => `
+    <span class="doc-card__tag doc-card__tag--smart" title="Auto-etiquetado IA">
+      <i data-lucide="zap" width="10" height="10" style="margin-right:2px"></i>${tag}
+    </span>
   `).join('');
 
   return `

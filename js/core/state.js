@@ -236,13 +236,15 @@ const NoorState = (() => {
       const { documents, filters } = _state;
       let results = [...documents];
 
-      // ── Filtro de texto libre ──
+      // ── Filtro de texto libre (Fase 3: Full-Text Search PoC) ──
       if (filters.query.trim()) {
         const q = filters.query.toLowerCase();
         results = results.filter(doc =>
           doc.title.toLowerCase().includes(q) ||
           (doc.description || '').toLowerCase().includes(q) ||
           (doc.tags || []).some(t => t.toLowerCase().includes(q)) ||
+          (doc.content_tags || []).some(t => t.toLowerCase().includes(q)) ||
+          (doc.searchable_text || '').toLowerCase().includes(q) ||
           ((doc.metadata && doc.metadata.creator) || '').toLowerCase().includes(q) ||
           (doc.localPath || '').toLowerCase().includes(q) ||
           (doc.regions || []).some(rKey => {

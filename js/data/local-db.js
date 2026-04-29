@@ -21,7 +21,1517 @@ window.NoorLocalDB = {
   ],
   documents: [
     // --- 01_REVISTAS ---
-    {
+    
+{
+      "id": "local-rev-2011-7158",
+      "category": "01_REVISTAS",
+      "title": "Folleto gastronomía Millesime Paco-Morales",
+      "year": 2011,
+      "date": "2011-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2011_REV_Folleto_gastronomía_Millesime_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2011_REV_Folleto_gastronomía_Millesime_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "agenda Un lustro de Millesime Madrid EI Salón Millesime (www.millesimemadrid. com), cita ineludible con la gastronomía más ex clusiva, cumple cinco años. Se celebrará en el pabellón de la Pipa, en el Recinto Ferial de la Casa de Campo de Madrid, los días 19, 20 y 21 de octubre. País Vasco y México serán, respectivamente, la Comunidad Autónoma y el pais invitados. Una vez má, el evento contará con la participación de los más reputados chefs del panorama nacional como Paco Roncero, Joan Roca, Elena Arzak, Martin Berasategui y Paco Morales, además de otras figuras internacionales. Serán tres dias para disfrutar de la cocina y los productos más exquisitos, con catas, clases magistrales. degustaciones y almuerzos únicos. Five years of Millesime Madrid millesime Madrid he Salon Millesime (www.millesimemadrid. com), an unmissable iate with the most exclusive gastronomy, is five years old this year. is to be held in the La Pipa Pavilion at Madrid's Casa de Campo rade fair precinct on 19, 20 and 21 October. The quest nation ind autonomous region will be Mexico and the Basque Country -spectively. Once again, the event will be attended by some of Jixir latinoamericano re most highly reputed chefs in Spain, such as Paco Roncero, Joa Dca, Elena Arzak, Martin Berasategui and Paco Morales, as weli es eading international figures. Three days for enjoying fine cuisine and xquisite products, with tasting sessions, masterclasses, samples and nique lunches. ron está presente en el mercado con tintas calidades. Carlos Moreno, cOC -il man de O'Clock (www.oclockpub. n), en Madrid, tiene sus preferen . De Cuba, Havana Club Máximo a Añejo (www.havana-club.com), una botella soplada a mano de 50 Edmundo Dantés Reserva 25 años, una botella de porcelana que lleva 1staciones de oro de 24 quilates. amaica, Appleton Estate 21 (www.a ppletonestate. , Con notas de madera. República Dominicana, 1888 (www.brugal-ron. que pasa por barricas ireviamente, conte erez. De Martinica. Homère Clément rhum-clement.com), ara tomarlo en la esa, Sorbo a sorbo. atemala, Zacapa Xo onesdeguatemala. ye pasa por tres ba gastronomía Igastronomy RON 0 CARTAVIO XO Manual de comida nórdica NOMA, tiempo y espacio en la cocina nórdica (49,95 euros), de la edi torial Phaidon, desqlosa la carrera profesional del chef René Redzepi en su restaurante Noma (la contracción de Nordisk Mad o comida nórdica. en español) de Copenhague, establecimiento ganador del primer lugar en los S. Pellegrino World's 50 Best Restaurants de este año. El libro. que incluye un mapa desplegable, invita a la lectura desde el índice, con títulos como Piel de leche con hierbas, La tormenta perfecta, El diario de René o El equipo del Noma. Se habla del día a día en este local, de su historiay de la relación del propio René con su red de proveedores. El libro termina con más de 90 recetas de temporada. Manual of Nordic food Published by Phaidon, \"NOMA, Time and Space in Nordic Cuisine\" (49.95 euros) recounts the professional career of th",
+      "content_tags": [
+            "Paco Morales",
+            "Gastronomía",
+            "Receta",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-3589",
+      "category": "01_REVISTAS",
+      "title": "Folleto Comer Senzone",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Comer_Senzone.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Comer_Senzone.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "SENZONE Plaza de la Independencia, 3. Hotel Hostes. Tel. 91432 29 11. COCINA DE AUTOR. Tiras de calamar con judías verdes finas. Cerrado los domingos. Parquin próximo (Recoletos). Coci na de autor. No fumadores. Precio medio: 90 €. a memoria, que vivifica o borra los recuer dos, bastante selectiva con las experien cias gastronómicas. Fortalece el buen o mal recuerdo de un plato conocido (la peor paella, los me jores callos, etcétera), pero es olvidadiza con el sabor experimental. Cuesta mucho recordar los platos dequs tados en un menú de autor, pese a la impresión que de biera causarnos su primicia. Sabes que comiste bien o regular, pero ¿qué comiste? Con Paco Morales no pasa. Es una clave de su diferencia, Cómo olvidar las minús culas patatas coloreadas a mano con sustancia de cochinilla (el insecto rojo del cactus lanzaroteño), que bañas luego en una insólita mayonesa de choriceros. Cómo borrar de la mente el par de ortiguillas, densas y jugosas, de mar envueltas en delicada fécula. Cómo SENZONE Sensaciones memorables y profesionalismo de largo alcance con una joven pareja recién instalada en Madrid. o usS CEPEDA O RUT COTRONEO LA ESPOSA DEL'CHEF' PACO MORALES es una sumiller acredi tada. Aqul ejerce, además, de jefa de sala. Su trayectoria registra desti nos céletbres, como La Hacienda de Benazuza, en Sevilla; The Fat Duck. en el Reino Unido, o Mugaritz, en Guipúzcoa. Desenvuelta y perti nente en el maridaje de platos por copas, su conocimiento y cuidado de temperaturas garantiza en la mesa espectáculo e inmersión en una enología infrecuente. COMER LO QUE VIMOS ELAMBIENTE. Recinto elemental, des apacible y reducido, con muros rigidos y desnudos de estridencia inevitable. Acce so algo tortuoso, desde el hotel o desde la calle. Un espacio incomprensible en su rango gastronómico. 85 LA CARTA. En principio, escueta y consecuen te con la afluencia prevista en cada servicio, inferior a los 25 comensales. Menú degus tación de cinco tapas, tres especialidades y postre por 70 euros, y otro, que incorpora un soberbio maridaje de vinos, por 90 euros. 15 LA ATENCIÓN. Oportuna y cercana, con buen tono profesional, informada, aunque breve en la'explicación, salvo indagaciones. Secuencia de servicio de regularidad va riable, marcada por el ritmo de cocina y la concurrencia. 5) EL VINO. Cosmopolita y documentada lista de vinos, limitada en marcas nacionales y con síntomas de rodaje. Bodega muy fresca y personal. Alguna joya histórica y precios bastante ajustados. desorientarse ante las navajas escabechadas en un regodeo de algas. En la economía de ingredientes se potencian esos bocados breves -cuyo vigor sería inso portable en dosis de plato convencional-donde radica la plenitud inicial de las seis tapas con que el cocinero anticipa su ingenio. De estirpe hostelera cordobesa, Morales ha sido jefe de partida en El Bulliy segundo chef en Mugaritz. Acaba de instalarse en el escalafőn de los maestros y su carta reserva elaboraciones auda ces, com0 el bacalao en c",
+      "content_tags": [
+            "Vino",
+            "Paco Morales",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2007-6245",
+      "category": "01_REVISTAS",
+      "title": "2007-REV Folleto Premios Metrópoli Senzone-hotel Hosped Paco-Morales",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007-REV_Folleto_Premios_Metrópoli_Senzone-hotel_Hosped_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007-REV_Folleto_Premios_Metrópoli_Senzone-hotel_Hosped_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "DESVELAMOS NUESTROS PREMIOS GASTRONOMICOS 2007 And the uwinner is... jKabukí Wellington!». La tradicional frase de los Oscar, ahora en desuso por imperativo de lo políticamen te correcto, víene que ni píntada para pre sentar unos galardones que se entregan también en febrero, igual que los de la Academia hollywoodiense: los Prermios Gastronómicos Metrópoli, antaño consa grados únicamente a Madridy hoy abier-2007, la noticia de su fallecimiento cavó Pepe Gil, fundador de la mítica casa de co midas capitalina De la Riva, fue el anterior ganador de este trofeo honorífico, creado en 2006 para rendir homenaje a quienes han consagrado su existencla al noblilísi mo oficio de la restauración pública. Ape nas unos meses antes de que el jurado se reuniera para deliberar los premiados de tos a España y al mundo con la ampliación a categoría Nacional e Internacional del más entrañable de todos, el Premio Me trópoli a Toda una Vida. ¿QUIERE USTED CONSEGUIR UNA ENTRA DA PARA NUESTRA FIESTA? POR QUINTO AÑo cONSECUTIVO, LOS CRÍTICoS DE LA LUNA DE METRÓPOLI HAN ESCo GIDO LOs ESTABLECIMIENTOS Y PROFESIONALES MÁS DESTACADOS DE LA RESTAU RACIÓN MADRILEÑA DURANTE LA ÚLTIMA TEMPORADA. EN ESTA OCASIÓN, ADE MÁS, LOs TROFEOS A TODA UNA VIDA SE HAN AMPLIADO A ESPAÑA Y AL MUNDo como una losa. Su figura entrañable estu vo presente aquella noche del pasado 3 de enero en la que Fernando Point, Albert So lano, Alvaro Lerena, Pedro Espinosa y VAYA A LA PÁGINA 12 quien esto suscribe se reunieron para di lucidar, sentados a la mesa, los galardona dos de la nueva temporada. Y sin duda el cascarrabias de Pepe se sentiría honrado al conocer los nombres de sus sucesores: por Madrid, Custodio Zamarra, el legendario sumiller de Zalacain; por España, Lolita y Paquita Rexach, las corajudas hermanas del histórico Hispania de Arenys de Mar; por el Mundo, Jacques Maximin, el sexa genario enfant terrible de la moderna coci na francesa que, en 2007, cerró su restau rante homónimo en Vence para PREMIOs METRÓPOL dedicarse a la enseñanza. Tres ve teranos (cuatro, en realidad) que han sido, cada uno a su manera, pioneros y maestros en muchos aspectos de la gastronomía lo cal, nacional y europea. Al margen de esta novedad que trascien de regionalismos y fronteras, los Premios Gastronómicos Metrópoli 2007 se han con centrado, como viene siendo habitual, en la escena culinaria madrileña, donde nuestra revista lleva casi 20 afños dando testimonio de las luces y las sombras, lo crudoy lo co cido, el trago y el bocado. Doce son las ca tegorías en las que se han movido estos ga Jardones desde hace un lustro, casi siempre con un único ganador y dos menciones de honor. Y decimos «casi siermpre» porque el jurado se reserva el derecho de ampliaro re ducir estos trofeos (e incluso declararlos de siertos, aunque nunca ha ocurrido), en fun ción de cómo haya venido la última cosecha gastronómica. cOSECHA 2007. Así, este año, la realidad de la Villa y Corte se manifiesta sobre todo en dos aspectos. El primero, l",
+      "content_tags": [
+            "Gastronomía"
+      ]
+},
+{
+      "id": "local-rev-2008-2525",
+      "category": "01_REVISTAS",
+      "title": "(11-17) REV ABC-Madrid360 Senzone-HotelHospes Paco-Morales",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_(11-17)_REV_ABC-Madrid360_Senzone-HotelHospes_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_(11-17)_REV_ABC-Madrid360_Senzone-HotelHospes_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2008-7587",
+      "category": "01_REVISTAS",
+      "title": "(2008-2010) REV Folleto informativo-Senzone Paco-Morales",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2008-2010)_REV_Folleto_informativo-Senzone_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2008-2010)_REV_Folleto_informativo-Senzone_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Una cocina que apunta muy alto O Restaurantes uando encuentras en la mesa Jdos ortigas de mar como las que pude tomar hace unos días en Senzoneel restaurante del recién inaugurado hotel Hospes, en la plaza de la Independencia-te ves obligado a plantearte muchas co sas. Para empezar, que estás ante el resultado de un trabajo que de muestra un altísimo nivel técnico. En segundo lugar, que el cocinero -Paco Morales-merece ocupar, aunque sólo sea por este plato, un lugar entre los grandes profesiona les de este país. Caben muchas otras consideracio nes -un planteamiento culinario maduro, la brillantez del resulta do...-, aungue nos quedamos con éstas. Las ortigas Illegan a la mesa fritas, emborrizadas en una etérea pero consistente cobertura de fé cula de patata, rompiendo con lo establecido; se supone que al fre ir las ortigas enteras, el interior ad quiere una consistencia viscOsa, muy poco grata. El resultado es un bocado pleno de sabor pero ligero, casi etéreo, capaz de reunir elegan cia, sugestión y sutileza en una pro puesta que, además, recoge la ple nitud del sabor del mar. El menú Senzone continúa con otro pequeño prodi gio culinario. Un plato frio com puesto por cañaillas ligeramente cocidas, diminutas habas tiernas, kiwano (pepino silvestre, pariente de la calabaza) y una suave emuj sión de aceite de arbequina. El pla to rezuma equilibrio, frescor y fra gancia; una meta más que compli cada cuando se trata de un plato frío. No hay que olvidar unas es pléndidas navajas, suavemente Condimentadas por un delicado es cabechey servidas sobre un inte resante picadillo de algas; las ore jas de judas (algas cartilaginosas), Condimentadas con yema de hue VO y un jugo de carne y cubiertas con dos finísimas láminas de toci no ibéricO, apenas calentadas has ta conseguir la transparencia, o la gamba roja al ajillo. Todo marcha sobre ruedas en es ta casa recién inaugurada. La car ta es breve y atractiva; apenas die ciséis platos y una apabullante propuesta de copas de vin0 que acompafñan a cada plato. Junto a ellos, un menú degustación llama do Propuesta de Mercado (cinco tapas, dos entradas, un plato fuer te y postre por 70 euros), que sue • Jgnacio Medina Dirección: Plaza de la Independencia, 3 (Retiro). Tel. 91 432 29 11. Tipo de cocina: Autor. Especialidad: Ortigas fritas con cobertura de fécula de patata. Cierra: Domingo. Paco Morales, cocinero, y Ruth Cotroneo, jefe de sala, ponen la guinda al nuevo restaurante de la cadena Hospes, un lujo a un paso del Retiro Aparcamiento: Parking Recoletos. Precio medio aprox.: 70 euros (sin vino). Fumadores: Zonas habilitadas. > La carta es breve y muy atractiva. le cambiar a diario, y una segun da versión en la que cada plato lle ga armonizado con un vino dife rente (90 euros). Paco Morales de muestra una madurez impresio nante y un esplendor técnico que no deja de asombrar, y el trabajo de Ruth Cotroneo como jefe de sa la aporta el signo distintivO a un local poco agraciado. Lástima que el local repita el nombr",
+      "content_tags": [
+            "Vino",
+            "Paco Morales",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2010-7713",
+      "category": "01_REVISTAS",
+      "title": "2010-02-01 REV Folleto informativo-Identita Golose Paco-Morales",
+      "year": 2010,
+      "date": "2010-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2010-02-01_REV_Folleto_informativo-Identita_Golose_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2010-02-01_REV_Folleto_informativo-Identita_Golose_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2010-5549",
+      "category": "01_REVISTAS",
+      "title": "12 REV Folleto Paco-Morales",
+      "year": 2010,
+      "date": "2010-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2010_12_REV_Folleto_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2010_12_REV_Folleto_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "VIVIr GOURMET PACO MORALES BARROCOY TRANSPARENTE Fue el jefe de partida más joven de elBulli y durante dos años, chef en Mugáritz. En el Relais&Châteaux de Juan Carlos Ferrero ensancha el gusto mediterráneo. ¿Puede definir su cocina? Contemporánea y neoclásica que apuesta por la nitidez sabrosa del producto. Me gusta aportar en la brevedad de un bocado audacia, sustanciay recuerdo. El sabor es lo primero. Paco orales 84 PAISAJES ¿lnspiración o técnica? Con mi padre aprendi a inspirarme en el producto, sobre todo pescado vivo. A los 12 años le acompañaba a la lonja. El oficio es primordial, pero pasivo; la creatividad requiere el reto del producto. por LUIS CEPEDA Un país, un maestro y un plato ajeno. Me quedo de pais con Japón por su ritual culinario; de cocinero con Andoni Adúriz por el poderio ilimitado de su proyecto, y de plato, con la Liebre a la Royal de Joan Roca. LA SALSA PERICANA Y EL ROYAL DE APIO, AJOS TIERNOS, CHOPITOS Y Cuáles son sus productos fetiche? Frutos secos y tubérculos Como el salsifi, las criadillas de tierra de pulpa crujente y sabor a nuez, las patatas en sus ricas variedades, el reino vegetal y algunas algas. ACEITE DE GUINDILLA Ha instalado su juventuden el escalafón de los maestros. Cordobés y estoico, hijo de cocinero y pupilo predilecto de Adriày de Adúriz. es exigente y puntual en sus creaciones. Elige ingredientes del mundo CUyo potencial Sápido exalta. Tiene la óptica limpia y sin prejuicios. La Comunidad Valenciana le ha reveado primicias como las notas dulces de la pericana, salsa y aderezo antiguo de tornates secos y salazones de pescado Con la que quarnece sus propuestas, o este Royal que licua eltronco de apio con huevoy ajos tiernos para que pelee con la potencia de los chopitos mediterráneos en el fondo clariticado de un calamar de costa, entre guisantes tiernos reciến desgranados y gotas de acete de guindlila. Restaurante-Hotel Ferrero by Paco Morales | Relais & Châteaux | Ctra. Ontenient-Villena, km. 16. Boicarent. Valencia. Tel. g62 355 175| www.hotelferrero.com Ferrero apostó por usted, ¿hay deporte en la cocina? Hay competitividad, estética y ganas de gustar, como en el deporte. Pero también es sana y alegre, es una recompensa, y Juan Carlos lo sabe. más próximas a ti plus proches de vous closer to you Antequera Sevilla Puente Genil Córdoba Puertollano Ciudad Real Madrid Segovia Valladolid Guadalajara Calatayud Zaragoza Huesca Lleida Tarragona Barcelorna ciudadesave www.redciudadesave.es",
+      "content_tags": [
+            "Paco Morales",
+            "Córdoba",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-9309",
+      "category": "01_REVISTAS",
+      "title": "2008-02-01 (02)REV ElMercado En El Plato Senzone Paco-Morales",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008-02-01_(02)REV_ElMercado_En_El_Plato_Senzone_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008-02-01_(02)REV_ElMercado_En_El_Plato_Senzone_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2009-8262",
+      "category": "01_REVISTAS",
+      "title": "Folleto Club de Gourmets hotel Ferrero Paco-Morales",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Club_de_Gourmets_hotel_Ferrero_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Club_de_Gourmets_hotel_Ferrero_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Crónicas desde Londres Exitos, novedades y ausencias La ceremonia de los World's 50 Best Restaurant 2009 o la noche que Londres se puso a los pies de la cocina española de vanguardia. 90 2009) e exitosa cabe calificar la noche vivida por la gastronomía española en la ceremonia de entrega de los World's 50 Best Restaurant en el Freemasons'Hall de Londres. La cacareada lista de la revista británica Restaurant, en su octava edición, ha valorado de manera decidida la cocina de vanguardia, y nuestro país, con 4 restaurantes entre los 10 prime ros, posee a día de hoy una posición de influencia que con el paso del tiempo se recordará como histórica. El reconocimiento internacional que vive el panora ma culinario nacional es innegable y caer en despres tigiarlo u obviar su merecimiento es harina de otro interés. Otro asunto diferente es estar de acuerdo si en la lista están todos los que son -ahí, probablemente, cada cual tendría su propia lista-; o con cl sistema de vota ción, que por los resultados obtenidos parece pecar de eurocentrismo. El panel, como todo plebiscito, pre senta imperfecciones y subjetividades, pero es eviden te que la polémica que suscita cada año no hace más que favorecer su engrandecimiento. Los premios han conseguido en escaso tiempo convertirse en una referencia gastronómica mundial, un pedestal que era reservado en propiedad exclusiva a la histórica Michelin. El éxito de Restaurant es toda una lección de marketing periodístico al más puro estilo anglosajón. Entre lo más comentado de la gala (además del quin TE X T O que termina el comnensal\". R |C A R D 0 Entrega de los World's 50 Best Restaurant, en Londres. A la dcha., los triunfadores de la noche: Ferran y Albert Adrià. F. 50 50 BEST iESTM BÍNTS res ACO CA L LE J O w.w., to lugar de los hermanos Roca) fue el salto al tercer puesto de Noma: René Redzepi, un jovenzuelo de 31 años, chef-patrón de este restaurante en Copenhague, Dinamarca, que viene a convertirse en abanderado de la corriente escandinava en altos vuelos culinarios cada vez más en vogue. Su propuesta teórica, que roza el psicoanálisis jungiano, es un viaje de inmersión a la memoria colectiva de nuestros ancestros desde donde, con las técnicas más modernas, hace emerger los hábi tos alimenticios más viscerales. Señoras y señores esto es cocina de vanguardia y como afir ma A. L Aduriz, \"busca la emoción a través de la comida en una experiencia BEST IBESTTRANTS Interior de Noma; arriba, su chef, René Redzepi. CLUB DE GOURMETS nt Sala con vistas de Vertical. Pero las principales novedades en cuanto a restau rantes están más al norte. Ha sido noticia la incor poración del cocinero Francisco Morales y la sumi ller Rut Cotroneo, procedentes del Senzone de Madrid, al hotel Ferrero de Bocairent, propiedad del famoso tenista. Y hay que reseñar el éxito de El Bressol, en Valencia, donde José Vicente Pérez y Ricard Cremades interpretan unos productos excel sos en clave clasicista y sin pasarse con los precios. Más al norte aú",
+      "content_tags": [
+            "Gastronomía",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-2991",
+      "category": "01_REVISTAS",
+      "title": "(2008 2010) REV Folleto Hotel Ferrero Paco-Morales",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2008_2010)_REV_Folleto_Hotel_Ferrero_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2008_2010)_REV_Folleto_Hotel_Ferrero_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Ferrero by Paco Morales y Rut Cotroneo. Tras su paso por Senzone, en Madrid, Paco Morales y Rut Cotroneo se revelaron como la pareja de moda de la gastronomía española. Apesar de su juventud -27 años-, Morales maneja a la perfección las claves de la vanguardia y luce en su chaquetilla de cocinero galones de veterano ganados durante sus cinco afños en el Mugaritz del maestro Aduritz y por su paso por El Bulli. Lo mismo puede decirse de Rut, su pareja profesional y sentimental. Premio nacional de gastronomía y sumilller, entre otros templos, del Fat Duck, la Hacienda Benazuzao Mugaritz. En su nueva casa, estos cracks continúan rompiendo moldes con una cocina radical y sin concesiones con platos como el conejo en tres texturas, rabiosamente moderno y rompedor, o con delicados juegos como el mejllón bajo velo. Sorpresas que Rut acompafña con vinos raros y diffciles de conseguir. Imprescindible dejarse aconsejar y pedir el menú degustación más transgresor del momento. Hotel Ferrero. Droniedad del tenista Juan Carlos Ferrero, nada hace presagiar que tras una fachada rosácea con aspecto de casa de indiano nos espera lujo higt tech y domótica por doquier junto con comodidades Doco habituales en una casa rural de pocas habitaciones, como spao desayunos gourmet. Ctra. Onteniente Villena km 16. Bocairente (Valencia). Teléfono: g62 35 51 75. SEPTIEMBRE 2009| MAN 121 OBSESIONES tos ALBERTO FERNÁNDEZ BOMBİN | fotos JAIME GOROSPE CATA Casilla Manchueta SALIA 2007 de Finca Sandoval MANCHUELA Alto Moncayo 2005 Garnacha",
+      "content_tags": [
+            "Vino",
+            "Paco Morales",
+            "Gastronomía",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2011-4093",
+      "category": "01_REVISTAS",
+      "title": "Folleto Senzone Paco-Morales",
+      "year": 2011,
+      "date": "2011-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2011_REV_Folleto_Senzone_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2011_REV_Folleto_Senzone_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "n kilo de habitas de Zalla se obtiene al pelar, al menos, Iş kilos de habas do en la presente temporada de elBulli un tipo de mandarina enana, que se endurece, gajo a gajo, al pelarla y dejarla en contacto con la at mósfera legando a confundirse con un cara melo. Otra delicia, más accesible son las fre sitas salvajes, que concentran en su pequeño tamaño, no mayor que el de un guisante, un sabor que ruborizaría de envidia a cualquier fresón de los que pueblan nuestros mercados. LOS COCINEROSY LAS VERDURAS ENA NAS/JOsean Martínez Alija, al frente del Res taurante Guggenheim (Bilbao) defiende el va-lor de las verduras como ingredientes de lujo. Además de las mencionadas Acelgas de Derio, que Josean prepara asadas en su jugo, también apuesta por una variedad de habitas que se cul tiva en Zalla. Su tamaño es tan microscópico que son necesarios al menos, 15 kilos de habas para obtener un kilo de estas perlitas vegetales. Martínez Alija apuesta exclusivamente por las variedades enanas naturales de los vegetales que usa en su cocina y para ello se vale del apo yo de la organización Slow Food, dedicada a ca talogar ingredientes autóctonos en peligro de extinción. En el restaurante Senzone (Madrid) su coci nero Francisco Morales se declara partidario de usar las miniverduras para sorprender a sus clientes, tanto visualmente como en cuestión de crocantes texturas, prueba de ello son sus crujientes mini calabacines escarchados. Em plea también unavariedad mini de tomate ku mato con la que prepara una refrescante en salada con cerezas y trufa de verano. HUERTO URBANO/ Un último apunte va er forma de sugerencia: muchas mini verdura recen de mini plantas y se pueden cultivar er espacios reducidos ¿nos estarán dando la opor tunidad de sacar el agricultor que todos lleva mos dentro . FLOR DE CALABACIN 1945CM 34 VINO Y GASTRONOMIA monía, equilibrio, elegancia, frescura, ... esencia del arte en una botella. bariño Martín Códax. Toda una Cultura. 1artín Códar Martín Códav ALBARINO RÍAS BALXAS DENOMINACION DE QRNE www.martincodax.com",
+      "content_tags": [
+            "Vino",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2009-2964",
+      "category": "01_REVISTAS",
+      "title": "Folleto  Gentleman Paco-Morales",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto__Gentleman_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto__Gentleman_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "DAVID MUNOZ Drid Nale en la desaparecida Casa del Temple toleda no y trasegar en barcos pesqueros en busca de la esencia marina. No por otra cosa se lo conoce como El chef del mar. Pero además de su pasión marinera, León es un inquie to investigador, que ha desarrollado técni cas innovadoras para asar sobre huesos de aceituna, hornear pescados en un sarcófago de arena o presentar el plancton en el plato como un manjar propio de sibaritas. Que a nadie le quepan dudas: Angel León es uno de los más grandes talentos de la cocina española más eciente. Pasión por la fusión Otn que muestra un peil técnico v una obsesson creadora tuera de lo común es Davd Muñoz, chet propictario de Diver No un pcqueio rotaurante condıdo en PACO MORALES el modesto barrio madrileño de Tetuán. En tan sólo un año, Muñoz ha sido capaz de revolucionar el panorama de la restauración madrileña con una propuesta de cocina de fusión de mucha altura y personal impron ta, combinando elementos de gastrono mías orientales -la china, especialmen te-con pinceladas mediterráneas e ingre dientes propios de las cocinas de América: rocotos, chiles, etc.El impacto que ha teni do DiverXo entre los amantes de las gas tronomías de resonancias exóticas ha sido tan grande que hov. para conseguir ocupar una de las cinco mesas del restaurante, es necesario reservar con dos meses de antela ción. Mientras tanto, el joven Muñoz, for mado junto a Abraham García en Viridia nay en templos londinenses de la fustón. como Nodo v Hakissan. se ha lleva RAFAEL PEÑA ALE.JANDRo SÁNCHEz VICTOR TABORDA YA ESTÁ AQUÍ UNA NUEVA GENERACIÓN DE PROFESIONALES QUE DIRIGEN SUS PROPIAS COCINAS Y DESPUNTAN COMO COCINEROS CON UN GRAN PROVENIR GENTLEMAN 25 primera clase Sobre estas líneas, comedor de La Veranda (Málaga). A la derecha, Gresca y abajo, Monvinic (Barcelona); Alejandro (Cádiz); Senzone (Madrid). 126 GENTLEMAN GASTRONOMİA EN LA CAPITAL, EL ÚNICO QUE PUEDE COMPETIR CON DAVID MUÑNOZ COMO CHEF DE GRAN PROGRESIÓN ES PACO MORALES do todos los premios que otorga la crítica especializada: Restaurante Revelación en Madrid Fusión, Cocinero del Año para la Cámara de Comercio de Madrid, etc. En la capital, el único que puede competir con David Muñoz como chef de gran progre sión es Paco Morales, quien hace poco más de un año abandonó su puesto como jefe de cocina en Mugaritz -toda una referen cia para la vanguardia europea-para diri gir cl pequeño restaurante Senzone en el flamante hotel Hospes, frente a la mismí sima puerta de Alcalá. Morales es fiel a la filosofia que ha aprendido de su maestro, Andoni Luis Aduriz, basada en el principio del respeto de los sabores esenciales de los productos, sin recurrir a artificios y delei tando a los comensales con comnbinacio nes sutiles y exquisitas. Pero sin duda tiene también un carácter propio, que va forjan do en la medida que se gana en confianza. Además, junto a su mujer, la sumiller Ruth Cotroneo, una de las mejores profesionales del rmo en España, con experiencia en El Bulli, ",
+      "content_tags": [
+            "Crítica",
+            "Paco Morales",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-7522",
+      "category": "01_REVISTAS",
+      "title": "Folleto Hotel Hospes Paco-Morales",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Hotel_Hospes_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Hotel_Hospes_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "SENZONE MADRID Aspirando a lo más alto Plaza de la Independencia, 3. Tel. 914 322 911 Pareja de lujo para un restaurante de hotel (el novísimo Hospes) que dará mucho que hablar. Francisco Morales, cocinero que disfrutamos en Mugaritz a las órdenes de Andoni Luis Aduriz, y su mujer Rut Cotroneo, sumiller, son los jovencisimos-responsables de una cocina de calidad y muy personal que podría arrasar en el firmamento más *chic\" de los almuerzOs capitalinos. La ubicación es inmejorable, junto al tanıbién nuevo Ramsés y en plena Puerta de Alcalá. El local es un tanto complejoy casi incómodo. Abre Con una pequeña sala a modo de cafetería, con las mejores vistas de todo el espacio, y se sumerge en la Zona interior para ofrecer dos salas pequeñas con disposición de mnesas suficientemente separadas pero sin excesiVO encanto. La carta es breve, potenciando el Consumo de su menú cerrado, que varían según la compra de cada día. En él, cinco tapas, dos entradas, pescado, carne y postre. A destacar platos sorprendentes en sabores y presentaciones como la ostra a la plancha con arroz y cebolleta y la ortiguilla escarchada, con una tempura casi etérea y un intenso sabor a mar. Y, acompañando, de cerveza blanca a moscatel, armonizando cada plato con exquisitez y con amplitud de miras, pues Rut incluye vinos extranjeros elegidos sin prejuicios. Entre otras sugerenc1as que también se pueden degustar en el menú-si así lo dispone Francisco ese día-están los berberechos con extracto de aceituna negra o la gamba roja semicruda con gazpachuelo. Resultan poco atractivas las patatas coloreadas con mayonesa de choriceros, pues sin aportar nada excitante al paladar, ensucian labios y servilleta de manera inevitable. En los postres, sorpresas nuevamente con platos poco dulces como la zanahoria con mandarina y tierra. En general, una cocina con muchas horas de laboratorio detrás, muy personal y menos influida por Andoni de lo que se preveía. Eso sí, Senzone se sitúa en la línea de precios que, por desgracia, hoy impera en Madrid, donde el cubierto a cien euros se ha convertido en habitual. M. Lapresta > Menú degustación a 7o€ sin vino y 9o€ con maridajes en cada plato. > Los consejos de su sumiller, Rut Cotroneo son espléndidos. La carta de vinos, amplia y con muchas referencias internacionales. > No dispone de aparcacoches y el parking (Recoletos) está alejado. > Cocina para paladares atrevidos. G| sOBREMESA 265 15 a | SOBREMESA 265 1 SHOWROOM Colgador para vagos Dan las cinco en punto de la tarde, te preparas el té... Y te molesta el hilo de la bolsita. No sabes dónde colocarlo. Para estos casos, Gefu, la empresa de diseño de accesorios de cocina ha creado su \"Teabag Holder, un simpático colgador metálico para cualquier taza. Ya sólo habrá que preocuparse de cuánto azúcar queremos. www.gefu.com Sala de los Aromas Saie Fruta Primer aniversario del Zinc Bar del Hotel Villa Emilia (Barcelona) Productos selectos y música en vivo. Una exquisita bodega de vinos y licores y producto",
+      "content_tags": [
+            "Vino",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2008-2066",
+      "category": "01_REVISTAS",
+      "title": "Folleto Senzone Paco-Morales",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Senzone_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Senzone_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "PERSONAJESELLE Francisco Morales Senzone (lMadrid) LA CONSTANCIA SIGILOSAY LA GENIALIDAD SIN AIRES DE GRANDEZA DE ESTE COCINERO ESTÁN RECOGIENDO PRONTO SUS FRUTOS. ES SÓLO EL PRINCIPIO DE ALGO GRANDE. A la corta edad de 26 años tiene la madurezyel temple que le dan el le var ocho trabajando en la alta gastro nomía. Estuvo dos en una escuela, pero «Como vi que no me daban lo que quería me fui a trabajar al restau rante del Guggenheim un año, de ahí pasé a Mugaritz y después a El Bulli de jefe de partida». Sacrificó su ado lescencia por alcanzar el sueño que ahora está tocando con las manos en el primer restaurante que dirige. «Lo peor no es que no sepa lo que es salir por las noches o tener un puente, sino estar lejos de mi familia desde los 17 años». Paco ha sido la gran apuesta del grupo hotelero Hospes, y las glo riosas críticas y los premios no han tardado en reconocer su valía, aun que para él su mejor trofeo es llegar a la gente. Cuando se acerca un cliente y dice cosas «como que un plato ío le había recordado la pureza de Kan dinsky, me emociono». y es que en su quehacer se aprecia sobre todo la pulcritud de los sabores. Se define como metódico y muy perfeccionista. «pero mi trabajo está basado en la improvisación y la reflexión. En mis platos no verás espumas ni nada de otro cocinero, he de ser muy crítico para llevar una línea propia como la que llevo». Fusiona comedidamente. «sólo cuando realza el plato. Lo exóti co es algo esporádico que cojoy des pués suelto. A veces los Cocineros nos olvidamos de que debe haber un final y que éste no es otro que agradar al cliente». Trabaja mano a mano con su mujer, Rut Cotroneo, que es la sumi ller de Senzone: «Me da pistas al pro bar los platos como si fuera un clien te. Después armoniza sus vinos con mi comida como lo hace con mi vida». Plaza de la Independencia, 3, Madrid, tel. 914 32 2911. Precio del menú degustación: 80 €. «ENTRE LOS COCINEROS NO EXISTE COMPETITIVIDAD. NOS TENEMOS MUCHO CARIÑO PORQUE SABEMOS LO DURA QUE ES ESTA PROFESION> Diego Guerrero Diego Guerrero Club Allrd (Madrid) A LOS 27 AÑOS LEGÓ A MADRID Y PROPUSO QUE ELEXCLUSIVO CLUB ALLARD SE ABRIERA ALPÜBLICO. EN 2007 LE CONCEDIERON LA MICHELIN A ESTE MAGO DE LOS PUCHEROS. Al terminar la selectividad, Diego sa bía que quería dedicarse a algo en lo que la creatividad tuviera importan cia. «Me atraía Bellas Artes porque buscaba un medio donde expresar me, pero me decanté por la esCuela de cocina y legué a ella sin saber hacer ni un huevo frito». Aprendió, y ahora no sigue pautas ni patrones a la hora de crear sus platos. «Dependien do de mi estado de ánimo hago unos u otros, lo que no puedo es imponer me unas reglas, tengo que ser una esponja y empaparme de todo». Su otra pasión es la música: «Toco la gui tarra como una vía de escape, pero me temo que soy un mủsico frustra do. Sobre todo leo, estudio muchoy me fijo en los grandes chefs como fuente de inspiración». Diego además es un observador constante. «Hay platos que tardo meses e",
+      "content_tags": [
+            "Crítica",
+            "Vino",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2009-4826",
+      "category": "01_REVISTAS",
+      "title": "Folleto Ronda Iberia Senzone Paco-Morales",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Ronda_Iberia_Senzone_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Ronda_Iberia_Senzone_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Medio Ronda lberia Sección Soporte Papel Difusión Clasificación Genérica El producto y su intérprete Comentarios 140.000 URL Valor publicitarlo 16.975 PUBL. DE DIST. GRATUITA VIAJES Página 69 BERIA, RONDA magazine Editor Grupo Zeta PorBy: Ratael Ansón (() Fotografias/PhotOs: Cristina Lancha Galán Base Altura 190 255 el producto y Su intérprete the product and its interpreter Paco Moralesy el bacalao MACANE PACO MORALES AND COD Adermás de alirnento cUaresnal por exCelencia e ingredienle básico de los pOtajes y otros platos de vigilia, el bacalao eS, en Ios rneSeS anteiores, una de las estrellas de las mesas de invierno. Ha ejercido tradicionalrmente (sobre todo a través de recelas tan emblemáticas Como a la vizcana o ai pil pi) Corio uno de nuestros rnejores embajadores gastronóICOS en el mundo entero Traditionally consurmed at Lent, when it is always a basic ingredient of pottages and other dishes, cod is also one of the stars of winter tables in the months leading up to it It has also proved one of Spain's tinest culinary ambassadors around the world, thanks above all to recipes like Vizcaya-style cod or cod al pil-pil. () Presidente de la Acadermia Española de Gastronomia y Presidente de Honor de la Academia Internacional. () President of ttie Spanish Acadel iy of Gatoomy and Honorary PuSdent ot the Iotematonal Ac adey Superficie 484,5 Cm2 RONDA BERIA 69 Medio Sección Ronda lberia Soporte Papel Difusión El producto y su intérprete Comentarios 140.000 Valor publicitario 16.975 Clasificación Genérica PUBL. DE DIST. GRATUITA VIAJES URL Página 69 Editor Grupo Zeta RONDA magazine Por/By: Ratael Ansón () Fotografias/Photos: Gristina Lancha Gaan el producto y su intérprete the product and its interpreter Base Altura Superficie 190 255 IBERIA Paco Morales y el bacalao MAGNE PACO MORALES AND COD Además de alimento cuaresmal por excelencia e ingrediente básico de los potajes y otros platos de vigilia, el bacalao es, en los meses anteriores, una de las estrellas de las mesas de invierno. Ha ejercido tradicionalmente (sobre todoa través de recetas tan emblemáticas Como a la vizcanao al pil pil) cormo uno de nuestros mejores embajadores gastronomicos en el mundo entero () Presidente de la Academia Española de Gastronomia y Presidente de Honor de la Academia Internacional. (\") President of the Spanısh Acaderny ot Gastonomy and Honorary fPresident of the Irternatonal Academy Traditionally consumed at Lernt, when it is always a basic ingredient of pottages and other dishes, cod is also one of the stars of winter tables in the months leading up to it. It has also proved one of Spain's finest culinary ambassadors around the world, thanks above all to recipes like Vizcaya-style cod or cod al pil-pil. 484,5 Cm2 RONDA IBERIA 69",
+      "content_tags": [
+            "Paco Morales",
+            "Receta"
+      ]
+},
+{
+      "id": "local-rev-2008-5690",
+      "category": "01_REVISTAS",
+      "title": "06 22 REV Folleto Sobremesa 265 Vino Paco Morales",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_06_22_REV_Folleto_Sobremesa_265_Vino_Paco_Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_06_22_REV_Folleto_Sobremesa_265_Vino_Paco_Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "& sOBREMESA-265 28 CON MAYOR O MENOR FE, EL DÍA DE SAN VALENTÍN NOS DA UN PRETEXTO PARA UNA CENA ÍNTIMA, ESAS EN LAS QUE TRES SON MULTITUD, EN EL AMBIENTE MÁS APROPIADOY CONTODOS LOS DETALLES A PUNTO PARA CONVERTIR LA VELADA EN UNA NOCHE LLENA DE PLACERES INOLVIDABLES. TEXTO: SAÚL CEPEDA. ILUSTRACIÓN: MÁXIMO RIBAS Escuelas para disfrutar del vino La industria hostelera ha dado a luz en los últimos años toda una nueva generación de establecimientos que tienen en el vino su principal recamo y en el público joven su presa más deseada. Evidentemente, estos locales no suelen parecerse ni a los bares de toda la vida -asociados a formas de consumo poco atractivas-ni, cuando son tabernas, a la peor versión de las tabernas de siempre. Se trata de los wine bar, un tipo de bares especializados que tiene su origen en los países anglosajones y basa su filosofia en un consumo inteligente, variado y moderado del vino, ofreciéndole al consumidor todo tipo de facilidades para integrarse en el número de los aficionados de forma sencilla, generalmente en un ambiente cuidado y acompañando la gama de vinos del local con tapas y especialidades gastronómicas ligeras. Uno de los atributos fundamentales de un wine bar es que ofrece los vinos por copas. “El bar de debajo de mi casa también lo hace, por chatos\", puede decir cualquiera, pero no es lo mismo. La ciencia, que está en todo, ha creado unos artilugios que permiten aislar el liquido que queda en la botella sustituyendo el oxígeno por gas inerte, con lo que se establece una diferencia clara respecto al bar de abajo, en el que el vino, cerrado con el corcho, toma el sabor de la carne adobada que guarda el dueño para los pinchos morunos en la cámara. Otra diferencia, ésta fundamental, es que en el wine bar todo está orientado al disfrute del vino, desde la cristalería a los propios camareros, que suelen tener la capacidad de orientar, aunque sea mínimamente, al consumidor. El éxito inmediato que tuvo la aparición de este tipo de establecimientos en ciudades como Madrid o Barcelona, especialmente entre el segmento de público joven, hizo que se multiplicaran rápidamente y generó, a su vez, una pequeña revolución en las tabernas que hasta ese momento le habían prestado toda su atención a la gastronomía ignorando poco más o menos al vino. Desde hace unos años, muchas de esas que ahora se llaman tabernas ilustradas acogen a cientos de jóvenes consumidores con una oferta amplia y variada de vinos por copas a precios casi siempre moderados. El resultado, todo un racimo de locales inspirados en las antiguas tabernas o de nueva creación, siguiendo el modelo más moderno y sofisticado del wine bar, que en zonas como el Born, en Barcelona (La Vinya del Senyor, Va de Vi), el centro de Madrid (Entrevinos, en Ferraz; Matritumn o Cien Vinos, en las cavas Alta y Baja), el barrio del Carmen, en Valencia (La Santa Compaña) o el centro de Gijón (El Legado de Baco), por mencionar algunos, han encontrado el modo de conectar el vino con un",
+      "content_tags": [
+            "Vino",
+            "Gastronomía"
+      ]
+},
+{
+      "id": "local-rev-2008-8758",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto Gourmet Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_02_REV_Folleto_Gourmet_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_02_REV_Folleto_Gourmet_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "SENZONE COCINA EN ESTADO PURO El joven chef Paco Morales y la sumiller Rut Cotroneo forman el perfecto tándem en un comedor que no hace honor a la altura de la cocina. Y si bien el entomo desluce, lo que se encuentra en el plato asombra: la cocina desnuda de Morales ofrece sabores puros y pre sentaciones genuinamente limpias, casi al estilo nipón. Propuestas como los puerros acompotados con espinacas, piñones y sal de ja món, la lubina con cuscús verde y ajos tiemos concretan una fusión de buen gusto. Extensa carta de vinos a cargo de Cotroneo. The young chef Paco Morales and the sumiller Ruth Cotroneo are the perfect duo in a dining room that doesn't do justice to the qual ity of the food. The atmosphere might not be stunning, but what youll find on your plate is sure to astonish: Morales' pared-down cuisine offers pure flavOrs, perfectly-cooked ingredients and truly cdean presentations, almost Japanese. The menu incudes dishes like leeks stewed with spinach, pine nuts and ham salt, sea bass with green couscous and young garlic and Iberian pork shoulder with bulgur cooked in five spices. Cotroneo has put together an extensive, very original wine list. SENZONE. HOSPES MADRID. PZA. DE LA INDEPENDENCIA, 3. HOTEL H0SPES. MADRID. MENÚS, 70 Y 90 EUROS, cON MARIDAJE DE VINOS. TEL: 914 322 911. [\\wwW.HOSPES.cOM] EL BULLI LA GRAN EXPERIENCIA Genial e indiscutible maestro, número uno del mundo y creador incan sable, Ferrán Adriá ha abierto innumerables caminos en la gastronomia y es el directo responsable del boom de la cocina española actual. Dio el pistoletazo de salida con las deconstrucciones, luego fueron los aires, mãs tarde las esferificaciones... todo ello combinado con otras novisimas tếc nicas y una materia prima excepcional. El Bulli es su templo y el santuario de sibaritas, un recinto nada fãcil de pisar por la interminable lista de es pera -abren seis meses al año y sốlo dan cenas-. Junto a Adriä, Juli Soler como el perfecto alter-ego en la sala, un sencillo comedor junto a una te rraza frente al mar. En El Bulli todo se sublima y enaltece. Sirven única mente un menú cerrado de 40 pequeños bocados. A brilliant, indisputable master, number one in the world and a tireless inven tor, Ferrán Adriá has opened up countless new gastronomic frontiers and is directly responsible for the cument boom in Spanish cooking, First came his deconstructions, then his airs, later his sphernifications... all using innovative techniques and the best, freshest ingredients. His El Bulli is a sanctuary for culinary plgrims, butit's nearly impossible to get a table-they open just six months out of the year, only for dinner-on account of an endless waiting list. Juli Soler is Adriấ's perfect alter-ego in the dining room, a simple space with a lovely deck overlooking the sea. At El Bulli everything they take eve rything to a new level: divine. All guests are served a set tasting menu of 40 Small portions. An incomparable experience. CALA MONTJOI. A 7 KMS. DE ROSAS. GER",
+      "content_tags": [
+            "Vino",
+            "Paco Morales",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-4940",
+      "category": "01_REVISTAS",
+      "title": "12 07 REV Folleto Gourmet Especial Franisco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_12_07_REV_Folleto_Gourmet_Especial_Franisco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_12_07_REV_Folleto_Gourmet_Especial_Franisco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "74 ESPECIAL GOURMET Cocineros DAVID MUÑOZ DIVERXO (MADRID) 'Chiradito' de pulpo y lenguado Con níscalos INGREDIENTES: un filete de lenguado sin espinas e un paquete de pulpo lami nado cocido e media cebolla roja e un chile rojoe 2 limas e una lata de níscalos • aceite de sésamo e sal Maldon e una lata de leche de coco e un manojo de cilantroe pimienta negra molida. ELABORACIÓN. Se corta el lenguado (en crudo) en láminas finas y se mezcla con el pulpo y los níscalos escurridos y cortados en daditos. Se exprime el zumo de las limas sobre el conjunto, se corta el chile rojo en rodajitas y la cebolla roja en juliana fina y se mezcla con los pescados. Se vierte un chorrito de leche de coco XLSEMANAL 7 DE DICIEMBRE DE 2008 sobre el conjunto y se sazona con el aceite de sésamo, la pimienta y la sal. Se deja macerar durante unos dos minutos y se sirve en un bol con suficiente jugo (leche de tigre de coco) coronado con abundante cilantro. Se come con cuchara. David Muñoz (Madrid, 1980). Tiene 27 años y Ileva apenas dos al frente de DivenXo, la actual meca de los gastronómadas españoles. Sus escasas mesas tienen una larga lista de espera y su cocina, guiños a todos los sitios donde ha trabajado: Viridiana -el restaurante de Abraham García, de quien habla mara villas-, Chantarella y de aquellos en los que trabajó en Londres: Orrey, Hakassany Nobu. En la ciudad de la muiticulturalidad descubrió esa fusión que ahora pone sobre la mesa. Tel.: 91 570 07 66. PACO RONCERO EL CASINO DE MADRID (MADRID) Sopa de pera, crema y gelatina de regaliz, peras en almíbar y 'crocant INGREDIENTES: Para la sopa: 125 g de jarabee o,250 l de puré de pera 25 ml de licor de pera. Para la crema: 30 g de yema pasteurizada • 125 ml de nata líquida 30 g de azúcar 25 g de pasta de regaliz Para la gelatina: 125 g de jarabe. • media hoja de gelatina 35 g de pasta de regaliz. Para las peras en almíbar. una lata. Para el 'crocant: 3og de cacao en polvo e 60 g de jarabe 10 g de gluco sa. Otros: 75 ml de helado de chocolate. ELABORACIÓN. Para la sopa de pera: se mezclan los ingredientes y se reserva en cámara. Para la crema de regaliz: se calienta la nata con el azúcar y, al hervir, se añaden las yemas sin dejar de remover. En templado se añade la pasta de regaliz. Se reserva en frío. Para la gelatina de regaliz: se disuelven en la mitad del jarabe caliente las hojas de gelatina previamente hidratadas en agua fría. Se mezcla con el resto del jarabe y la pasta de regaliz, se deja en frío cuatro horas y, cuando cuaje, se cortan dados de 1 cm. Para las peras en almíbar. se cortan las peras en dados de igual tamaño. Para la decoración de 'cro cant: se calienta el jarabe con la glucosa y fuera del fuego se añade el cacao en polvo y se mezcla. Se deja reposar dos horas. Se tiran líneas finas sobre papel siliconado y se hornea a 150 C durante 20 minutos. A la hora de servir, se colocan en el centro los dados de pera. A la izda., unos cubos de gelatina de regalizy, a la dcha., una lágrima de crema de",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2008-2696",
+      "category": "01_REVISTAS",
+      "title": "05 REV Folleto HotTables Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_05_REV_Folleto_HotTables_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_05_REV_Folleto_HotTables_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Hot Tabies 2008 DUCASSE SHOWS NO SIGN OF FATIGUE: LOBSTER SALAD WITH TRUFFLE REMOULADE AND APPLE SLIVERS IS A PRECISE STARTER WITH LOVELY TEXTURE Le Jules Verne »Paris The City of Light's top attraction is the setting for Alain Ducasse's fost ambitious project yet. appetizer of jerk tuna, with two piec es, seasoned differently by each chef, separated by a coconut gelée palate cleanser (351 Fortaleza St.; 787 724-48|4; entrées, $32 $44). Restaurant Jose Enrique »Santurce Chef-owner Jose Enrique's first ven ture, adjacent to the Santurce Mar ket, is nothing fancy: no sign outside, cream-colored walls with chalk paintings by locally famous artist Nico Flores, wooden tables and chairs, and the menu is scrawled on a blackboard. But Enrique has quick ly attracted the attention of the is land's foodie community with his up-dated Puerto Rican dishes: Humble mamposteao (rice and beans) is topped off with truffles, while a lan gosta frita riff takes the individual lob ster segments, seasons them witha kicky hot sauce, and deep-fries them in their own shell (176 Calle Duffaut: 787-725-35 18; entrées, $ 1 5-$35). RUSSIA Jeroboam »Moscow After earning a pair of Michelin stars with healthful cuisine vitale at his eponymous Bavaria restaurant, chef Heinz Winkler turns to heartier fare. Jeroboam, in a soaring modern glass and-steel dining room at the brand new Ritz-Carlton Moscow (see Hot List\"), pairs traditional French finery with high-quality Russian ingredients. The service is fit for a czar, with a near army of maitre d's, sommeliers, and servers hovering about as you sip an obligatory glass of champagne and peruse the lengthy menu. Win kler expertly dips into East, West, and Russian traditions: Caucasus crayfish floating in a sea of saffron sauce; veal laced with black truffles: and lobster served atop black noo dles. Save room for the crisp-fried chocolate truffle or the far lighter carpaccio of Colombian pineapple (3 Tverskaya Ul.; 7-495-225-8888: entrées, $80 $I 10). SOUTH AFRICA Myoga »Cape Town Chef Mike Bassett's global brand of cooking continues to wow-first at Cape Town's celebrated Ginja and now at Myoga. Located in the Vine yard Hotel and Spa, in the tony sub urban area of Newlands, the restau rant is named for an obscure type of Japanese ginger. Also obscure is the menu format, which includes a laun dry list of \"trios\" -soup to nuts, lit erally -plus a page-long glossary. The scallop trio is a winner, especial ly the iteration with grilled mango and foie gras, as is the seared salmon with seaweed-laced potato mash and the straightforward aged rib eye. The playful decor has eye popping orange sofas, metallic-gray walls, and black chandeliers dripping with crystals, and one wall has floor to-ceiling windows with stunning views of Table Mountain. The ser vice is informed and helpful, and the impressively varied wine list has both local cult labels and award winning estates (27-21-657-4500; prix fixes, $13-$32). Rust en Vrede Restaurant »Stellenbosc",
+      "content_tags": [
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-0576",
+      "category": "01_REVISTAS",
+      "title": "REV Folleto Origen 58 Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008__REV_Folleto_Origen_58_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008__REV_Folleto_Origen_58_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Un cocinero, Un producto EL MEJILLÓN DE ROCA Paco Morales SENZONE Hotel Hospes Plaza de la Independencia, 3 Madrid Teléfono: 914 322 911 on apenas 26 años, el cordobés Paco Morales es una de las grandes sorpresas de la cocina en Madrid. Con poco más de tres meses de trayectoria en el restaurante Senzone del Hotel Hospes, enfrente de la Puerta de Alcalá, ha despertado un gran in terés tras ser galardonado, además, por la Academia Española de Gastronomía, con su Premio al Cocinero del Siglo XXI. Pero Morales no es, ni mucho menos, un re cién llegado a los fogones, puesto que traba jó durante cinco años junto a Andoni Luis Adúriz en el Mugaritz de Rentería y estuvo también en 2004 como jefe de partida en EI Bulli de Roses, al lado del maestro Ferran Adriá. Desde el pasado año, el cocinero andaluz ha emprendido su propio vuelo en Madrid, acompañado de su mujer, la prestigiosa su miller Ruth Cotroneo, Premio Nacional de Gastronomía, en este pequeño restaurante de hotel en el que apenas atiende a una vein tena de personas por servicio. Se trata de su primera aventura individual en la que ha 58 ORIGEN asumido también otras responsabili dades, como la Dirección Gastronó mica del propio Hospes. Dice que le daba miedo llegar a Ma drid porque pensaba que no iba a en contrar el producto excepcional que requiere su cocina, pero asegura haber disi pado todas sus dudas porque \"los mercados son excelentes y en muchos casos mejoran la oferta que conocía\". Le pedimos que desta que para ORIGEN un producto representati vo de su carta y de la temporada actual y opta por los mejillones de roca \"porque están en su mejor momento del año y ahora estoy en tusiasmado con los productos del mar, enca bezados por los moluscos, no sólo los meji llones sino también las ostras o las navajas\". Los prepara, como en la receta que aparece en esta misma página, “con una pipirrana, una fórmula muy andaluza, de mi tierra, a base de cebolla, pimiento rojo, pimiento verde y ajo. Y los mejillones podrían susti tuirse por pulpo o por gambas. Es una ela boración que, palatalmente, resulta muy sencilla de reconocer. El mejillón de roca lo abro en agua de mar durante muy poco tiempo para que quede semicrudo y con la pipirrana se hace un licuado, se clarifica por decantación y se liofiliza con cola de pesca do y con un alga, el agar-agar. La receta in cluye también cidra, un fruto de la familia de los cítricos pero más grande, que es la parte blanca, y unas hojas de menta que aportan su característico frescor\", Con platos como éste, Paco Morales define su cocina como \"muy de producto y de mer cado, sensible y elegante, porque intento trabajar una materia prima muy variada pero manipularla lo menos posible para que dé realmente su esencia\". LOS COCINEROS JÓVENES DE MADRID Valora la obiención del premio al Cocinero del Siglo XXI \"porque se lo podrían haber dado a otros dos excelentes profesionales también jóvenes y radicados en Madrid, como David Muñoz, de Diverxo; o Fernando Pérez Arellano, de ",
+      "content_tags": [
+            "Senzone",
+            "Paco Morales",
+            "Gastronomía",
+            "Receta"
+      ]
+},
+{
+      "id": "local-rev-2008-6766",
+      "category": "01_REVISTAS",
+      "title": "Folleto Glamour Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Glamour_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Glamour_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "o esperes más para po ner al día tu cocina. Renueva tus ideas y anímate a organi zar una dinner party por todo lo alto con tus amigos más animados. ;La consigna? Ponerte en las mejores manos. Y como queremos que el éxito esté asegurado, hemos hecho un suculento experimento gastronómico pidiéndole a tres de los co cineros con más potencial de España que nos preparen su plato más glamourosoy original. Prohibido el pavo relleno, las carnes estofadas, el salmón con huevo hilado o las bandejas de langostinos por 66EN LA COCINA, ES BÁSICO CUIDAR TODOS LOS DETALLES9 Paco Morales Paco Morales Restaurante Senzone) EL MERCADO EN EL PLATO INGREDIENTES PARA 4 PERSONAS 1 tomate de corazón de búfalo. 1/2 kg de tomates en rama. 12 berberechos gigan tes. Sal de escamas. 2g de gelespesa. 1 mini coliflor. 1 mini brécol. 12 fresas. 1 me locotón. 100 g de setas de San Jorge. 8 puntas de espáragos blancos. Césped de cultivo. PREPARACIÓN Sobre un fondo de gel de tomate (hecho con el agua de los tomates en rama y el gelespesa) se colocan los berberechos hervidos en agua mineral y sal gruesa. Luego, añadir el brécol y la coliflor en trozos pequeños (hervidos durante 30 segundos), las setas limpiasy cortadas en láminas, el tomate corazón de búfalo en trozos pequeños, las briznas de cés ped, el melocotón en láminas, las fresitas, aceite de arbequina y sal de escamas. SU ADN Este joven chef cordobés se ha formado en alqunos de los fogones más aclamados de España, como los de elBulli y Mugaritz. * Su estilo: una cocina moderna, fresca, de compro miso y muy arraigada a la materia prima. Nunca antepone la técnica al producto. * Su obsesión: es muy exigente en su trabajo, busca siempre la perfección y es una de nuestras grandes prome sas * Su plato estrella: bacalao en costra con cebolletas tiernas, lentejas y patata crujente. * Dónde: Senzone, hotel Hospes Madrid, Plaza de la independencia, 3 (914 322 911). Glamour 251 LIVINGGOURMET INGREDIENTES PARA 4 PERSONAS Víctor Enrich Restaurante Enrich) CALDERETA DE MARISCO 4 carabineros de tarma fio grande. Un puñado de setas de temporada (cardo, chantarela..). 1 cebolla. 2 puerros grandes. 1 zanahoria. 1 tomate.1 I de caldo de pescado de roca. Una pizca de pimentón y otra de azafrán. Un chorro de coñiac y láminas de pan payés. 66DOY MUCHA IMPORTANCIĄ A LA PRESENTACION DE MIS PLATOS99 252 GIlamour Víctor Enrich PREPARACIÓN Pochar la cebolla, la zanahoria y los puerros. Añadir el tomate troceado, el azafrán, el pimentón, las cabezas de dos carabineros y flambear con coñac. Cubrir todo con el caldo de pescado y dejar que cueza. Pasar por la Thermomix, colarlo por el chino y salpimentar. Cocer los Carabineros en la caldereta cinco minutos y presentarlos en un plato ya pelados, sin quitar la cabeza y la cola. Decorar con las setas salteadas y el pan payés tostado. doquier. Paco Morales, Víctor Enrich y Andrés Madrigal van más allá y optan por llevar a tu mesa sabores de toda la vida, con su particular toque maestro y una presentación de ",
+      "content_tags": [
+            "Paco Morales",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2009-2158",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto Esquire Senzone Paco Morales Mejor Chef del año.Pdf",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_Esquire_Senzone_Paco_Morales_Mejor_Chef_del_año.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_Esquire_Senzone_Paco_Morales_Mejor_Chef_del_año.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "EL MEJOR CHEF DEL AÑO PACO MORALES ucara de niño bueno despista. Viéndole tan jo ven, frágil y tímido nadie pensaría que se tra ta de un gran chef con mucho temperamen to. Pulcroyatildado, parece un estudiante de Harvard más que un cocinero acostumbra do a desplumar aves y cantar comandas. Es te cordobés llegó a Madrid hace pocomás de un año dispuestoa darle un poco de vidilla al panorama gastronómico de la capital: su co cina elegante, etérea y brillante, no deja indi ferente a nadie. Parece que la etapa de Senzone, el restaurante del hotel Hospes donde tantos éxitos ha logrado, toca a su fin y que un futuro más acorde con sus expectativas se perfila en otro estable cimiento del que aún no puede darnos datos. Top secret. Morales tiene un currículo que impresiona. A sus 27 años puede presumir de un carrerón de vértigo: Guggenheim, El Bulli, Mugaritz.. Como él mismo admite, la inspiración llega en cualquier mo mento. Después, unas cosas salen y otras no. Hay que probarlo todo: cuando se paladean los platos es cuando surgen las dudas. La experiencia ayuda y da seguridad, madurez.. Su cocina desprende una fuerte carga intelectual, pero no es una pose. Es el reflejo natural de su forma de ser: reflexivo, perfec cionista, metódico, puntilloso hasta el extremo. Su planteamiento culinario es absolutamente racional, pero con un punto de inso lencia. En su trabajo no hay lugar para la improvisación. La van guardia no tiene secretos para él y, sin embargo, renuncia volunta riamente al uso de técnicas efectistas en favor de una cocina más esencial, más pura, en la que el producto es lo fundamental y la técnica sólo contribuye a mejorarlo. Cortes precisos, tiempos jus tos, presentaciones bellisimas, armonías insólitas... Sus platos son limpios, sobrios y tan austeros que a veces resultan difíciles por ser demasiado conceptuales: ortiguillas fritas, pulpo con col morada, ventresca de bonito en escabeche con algas fritas, ostra con arroz venere, queso y remolacha.. Un derroche de talento. reseñados bajo el epigrafe azúcar@sua.net-2°C. Aitor Elícegui actúa de asesor, pero el acento vasco ape nas sí se percibe en las pro puestas, la mayoría abier tas a múltiples influencias y ciertos toques de fusión, que se resuelven con des igual acierto. Cocina cos mopolita que lo mismo puede funcionar en Ma drid como en Manhattan. »DÓNDE NO HEMOS IDO Y NOS GUSTARÍA Se llama Soto y esta en la Sexta Avenida de Nueva York, su chef prepara los bocados más increibles con huevas de erizo fres cas. Platos ligeros y sutil El sentido del humor se mantiene en la carta de vi nos, que ha sido muy bien elegida por el sumiller Mikel Ceberio (sua blanca, top y espuma). Marqués de Valdeiglesias, 3. Madrid. Tel. 915 232 004. Precio medio entre 40 y 50€ (sin vino). Menú selección Sua 36 €. No cierra. simos sólo aptos para los fanáticos de los sabores marinos. Puedes verlo en vídeo en YouTube. »DÓNDE NO PENSAMOS VOLVER A esos restaurantes de NARRU SAN SEBASTIÁN Ínigo Peña, joven cocinero forma",
+      "content_tags": [
+            "Vino",
+            "Paco Morales",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-8843",
+      "category": "01_REVISTAS",
+      "title": "05 REV Folleto HotHoteles Hospes Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_05_REV_Folleto_HotHoteles_Hospes_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_05_REV_Folleto_HotHoteles_Hospes_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": ">>23| Galle Road, Bambalapitiya, Colombo 4; tel. +94 ||4 520 |30; casacolombo.com; Habitación doble a partir de 215 € TAILANDIA ALILA CHA-AM 79 habitaciones de madera y cristal, todas con vistas a un paisaje selvá tico, de impactante diseño minimalista. Si puedes elegir, lo mejor son las siete villas deluxe junto a la piscina, que te harán sentir en el refu gio playero de un amigo millonario. >>Cha-Am; tel. +65 67358300; alilali ve.com;HD: desde 160 € SIX SENSES HIDEAWAY YAO NOI En una isla aislada a la que única mente se accede tras un trayecto de 40 minutos en barco, la mayoría de sus 56 villas con piscina privada tie nen vistas panorámicas al mar de Andamán. El interior de las villas está protegido del sol gracias a la vege tación salvaje y sus sábanas son de la firma turca Six Senses-Soft, que se caracterizan por estar fabricadas en algodón orgánico y lino. Destaca su bodega de vino y su huerto orgánico. >> tel: +66 (0) 2631 9777; sixsenses. com; HD: desde 600€. THE LIBRARY Cerca de los aeropuertos de Chaweng y de Samui, minimalismo, discreción y originalidad son la tónica general en las 13 sutes y 13 estudios. Una ar quitectura que se funde en la vegeta ción con naturalidad, minimizando el impacto estético y medioambiental. El jacuzzi y la dotación tecnológica de las habitaciones son un extra. La is la es demasiado turística y el espí ritu zen desaparece tan pronto ves el Mc Donald's y el Starbuck's. >>14/| Moo 2, Bo Phut, Koh Sarmui, Suratthani; tel. +66 77 422 767 8, the library.narme; HD: desde 180 €. VIETNAM INTERCONTINENTAL HANOI WESTLAKE ¡Un hotel urbano, a 10 minutos del centro, en mitad de un enclave para disíaco y silencioso? Difícil. ¡En Asia? Imposible. Hasta que se constru yó este hotel de 359 habitaciones jun to al lago más grande de Hanoi. Consigue una habitación con vistas al lago y procura evitar los lluvio sos meses de julio y agosto. >>1A Nghi Tam, Tay Ho; tel. + 84 4 270 8888; intercontinental.com; HD:a partir de 165 €. EUROPA ALEMANIA ARCOTEL VELVET BERLIN A diferencia de otros supuestos ho teles boutique de Berlín, a los que les basta una recepción de diseñoy un nombre pretencioso para asombrar a esnobs impresionables, ArcOtel cumple las expectativas del moderno viajero urbanita: ubicación muy cén trica (barrio Mitte), servicio correcto, decoración ingeniosa y muy có modo. Las paredes de las habitacio nes son enormes ventanales con RYOKAN FUJIYA, Japón. PARA OLVIDARTE DE TODO > 360° Leti, India. Necker Island, Islas Vírgenes Britá nicas, Caribe. Banyan Tree Ringha, Yunnan, China. Six Senses Hideway Yao Noi, Tailandia. Alila Cha-Am, Cha-Am, Tailandia. vistas a las fabulosas casas decimo nónicas ya los tranvías amarillos que recorren Oranienburgerstrasse, uno de los principales centros de la movida nocturna berlinesa. >>Oranienburger Strasse 52, Berlín, tel + 49 30 2787 53: arcotel.at/velvet. htm; HD: desde 120 €. HOTEL DE ROME Un antiguo banco de factura neoclá sica en el corazón prusiano de Berlín, con vestíbulo de mármo",
+      "content_tags": [
+            "Vino"
+      ]
+},
+{
+      "id": "local-rev-2008-6135",
+      "category": "01_REVISTAS",
+      "title": "02 23 REV Folleto special off4 Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_02_23_REV_Folleto_special_off4_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_02_23_REV_Folleto_special_off4_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Fontaine de Trévi, Rome: Douce Vie à l'Italienne. LAVATLA *L'expérience de l'espresso italien. THE ITALIAN esPresso exPerlence WWw.lavaZza.com Auteurs en scène ls sont 24 à fouler la scène du OFF cette année. 2% auteurs à part entière, inventeurs d'un éphémère culinaire qui donnent le ton d'une année de création. Les Démos en un clin d'eil LUNDI 23 FÉVRIER 08h45-09h30 Pierre Hermé 09h35-10Oh 10 Alexandre Bourdas 10h15-1Oh50 Laurent Chareau 10h50-11h05 PAUSE 11h05-11h40 Bertrand Grebaut 11h45-12h20 Paco Morales 12h25-13h00 Emmanuel Renaut 14h30-15h05 Jordi Butron 15h10-15h45 Katsumi Ishida 15h50-16h35 Jacques et Laurent Pourcel 16h35-16h50 PAUSE 16h50-17h25 Mads Reflund 17h30-18h05 Franck Cerutti 18h10-18h45 Petter Nilsson 18h45-19h30 Remise des Extras 2009 MARDI 24 FÉVRIER 08h45-09h30 Marcel Lapierre, Michel Issaly, Marcel Richaud 09h35-10h 10 Thorsten Schmidt 10h15-10h50 Stefano Baiocco 10h50-11h05 PAUSE 11h05-11h40 Riccardo Camanini 11h45-12h20 Marion Monnier 12h25-13h00 Jacques Marcon 14h30-15h05 Nicolas Le Bec 15h10-15h55 Heston Blumenthal 15h55-16h10 Présentation de la Bourse Badoit de la Création avec Thierry Marx 16h10-16h25 PAUSE 16h25-17h00 Emanuele Scarello 17h05-17h40 Alexandre Gauthier 17h45-18h30 Ferran Adrià LUNDI 23 FÉVRIER 08h45-09h30 Café Confidences avec Valrhona Voir encadré Pierre Hermé (Paris) 09h35-1Oh10 Alexandre Bourdas Sa.Qua.Na (Honfleur] Alexandre tisse sa toile, son fil, son succès. Pas factice. Alexandre est un très grand, et ses assiet tes cinglent comme jamais. « Direct... »: un de ses plats s'appelle comme ça. Palourdes, huile de gaillet et pomelos en guise de sous-titre, un trou normand revu et corrigé à la sauce nippone par un chef du XXI siècle. Une espèce de dashi très pur et neutre afin de valoriser le shoot iodé des gros coquillages, où le fruit apporte l'acidité et le gaillet un soupçon de miellé. La bouche purifiée dit merci. Nous aussi. Sa.Qua.Na • 22 place Hamelin 14600 Honfleur Tél.: 0231 89 40 80 www.alexandre-bourdas.com 10h15-10h50 Laurent Chareau Le Chat (Villechaud) Décalé, Chareau l'est. Tignasse hirsute et bouclée, yeux de Droopy, parole rare, charisme mutique... Il y a deux ans, il s'était échappé de Paris dont il avait pourtant largement contribué au décoinçage culinaire et zygomatique. Installé à Villechaud en défricheur, Laurent Chareau fait beaucoup plus que de la cuisine : le pari, un peu fou mais qui sem ble ici maitrisé, de faire découvrir à la Loire du vin blanc et des fromages de chèvre la subtilité de la jeune cuisine à prix hautement concurrentiels. Le Chat • 42 rue Guérins 58200 Villechaud Tél. : 03 86 28 49 03 11h05-11h40 Bertrand Grebaut Agapè (Paris) 26 ans et déjà chef d'un restaurant. 26 ans mais surtout déjà maitre d'une cuisine qui va à l'essen tiel. Bertrand Grebaut a été stagiaire chez Alain Passard pendant deux ans: « C'est là que 'ai tout appris. » On en a la preuve, avec son fi let de mai gre, crevettes grises, bourrache, mousseline de petits pois et émulsion coquillage. U",
+      "content_tags": [
+            "Paco Morales",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-3592",
+      "category": "01_REVISTAS",
+      "title": "06 06 REV Folleto Gourmet Jornadas Participación Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_06_06_REV_Folleto_Gourmet_Jornadas_Participación_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_06_06_REV_Folleto_Gourmet_Jornadas_Participación_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "imagen: Gato, Tine Kluth, 2005 O Tine Kluth Kineteca Los niños van al cine 18 de junio al 12 de julio de 2008 www. museoreinasofia.es Miércoles y Viernes 18:30h Sábados 12:00 h DEPARTAMENTO DE EDUCACIÓN Proyecciones en Salón de Actos Sabatini Acceso Libre Museo Nacional Centro de Arte Reina Sofia Aforo: 140 localidades DE PSPA ECTURA COMER Coque sorprende con una innovadora receta de taco de atún con carne de cereza Sus más de mil variedades dan color a exquisitos platos El sabor de la cereza E. SUEIRO Todos sucumbimos ante el enorme en canto de la cereza. Primero, porque es protagonista de los paisajes más hermo sos que la naturaleza pueda otorgar. La belleza visual que suponen los cerezoS en flor y el intenso cromatismo de su fruto antes de su recolecta es de una hermosura casi indescriptible. El cerezo forma parte de la familia de las Rosaceae y procede de Asia Menor, de Mesopotamia. Se sabe que los griegos, que la llamaban kerasos, cultivaban la 72 MADRID360 ABC DEL 13/6 AL 19/6 DE 2008 cereza allá por el siglo IV a. C. Pero fue ron los romanos quienes la difundieron por todo su imperio. «<(...) el verdadero cerezo originario de Cerasonte, en el Ponto, fue introducido por Lúculo des pués de su victoria sobre Mitríades en el 74 a. C. De ese frutal se obtuvieron muchas variedades, siendo las más apre ciadas las de Campania y Lusitania>, señala Martínez Llopis en su «Historia de la gastronomía española», En la actualidad hay más de mil va riedades de cerezas en todo el mundo que ACTUALIDAD 74 Direcciones Coque. Francisco Encinas, 8. Humanes. O91604 02 02. Senzone. Hotel Hospes. Plaza de la Independencia, 3. 91 432 29 11. Sergi Arola Gastro. Zurbano, 31.O 91310 21 69. Príncipe de Viana. Manuel de Falla, 5. 91457 15 49. Bakari. Luis Bufiuel, 2. Ciudad de la Imagen. Pozuelo de Alarcón. 9171191 69. se cultivan en zonas de climas templados. En España los cultivos se extienden por Cáceres (Valle del Jerte, La Vera y Valle del Ambroz), Barcelona (Baix Llobregat), Valle del Ebro, Castellón, Jaén, Alicante, Navarra, País Vasco, Galicia y Mallorca. Por supuesto, cada zona de cultivo ha aclimatado sus variedades autóctonas. Así, las cerezas amparadas por la D. O. Cereza del Jerte pertenecen a la variedad Navalinda (con pedúnculo) y a las Picotas del Jerte (Ambrunés, Pico Negro, Pico Colorado y Pico Limón Negro). Espíritu versátil Son muchos los restaurantes que se rin den ante la cereza y su versatilidad en la cocina. Empecemos por Coque, donde Mario Sandoval prepara una emulsión de almendras con taco de atún y carme de ce reza. Seguimos en Senzone. Paco Morales se decanta por un postre: cerezas y nata, que consiste en un untuoso helado de na ta, un puré de cerezas con azúcar lustre, cerezas en aguardiente y unas láminas crujientes de la propia cereza. Sergi Aro la, que acaba de recibir el premio en lal Edición de los Premios Picota del Jertea la calidad gastronómica, tiene en su carta el plato Norte, Sur, Este y Oeste: gamba roja de Palamós acompañada de ",
+      "content_tags": [
+            "Senzone",
+            "Paco Morales",
+            "Gastronomía",
+            "Receta"
+      ]
+},
+{
+      "id": "local-rev-2008-3429",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto OnMadrid Comer Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_02_REV_Folleto_OnMadrid_Comer_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_02_REV_Folleto_OnMadrid_Comer_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "LAVINIA. ESPACI0 GASTRONOMICO El esplendor del vino rodea este moderno bistrot caracterizado por su cocina franca y amable servicio. o UIS CEPEDA ORTEGAY GASSET, 16 [Núñiez de Balboa). Tel. 914 26 05 99, COCINA MEDITERRÁNEA ESPAÑOLA Y FRANCESA. Rossini de carrillera de ternera, Sólo comidas. Cerrado domingos. Parquin concer tado (Velázquez, 88). No fumadores. 35 €, empezar esta crónica me acuerdo de una frase del poeta Raúl Rivero leída en estos días: \"a bordo de esa condescendiente má quína del tiempo que puede ser el vino...\" Me la traigo, fuera de su contexto, para significar lo que ocurre en el peculiar espacio gastronómico de Lavinia. A bordo del vino, en su dimensión más exquisita y desbordante, nos reencontramos, tras un túnel temporal de quince años, con quienes gobernaron el añorado restorán Lúculo de la calle Génova. A El chef Ange García, miembro a una ilustre estirpe hostelera de Perpignan, y el maitre madrileño Juan An tonio Cortés, un perfeccionista del servicio sin artificios, fueron los joviales destinatarios de una estrella Michelin de entonces y retornan con la madurez de la cocina per petua, en su tono más ameno: una casa de comidas que O CATEDRAL DEL VINO HACE OCHO ANOS se inau guró Lavinia, una lonja de vinos de 1.000 metros cuadrados, un osado propósito que hoy revela el progreso y la curiosidad social por el vino de calidad, aportando solidez y versatilidad a esta cultura. Hay tiendas Lavinia en Barcelona, Ginebra y Paris, pero sólo la última (3, boulevard Ma deleine), que es la más grande (1.500 metros cuadrados), y la de Madrid disfrutan de espacio gastronómico. LO QUE VIMOS CoMER 10) EL AMBIENTE. En el entresuelo de la tienda de vinos con más glamur, un recinto casual, acogedor y desahogado, con sen saciones de proximidad y un cuidado bar de vinos donde catar primiciasy guardas. 8,0 LA CARTA. En Ange García se concentran las facultades, la experiencia y la audacia de un chefinternacional de casta que reivindica la evidencia culinaria, lo que se refleja en una oferta de platos con sustan cia, emoción y actualidad. 7,0 LA ATENCION. Genera un excelente e infrecuente tono entre la parroquia y el servicio, lo que proporciona la impresión de hallarse en el comedor de una taberna ilustrada acorde con su tiempo. 9.5 EL VINO, Imposible hallar una bodega de restaurante más extensa y a mejor precio. Se aplican los de la tienda a cualquiera de las 4.500 referencias de vinos que acumula. Belén, la sumiller, es una asesora eficaz. induce a la fidelidad. En su oferta encuentras un espeso Y jugoso paté de campaña o la frescura nueva del foie escabechado, una ratatouille de la parroquia provenzal del chef, los caracoles borgoñones, la cabal ensalada niçoise o unas ostras al champán legítimas. Cual bras serie parisina, presume de la choucrout alsaciana, pero también del cocido en un sólo vuelco, síntesis de nuestro potaje esencial. Es deci, cocina francesa y cocina es pañola en complicidad y sin sumisiones, con el bacalao en xanfaina junt",
+      "content_tags": [
+            "Vino",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2007-7201",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto Origen inicios Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_02_REV_Folleto_Origen_inicios_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_02_REV_Folleto_Origen_inicios_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Gana el concurso organizado por la Academia Española de Gastronomía Paco Morales, del restaurante Senzone de Madrid, Cocinero para el siglo XXI aco Morales, jo ven cocinero cor dobés de 26 años, asentado desde el pasado otoño en el restaurante Senzone P del Hotel Hospes de Ma drid (Plaza de Indepen dencia, 3. Tfno. 91 432 29 11), al lado mismo de la Puerta de Alcalá, ha ga nado el Premio al Cocine ro del Siglo XXI, organiza do por la Academia Espa ñola de Gastronomíay las Bodegas Marqués de Ris cal, una convocatoria diri gida a cocineros, jefes de COcina y estudiantes me nores de 30 años. A pesar de su juven tud, Morales acumula una amplia y sólida expe riencia profesional, que se inició en la Escuela de Cocina de Córdoba. Des pués trabajó durante un afio como jefe de partida en el restaurante Gug genheim Bilbao, al lado de Josean Martínez Alija, y atravesó una primera etapa de dos años en el restaurante Mugaritz, de Rentería, junto a Andoní Luis Adúriz, también como jefe de partida. En 2004 estuvo, al lado de Ferran Adriá, en El Bu li de Roses como jefe de partida para volver des pués a Mugaritz como se gundo de Andoni, en don de permaneció hasta el pasado verano, cuando emprendió la aventura de Senzone junto a su espo sa, la también joven su miller Ruth Cotroneo, Pre mio Nacional de Gastro nomía en 2005 y que ha trabajado al lado de pro fesionales de la talla del británico Heston Blu menthal y del propio An doni. Hoy es jefe de coci na de Senzone y respon sable de todo el departa mento de bebida del Ho tel Hospes. Noticias Gastronomía OTRAS ESTRELLAS EMERGENTES Junto a Paco Morales, han participado en el con Curso las estrellas emer gentes de la cocina en Madrid, como David Mu ñoz, del restaurante Di verxo; Fernando Pérez Premio Riscal al Cocinero del Siglo XXI Feria Madi Arellano, de Zaranda; Jai me Renedo, de Asigna, José Luis Estevan, de Lá grimas Negras; Kiko Ce ballos, de Astrid & Gas tón; José Luis Moreno López, de Coque; Fernan do Saugar, de Jockey: y Benigno Redruello, de La Ancha. La relación se completó Raquel Conta dor y Hugo Díez, ganado ra y accésit, respectiva mente, del | Premio Tradi ción Arzak-Adriá que pre miaba a los mejores alumnos de las Escuelas de Hostelería. FLORE EI Mejd Como presidente de honor del jurado ha ejer cido Rafael Ansón, presi dente de la Academia Es pañola de Gastronomía, y como presidente, José Luis Muguiro, de Mar qués de Riscal. Entre sus componentes, cocineros como Javier Oyarbide, Salvador Gallego o Juan Pablo Felipe; enólogos, como Maribel Mijares; di señadores como Agatha Ruiz de la Prada, o críticos gastronómicos. El jurado, que sometió a los diez candidatosa un exigente examen oral, va loró especialmente su ju ventud y experiencia pro fesional, además de los conocimientos en distin tas materias, como Dieté tica y Nutrición, Enología. gestión y administración; O nuevas tendencias y técnicas en el mundo de la cocina. El Premio al Cocinero del Siglo XXl está dotado con 7.500 euros y compor ta una esta",
+      "content_tags": [
+            "Senzone",
+            "Paco Morales",
+            "Gastronomía",
+            "Córdoba"
+      ]
+},
+{
+      "id": "local-rev-2007-4512",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto OUTUBRO Senzone Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_02_REV_Folleto_OUTUBRO_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_02_REV_Folleto_OUTUBRO_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "uando estamos alqum tempo longe de Madrid, temos tendên cia a esquecer-nos de como a cidade transborda de vida e energia. Energia essa que nos contagia e \"empurra\" para as alles. É impossivel não querer viver ao máximo o spírito madrileno. Hospedada no Hotel NH acional, em pleno Paseo del Prado e muito próxi no da estação de Atocha, estou no centro nevrálgi o da cidade. A dois passos dos 'gigantes\" de arte madrilena: Museu do Prado, Museu Nacional de rte Rainha Sofia, ThysSsen-Bornemisza... Contudo, quele que suscitou mais interesse e curiosidade foi recém-inaugurado CaixaForum.O que em tempos oi a Central Eléctrica do Mediodía de Madrid, é gora um dos pólos culturais mais interessantes da idade. Durante boa parte do século XX, a energia ra distribuída através da Central do Mediodía, endo contribuído para iluminar a Madrid apaixo ante das tertúlias, dos teatros, dos artistas e EStadas do interior da CaixaForum Exposição \"Chaplin en Imágenes\" Fachada do Hotel NH Nacional yK CatsaForum Fachada do edifício da CaixaForum boémios e das grandes encruzilhadas políticas, cul turais e sociais do século passado. ENERGIA RENOVADA Em 2001, a Caixa recuperou a fábrica e entregou a sua reabilitação ao atelier de arquitectura Herzog e De Meuron, vencedores do Pritzker Architecture Prize 2001. Inaugurada em Fevereiro de 2008, hoje, a velha central produz de novo energia. Uma energia diferente, importante igualmente para o desenvolvi mento da sociedade madrilena. O coração social e cultural de Madrid bate agora com mais força graças à nova sede da Obra Social La Caixa: CaixaForum Madrid. Sedutor, atrevido, atractivo... Assim foi definido este espaço: um edifício que tambémé uma escultura e que ocupa 10 mil metros quadra dos e dispõe de quase 2 mil metros quadrados para salas de exposição. Além do revestimento em ferrugem do edificio, chama particularmente à OUTUBRO |55 KCaibaForum atenção o jardin vertical, o primeiro em Espanha. Este impressionante tapete natural é formado por 15 mil plantas de 250 espécies. o CaixaForum Madrid conta também com um foyer e um auditório com 311 lugares para concertos, poesia, ciclos de cinema.. O novo centro social e cultu ral no coração de Madrid representa a aposta de La Caixa para estender os benefícios da sua Obra Social a todos os cidadãos espanhóis e estrangeiros. Até dia 19 de Outubro está em exibição a exposição \"Chaplin en Imágenes\". Uma 56| OUTUBRO SEM RUMO mostra que apresenta a vida e a obra do artista através de mais de 250 documentos como fotografias, posters, fragmentos de algumas das suas películas -algumas inéditas -provenientes dos arquivos familiares. RESTAURANTEREVELAÇÃO Além da vasta oferta cultural, a nível de restauração Madrid está no topo da Europa. Para um pequeno -almoço tardio, um aperitivo, ou uma refeição ligeira, a pastelaria/casa de chá Embassy no Paseo de la Castellana é uma boa opção. O ambiente é muito \"pijơ, a pastelaria fina e as iguarias da loja gourmet, uma perdião. Se Ihe apetecer relaxar, n",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2008-8362",
+      "category": "01_REVISTAS",
+      "title": "Folleto Congreso Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Congreso_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Congreso_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "19:15 h. 19:45 h. 10:00 h. PAOLO LOPRIORE IL CANTO, Siena (Italia) >Pasta, pan y arroz: consistencias pri mordiales. Pinchón en dulce fuerte. Platos siempre limpios, puros. PACO MORALES SENZONE, Madrid (España) >Obras carismáticas de 2008: el merca do en el plato.. Mejillones con áspid. Esencialidad y nobleza. 26MIÉRCOLES PANORÁMICA DE ALEMANIA HANS STEFAN STEINHEUER. STEINHEUERS. Neuenahr-Ahrweiler (Alemania) >Promotor de la cocina regional y genio de los aromas. Corzo con costra de mostaza negra. HAROLD WOHLFAHRT/ P. LINGELSER. SCHWARZWALDSTUBE, Baiersbronn (Alemania) >La institución que elevó la cocina clásica a la altura de la época. Bienestar culinario. THOMAS BÜHNER. LA VIE, Osnabrück (Alemania) >Brilla el ámbito aromático, modernizado en su textura. Foie gras marinado con achicoria. MICHAEL HOFFMAN. MARGAUX, Berlín (Alemania) >Cocina verde meditativa para los gourmets evo lucionados. Judías con col y jalea de ave de Bresse. JÕRG SACKMANN. SCHLOSSBERG, Baiersbronn (Alemania) >Día y noche piensa en algo nuevo para cada producto. Cazuela de ternera. JOACHIM WISSLER. VENDÔME, Bergisch Gladbach (Alemania) >Un gran estandarte internacional de la cocina estructuralista. Bonito con yuzu y caldo de cítricos. CALIMA, Marbella (España) >Calima 2008. Ajo blanco-ajo negro, visión van guardista de la sopa malagueña. 1230 h ARIC ARBELAITZ ZUBEROA, Oiartzun (España) >Equilibrio entre tradición y modernidad. Car paccio de bogavante a los aromas de jengibre sobre pornelo. 300hstGLAS CIPOLLING, MOscú (Rusia) >La cocina rusa desde la óptica mediterránea. Versión creativa del clásico bortsch. 13055RE REBOUL REBOUL, Aix en Provence (Francia) >Una cocina creativa y recreativa. Lata de ancas de rana al estilo caviar de perejil y sorbete de pastis. 5 lomejordelagastronomia com RuedA > 16:30 h. > 17:00 h. > 17:30h. > 18:00h. > 18:30h. > 19:00 h. > 19:30h. > 10:00h. > 10:30 h. > 11:00h. > 11:30 h. JORDI VILA ALKIMIA, Barcelona (España) >Gambas a la mano. PACO TORREBLANCA TOTEL, Elda (España) >Fusión de chocolate millésimé. Campana de Isomalt con savarin al cury y chocolate Alto el Sol. RÉGIS MARCON MARCON, Saint Bonnet le Froid (Francia) >Pichón con recuerdos de México. Brocheta de plátano con caramelo de colmenillas. QUIQUE DACOSTA EL POBLET, Denia (España) >Impresionismo y Expresionismo. lceberg. Evocando un golpe de mar. CARLO CRACCo CRACCO, Milán (Italia) >Nuevas ensaladas, sabores reinventados. Raviolis de calabaza cocidos al romero. MANOLO DE LA OSA LAS REJAS. Las Pedroñeras (España) >Las Rejas 2008. Moluscada con jugo de tomate y microvegetales. BERNARD LEPRINCE LES RESTAURANT LES FRÈRES BLANc, París (Francia) 2UEVES KOBE DESRAMAULTS IN DE WULF, Dranouter-Heuvelland (Bélgica) >Redescubrimiento de nuestra región: Los Flandes. Costilla de Opale. Imaginación y belleza. PINO CUTTAIA LA MADIA. Licata. (Sicilia) >Reinvención de Sicilia. Noquis de sepia con su carbón negro. Carácter mediterráneo. 1SAAC SALABERRIA FAGOLLAGA, Hernani (España) >Densidades: evolución en",
+      "content_tags": [
+            "Tradición",
+            "Paco Morales",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2007-0351",
+      "category": "01_REVISTAS",
+      "title": "Folleto Gourmet Senzone Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Gourmet_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Gourmet_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "SASE TÉCNICA E, BUSCO UN CADA PLATO\" Trizó en Madrid hace as riendas del restau on una cocina creati en la que la materia con una técnica depu de las texturas como s de identidad. elaborada'con pape ay apio que preparo icuados de las verdu esenciasy las texturizo . Es una apuesta por -y el color (esa pata ensalada malagueña). una cocina seria con a importante a fuerza odidacta y buscando ido a cada plato\". de cocción en made e la que prepara una co. Aunque el plato lclub allard + nuevos restaurantesC8URMET CUIDADO HASTA EN EL ENVOLTORIO EI Club Allard está en una sala noble, de techos altos, en un edificio nmodernista de principios del siglo XX. EL PLATO ESTRELLA DEL ALLARD ES AHORA LA LIEBRE EN SU ENTORNO estrella es la liebre en su entorno, con geminados, en la que se mastican los polvos terrOSOs de regaliz y los hon gos deshidratados. También sorprern den el salmonete en gel traslúcido de tomate y la manzana ácida. Ferraz, 2. Madrid. Tel.. 915 59 09 39. Cierra los sábados al mediodía y los domingos. Precio medio: de 50 a 70 €. El reparto de premios Entre todas las nuevas estrellas, desta can las 191 recibidas por Tokio y las enviadasa Alemania: tres a tres restau rantes (entre ellos, al del español Juan Amador, en Fráncfort, tras los pasos de Adrià), y dos a otros tantos locales. Y para España, un único galardón de dos estrellas, para Abac (Barcelona), y 15 premios de una estrella, muy repartidoS: en Barcelona, Comerç 24 (Carles Abellán, cocina en miniatura) y Lluçanés (Ángel Pascual, cocina de autor), en Marbella, Calima (Dani García, 1la revolución sureña), en Segovia, Villena (Julio Reoyo, la reno vación), en Valladolid, Ramiro's (esús Ramiro, culinaria con raíces), en San Sebastián, Kursal (Martín Berasategui, la sustancia), Kokotxa (Dani López, de mercado con guiños), en Urdániz, EIMolino de Urdániz (David Yárnoz, con sabor), en Gandía, Arrop (Ricard ABAC, DE BARCELONA, ES EL ÚNICO QUE RECIBE LA SEGUNDA ESTRELLA Camarena, nueva marinera) También fueron premiados los res taurantes Yayo Daporta (Cambados), Massana (Girona), Azurmendi (Llarrabetzu, Vizcaya), Els Casals (Sagas, Barcelona) y Retiro de Costiña (Santa Comba, La Coruña). Antonio lvorra NUEVO THAÏ GARDENS Sin perder un ápice de su sabor oriental, el nuevo Thai Gardens, en el antiguo local de Calle 54, tiene tres plantas, sala de proyecciones y espacios para eventos, Paseo de la Habana, 3. Madrid, Tel.: 915 77 88 84. No cierra, Precio medio: 40 € CELLER DE CAN ROCA En Girona, los hermanos Roca (Joan,cocinero; Josep, sumiller: y Jordi, pastelero) han inaugurado el Celler de Can Roca, espacio lleno de vegetación y con la torre familiar, de 1910, como emblema, Cansunyer, 48, Girona. Tel.: 972 222157. Cierra los domingos y los lunes. SENZONE HOSPES Con Paco Morales -Mugaritz, El Bulli-y Rut Cotroneo-Fat Duck, El Chaflán, Hacienda Benazuzar y Mugaritz-al frente, Senzone, el restaurante del hotel Hospes, es la ültima sensación de cOcina de autor en la capital. Plaza de la Independencia, ",
+      "content_tags": [
+            "Paco Morales",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2009-3276",
+      "category": "01_REVISTAS",
+      "title": "Folleto Ronda Iberia Senzone Paco-Morales (1)",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Ronda_Iberia_Senzone_Paco-Morales (1).pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Ronda_Iberia_Senzone_Paco-Morales (1).pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "el produucto y su intérprete the product and its interpreter Por/By: Rafael Ansón () Fotografías/Photos: Cristina Lancha Galán >MAGAZINE sco Meals Paco Morales y el bacalao PACO MORALES AND COD Además de alimento cuaresmal por excelencia e ingrediente básico de los potajes y otros platos de vigilia, el bacalao es, en los meses anteriores, una de las estrellas de las mesas de invierno. Ha ejercido tradicionalmente (sobre todo a través de recetas tan emblemáticas como a la vizcaina o al pil pil) como uno de nuestros mejores embajadores gastronómicos en el mundo entero. Traditionally consumed at Lent, when it is always a basic ingredient of pottages arnd other dishes, cod is also one of the stars of winter tables in the months leading up to it. It has also proved one of Spain's finest culinary ambassadors around the world, thanks above al to recipes like Vizcaya-style cod or cod al pil pil. AMODAHRAT ) Presidente de la Academia Española de Gastronomía y Presidente de Honor de la Academia Internacional. iega2 ) President of the Spanish Academy of Gastronomy and Honorary President of the International Academy.oorrehS RONDA IBERIA 69 MAGAZINE Esta joya culinaria pro lcede de un gran pez de la familia de los gádidos, que puede llegar a pesar más de 40 kilos y suele pescarse en los mares septentriona les precisamente porque las aguas son las más frias. Su carne resulta delicada, blan ca y hojosa, lo que hace que se preste perfectamente para todo tipo de preparaciones culinarias, tanto frescas como en salazón, aumentando en este último caso su concen tración en grasa con respecto al fresco. En España puede llegar a haber hasta un centenar de recetas y, como el mapa del bacalao es ibérico, en Portu gal se Cuenta que existe una fórmula para cada día del año o incluso más. Aunque existe una vigorosa cocina nórdica protagonizada por este pro ducto, la variedad meridional se nos antoja insuperable, es decir, que \"quien corta real mente el bacalao\" es nuestra Iberia. El bacalao puede asarse al horno, pero también bra searse al vino blanco e incluso escalfarse en caldo aromati zado. Las especies grandes, más abundantes, se venden cortadas en filetes, en rodajas O en troZOs. La delicada carne del bacalao fresco exige una cocción bien administrada, que se reconoce en el líquido blanquecino que de ella se desprende. Al margen del bacalao a la vizcaína y al pil pil, hay otras recetas tradicionales MADRID procedentes de todo el pla neta gastronómico medite rráneo, como es el caso del ajoarriero, a la criolla, los sol daditos de Pavía andaluces y madrileños, en escabeche, a la gallega, el atascaburras, bacalao Club Ranero, bacallá a la llauna o en samfaina y a la provenzal. Antes de cualquiera de es tas preparaciones, el baca lao debe ser cuidadosamente desalado. Después se puede escalfar para servirlo tanto frío como caliente, pues permite ambas posibilidades. Si está fresco, también puede servir para confeccionar croquetas, mousses y ensaladas. Hablamos de bacalao c",
+      "content_tags": [
+            "Vino",
+            "Paco Morales",
+            "Gastronomía",
+            "Receta"
+      ]
+},
+{
+      "id": "local-rev-2007-9754",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto Glamour 6Pistas Senzone Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_02_REV_Folleto_Glamour_6Pistas_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_02_REV_Folleto_Glamour_6Pistas_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "ORAS Ramses Diseño Starck Ha sido la apertura más aclamada de Madrid. Philippe Starck llegó y triunfó. Su imponente espacio Cuenta con dos restaurantes, una zona de show cooking, una barra de cócteles y mucho más. → Plaza de la indepen dencia, 4, Madrid, tel.: 914 351 666. rarmseslife.com. Senzone Una delicatessen Está en boca de todos y es una auténtica delicia. Emplazado en el nuevo hotel Hospes de Madrid, con unas vistas privilegia das a la Puerta de Alcalá, es el nuevo templo de la gastronomía. ¿Los artífices de este triunfo? EI joven chef Paco Morales y la sumiller Rut Cotroneo. → Plaza de la Independen cia, 3, tel.: 914 322 911. MADRID Original barra de pinchos del restaurante Mercado de la Reina (Gran Via, 12, tel.: 915 213 198). LA RIOJA El hotel Marqués de Riscal mezcla modernidad y mucho confort. Casa de Tepa Rural trendy EScápate a un hotel lleno de encanto y de glamour. Te desvelamos una direc ción secreta para tus fines de semana más román ticos. Se llama Casa de Tepa y está ubicado en un edificio del siglo XVIIl, en pleno Camino de Santiago. → Santiago, 2, Astorga, León, tel.: 987 603 299. casadetepa.com Pato Lagquedo Cocina oriental Un espacio renovado con platos muy originales. Una larga propuesta de delicias como dim-sum, pescados, verduras y car nes a cual más rica. ¿Su especialidad? Como no podía ser de otra forma, el pato laqueado, que tiene fama de ser el mejor. → San Benito, 3, Madrid, tel.: 913 145 995. Gavara Sabor a mar Un hotel y restaurante para pasar desapercibida. El tenista Juan Carlos Ferrero ha apostado por un negocio donde la vanguar dia está a la orden del día. → Ctra. Bocairernt-Villena, km 15,5, Bocairent, Valen cia, tel.: 962 355 182. Marqués de Riscal La Rioja chic El edificio de Franck O. Gehry es un espectáculo. Los viñedos de la famosa bodega son el paisaje per fecto para disfrutar de un entorno único. ¿El plus? Su excelente restaurante. → Torrea, 1, Elciego, Álava, tel.: 945 180 880. marquesderiscal.com. Silk & Soya Diversión total Está considerado como uno de los diez mejores tailandeses del mundo. Multiespacio donde poder degustar las propuestas más exóticas y tomarte una copa a ritmo de disco. → Avda. de la Ermita, s/n, Nacional I, salida 14, Ma drid, tel.: 916 620 315. Rubaiyat Sabor do Brasil Las mejores carnes a la parrilla y al horno de barro de la capital. En Brasil, es el restaurante de referencia, y aquí se ha convertido en el sitio de moda. Te tratan como a una reina y, además, tiene una terraza espectacular. →Juan Ramón Jiménez, 37, tel.: 913 591 000. S&No sÍ PICOTEO COOL Es la mejor manera de probar distintos platos, isin lenarte demasiado! NO TURNOS EN LOS RESTAURANTES Comprendemos que la crisis obliga, pero no nos gusta la imposi ción de los dos turnos. ¿Cenas a las nueve o a las once de la noche? sí COMER EN LAS TERRAZAS Los res taurantes con mesas al aire libre son la mejor apuesta para el verano. NO HOTELES CON DISCOTECA La estética club no es la mejor op ción para descansar en tus viaje",
+      "content_tags": [
+            "Paco Morales",
+            "Gastronomía",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2007-2105",
+      "category": "01_REVISTAS",
+      "title": "Folleto Gourmet Senzone Paco Morales (1).Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Gourmet_Senzone_Paco_Morales (1).Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Gourmet_Senzone_Paco_Morales (1).Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "NELCA STON La cudad de San Sebastian cuenta con un nuevo hotel especialmente dirigido a los amantes del séptimo arte. Construido sobre los cimientos de los cines Astoria, una de las salas más emblemáticas de la capital ouiDUzCOana, el ASTORIA7 es un hotel con cuatro estrellas. Todo en el establecimiento evoca al cine, homenaieando en cada una de sus habitacionesa grandes estrellas del celuloide. Sagrada Familia, 1-San Sebastián - 943 445 000 Si quieres catar las mejores conservas de Ramón Peña. La Tasquita de Enfrente (C/Ballesta, 6. Madrid) propone unas selectas degustaciones todos los sábados. Es la combinación ideal de dos obras de arte de la gastronomía: el champagne Domn Perignonyel aclamado jamón Joselito. JOSELITo www.spend-in.com El coffee shop Faborit ha abierto sus puertas en la calle San Bernardo de Madrid con su conocido latte art o arte de dibujar el café con la leche. Bodegas Aura presenta una edición limitada de su 100 % Sauvignon Blanc. Ferrero by Francisco Morales y Rut Cotroneo es el nuevo restaurante gastronómico del HOTEL FERRERO, inaugurado por el tenista español en 2007. Se trata de un espacio elegante y minimalista, ubicado en plena sierra de Mariola y rodeado de las más lujosas instalaciones de ocio y relax. El restaurante ofrece una completa carta de temporada y dos menús degustación, que pueden armonizarse con las más de 400 referencias nacionales e internacionales de su bodega. Ctra. Onteniente-Villena. Km. 15.5-Bocairente (Valencia) 962 355 182 SFICI SUITES AVENUE se presenta como un edificio muy singular de apartamentos de lujo que acaba de inaugurarSe en Barcelona. Lo mejor es su ubicación, en pleno paseo de Gracia y justo frente a La Pedrera de Gaudí. Cada espacio Cuenta con amplias suites de 40 a 60 m' Con todos los servicios 1cluidos como catering, piscina exterior, spa, limusina, personal shoppe, peluquería, masajes, etc. Passeig de Gràcia, 83-Barcelona - 934 452 520 SAUVION Aura 8LAN ...de última hora 1V Todo está cuidado en MANDI. Nada se deja al azar. Este restaurante de comida tradicional y casera además de ofrecer calidad en sus productos presenta una exquisita decoración. En resumen, una magnífica cava de champagnes y purOS, un delirio para los amantes de los dulces, el auténtico sabor de un buen plato y una iluminación ideal. Almagro, 20-Madrid -913 104 520 El grupo Pacha ya tiene su propla marca hotelera: El HOTEL. Ubicado en lbiza frente al club, tiene un estlo muy minimalista. Se define como un mult-espacio, de ocio y diversión para el clente y el Visitante, donde conseguir una combinación especial ente diversión, relax y servicios excusivos. Paseo Maritimo s/n lbiza 971 310 253 Nace ARBESU DECO, un espacio Concebido, no para vender muebles sino para acomodarlos en un proyecto integral de decoración y dentro de un concepto personal de estilo, es decir, para vestir espacios. Piezas maravillosas de Fendi Casa, Poliform, Edra, Ceccotti Collezoni, Flexform, Driade o Poltrona Frau, entre otras. Asturias, 38-",
+      "content_tags": [
+            "Gastronomía"
+      ]
+},
+{
+      "id": "local-rev-2008-1310",
+      "category": "01_REVISTAS",
+      "title": "Folleto Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "bAs VENIH El incombustible Lucio dirige una taberna siempre llena de rostros conocidos.Abajo, el joven Francisco Morales de Senzone Madrid. UBANIE LOS DAS 28Y 30 DE JUNO yzDE AULIO 196 N4 NOTLLAD4 SIN PICAR DE PROMOCIO r DOS CORRIDAS DE TORO te de fogones misérrimos, con poca o ninguna brigada de cocina. Luis Irízar, \"maestro de maestros\", Juan Mari Ar zak (si no me equivoco, Premio Nacio-nal de Gastronomía en 1974 y primera estrella Michelin de España el mismo año), Pedro Subijana, Tatús Fombellida, el desaparecido y recordado Ricardo Idiáquez; José Juan Castillo, y eventual-mente Karlos Arguiñano, Ramón Ro-teta y muchos etcéteras; o, en Cataluña, Josep Mercader, Jaume Subirós, Luis Cruañas, Josep Boix, Jaume Bargués, Joan Gatell, y también mujeres como Toia Roque, Montse Guillem, Rosa Grau, y tantos otros/as, nos hicieron descubrir un mundo nuevo, con chefs propietarios preparadísimos, listísimos, limpísimos y enseguida famosos. Al fin nos creímos del todo que había termi nado la posguerra. ¡Ah!, debo decir que quienes ya em pezábamos a practicar la crítica gastro nómica les otorgamos desde el primer momento nuestro apoyo: yo, por cierto, y desde 1974, iba a mi aire, hablando de viajes y comidas ricas, en el espacio \"Las cosas de la vida\", con altísima audien cia, dentro del programa \"Protagonistas nosotros\" de Luis del Olmo, y no me incorporé a tan selecta movida, me pa rece, hasta la IV Mesa Redonda de Gas tronomía del Club de Gourmets, orga nizada por Paco López Canís. (\"Cani che\" para los amigos), quien mientras tanto había fundado su revista pionera. Aquella Mesa, celebrada en el Hostal de la Gavina, constituyó para mí un \"ha ppening\" inolvidable, bellísimo, dotado de una alcurnia irrepetible (iya no se organizan cosas así, ay!)... y muy emo tivo, porque esos dos seres intangibles, Nos hicieron descubrir un mundo nuevo con chefs preparadísimos, listísimos y limpisimos. Al fin nos creímos del todo que había terminado la posguerra. Juan Mari y Pedro, admirados de lejos. no sólo me reconocieron a distancia y avanzaron hacia mí con cara de fans\": resulta que escuchaban mi modesta char leta radiofönica, y de ahí. Fueron, pues, tiempos de \"radiante\" felicidad, amistades sinceras y eternas, anécdoas sin fin. Josep Mercader, fundador del entonces Mo tel Ampurdán de igueras y admirable profesional, me escribía contndome sus andanzas en busca de la mejor materia prima para sus \"peuadas'\"; y Karlos Ar guiñano, primer espada televisivo de los fogones, me salvó la vida años después, cuando yo deambulaba por la cubierta de un barco noruego, hipotérmico perdido, 159LNZA Descubra más en www.nespresso-whatelse.com N N NESPRESSO Caté, cuerpo y alma 10 Y Ilegó el joven chef con toda su irreverenci a, frescura y explosión creativa. Ias instalacion es de un hotel, el e quip0 esfuerza p or la como didad y de leite del Done ditde que el Tocal Se lo Ubica dos en SENZONE Lo mejor de él, su terraz a . Ec PACO MORALES Plz. Independencia, 3 28001 Madrid Tel: 914 322 ",
+      "content_tags": [
+            "Paco Morales",
+            "Gastronomía",
+            "Crítica",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2007-5059",
+      "category": "01_REVISTAS",
+      "title": "Folleto Hotel Ferrero Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Hotel_Ferrero_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Hotel_Ferrero_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Con PACO MORALES Puestos a comparar, su cocina ten dría mucho que ver con la ropa de Cal vin Klein: máxima calidad sobre máxi ma sencillez. O sea, que aunque te instale una solitaria merluza en el plato, y tú te asustes porque va sin Compa ñía, en el momento que la primera las ca roce tus papilas gustativas, com prenderás que estás ante algo bueno, bueno de verdad. Sin maquillajes. \"Soy el auténtico fan del producto, la materia prima debe ser de primera \" -Entonces ¿los alginatos, nitrógenos y compañía los dejas para otros? -Por supuesto que utilizo alginatos, pero sin que se note. Lo importante no es la técnica sino el sabor del plato, Conseguir que al final no se convierta en una especie de neblina, Muchas veces todos perdemos el norte. -¿Perteneces a la tribu de No sin pro ductos biológicos? -En absoluto, este tipo de alimentOs tienen importancia hasta cierto punto, Hay mucho aprovechado en este mer cado y además, que un producto sea de este tipo no significa que su sabor mejore el de otros de gran calidad que no se apellidan orgánicos. ME GUSTA.. MI TIENDA GOURMET: Oriol Balaguer. (Ortegay Gasset, 44. Tel: 914 016 463. Madrid). MI BODEGA: la de Telmo Rodriguez en Ollauri, La Rioja (Tel: 941 511 128). 288 TELVA UNO DE LOS COCINEROS DEL MOMENTO NOS REGALA CUATRO RECETAS QUE SU MUJER LA SUMILLER RUTH COTRONEO, ARMONIZA CON LOS VINOS QUE LES VAN. Todo empezó en Córdoba. Con sólo quince años Paco pasaba horas en la COcina del restaurante de comida para llevar de sus padres: \"Con mi padre aprendí el guisoteo, a estofar, algo fun damental para afrontar los retos que han venido luego. Mi otro maestro es Andoni Luis Aduriz, jefe de cocina del restaurante Mugaritz\". Desde el nego cio familiar, hasta el Hotel Ferrero, don de acaba de instalarse, la trayectoria resulta impecable: El restaurante del museo Guggenheim, El Bulli, Mugaritz, el Hotel Hospes de Madrid.. -En un año no paras de cosechar pre mios, ¿te agobia tanta expectación? -No, desde el minuto uno estoy cen trado en mi trabajo, no soy mediático, paso muchas horas en la cocina, en el mercado, observando... Si aparte de eso me dan premios, bienvenidos sean, pero sin ellos mantendría la misma actitud. -¿La alta cocina es rentable? -Por supuesto que no. Se paga un alto precio por los productos que se utilizan, de primera calidad y con máxi ma frescura, a lo que se añaden los costes de personal, de local.. Se tiene un restaurante por el eg0 cocineril, pe ro se cuenta con otros negocios que ayudan a apoyarlo, MI FRUTERIA: Gold Gourmet. (Ortega y Gasset, 85-87. Madrid). MI MERCADO: El de Chamartín. (Bolivia, 9. Madrid). El HOTEL FERRERO (Bocairente, Valencia) es Su novísimo destino. EL DESAYUNO PERFECT: el del Hotel Maricel (Calvià. Mallorca. Tel: 971 707 744. www.hospes.es. Precio: 35 €). -Tú en la cocina y tu mujer, Ruth Co troneo, como sumiller en la sala, ¿el matrimonio que trabaja tan unido no termina como el rosario de la aurora? -¡Qué va! Ella es mis ojos fuera de la cOcina, me transmite la re",
+      "content_tags": [
+            "Paco Morales",
+            "Receta",
+            "Vino",
+            "Alta Cocina",
+            "Córdoba"
+      ]
+},
+{
+      "id": "local-rev-2009-6055",
+      "category": "01_REVISTAS",
+      "title": "Folleto ELLE Portada 314 Paco Morales.Pdf",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_ELLE_Portada_314_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_ELLE_Portada_314_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Oriot Rovira Diego Guerrero Ángel León Eneko Atxa Fernando Pérez Arellano PERSONAESELLE Francisco Morales PERSO A oEE XX David Yárnoz Molino de Urdániz (Urdániz, Navara) SUVOCACIÓN COMO CHEF SE HIZO ESPERAR, PERO CUANDO LLEGÓ FUE UNA REVELACIÓN ABSOLUTA. TOMÓ LAS RIENDAS DEL MOLINO YLE OTORGARON UNA MICHELIN EN 2007. 314 ELLE Su entusiasmo por la cocina llegó cuando ya había cumplido los 26 años y fue a través del vino: «Me inte resaba el mundo vinícola, hacía algún curso, leía sobre gastronomía en las revistas gourmet... hasta que en 2000 me matriculé en una escuela de hostelería y empezó mi nueva vida». En 2002 abrió su restaurante, y en 2007 le premiaron con una estrella Michelin. <Me llamó un amigo de Sit ges para decírmelo, pero no me lo creía, me preguntaba quién habría venido a probar mis platos sin que yo me enterara, aunque una vez que lo Vi publicado no había duda». Este chef destila humildad y coherencia en su modo de hablar y en su cocina. «Creo que la educación culinaria es algo que deberíamos impartir a los niños desde muy pequeños. Es un gran capital cultural y es importante des David MuñoZ Oiverno (Madrid) SU COCINA DE FUSIÓN DE ALTOS VUELOS HA REVOLUCIONADO LA GASTRONOMÍA ACTUAL. UN AÑO ABIERTO, NADA DE PUBLICIDAD Y CRÍTICAY PÚBLICO SE UNEN EN ALABANZAS. «SALIRACOMERAUN RESTAURANTETIENE QUE SER COMO UNA FIESTA, PCOROUE CONUNA BUENA MATERIA PRIMAPUEDE COCINARCUALOUIERA David MuñoZ Abraham García, de Viridiana, fue quien despertó la pasión por la cocina de este simpáticoy tenaz chef de 28 años cuando sólo contaba 13. <«Me fas cinó el personaje, me sentaba a la mesa y esperaba probar los productos que había traído de sus lejanos viajes ytodo eran sorpresas. Cuando volvía a casa, cocinaba imitándole. Para mí, salir a comer fuera tiene que ser co mo una fiesta, porque con una buena materia prima puede cocinar cual quiera». Después se fue a Londres «con las Páginas Amarillas bajo el brazo para llamar a todos los restau rantes» y trabajó en Hakkasan y Nobu. «Creo que es la capital de la comida multirracial, y mi cocina es de viajes». Cuando volvió a España, se embarcó en préstamos bancarios, vendió su casa y su coche y montó Diverxo, un Cubrirloa una edad temprana. Llevé a mi hijo de 7 años al restaurante EI Poblet de Quique Dacosta y ahora quiere volver, ya no me pide ir al McDo nald's, aunque también sabe que ir a estos lugares de alto nivel es algo oca sional». David disfruta haciendo que en el salón del Molino de Urdániz la gente pase un rato agradable y que además se divierta. «Lo útimo que se me ocurrió para provocar fue un tarro con lombrices, pero el resto del menú es más serio». Lo que echa de menos es poder ir más al mercado y perderse entre los puestos. Sigue pasando ner restaurante de fusión pura y dura, sin fronteras aunque con reglas. «Al prin cipio, hubo noches en las que me que daba a dormir en el local porque no me merecía la pena ir hasta casa para descansar sólo una hora». Pero el reconocimiento Ilegó antes del año de",
+      "content_tags": [
+            "Crítica",
+            "Vino",
+            "Gastronomía",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2007-3467",
+      "category": "01_REVISTAS",
+      "title": "Folleto Mugaritz Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Mugaritz_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_Mugaritz_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "LA COCINA DE LOS SENTIDOS 2007 Andoni Luis Aduriz nació en Donostia en 1971. Sus estudios en la Escuela de Hostelería de San Sebastián fueron la antesalaa una posterior formación práctica de auténtico lujo. Trabajó Con maestros como Ramón Roteta, Hilario Aberlaitz, Neichel, Juan Mari Arzak, Fermín Arrambide o Pedro Subijana, y se quedó con las ganas de entrar en Zalacaín (por entonces un tres estrellas en la capital del reino). En 1993 pasa un año con Ferrán Adriá en El Buli y en 1996 comienza a verse la espuma en la ola de su carrera, convirtiéndose en jefe de cocina con Martín Berasategui. No es hasta 1998 cuando se arriesga a lanzarse en solitario, en Mugaritz; un casero que emana calor y gran clase en la verdes laderas de Rentería. Mugaritz se encuentra rodeado de un jardin impregnado por los aromas que vierten las hierbas de Andoni. En su interior, un amplio salón de tonos cálidos, rústico pero moderno, nos recibe (este espacio es para no fumadores, pero justo al lado nos encontramos una casita Con una sala de descanso con sillones, prensa y barra, para poder relajarnos antes o después de la comida y poder fumar un cigarrillo), Cada rincón es un detalle, reflejo de lo que encontra mos en la gastronomia y en las personas que Componen el equipo. mugaritz la cocina de un espiritu inquieto Ruth Cotroneo es la maga de los vinos. Esta descripción no es aleatoria: quiernes la conocen de su paso por El Chaflán, la Hacienda Benazuza o Fat Duck saben que es capaz de convertir un vino corriente en elixir tan sólo con sus palabras de presentación. Sus conocimientos, que bien se los ha trabajado, le han llevado a ser Premio Nacional de Gastronomía, y eso es mucho. Junto a ella, encontramos a un joven y exquisito José Ramón Calvo, que explica cada uno de los platos como si de una obra de arte única se tratara. En cocina, junto a Andoni Luis se encuen tra Paco Morales, un joven de 25 años Cuyo nombre conviene recordar. Paco dará mucho que hablar en los próximos años, visto lo visto. Con este equipo que ofrece una cocina y un servicio impecables, y la batuta creativa y perfecta de Andoni Luis Aduriz (hay quien dice que su cocina es poesía), no es de extrañar la consecución de premios y reconocimientos que le caen encima (ya son dos las estrellas Michelín que le iluminan). Uno de los motivos que han hecho de Andoni una figura máxima en la culinaria mundial es Su inguietud por el estudio. Durante la pasada edición de Madrid Fusión presentó su nueva idea, un Herbario por Aromas, un diccionario botánico que busca ser útil para otros profesio nales o aficionados de la cocina, una guía que sirve como conocimiento técnico, un mapa por aromas que indique dónde buscar, Slguiendo la linea, Andoni intenta levar adelante un potente trabajo de +D en perfumeria que consiga identificar las moléculas de los platos aromáticos, llegando así al profundo conocimiento. TEXTO MARÍA FORCADA MIRAC El modelo MIRAC (Modelo, Innovación, Restau ración, Alta Cocina), es una especie de ",
+      "content_tags": [
+            "Paco Morales",
+            "Vino",
+            "Alta Cocina",
+            "Gastronomía",
+            "Innovación"
+      ]
+},
+{
+      "id": "local-rev-2007-6281",
+      "category": "01_REVISTAS",
+      "title": "05 REV Folleto Caracter Senzone Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_05_REV_Folleto_Caracter_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_05_REV_Folleto_Caracter_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "l frente de los fogones de Senzone (Plaza de la Independencia, 3. Tel. 91 432 29 11. Madrid) está Paco Morales, un joven cordobés de 26 años que acumula una trayectoria tan interesante como para haberse hecho merecedor al Premio Cocinero del Siglo XXI, concedido por la Academia Española de Gastronomía. Antes de aterrizar en Madrid, Morales había ejercido como jefe de partida en el restaurante Guggenheim Bilbao, junto a Josean Martínez Alija, pasando por los fogones de El Bulli, al lado de Feran Adrià y dísfrutado de una doble estancia en el Mugaritz de Rentería junto a Andoni Luis Adúriz. Su mujer es Ruth Cotroneo, excepcional sumiller que también ha pasado por Mugaritz y por el The Fat Duck de Heston Blumenthal, Premio Nacional de Gastronomía en 2007, y también le acompaña en esta primera aventura madrileña que, por la singularidad de la pareja, ha despertado un notable interés. Paco ofrece todos los días en Senzone recetas inteligentes, equilibradas y sutiles propias de un profesional dotado de técnica y sensibilidad, que se nutre de la tradición y sabe lo que se hace. Además, está consiguiendo marcar las distancias 1y 2, Ramsés dispone de dos cóctel bar y dos restaurantes, El Pet, especializado en cocina mediteránea çon horarlo ininterumpido, y El Blstrot, en alta cocina de autor con referentes castizos y un espaclo para eventos. Abre todos los días del año. 2y3. En Senzone, sițuado en la planta baja del hotel Hospes, Paco Morales está al frente de los fogones. Con capacldad para 40 comensales, apuesta por lo sano y natural. Con respecto a su maestro Adúriz. coincidiendo con él en la apuesta por los mejores productos del mercado. Entre sus platos, la lubina con cous-cous verde, la presa de ibérico con bulgur cocido en cinco especias o el huevo escalfado con caviar de Riofrío y puré de coliflo. Un nuevo espacio de Philippe Stark Puerta con puerta se encuentra Ramsés (Plaza de la Independencia, 4. Tel. 91 435 16 66. Madrid), cuyo nombre nada tiene que ver con el faraón egipcio, sino que homenajea a un imaginario aristócrata italiano nacido en 1905. Aquí llama la atención el entorno «fashion», obra de Philippe Stark. Aunque el complejo está abierto durante todo el día, como estaurantes propiamente dichos tiene El Peit y El Bistrot, el de máximas aspiraciones. Miguel Angel Jiménez, cocinero formado en El Amparo, propone recetas eclécticas como las croquetas de berenjena y queso o la tempura de setas con alioli de wasabe y otras fómulas de inspiración más castiza como la sopa de ajo de Chinchón, el carpaccio de besugo, las gambas al ajillo, los chipirones a la plancha o el rabo de toro al vino. Helados de tomillo, de cactus o de chocolate completan la oferta. Dentro de la amplitud de la oferta de Ramses, hay también «brunch» los domingos. Primavera de 2007 Caracter 73 La bodega De amores sinceros y durdbles El tiempo ho dejodo su abigo, de invierno, de viento y de luwi.», esribió, pora salucor la primaver, Corlos de Otleóns, útimo de los trovodores",
+      "content_tags": [
+            "Paco Morales",
+            "Receta",
+            "Vino",
+            "Alta Cocina",
+            "Gastronomía"
+      ]
+},
+{
+      "id": "local-rev-2007-6704",
+      "category": "01_REVISTAS",
+      "title": "Folleto GranReserva Senzone Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_GranReserva_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_REV_Folleto_GranReserva_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "restaurantes Europa París Délicabar. 26-38 Rue de Sèvres. T. +331 4222 1012. Sorpresa asegurada. Tartas, sabayones, crumbles, hojaldres... en versión dulce y salada en los dominios de Sébastien Gaudard. Hộtel Plaza Aténé. 25 Avenue Montaigne. T. +331 5367 6655. La buena estrella de Christophe Michalak se forja en los comedores más reputados de París. L'Astrance. 4. Rue de Beethoven. T. +331 4050 8440. La cocina más avanzada de la capital francesa en manos de Pascal Barbot. L'Atelier.5 Rue Montalembert. T. +331 4222 5656. La barra de Joël Robuchon con los comensales sentados alrededor de la cocina. Alta cocina a partir de ia tapa. Le Chamarre. 13 Bd. de la Tour Maubourg. T. +331 4705 5018, Es el fruto de la fusión entre los productos de Isla Mauricio y las técnicas occidentales. Le Chateubriand. 129 Avenue Parmentier. T. +33 1 4357 4595. Un bistró popular con criterios actuales a precios asequibles. Le Mansouria. 11 rue de Faidherbe. T+331 4371 0016. La cocina de Fatéma Hal procede de Marruecos y es auténtica, fresca, radiante y asequible. Les Ambassadeurs. Hôtel Crillon. 10 Place de la Concorde. T.+331 4471 1616. Abanderado del neoclasicismo busca alternativas para la cocina clásica francesa. Lujosa, virtuosa, histórica.. Dirigido por Jean François Piège. Lucas Carton. 9 Place de la Madeleine. T. +331 4265 2290. Alta cocina clásica a cargo de Alain Senderens, uno de los genios que transformaron la cocina francesa. Pierre Gagnaire. 6 Rue de Balzac. T. +331 58 36 12 50. La gran obra de uno de los chefs más prestigiosos del momento. Madrid Ansorena. Capitán Haya, 55. T. +3491 579 64 51. Cierra domingos. 50 €. Las mejores carnes rojas de la capital. Casa Benigna. Benigno Soto, 9.T. +3491 413 33 56. Cierra domingo noche. 30€. Cocina sin complicaciones en una casa de comidas que ofrece los mejores arroces de la ciudad. Cisne Azul. Gravina, 19 T. +3491 521 37 99. Cierra domingo. 35 €. ¿Le gustan las setas? Entonces ésta es su tasca. Sencilla, sabrosa y popular. Currito. Pabellón de Vizcaya de la Casa de Campo. T. +3491 464 57 04. Cierra domingo noche. 70 €. Asador vasco que brilla especialmente por sus pescados a la parrilla. Diverxo. Francisco Medrano, 5.T. +3491 570 07 66. Cierra domingoy lunes. 60 €, EI templo de los amantes de la fusión culinaria. Imprescindible reservar con una semana. Nodo. Velázquez, 150, T. +3491 564 40 44.50 €, Fusión Japón Mediterráneo, Una combinación brillante a precios contenidos. Edulis. Trueba y Fernández, 16. T.+3491 220 75 19. Cierra domingo y lunes. 45 €, Diminuto, joven, atrevido, desenfadado y resultón. El Bohio. Avenida de Castilla La Mancha, 81. Illescas (Toledo, 32 km de Madrid). T. +34925 511 126. Cierra domingo. 80 €. Lo mejor de lo mejor en Madrid y alrededores. Hay que hacer 32 km (unos 40 € en taxi), pero merece la pena. innovamos parą deslumbrarlo www. malabar Com. pe Personalidad marcada por la habilidad y destreza para combinar y redescubrir nuestros ingredien tes. MALABAR T 440-5200 D camino real 101, Sar",
+      "content_tags": [
+            "Alta Cocina",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-3208",
+      "category": "01_REVISTAS",
+      "title": "04 REV Folleto MAN 138 Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_04_REV_Folleto_MAN_138_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_04_REV_Folleto_MAN_138_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "138| MAN JABRIL 2008 SENZONE. Situado en los bajos del Hotel Hospes, en la Plaza de la Indepen dencia, el restaurante Senzone es un secreto a voces entre los gourmets capitalinos. Su éxito se basa en el tándem formado por Paco González y su mujer, Rut Cotroneo. Con apenas 26 años, Paco es un maestro con ideas propias que tras pasar largos períodos en ElI Buli o eje cer como segundo de Aduriz en Mugaritz no ha basado su carta en ideas ajenas. Ha construido una oferta propia a base de técnica y producto. La pasión por los moluscos (sensacionales las ostras a la plancha o las nava jas con algas) y caza de plurma (cerceta) son algunos de sus puntos fuerte a los que su mujer Rut da la replica con una oferta de vinos por copas armplia y heterogénea: desde Borgoña a Rías Baixas pasando por Jerez y e Ródano. -→ Plaza de la Independencia, 3. Tel.: 91 432 29 11. ASPIC-GELE DE MEJILLONES. Ingredientes para el aspic: l6 unid. de mejillones de roca/150 ml de agua de pipirrana /0,5 g de Agar-agar/l cola de pescado/ sal fina. Ingredientes para el agua de pipirrana: 300 g de pimiento rojo/250 g de pimiento verde/820 g de tomate maduro en rama/sal fina. Elaboración: → Cortar el pollo en trozos, salar con la salsa de pescado. Reservar. Cortar la cebolla y el ajo en brunoise. Reservar. Dorar el pollo sin quemaro en la manteca con un poco de aceite neutro (no oliva), Reservar. En la misma cacerola, con la misrma materia grasa, dorar lentamente la cebolla, el ajo y la guindilla. Agre gar el cury más el azucar y freíir unos minutos más. Agregar el pollo, o, la zana horia, la leche de coco y corregir la sal con la salsa de pescado. Cocinar a fuego bajo hasta que el pollo esté cocido. Servir con cilantro, tomillo y cebolletas chi nas cortadas al bies. Acompañar con arroz blanco yguindillas frescas. BLOC DE FOIE CON CHOCOPILI. Ingredientes para el bloc: 1 foie fresco /sal y pimienta,/25 ml de pedro ximénez. Elaboración: → Evisceramos el foie, lo salpimentamos al gusto añadimos el pedro ximénez. Lo metemos al racío. Cocerlo en vel termostato roner a 650 'urante 7 minutos. LA BROCHE (Sin Arola). Baño de chocopili: 225 ml de nata liquida / 40 g de mantequilla/100 g de cobertura de chocolate/200 g de chocopili / sal. Preparado de valrhona con chocolate y especias: → Ponemosa fuego la nata con la mantequilla y la sal, le damos un hervory añadimos los chocolates hasta conseguir una trufa homogénea, una vez bien emulsionado bañamos los blocs de foie. Hace unos meses saltaba la lie a lebre, Sergi Arola deaba la Broche, se devinculaba de Occidental Hoteles y abría nuevo restaurante en Madrid. Pues bien, hay vida tras Arola. Pocos restaurantes de hotel pueden presumir de Ocina como el Miguel Angel. Todavía en fase de adaptación, Arngel Palacios (Chef, en la foto) VJesús cobo (efe de sala) optaron por quedarse, y poco a poco se están haiendo con el control. El menú ya no es de Sergi Arola, pero sigue siendo alta cóána urbana, con más énfasis en el producto que en la etapa arnte ior",
+      "content_tags": [
+            "Vino",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-0543",
+      "category": "01_REVISTAS",
+      "title": "Folleto XL Senzone Portada Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_XL_Senzone_Portada_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_XL_Senzone_Portada_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "72SPECAL GOURMET Cocineros Recetas expres 5 èstrellas Son ocho de los mejores cOcineros de España y han aceptado el desafío: elaborar para 'XLSemanal! un platO apto para cocineros noveles y basado en productos 'delicatesen'. Este es el resultado. esús Cano Fotografia de Manolo Yllera FOTOGRAFÍA: PHILIPPE BIANCOTTO (COVER) FPECIALGOURI RMET • CHEFS DE LUJO: Francisco Morales, Paco Roncero, David Muňoz, Juan Pablo Felipe, Francis Paniego, Daniel García, Braulio Simancas y Marcelo Tejedor nos dan sus recetas exprés. BERASATEGUI: salpicón de langostinos, «una tapa ibérica de tomo y lomo», BAZAR: dulces, salados y bebidas, propuestas exquisitas para dejarse llevar por el paladar.",
+      "content_tags": [
+            "Receta",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2008-7721",
+      "category": "01_REVISTAS",
+      "title": "01 05 REV Folleto Gastronomía On Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_01_05_REV_Folleto_Gastronomía_On_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_01_05_REV_Folleto_Gastronomía_On_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "buen sabor ►Comedor de este restaurante madrileño. Senzone Madrid PUESTO EN MARCHA HACE APENAS DOS MESES, ESTE RESTAU RANTE ES LA ÚLTIMA PROPUESTA DEL GRUPO FUENSO -AGLUTI NA A MARCAS COMO HOSPES HOTELS & MOMENTS Y SENZONE RESTAURANTS & TASTES, ENTRE OTRAS-QUE AGRUPA A TODOS LOS RESTAURANTES DE LA MARCA SENZONE (PARÍS, VALENCIA, CORDOBA, ALICANTE...). [TEXTO: MIKEL ZEBERIO] EN TODOS ELLOS se pretende \"recupe rar colores, sabores y aromas autóctonos para proponer una experiencia real de pla-tos con ingredientes naturales\". Ésta es su filosofia gastronómica.eee Elque hoy nos ocupa se encuentra en ple-no centro de Madrid, concretamente en la planta baja del Hotel Hospes (propiedad de la familia Masaveu), una finca regia de fina lacata [TEXTOS: MIKEL ZEBERIO] Miguel Meri Gran Reserv 1999 MIGUEL MERINO GRAN RESERVA 1999 Bodega Miguel Merino. Briones (La Rioja) Precio: 28 € Puntos: 80 Coupage de Tempranillo (96%) y Graciano (4%) de color cere za rubí de capa media. En nariz, presenta aromas de fruta en sazón, tostados, especiados, resinas y ligeros aldehídos. Tie ne una boca ligera y fresca con unos taninos de lamadera mar cados. Amable final acuoso con fruta en licor en el retronasal. 44 | GASTRONOMÍAON les del siglo XIX que forma parte del Con junto Histórico de la Villa. Con entrada independiente por la plaza de la Indepen dencia y con capacidad para 70 personas, el Senzone presenta un estilo actual y de vanguardia con algún detalle barroco que le aporta elegancia y serenidad. Este es el escenario en el que Francisco Morales (Córdoba, 1981) despliega una coci PAGOS DE LABARCA GRAN RESERVA 2000 Bodegas Covila. Lapuebla de Labarca (Álava) Precio: 16 € Puntos: 83 Varietal de Tempranillo de color cereza. Nariz brillantey aromática con aromas de fru ta negra y pasa, especias, betún y cueros. Tiene boca sabrosa, fresca, equilibrada, aromática y secante. Francisco Morales, 'chef del restaurante. na de autor y de mercado en la que el pro ducto es el protagonista, quedando en segundo término las técnicas empleadas. Es una culinaria que encierra su saber hacer y personalidad, así como la expe riencia adquirida en el negocio hostelero de sus padres y en restaurantes como Dia gonal, Guggenheim Bilbao, El Bulli y Mugaritz. En este último estuvo cinco años, dos de los cuales como jefe de cocina. Estamos ante un genuino representante de la culinaria más in del momento, que reinterpreta todo lo adquirido en sus estu diados stages. En su cocina siempre prima la gustosidad, además de una sencillez envi diable y un perfeccionismo que hace des tacar a los ingredientes y gozar al comen sal. De sus manos salen propuestas com0 la oreja de Judas con yema de huevo y lámi na de tocino ibérico, la ensalada con una DAR RESA ONDARRE RESERVA 2001 Bodegas Ondarre. Viana (Navarra) Precio: 9,60 € Puntos: 80 Elaborado con Tempranillo (75%), Mazuelo (159%) y Gar nacha (10%), tiene un color rojo rubí de media capa. Aro mas de frutillos rojos sobre fon dos lácticos, de hojarasca, hino ",
+      "content_tags": [
+            "Senzone",
+            "Gastronomía",
+            "Córdoba",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2007-4583",
+      "category": "01_REVISTAS",
+      "title": "03 18 REV Folleto Santamarina Asador de Nati Paco Morales.Pdf",
+      "year": 2007,
+      "date": "2007-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_03_18_REV_Folleto_Santamarina_Asador_de_Nati_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2007_03_18_REV_Folleto_Santamarina_Asador_de_Nati_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "LOS DOMINGOS CON SANTI SANTAMARIA Turismo y cocina Finalizada la feria del tu rismo Fitur, que se cele bra anualmente en Ma drid, casi se puede afir mar que tendremos un excelente año turístico en España, a juzgar por los comentarios de personas del sector hotele ro. Se cuantifica eléxito en función de los beneficios económicos, de modo que, si bien el gasto medio por turista ha descendi-do progresivamente en los últimos años, queda compensado por la mayor afluencia de turistasyla mejor gestión empresarial. Oigo que nuestra oferta es mejor que la de otros países competidores dentro del arco mediterráneo. Nuestro sol y nuestra simpa tía seducen. Las cervezas y los whiskies se venden a mejor precio, y las cocinas sor prenden y gustan. Yo, de todos modos, y con permiso de ustedes, me declaro escép tico y les invito a contemplar el fenómeno con cierta dosis de prudencia. Para empezar, el hecho de que el gasto por turista haya dísmínuido al mismo tiempo que aumenta el número de turistas de muestra que estamos creciendo graciasa las líneas aéreas de bajo coste y las ofertas de alojamiento con todo incluido. En otras palabras, aumenta la masificación del tu rismo extranjero, lo cual ahuyenta al turista autóctono, pues la masificación provoca caída de los niveles de exigencia y calidad. Por otra parte, el turismo de masas resulta letal para la culinaria auténtica, que su 84 MAGAZINE cumbe a la picaresca de la que tan a menu do son víctimas los inocentes turistas. El turismo de masas vive los destinos turísti cos como si estuviera en una gran superfi cie, cuya factura de mantenimiento pagan los sufridos contribuyentes, que disfrutan poco o muy indirectamente de los benefi cios. Es un turismo insostenible, que de preda recursos naturales y territorio y se desentiende de la etiqueta en el vestir y de ciertas normas de urbanidad. Además, al valorar las cosas ante todo en función del precio, acepta lo que sea con tal que resulte barato, y esa es la razón por la que las coci nas locales pierden carácter y calidad. Los tópicos culinarios que se venden al tu rista, ya sean paellas, gazpachos, pizzas, bullabesas, pan con tomate, pulpo a la ga llega, cochinillo o cordero asado en horno de leña, muchas veces llegan al restaurante ya medio preparados desde una central de producción, lo que deslegitima el oficio de restaurador, pero resulta ciertamente ren table. Ypara más inri, la comida barata por excelencia, el fast food, experimenta un nuevo auge de la mano del turismo de ma sas. En lugar de un auténtico mestizaje cul tural, fruto de la fertilización de una base culinaria local por cocinas y productos exó ticos, asistimos a nuestra colonización gas tronómica a base de hamburguesas XXL. aliñadas con el sabor dulzón del ketchup. Sería bueno, por lo tanto, que Fitur analiza ra bien lo que ofrecemnos en realidad, ade más de cómo, cuándo, por qué y en qué as pectos podemos mejorarlo.o Santi Santamaria es cocinero y propietario de Can Fabes (Sant Celoni, Barcelona). Ti",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2008-7363",
+      "category": "01_REVISTAS",
+      "title": "01 09 REV Folleto Gastronomía Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_01_09_REV_Folleto_Gastronomía_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_01_09_REV_Folleto_Gastronomía_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "|GASTRONOMIA Ilo mejor de la gastronomia Baronetto. y el aceite de oliva Uno de los focos de mayor interés de la cita donostiarra es la ce lebración del Premio Internacional de Cocina con Aceite de Oliva Virgen Extra \"Jaén Paraiso Interior, patrocinado por la Diputación Provincia de Jaén y dotado con 18.000 euros. Matteo Baronetto, jefe de cocina del restaurante Cracco, de Milán, se hizo con el premio con esta sugerente receta: CREMA QUEMADA AL ACEITE CON CAÑAÍLLAS Ingredientes: 1,3 kg de sepia 500 g de aceite de oliva virgen extra 18g de azúcar 6g de sal 2 vainas de vainilla de Madagascar 50 brotes de guisantes 10 g de sal Maldon 200 g de cañaillas 1 zanahoria 1 apio 1 chalota 1 diente de ajo 5 granos de pimienta blanca 1 ramillete de perejil 41 de agua 8g de sal gorda y ½ hoja de laurel ELABORACIÓN Pulir las sepias y escurrirlas en papel absorbente durantes una hora. Introducirlas en una olla grande y cubrirlas con aceite añadiendo la sal, azúcar y vainilla. Colocar un peso encima y cocer durante dos horas sin superar los 62 °C. Colar y enfriar hasta los 45°C para triturar fino hasta obtener una pomada de aceite; reser var en la nevera 2 horas. Por otra parte, hervir agua con sal e introducir las cañallas con la zanahoria, el apio, la pimienta blanca y la chalota. Colar y conservar solo el interior de las cañallas para introducirlas en horno a presión durante 30 minutos a 120 °C con un diente de ajo y la media hoja de laurel. Tras la cocción, hacer las cañallas a la plancha con un poco de aceite. Para finalizar el plato, colocar unos 45g de poma da de aceite de vainilla en un plato hondo y gratinar en salamandra u horno estático no ventilado hasta que la superficie quede dorada. Disponer las cañaillas sobre la crema y coronar con los brotes de guisantes y sal Maldon. |064 Enero 09 sobre yogurt de aceite, un plato lleno de texturas basado en la berenjena, \"un producto que antes era algo exótico y ahora es un ingrediente habitual en la cocina\". Josean destacó especialmen te las múltiples aplicaciones del jugo de la berenjena al cocinarla al vacío y la importancia de trabajar con bolsas de vacío de gran calidad \"para evitar sabores extraños o desagradables. Fiel a su cita con Lo Mejor de la Gastronomía, Martín Berasate gui derrochó amabilidad y simpatía. En su intervención recopiló alguno de los platos de este último año, como el Jugo claro de crustáceos y jengibre sobre aromas de legumbres y hortalizas, o una original Cigala a la sal, con la particularidad de que la sal procede de la localidad alavesa de Añana y se aromatiza con alga codium. Por su parte, Paco Morales dejó por unos días los fogones de su restaurante Senzone para acercarse a San Sebastián y mostrar alguno de sus platos más representativos. Este joven chef, uno de los valores más prometedores de nuestro país, hizo gala de su depurada técnica, con propuestas minimalista y muy personales como \"El mercado en el plato\", una particular y colorista ensalada de verduras, tubérculos crudos",
+      "content_tags": [
+            "Paco Morales",
+            "Receta",
+            "Gastronomía",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2009-6901",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto LaCamara Senzone Paco Morales Mejor Chef.Pdf",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_LaCamara_Senzone_Paco_Morales_Mejor_Chef.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_LaCamara_Senzone_Paco_Morales_Mejor_Chef.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Madrid ya cuenta con Su Manual del empresario autónomo LA CAMARA EL AUTÓNOMO MADRILENO tiene a su dis posición una nueva herramienta a la hora de em prender nuevos proyectos y orientar su negocio como empresa. El Manual del empresario autó n0mo está pensado para atender las necesidades informativas de unas 465.000 microempresas y 240.000 autónomos que cotizan por el IRPF en la Comunidad. Fue presentado por Antonio Beteta, consejero de Economía y Hacienda; Arturo Fer nández, presidente de CEIM; Elena Pisonero, de KPMG, y Salvador Santos Campano. Esta obra gratuita, fruto de la colaboración de CEIM y la Cámara con el Instituto Madrileño de Desarrollo (IMADE), tiene el doble objetivo de incentivar el espíritu emprendedor y guiar a los empresarios y autónomos a desarrollar sus pro yectos empresariales. 46 Salvador Santos Campano subrayó que el ma nual contribuye de manera decisiva a mejorar FEBRERO 2009 De izda.a dcha: Elena Pisonero,responsable de Infraestructuras, Gobierno y Sanidad de KPMG en España; Salvador Santos Campano, presidente de la Cámara de Comercio, y Antonio Beteta, consejero de Economía y Hacienda, en la presentación del Manual del empresario autónomo la situación de nuestros autónomos y pymes y su competitividad, así como a incrementar las proba bilidades de éxito de los proyectos de los nuevos emprendedores\". El manual, que ha sido elaborado por la consul tora KPMG, forma parte del Plan de Autónomos de la Comunidad. Guía Salarial 2009: los empresarios están preparados para afrontar la crisis CHRIS DOTTIE, director general de la con sultora británica de selección de personal Hays España, y Salvador Santos Campano, presidente de la Cámara, presentaron la Guía Salarial 2009, un estudio sobre la remuneración de los cuadros directivos y técnicos de las empresas españolas y las perspectivas del mercado de trabajo. El presidente de la Cámara, Santos Campano, destacó que la principal conclusión de la Guía es que los empresarios se sienten bien prepa rados para hacer frente a la actual situación económica, a pesar de la generalizada sensación de incertidumbre. De otra manera no se puede comprender que la mayoría de los directivos en trevistados afirmen que pretenden reforzar este año sus equipos\". “El principal motivo de dificultades que con templan los entrevistados a la hora de encontrar y mantener un trabajo es la falta de confianza\", según reconoció Chris Dottie. Premios de la Cámara en Madrid Fusión SALVADOR Santos Campano, presidente de la Cámara, acompañado de Miguel Garrido, direc tor gerente, y de Rafael Ansón, presidente de la Academia Española de Gastronomía, entregó los galardones de la Excelencia Turística de Madrid a Paco Morales, del restaurante Senzone, cocinero del año; a Casa José, mejor restaurante del año; a Eduardo Navarrina, del restaurante Dantxari, mejor director de sala; Dani Poveda, del restau rante Sergi Arola Gastro, mejor sumiller del año; v Evaristo García, de Pescaderías Coruñesas, co Camara mo reconocimiento ",
+      "content_tags": [
+            "Entrevista",
+            "Paco Morales",
+            "Gastronomía",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2019-6573",
+      "category": "01_REVISTAS",
+      "title": "03 REV Folleto Mordiscos Noor Paco Morales Misionero español.Pdf",
+      "year": 2019,
+      "date": "2019-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2019_03_REV_Folleto_Mordiscos_Noor_Paco_Morales_Misionero_español.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2019_03_REV_Folleto_Mordiscos_Noor_Paco_Morales_Misionero_español.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Misionero español de la gastronomía MOR DISCO S PAC0 M 0 RAL ES a gastronomía española está en un momento único por muchas razones. Todos sabemos ya de la influencia de chefs como Juan Mari Arzak y Ferran Adriá en nuestra cocina y lo agradecidos que estamos en el gremio cocineril de tener a estos titanes sacados de otra época, quienes, sin darse cuenta, nos han puesto en primera fila en la liga gastronómica, en el mundo. Ahora bien, nos olvidamos del pica y pala, del Yes, we can, del chico de barrio que se va hace 30 años a los EE.UU. y desde allí hace engrandecer nuestra gastronomía. Si, sí. No nos equivoquemos: el mundo es grande y cuando salimos de nuestras fronteras nos empequeñecemos. Que sí... que somos muy buenos... pero es que fuera hay mucho talento. Les hablo del trabajo duro, de la intuición, de la generosidad hecha persona. Ahora que lo han nombrado Chef Of the Year en esta revista o que está nominado al premio Nobel de La Paz nos suena un poco. \"Mira este José Andrés que bueno es, įno?\" Ellleva muchos años implicándose en dar a conocer la gastronomía española y en hacer que nuestros productos se consuman en tierras de Norte América, donde el refinamiento por la cocina era el mismo que el mío para apreciar el patinaje artístico, Aceites de oliva virgern extra, ibéricos de los Pedroches, vinos de Rioja o generosos de Jerez, mariscos de la ría, etc. El suma y sigue de alguien de quien todavía no sabemosel alcance que llegará a tener en nuestra gastronomía. Es risueño, a la vez es serio, y con una voluntad digna de los tiempos de Abderraman III; de aquellos que nunca tiran la toalla y hacen suyas las preocupaciones y las injusticias de una sociedad cada día más alejada del sentido común y en la que la inmediatez y la tontería son el pan nuestro de cada día. José, eres inspiración y generas unas ganas tremendas de querer cambiar el mundo con pequeños gestos, también desde los fogones. Desde tu casa solo agradecerte lo mucho que haces por los tuyos sin querer recibir nunca nada. Jamás te pillamos en un renuncio, en no ayudarnos a darnos visibilidad. A tus pies, Maestro; la Mezquitay la ciudad de Córdoba te esperan tantas veces como quieras dejarte seducir por la belleza de nuestra historia y de nuestra cultura. 18 TAPAS Marzo 2019 ¡Hip, hip, hurra! Hip, hip, hurra! ¡Viva la madre que te parió! O Paco Morales es el chef del restaurante Noor (con una estrella Michelinl y fue el primer cocinero galardonado con el premio'Chef of the Year' de la revista Tapas en 2017. Misionero español de la gastronomía MO RDI SC 0 S P A C 0 a gastronomía española está en un momento único por muchas razones. Todos sabenos ya de la influencia de chefs cono Juan Mari Arzak y Ferran Adriá en nuestra cocinay lo agradecidos que estamos en el gremio cocineril de tener a estos titanes sacados de otra época, quienes, sin darse cuenta, nos han puesto en primera fila en la liga gastronómica, en el mundo. Ahora bien, nos olvidamos del pica y pala, del Yes, we can, del chi",
+      "content_tags": [
+            "Paco Morales",
+            "Vino",
+            "Gastronomía",
+            "Noor",
+            "Córdoba"
+      ]
+},
+{
+      "id": "local-rev-2008-5925",
+      "category": "01_REVISTAS",
+      "title": "Folleto Diplomática 68 Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Diplomática_68_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Diplomática_68_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Gastronomia DĖJATE SEDUCIR POR LOS PLATOS MÁS BELLOS DEL MUNDO9 3 4 68 TALJHKER EL UNIC diplomátca TALISKER Look & Food 5 Exposition ARQUITECTURA GASs TAONÓ MICA Los platos m á s be |los del m undo Helena de la Peña, Lucía Martin de DIAGEO, Joanna Von Muller Kingsport y Principe de Panaguri. Raúl Gómez, Marta Cárdenas, sabel Mestre y Ramiro Jofre. Paco Morales y Ruth Cotroneo del restaurante Senzone del Hotel Hospes y Ana Escobar. Juan Pablo Felipe y Pepe Barrena. 6 Ana Escobar, Helena de la Peña y Sergio Barbanti, Cón Sul de ltalia. Nuevos Tratamientos Solares El sol bajo control SAASD AGE sisley SUPER HUKE SOLAIRECORPSGRAN ÉCRAN SOLAIRE VISAGE UNLEY minlmt sisley SUNLEYA • Filtración UV optimizada sobre los UVA. SUPER CREME SOLAIRE VISAGE SUNCARE Después de su tratamiento solar anti-edad Sunleya, Sisley crea hoy una nueva linea de tratamientos solares, para todos los soles, para todas las pieles. Bronceado bajo control: sisley • Activo exclusivo asegurando una máxima protección del ADN celular* SUPER CRÈME SOLARE VISAGESUPER CRRNSSOLARE CORPS • Refuerzo del sistema de defensa anti-oxidante natural de la piel. • Prevención de la deshidratación y del envejecimiento debido al sol. Bronceado a la medida: sisley PARIS • 7 nuevos tratamientos, adpatados a cada fototipo, alirostro y al cuerpo. SUPER CREME 9MRECORPS Sisley www.sisley-cosmetics.com",
+      "content_tags": [
+            "Paco Morales",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2009-6398",
+      "category": "01_REVISTAS",
+      "title": "Folleto Andoni",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Andoni.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Folleto_Andoni.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2012-6778",
+      "category": "01_REVISTAS",
+      "title": "Folleto Senzone Paco-Morales",
+      "year": 2012,
+      "date": "2012-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2012_REV_Folleto_Senzone_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2012_REV_Folleto_Senzone_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2009-6172",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto off4 Senzone Paco Morales.Pdf",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_off4_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_off4_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2008-0094",
+      "category": "01_REVISTAS",
+      "title": "Folleto Sobremesa 16 Senzone Paco Morales.Pdf",
+      "year": 2008,
+      "date": "2008-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Sobremesa_16_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2008_REV_Folleto_Sobremesa_16_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "SENZONE LMADRID Aspirando a lo más alto Plaza de la Independencia, 3. Tel. g14 322 911 ert Pareja de lujo para un restaurante de hotel (el novísimo Hospes) que dará mucho que hablar. Francisco Morales, cocinero que disfrutamos en Mugaritz a las órdenes de Andoni Luis Aduriz, y su mujer Rut Cotroneo, sumiller, son los jovencísimos-responsables de una cocina de calidady muy personal que podría arrasar en el firmamento más \"chic'\" de los almuerzos capitalinos. La ubicación es inmejorable, junto al también nuevo Ramsés y en plena Puerta de Alcalá. El local es un tanto complejo y casi incómodo. Abre Con una pequeña sala a modo de cafetería, con las mejores vistas de todo el espacio, y se sumerge en la zona interior para ofrecer dos salas pequeñas con disposición de mesas suficientemente separadas pero Sin excesivo encanto. La carta es breve, potenciando el consumo de su menú cerrado, que varían según la compra de cada día. En él, cinco tapas, dos entradas, pescado, carne y postre.A destacar platos sorprendentes en sabores y presentaciones como la ostra a la plancha con arroz y cebolleta y la ortiguilla escarchada, Con una tempura casi etérea y un intenso sabor a mar. Y, acompañando, de cerveza blanca a moscatel, armonizando cada plato con exquisitez y con amplitud de miras, pues Rut incluye vinos extranjeros elegidos sin prejuicios. Entre otras sugerencias que también se pueden degustar en el menú-si así lo dispone Francisco ese día-están los berberechos con extracto de aceituna negra o la gamba roja semicruda con gazpachuelo. Resultan poco atractivas las patatas coloreadas con mayonesa de choriceros, pues sin aportar nada excitante al paladar, ensucian labios y servilleta de manera inevitable. En los postres, sorpresas nuevamente con platos poco dulces como la zanahoria con mandarina y tierra. En general, una cocina con muchas horas de laboratorio detrás, muy personal y nenos influida por Andoni de lo que se preveía. Eso sí, Senzone se sitúa en la línea de precios que, por desgracia, hoy impera en Madrid, donde el cubierto a cien euros se ha convertido en habitual. M. Lapresta > Menú degustación a 70€ sin vino y 9oe con maridajes en cada plato. > Los consejos de su sumiller, Rut Cotroneo son espléndidos. La carta de vinos, amplia y con muchas referencias internacionales. > No dispone de aparcacoches y el parking (Recoletos) está alejado. > Cocina para paladares atrevidos. G| SOBREMESA 265 15 de situacion. l SOBREMESA 265 16 SHOWROOM Colgador para vagos Dan las cinco en punto de la tarde, te preparas el té... Y te molesta el hilo de la bolsita. No sabes dónde colocarlo. Para estos casos, Gefu, la empresa de diseño de accesorios de cocina ha creado su Teabag Holder', un simpático colgador metálico para cualquier taza. Ya sólo habrá que preocuparse de cuánto azúcar queremos. www.gefu.com Sala de los Aromas oriFrut Primer aniversario del Zinc Bar del Hotel Villa Emilia (Barcelona) Productos selectos y múica en vivo. Una exquisita bodega de vinos y licore",
+      "content_tags": [
+            "Vino",
+            "Senzone"
+      ]
+},
+{
+      "id": "local-rev-2021-5400",
+      "category": "01_REVISTAS",
+      "title": "10 REV Folleto Japonés Nagoya Noor Paco Morales.Pdf",
+      "year": 2021,
+      "date": "2021-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2021_10_REV_Folleto_Japonés_Nagoya_Noor_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2021_10_REV_Folleto_Japonés_Nagoya_Noor_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2018-5873",
+      "category": "01_REVISTAS",
+      "title": "05 27 REV Folleto ChefAlps Noor Paco Morales Conferencias.Pdf",
+      "year": 2018,
+      "date": "2018-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2018_05_27_REV_Folleto_ChefAlps_Noor_Paco_Morales_Conferencias.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2018_05_27_REV_Folleto_ChefAlps_Noor_Paco_Morales_Conferencias.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "CHEFALPS 27.& 28. MAI 2018 / ZÜRICH CHEF-ALPS.COM RYAN CLIFT INTERNATIONAL COOKING SUMMIT MASSIMO BOTTURA PACO MORALES SVEN WASSMER & AMANDA WASSMER BULGIN TITTI QVARNSTRÖM DOMINIQUE PERSOONE BIANCH OElectrolux HARALD IRKA NICOLAI NØRREGAARD IDEEN & INSPIRATIONEN TANKEN. NEWS & TRENDS AUSTAUSCHEN. SEIZING IDEAS AND INSPIRATIONS. EXCHANGING NEWS AND TRENDS. An der siebten Ausgabe des wichtigsten Schweizer Branchenanlasses erwarten Sie inspirierende Bühnenshows Von acht Starchefs aus Europa und Asien. Ob arriviert oder aufstrebend, was die ChefAlps Gastköche vereint: Die trauen sich was und bewegen etwas mit ihren ganz individu ellen kulinarischen Konzepten in der Gourmetszene! Neben dem ein maligen Line-up werden innovative Produkte für die Gourmetküche zu entdecken sein und nicht zuletzt die neu angebotenen Masterclasses, das Speed-Dating sowie die ChefAlps Afterparty werden jede Menge Gelegenheit zum Networken bieten. Ob Profi, Nachwuchs, Foodjournalist oder Hobbykoch -diesen Mix mit Seltenheitswert und viel Potenzial fürs eigene Wirken sollte sich keiner entgehen lassen. At the 7th edition of the most important Swiss sector event, guests can look forward to inspiring shows on stage by eight star chefs from Europe and Asia. Whether successful or up-and-coming, the ChefAlps prot agonists are united by the same aim: they dare to move things in the gourmet scene with their very individual culinary concepts! Besides this exceptional line-up, innovative products for the gourmet cuisine can be discovered and finally the new Masterclasses, the Speed-Dating as well as the ChefAlps Afterparty will offer plenty of opportunities for networ king. Whether professionals, trainees, food journalists or hobby cooks, this blend of rarity value and great potential for personal activities should not be missed by any means. 10.00 11.00 SONNTAG / SUNDAY, 27.5.2018 Türöffnung / Opening 12.00 13.15 14.00 16.15 14.45 17.15 08.30 09.30 11.10 12.00 12.45 ab 18.00 ChefAlps Afterparty (@ Smith and de Luma 13.30 MONTAG / MONDAY, 28.5.2018 14.20 CHF 15.10 CHF CHF Lunch 150. CHF 65. Ryan Clift (SG) PROGRAMM Titti Qvarnström (SE) Masterclass mit Smith & Smith Nicolai Nørregaard (DK) Dominique Persoone (BE) ChefAlps Networking Apéro PROGRAM Türöffnung / Opening Massimo Bottura (|T) Lunch 1 TAG/1 DAY Sven Wassmer & Amanda Wassmer Bulgin (CH) 2 TAGE/2 DAYS CHF 185. CHF 85. Harald Irka (AT) Masterclass mit Smith & Smith Masterclass mit Ryan Clift Paco Morales (ES) TICKETS CHEF-ALPS.COM/TICKETS MASTERCLASSES ** Erwachsene / Adults Auszubildende/ Students, trainees Erwachsene / Adults Auszubildende / Students, trainees 50.-Erwachsene / Adults 35. Auszubildende / Students, trainees Änderungen vorbehalten Subject to modifications Die 2-Tages-Karte sowie die Sonn tagskarte sind auch für die ChefAlps Afterparty am Sonntagabend gültig. The two-day ticket as well as the Sunday ticket are also valid for the ChefAlps Afterparty on Sunday evening. Die Tickets für die Masterclasses sind nur zu",
+      "content_tags": [
+            "Paco Morales",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2009-8415",
+      "category": "01_REVISTAS",
+      "title": "01 22 REV Folleto Madrid Fusion Senzone Paco Morales.Pdf",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_01_22_REV_Folleto_Madrid_Fusion_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_01_22_REV_Folleto_Madrid_Fusion_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "JUEVES ENERO ADRIDFUSION THURSDAY 22th JANUARY MADRIDFUSIDN 1980Ei2e a009 AYER, UNA FOTO PARA LA HISTORIA Ma imágenes aue vaen más que mil palabras? Desde luego, pero la fotografia QUE han recogido innumerables cámaras esta mañgng en el Auditorio del Palacio de Congresos requiere una pegueña explicación: sobre el escenario, recogiendo e Delanta de Oro diseñado por Amaya Arzuaga, en la entrega del Premio a las Artes que potrocna ia Comunidad Autónoma de Madrid, se encontraban los cocneros más imporontes de la actuaidad Ferran Adriá, Juan Mari Arzak, Michel Bras (aungue e Premio lo ha recogido su hijo Sèbastien), Pierre Gagnaire, Heston Blumenthal. Nobu Matsuhisa, Charie Trotter, Thomas Kelle, Pierre Hermé, Gualtiero Morches y Alan Ducasse, quien estaba invitado pero no ha podido acudir. Sin dudo el de esa foto ha sido el mormento más trascendente de la mañana, pero ha habido muchos otros. Cencia y Cocing, lo han protagonizado en esta ocosón: Angel León y Joaquín Gómez Beser, en: El Plancton como origen de la vida en el nar y orno nuevo aderezo Y Eneko AtXa y luan Manuel Madariaga, que han centrado su paricipocIón en los debates en el empleo de Ultrasonidos Dara la absorción de arornas. El italiano Gennaro Esposito, por su parte, ha sorprendido al público con su conferencia acerca de los Sabores disongntes. Elena Arzak, a su vez, ha deslumbrado a propios y extraños con platos de extraordinaria belleza estética en El color, un gusto más. David Chang y Sotohiro Kosugj, legado su momento, han presentado en escena la última evolución de las tapas, la tendencia norteamericana -muy influenciada en ambos casos por el gusto asiático-hacia los \"Small plates\". Gran cocina en pequeño formato que ha venido seguida por la del italiano Carlo Cracco, una espléndida exposición centrada en Las mil Caras del aceite de oliva. Además de las demostraciones, en la Sala Londres, dentro del programa de catas de Wines From Spain in madridfusión, la DO. Ribera del Duero ha ofrecido una seductora degustación de vinos en la que estaban presentes muchos de los más mportantes de esta denomingción de origen castellano legnesa Y todovia sn solir cdel oprrtado del vrno, ounque esta vez en la Sala Amsterdar. ho tendo lugor la Semıfinal del lIl Campeonato de Surrıilleres Trofeo Custodo López Zomaro madridfusión Además, durante la mañiong de hoy. IFEMA han hecho entrega de los Premios DIseño e lnnovación ecnológica, (que han recaido en Cocing Conmigo, de Nintendo, Actifry, de Tefol, Lovinia/Blackberry y Fritolirnıo En el apartado de los Concursos, se ha celetbrodo la tercera edición de Concurso de Comida Creativa con Ingredentes italianos, patrocınato por Gusti Negrin. En él, ha resultado ganador Fernando Pérez de Arellano, del restaurante rradrieño Zaronda, gracias a su receta Tapioca melosa de sepia con espurna de escornosa ahumada y gorgonzola. El segundo premio le ha correspondido a Bruno López. del restaurante Kikora, y el tercero a Javier Hernández, del restaurarte malagueño Li",
+      "content_tags": [
+            "Vino",
+            "Receta"
+      ]
+},
+{
+      "id": "local-rev-2009-2677",
+      "category": "01_REVISTAS",
+      "title": "19 REV Folleto Madrid Fusion Senzone Paco Morales.Pdf",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_19_REV_Folleto_Madrid_Fusion_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_19_REV_Folleto_Madrid_Fusion_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "UMADRIDEUSION VII CUMBRE INTERNACIONAL DE GASTRONOMÍA VII INTERNATIONAL SUMMIT OF GASTRONOMY 19 AL 22 DE ENERO JANUARY, 19th to 22nd GASTRONOMÍA AUDIOVISUAL, GRANDES DEBATES AUDIOVISUAL GASTRONOMY, THE GRATEST DEBATES CIENCIA Y COCINA, LO ÚLTIMO EN I+D+G SCIENCE AND CUISINE, THE LASTEST IN I+DHG TEN REGULAR 09440D4158CC91B1 LUNES 19 ENERO (7) (9) TARDE (2) (8) (10) (4) (6) A 15:30 > REINVENCIỚN DE LAS VERDURAS INVERNALES REINVENTING WINTER VEGETABLES \"CRUCÍFERAS\" (CRUCcÍFEROUS) FERNANDO DEL CERRO Distngudo en 2007 por la Academnia intemaconal de Gostronomía como Chef de l'venir, desarolla en Casa José Aranjuez, ung exquisita cocing del producto en la que su habilidad técnica consigue acanzar ese punto de grandeza en el çue cede todo Su protggonismo en el plato a las materias primas. Concede a éstas tanta importania. de hecho, que se permite señdar en cada caso, el normbre de la rmarca, proveedory procedencia del producto. Honoured as Chef ce' venr n 2007 by theIntematona Academy of Gastronomy, he has developed in Casa José Aranjuez, an exquste product based cusne in hich his technical cbity manages to achieve this pont of grandeur by placng al hs emphass on the plate to the pmary products. In fact, he attaches such importance to them that on each case the name of the mark, supbler and source of product can be made out. \"TUBÉRCULOS\" (TUBERS) PACO MORALES A raiz de su imupaón en pleno centro de Madrid, en el restaurante Senzone del Hotel Hospes, frente a la Puerta de Acalá Paco Moraes ha logrado dos cosas: deslurnbrar a todo el que ha probado sus platos y generar una remindicación multitudinara para que se le diera a su talento un espocio adecuado en el que mostrarse. La nueva terraza intenior que ha inaugurado el hotel tiene que ver con la sendilla y sofsticada brlantez de las elaboracones de este joven coonero. in the wuke of hs entry in the very centre of Madrd. ot the Senzone restauront at the Hosbes Hotel, opposite the Puerta de Acak, Puco Morcles has acheved wo things to cazzie everyone who has sampled his dshes and to genercte d wdespread populcr ciam that hs tlent be gven aeuate spaxe to dispay tselt, The new inner terrace the hotel has oDened has something to do with the simpie ard sophsticated brilliance of ths young chef's chshes. 16:30 > ALTA COCINA POBRE: IMAGINACIÓN EN TIEMPOS DE CRISIS HAUTE P0OR CUISINE: IMAGINATION IN CRISIS TIMES PACO RON Fomado junto a cocneros como Arzak, Berasategu. Toño Pérez o Savador Gallego, a los 35 años retorna a su pueblo asturian0 natal, para desarrollar todos los conocimientos adquiridos en un establecimiernto propio, la Taberna Viavélez. Ron es uno de los grandes valores de la cocina asturnana aCtual que en 2008 ha abierto las puertas de su nuevo restaurante, Viavélez, ahora en Madrid. Sus elaboraciones, enraizadas en los sabores y géneros de los que le provee la despensa astur, mantienen una mirada siempre abierta a otros horizontes. Traned with cooks such os Arzck, Berasategu, Toñio Pérez and Savado",
+      "content_tags": [
+            "Paco Morales",
+            "Alta Cocina",
+            "Gastronomía",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2009-3642",
+      "category": "01_REVISTAS",
+      "title": "02 REV Folleto Madrid fusión Senzone Paco Morales.Pdf",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_Madrid_fusión_Senzone_Paco_Morales.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_02_REV_Folleto_Madrid_fusión_Senzone_Paco_Morales.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "LUNES ENERO MADRIDEUSIÓN MONDAY 19th JANUARY 000 MADRIDFUSION 1920z122 2009 madridfusión 09, mil ideas de cocina en tus manos Por séptimo año consecutivo, Madrid se volverá a convertir en la capital gastronómica del mundo. Durante cuatro dias, por los escenarios del Palacio Municipal de Congresos, Campo de las Naciones, desfilarán cocineros de enorme prestigio. Madrid Fusiön 09 ha preparado un programa apasionante, dispuesto. a romper con el estilo de pasadas convocatorias. Un concepto inédito, la gastronomía audiovisual, servirá de soporte a tres grandes debates madridfusión -cinegourland en los que se tratarán temas palpitantes: el restaurante del futuro, los problemas que conciernen al servicio de sala, y los platos de alto riesgo en la ciones cinematográficas famosas. vanguardia. Debates participativos que se acompañarán de proyec Hablaremos de alta cocina pobre o de imaginación en tiempõs de arisis, y de los modelos de negocio más rentables en estos momentos. En primer lugar de los gastrobares, o bares con la firma de grandes cocineros que causan furor en ámbitos urbanos.Y por supuesto de los\"small plates\", fórmula derivada de los bares de tapas qưe arrasa en Estados Unidos. Habrá espacio para el play food, imaginación y humor sumados a la creatividad culinaria, y también para ponencias universidades y cocineros. sobre ciencia y cocina, una muestra de la colaboración entre México,área invitada, que desembarcará con cinco grandes estrellas,. demostrará de qué forma su cocina ha accedido a la modernidad respetando el código de sus sabores tradicionales. En laVI| Cumbre se hablará del neonaturalismo culinario, de la ecológica y de sus expresiones anglosajonas cocina con conciencia asociadas (farrn-food, organic-food, y nursery food).Y también de Ja gastrobotánica, corriente radical en auge. Distrutaremos con un escaparate de produCtos exóticos.Y a modo de complemento, catas, conCUrsos,homenajes, la proclamación del cocinero revelación del año y del mejor yino de menos de 30 euros.Y por supuesto, por distintas comunidades españolas. una exposición gourmet además de almuerzoOs de cortesia servidos (15 :30•16:30) AUDITORIO \"REINVENCION DE LAS VERDURAS INVERNALES\" CRUCIFERAS por FERNANDO0 DEL CERRO TUBÉRCULOS por PACO MORALES PATROCINADO PORALIMENTOS DE MADRID (16:30•17:30) AULITORIO \"ALTA COCINA POBRE. IMAGINACIÓN EN TIEMPOS DE CRISIS\" PACO RON y PETER NILSSON (17:30•18 :00 ) AUDITORIO \"SOPAS MEXICANAS, UNA TRADICIÓN MUY CONTEMPORÁNEA\" RICARDO MUNOZ PATROCINADO PORMINISTERIO DE AGRICULTURA DEL GOBIERNO DE MÉXICO (18 :00 •18 :30) AUDITORIO \"DESPENSA NATURAL DE LA SELVA AMAZÓNICA. LA ÚLTIMA VERSIÓN DE LA C0CINA PERUANA\" MIGUEL SCHIAFFINO (18:30-19 :00) AUDITORIO \"GASTROBOTÁNI CA (CAVIAR cÍTRICO, HIERSAS DE HIELO. ANÉMONAS Y ALGAS DE TIERRA). SUTILEZAS DE LA HUERTA DEL DESIERTO\" RODRIGO DE LA CALLE y SANTIAGO ORTS 19:1520:00 SALA POLIVALNRE \"EL GRAN ICONO DE LA COCINA DEL PESCADO: A MERLUZA DE CELEIRO\" ANA CAGO, XOSÉ CANAS y MARCELO TEJEDOR PATROCINA",
+      "content_tags": [
+            "Tradición",
+            "Paco Morales",
+            "Alta Cocina",
+            "Gastronomía"
+      ]
+},
+{
+      "id": "local-rev-2009-7427",
+      "category": "01_REVISTAS",
+      "title": "Vino y Gastronomía de Gourmets Senzone Paco-Morales",
+      "year": 2009,
+      "date": "2009-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Vino_y_Gastronomía_de_Gourmets_Senzone_Paco-Morales.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_2009_REV_Vino_y_Gastronomía_de_Gourmets_Senzone_Paco-Morales.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "10 Match point. Paco Mora les y Ruth Cotroneo Se han dej a do seducir por el tenis ta va len ciano Juan Carlos Ferrer o y h an co men zado una e xitos a aventura en este hotel de s u - perluj o en BoCairent. D esarrolla su persO n al c0Cina con una m adurez e xtr a ord in arIa PACO MORALES FERRERO BY P. MORALES Ctra. Ontinyent-Villena, km.16 Bocairent-Valencia Tel.: 962 335 175 Www. hotelferrero,com VINO Y GASTRONOMIA 9 áminas Ingredientes... Para 4 personas: 1kg tocino ibérico País de Quercus, 6og. oreja de judas, 1 seso de cordero, 1 huevo de campo, sog harina de trigo, o,sl aceite de oliva virgen extra, 20g. Fondo de carne: skg huesos de rodilla, skg falda de ternera, 1kg de zanahorias, 1kg cebollas, 1kg de puerros, il vino tinto crianza y 1ol agua mineral. 4 unid. pimpinela de la Sierra de Mariola. CHEF PAC O MO RALE S DE TOCINO IBÉRICO OREJA DE JUDAS Y SESOS DE CORDERO F Elaboración... Para las láminas de tocino ibérico: Tallar el tocino ibérico quitando impurezas y exceso de sal, en 15x4 cm. En papel sulfurizado poner dos láminas por persona. Reservar en nevera. Para el fondo de carne: En un horno precalentado a 200 grados tostar primero la rodilla, seguido la falda de ternera cortada en trozos grandes y por último la verdura pelada en trozos grandes. Reducir el vino tinto. Repartir todos los ingredientes en 2 cazuelas de 3ol cada una. Levantar un hervor y bajar el fuego que vaya p0co a poco durante 5 h aprox. FRITOS} Desespumar cada 20 min. Colar por chino fino sin presionar. Reservar en nevera. Al dia siguiente reducira más de la mitad hasta que nos quede un fondo con consistencia. Pasar por papel, dejar en nevera 12h hasta que cuaje y envasar al vacío. Reservar. Para las orejas de judas: Lavar las orejas de judas y secar, cortar en trozos regulares y reservar 15g por persona. Saltear en una sartén. Para los sesos fritos de cordero: Cortar los sesos de cordero en trozos de 2x2 Cm. Enharinar los sesos de cordero pasarlos por el huevo batido antes de freirlos a 18o grados. Para las pimpinelas: Cortar las pimpinelas por la parte del talloy dejar en agua/hielos durante 3o min. Lavar con desinfectante y reservar en nevera entre papeles húmedos. Sobre el fondo de carne colocar las láminas de tocino ibérico, templar con una salamandra y disponer haciendo un triángulo el seso de cordero al lado de la oreja de Judas. Paco Morales sigue sorprendiendo, como ya lo hiciera durante su breve paso por Madrid de la mano de Senzone. Ahora, con la amplitud palaciega que le regala este hotel para sibaritas que gustan de la raqueta, se encuentra totalmente inspirado para seguir enriqueciendo un universo cada vez más personal, con claras referencias a su maestro Aduriz. FÓRUM GASTRONÓMICO SANTIAGO'10 LAS COCINAS DELALÁNTICO SANTIAGO SABE A EMOCIÓN 0.24 FEB 2010 ANTIAGO DE COMPOSTELA ecinto Ferial de Santiago (Amio) PATROcINADORES INSTITUCIONALES Coemgs DEPUTAcIÓN DA CORUÑA XUNTA DE GALICIA CONSELLERIA DO MEDIO RURAL CONCELLO D SANTIAG0 CONSORCIO DE XUNTA DE GA",
+      "content_tags": [
+            "Vino",
+            "Paco Morales",
+            "Senzone",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2016-7565",
+      "category": "01_REVISTAS",
+      "title": "(2016) PROG 12th WIEF Paco-Morales.pdf",
+      "year": 2016,
+      "date": "2016-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2016)_PROG_12th_WIEF_Paco-Morales.pdf.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2016)_PROG_12th_WIEF_Paco-Morales.pdf.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "PROGRAMME BOOKLET MINISTRY OF FINANCE REPUBLIC OF INDONESIA wİEF WWw.wief.org FOUNDATION \"WIEE WORLD ISLAMIC ECONO MIC FORU M JAKARTA, IN DONESIA 2 -4 AUGUST 2016 Decentralising Growth, Empowering Future Business 1200pm -1.00pm 12.00pm -12.30pm 12.30pm -1.00pm 1.00pm 230prm MASTERCLASS Halal Haute Cuisıne Cooking Show BUSINESS EXCHANGE IDEAPAD SEED PITCHING NETWORKING LUNCH Venue: Assembly Hall 2 Mect Micheir Star Chef speualised If ialai iaute cus1 iron ) Daco Voraies, talks dbou! his tsOvery of the ulnary ner tage o A! Andaius and the potesta of nalai naute Cusie and orocOFS Oa cooking dero. Speakers: .Paco Morales, Michelin Star Chef, Kingdom of Spain • Jesús M. Ramirez, Managing Director, Grupao Fuxiona, Kingdom of Spain Venue: Exhibition i A networking sessioorporations present an elevator pitch about their busines51ing to one-to-one meetings. Venue: Exhibition Haii A 2 seed startups will get to pitch in front of a panel of 5 judges who will critique and advise the entrepreneurs and hopefully invest in the most promising one. Presenters: soCash, Republic of Singapore Antetn, Republc of indonesia Judges: . Victor Chua, investment Director, Gob Partners, Malaysa Dr Eddy Lee, Managng Partner, Coffee Ventures, Republc of 5ngapore Shinta Witoyo Dhanuwardoyo, Chief Executve Officer anc Founder, Bubu.com, Republic of indonesia Sam Shafe, Chief Executive Officer, Pitch Platfor nns Sdn Be (ptchlN), Malaysia Kyr Andreou, Co-Founder and Director, ATA PLUS, Malays James Dgby, Co-Founder, Rockstart Accelerator and i ound Charman, Global Startup Awar ds, Kingdom of Denark Venue: Dining Hall (Exhibition Hall B)",
+      "content_tags": [
+            "Paco Morales",
+            "Chef"
+      ]
+},
+{
+      "id": "local-rev-2015-1303",
+      "category": "01_REVISTAS",
+      "title": "(2015) PROG San Sebastian Gastronomika Paco-Morales.pdf",
+      "year": 2015,
+      "date": "2015-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2015)_PROG_San_Sebastian_Gastronomika_Paco-Morales.pdf.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2015)_PROG_San_Sebastian_Gastronomika_Paco-Morales.pdf.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "CONGRESO INTERNACIONAL DE GASTRONOMÍA GASTRONOMIARI BURUZKO NAZIOARTEKO BILTZARRA INTERNATIONAL GASTRONOMY CONFERENCE SINGAPUR EXPLOSIÓN ORIENTAL HONG KONG SAN SEBASTIAN GASTRONOMIKA ALTA OFF POPULAR MARKET SAN SEBASTIAN, DEL 4 AL 7 DE OCTUBRE DE 2015 PALACIO KURSAAL www.sansebastiangastronomika.com EUSKADI BASQUE COUNTRY INSCRIPcIÓN PREMIUM ANTES DEL 31 DE AGOSTO 8 Eneko Atxa Restaurante Azurmendi (Larrabetzu) Vanguardia sostenible Pedro Subijana Restaurante Akelarre (San Sebastián) Alta cocina, alta diversión Josep Roca Restaurante El Celler de Can Roca (Girona) La cata más grande jamás contada (y catada) Joan Roca Restaurante El Celler de Can Roca (Girona) Fenómenos 2015 Internacional Vladimir Mukhin Withe Ratbbit Pestaurant (Moscú. Rusia) La cocina rusa del siglo Carme Ruscalleda Restaurante Sant Pau (Sant Pol de Mar) Raices catalanas, sensibilidades cosmopolitas Paco Morales Restaurante Noor (Córdoba) Influencias árabes José Avilles Restaurante Belcanto (Lisboa. Portugal) Vanguardia portuguesa Alta Oriol Castro y Eduard Xatruch Restaurante Disfrutar (Barcelona) Andoni Luis Aduriz Restaurante Alta España El gran espectáculo de la alta cocina contemporánea La nueva cocina turca Vencedor de \"Cocinero del año Turquia 2015\" Mugaritz (Errenteria) Liturgias culinarias multisensoriales Martin Berasategui Restaurante Martin Berasategui (Lasarte) Cocina de \"grandes complicaciones\" Albert Adrià Restaurante Heart (|biza) Heart: colisión creativa entre gastronomía, música y arte www.sansebastiangastronomika.com T",
+      "content_tags": [
+            "Paco Morales",
+            "Alta Cocina",
+            "Gastronomía",
+            "Noor",
+            "Córdoba"
+      ]
+},
+{
+      "id": "local-rev-2016-3555",
+      "category": "01_REVISTAS",
+      "title": "(2016) FOLL Exposicion Jayal Casa Arabe.pdf",
+      "year": 2016,
+      "date": "2016-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2016)_FOLL_Exposicion_Jayal_Casa_Arabe.pdf.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/01_(2016)_FOLL_Exposicion_Jayal_Casa_Arabe.pdf.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2019-4644",
+      "category": "01_REVISTAS",
+      "title": "01 2019 REV Protocolo Halal  Paco Morales Conferencia.Pdf",
+      "year": 2019,
+      "date": "2019-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_01_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia.Pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_01_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia.Pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2019-6994",
+      "category": "01_REVISTAS",
+      "title": "02 2019 REV Protocolo Halal  Paco Morales Conferencia (1)",
+      "year": 2019,
+      "date": "2019-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_02_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia (1).pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_02_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia (1).pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "ih Jea HALAL DE JUNTA ISLAMICA institutohalal HISTÓRICO En 1986, JUNTA ISLÁMICA, entidad inscrita legalmente en el Ministerio de Justicia con N°: 1141 SGIA, impulsa la creacion del INSTITUTO HALAL. como un departamento de trabajo con el objetivo båsico de mejorar la necesidad de la comunidad musulmana, de acceder a los alimentos, productos y servicios que sean seguros y respetuosos con la denominaciön HALAL Para ello durante una dėcada este departamento trabajó en la obtención de argumentos religiosos y cientificos que pudieran concretar una fórmula práctica y ửtil, que permitiera a los consumidores de este mundo globalizado, tener una mayor seguridad y confianza en aquello que compran y consumen. En 1998, el INSTITUTO HALAL inicia sus actividades de Regulación con el objetivo de dar cumplimiento al articulo 14 de la Ley de Los Acuerdos de Ja HALAL Cooperación entre el Estado Español y los musulmanes (Ley 26/1992, 10 noviembre) firmado en el año 1992. Para ello durante cinco años se trabaja en la elaboración de un Reglamento Halal y un Sistema de Aseguramiento de la Calidad Halal aplicable en los diferentes sectores y ámbitos de aplicación del concepto Halal. En 2003, inicia formalmente sus actividades de Certificación y Control. Para desarrollar sus actividades en un marco jurídico adecuado a la legislación española en materia de Certificación de Alimentos y Productos, se procede a registrar legalmente una MARCA DE GARANTİA, denominada GARANTÍA HALAL DE JUNTA ISLÁMICA, concedida por el Registro Español de Patentes y Marcas (15/08/2003). CERTIFICADO DE CONFEORMIDAD HALAL EI INSTITUTO HALAL denartamento de Junta Islámica de España, entidad religiosa inscrita en, el Ministerio de Justicia con elno 3205-SE-A, otorga el presentecertificado de producto a la empresa: Relconociendo que el producto Sacrificio, despiece y elaboración de productos de pollo Halal ye Cumple con Pliego de Condic iones \"Producto Certificado para uso de la Marca Garantia Halal\" Reglamento de Uso de la Marca de Garantia Halal Según el proceso Auditorías en Centros de Producclón Árdoba, a: 28/11/06 PRESENTACIÓN Actualmente el INSTITUTO HALAL (Halal Institute of Spain), es un crupo de entidades asociadas que se dedican a propiciar un desarrollo nomalizado del mercado Halal en España, mediante la agrupación de iniciativas, acciones y proyectos que favorezcan la integración de Halal como un concepto global, un término que hace eferencia al conjunto de prácticas y conductas que son licitas, buenas o saludables y que por tanto son beneficiosas para el ser humano, el bienestar animal y la proección del medio ambiente. Para el correcto desarrolo de las distintas iniciativas, el INSTITUTO HALAL Se ha organizado entorno a la figura legal de una Fundación, que actia como GRUPO DE ENTIDADES y empresas que realizan acividades de forma autónoma e independiente pero conectadas a través de la FUNDACIÓN INSTITUTO HALAL SERVICIOS El Instuto Halal se organiza en tomo a seis grandes lineas de actua",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2019-8049",
+      "category": "01_REVISTAS",
+      "title": "04 2019 REV Protocolo Halal  Paco Morales Conferencia",
+      "year": 2019,
+      "date": "2019-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_04_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_04_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
+      "id": "local-rev-2019-4893",
+      "category": "01_REVISTAS",
+      "title": "03 2019 REV Protocolo Halal  Paco Morales Conferencia",
+      "year": 2019,
+      "date": "2019-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_03_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_03_2019_REV_Protocolo_Halal__Paco_Morales_Conferencia.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "Jalal Un Concepto Global International Congress ICONGRESO INTERNACIONAL 24, 25, 26 de marzo 2015 CÓRDOBA. ESPAÑA Capital de la alimentación, el turismo y las finanzas Halal Objetivos básicos del Congreso • Propiciar la normalización y el respeto a la diversidad. • Promover el estilo de vida Halal como un concepto global y un valor positivO que los musulma nes aportan a la sociedad. halal • Sensibilizar a la población sobre la importancia de lograr la soberanía alimentaria y el manteni miento de un comercio justo. • Divulgar los valores de la economía ética y las finanzas Halal. Un Concepto Global International Congress •Concienciar sobre el respeto y la protección del medio ambiente y los seres vivos. • Promover el emprendimiento y la cultura empresarial en el concepto Halal, destacando su Creciente papel como generador de nuevas oportunidades de negocio. •Promocionar el desarrollo de la ciencia, la investigación y las nuevas tecnologias que completen el Concepto Global Halal. • Difundir la cultura deportiva y el ocio saludable. • Favorecer la integración de grupos con riesgo de exclusión social en el conjunto de la industria y los servicios Halal. • Potenciar el voluntariado y la cooperación en el tejido social islámico. • Destacar la relevancia de la economia y la industria Halal como uno de los sectores más dinarnicOs y con más proyección de futuro. Un campo emergente para la especialización, la diversifhcación y la puesta en marcha de nuevas inicativas. Un Concepto Global Destinatarios Este evento está destinado a todo tipo de público, con especial interés para: •Especialistas •Expertos • Científicos • Profesores • Empresarios • Todos los profesionales interesados en conocer el estilo de vida Halal en un contexto andalusí contemporáneo. Temática General El desarrollo del Congreso pretende ofrecer una visión global del concepto Halal, aunque se centrarå principalmente en los siguientes bloques: • Alimentación •Turismo •Economía y Finanzas • Nuevas oportunidades de Negocio • Vida Halal Axerquía Fest • Degustación de productos Halal • Actividades escolares • Taller de cocina Halal • Charla sobre nutrición y dietética • Halal cooking show • | Desfile de moda musulmana • Concierto •Jutba • Muestra de cultura, música, danza, cine y creacion audiovisual entorno al Concepto Halal Carrera popular y actividades deportivas por la diversidad, la paz y un mundo más Halal",
+      "content_tags": [
+            "Córdoba"
+      ]
+},
+{
+      "id": "local-rev-2005-6391",
+      "category": "01_REVISTAS",
+      "title": "10 DIG Dosier de prensa",
+      "year": 2005,
+      "date": "2005-01-01",
+      "type": "magazine",
+      "localPath": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_2005_10_DIG_Dosier_de_prensa.pdf",
+      "media": {
+            "thumbnail": "https://img.icons8.com/color/48/000000/pdf.png",
+            "pdf": "G:/Mi unidad/Noor_ 2026_archivos/ARCHIVO_DIGITAL_NOOR/01_REVISTAS/l Congreso Internacional Halal/01_2005_10_DIG_Dosier_de_prensa.pdf"
+      },
+      "tags": [
+            "Revista",
+            "Paco Morales"
+      ],
+      "eraId": "S21",
+      "searchable_text": "",
+      "content_tags": []
+},
+{
       id: 'local-rev-2008-01',
       category: "01_REVISTAS",
       title: 'Revista Crítica: Comer (Senzone)',

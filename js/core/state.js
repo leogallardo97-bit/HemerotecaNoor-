@@ -141,11 +141,41 @@ const NoorState = (() => {
 
         case 'TOGGLE_FILTER_VALUE':
           // payload = { key: 'themes', value: 'CUL' }
-          const arr = [..._state.filters[payload.key]];
-          const idx = arr.indexOf(payload.value);
-          if (idx === -1) arr.push(payload.value);
-          else arr.splice(idx, 1);
-          _state.filters[payload.key] = arr;
+          const filterKey = payload.key;
+          const filterValue = payload.value;
+
+          if (filterKey === 'sections') {
+            const currentSections = _state.filters.sections || [];
+            const isAlreadySelected = currentSections.includes(filterValue);
+
+            if (isAlreadySelected) {
+              // Desmarcar sección y limpiar subcategorías
+              _state.filters.sections = [];
+              _state.filters.subcategories = [];
+            } else {
+              // Limpieza total de estado para exclusividad (excepto vista y orden)
+              // Tal como pide el protocolo v3.0.2: "el estado global de la aplicación se limpie"
+              _state.filters.query = '';
+              _state.filters.eraIds = [];
+              _state.filters.themes = [];
+              _state.filters.regions = [];
+              _state.filters.types = [];
+              _state.filters.languages = [];
+              _state.filters.subcategories = [];
+              _state.filters.yearRange = [711, 2100];
+              
+              // Activar nueva sección única
+              _state.filters.sections = [filterValue];
+            }
+          } else {
+            // Comportamiento acumulativo para el resto de filtros
+            const arr = [...(_state.filters[filterKey] || [])];
+            const idx = arr.indexOf(filterValue);
+            if (idx === -1) arr.push(filterValue);
+            else arr.splice(idx, 1);
+            _state.filters[filterKey] = arr;
+          }
+          
           _state.filters.page = 1;
           break;
 

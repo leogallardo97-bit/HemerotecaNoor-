@@ -36,7 +36,11 @@ function renderFiltersPanel() {
         <!-- Grupo: Secciones Drive (DINÁMICO) -->
         <div class="filter-group">
           <p class="filter-group__label">Secciones Drive</p>
-          ${localSections.map(sec => {
+          ${[...localSections].sort((a, b) => {
+            const numA = parseInt(a.label.substring(0, 2), 10) || 0;
+            const numB = parseInt(b.label.substring(0, 2), 10) || 0;
+            return numA - numB;
+          }).map(sec => {
             // Sanitización para ID seguro en HTML
             const safeId = sec.label.toLowerCase()
               .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')

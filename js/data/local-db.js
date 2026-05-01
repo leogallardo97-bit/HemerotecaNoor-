@@ -24911,9 +24911,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6",
+    "driveId": "1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6=s1000",
+            "pdf": "https://drive.google.com/file/d/1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -24939,9 +24940,10 @@ window.NoorLocalDB = {
         "date": "2008-01-01",
         "type": "article",
         "driveFileId": "1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO",
+    "driveId": "1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO=s1000",
+            "pdf": "https://drive.google.com/file/d/1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -24968,9 +24970,10 @@ window.NoorLocalDB = {
         "date": "2021-01-01",
         "type": "article",
         "driveFileId": "1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y",
+    "driveId": "1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y=s1000",
+            "pdf": "https://drive.google.com/file/d/1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -24996,9 +24999,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke",
+    "driveId": "1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke=s1000",
+            "pdf": "https://drive.google.com/file/d/1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25024,9 +25028,10 @@ window.NoorLocalDB = {
         "date": "2014-01-01",
         "type": "article",
         "driveFileId": "1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL",
+    "driveId": "1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL=s1000",
+            "pdf": "https://drive.google.com/file/d/1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25053,9 +25058,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0",
+    "driveId": "1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0=s1000",
+            "pdf": "https://drive.google.com/file/d/1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25083,9 +25089,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3",
+    "driveId": "1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3=s1000",
+            "pdf": "https://drive.google.com/file/d/1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25111,9 +25118,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK",
+    "driveId": "1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK=s1000",
+            "pdf": "https://drive.google.com/file/d/1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25140,9 +25148,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1xYxQioVI4NwO_B3-RERHxtnXiHheZecP",
+    "driveId": "1xYxQioVI4NwO_B3-RERHxtnXiHheZecP",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1xYxQioVI4NwO_B3-RERHxtnXiHheZecP&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1xYxQioVI4NwO_B3-RERHxtnXiHheZecP/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1xYxQioVI4NwO_B3-RERHxtnXiHheZecP=s1000",
+            "pdf": "https://drive.google.com/file/d/1xYxQioVI4NwO_B3-RERHxtnXiHheZecP/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25170,9 +25179,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf",
+    "driveId": "1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf=s1000",
+            "pdf": "https://drive.google.com/file/d/1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25198,9 +25208,10 @@ window.NoorLocalDB = {
         "date": "2016-01-01",
         "type": "article",
         "driveFileId": "1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI",
+    "driveId": "1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI=s1000",
+            "pdf": "https://drive.google.com/file/d/1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25227,9 +25238,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC",
+    "driveId": "13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC&sz=w400",
-            "pdf": "https://drive.google.com/file/d/13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC=s1000",
+            "pdf": "https://drive.google.com/file/d/13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25256,9 +25268,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy",
+    "driveId": "1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy=s1000",
+            "pdf": "https://drive.google.com/file/d/1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25284,9 +25297,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I",
+    "driveId": "1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I=s1000",
+            "pdf": "https://drive.google.com/file/d/1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25314,9 +25328,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso",
+    "driveId": "1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso=s1000",
+            "pdf": "https://drive.google.com/file/d/1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25344,9 +25359,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk",
+    "driveId": "1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk=s1000",
+            "pdf": "https://drive.google.com/file/d/1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25372,9 +25388,10 @@ window.NoorLocalDB = {
         "date": "2007-01-01",
         "type": "article",
         "driveFileId": "1DSfIl5pmGDUHimudOpadvR8MWz0uIgix",
+    "driveId": "1DSfIl5pmGDUHimudOpadvR8MWz0uIgix",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1DSfIl5pmGDUHimudOpadvR8MWz0uIgix&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1DSfIl5pmGDUHimudOpadvR8MWz0uIgix/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1DSfIl5pmGDUHimudOpadvR8MWz0uIgix=s1000",
+            "pdf": "https://drive.google.com/file/d/1DSfIl5pmGDUHimudOpadvR8MWz0uIgix/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25400,9 +25417,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R",
+    "driveId": "17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R&sz=w400",
-            "pdf": "https://drive.google.com/file/d/17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R=s1000",
+            "pdf": "https://drive.google.com/file/d/17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25428,9 +25446,10 @@ window.NoorLocalDB = {
         "date": "2007-01-01",
         "type": "article",
         "driveFileId": "1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84",
+    "driveId": "1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84=s1000",
+            "pdf": "https://drive.google.com/file/d/1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25457,9 +25476,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY",
+    "driveId": "1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY=s1000",
+            "pdf": "https://drive.google.com/file/d/1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25487,9 +25507,10 @@ window.NoorLocalDB = {
         "date": "2009-01-01",
         "type": "article",
         "driveFileId": "1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR",
+    "driveId": "1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR=s1000",
+            "pdf": "https://drive.google.com/file/d/1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25515,9 +25536,10 @@ window.NoorLocalDB = {
         "date": "2010-01-01",
         "type": "article",
         "driveFileId": "1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf",
+    "driveId": "1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf=s1000",
+            "pdf": "https://drive.google.com/file/d/1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25543,9 +25565,10 @@ window.NoorLocalDB = {
         "date": "2012-01-01",
         "type": "article",
         "driveFileId": "1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo",
+    "driveId": "1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo=s1000",
+            "pdf": "https://drive.google.com/file/d/1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25571,9 +25594,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO",
+    "driveId": "1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO=s1000",
+            "pdf": "https://drive.google.com/file/d/1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25601,9 +25625,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb",
+    "driveId": "1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb=s1000",
+            "pdf": "https://drive.google.com/file/d/1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25631,9 +25656,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1c6cE5LNcSsdRky3pS0Apb6FODoManIOm",
+    "driveId": "1c6cE5LNcSsdRky3pS0Apb6FODoManIOm",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1c6cE5LNcSsdRky3pS0Apb6FODoManIOm&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1c6cE5LNcSsdRky3pS0Apb6FODoManIOm/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1c6cE5LNcSsdRky3pS0Apb6FODoManIOm=s1000",
+            "pdf": "https://drive.google.com/file/d/1c6cE5LNcSsdRky3pS0Apb6FODoManIOm/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25660,9 +25686,10 @@ window.NoorLocalDB = {
         "date": "2017-01-01",
         "type": "article",
         "driveFileId": "1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2",
+    "driveId": "1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2=s1000",
+            "pdf": "https://drive.google.com/file/d/1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25689,9 +25716,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct",
+    "driveId": "1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct=s1000",
+            "pdf": "https://drive.google.com/file/d/1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25717,9 +25745,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH",
+    "driveId": "1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH=s1000",
+            "pdf": "https://drive.google.com/file/d/1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25746,9 +25775,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV",
+    "driveId": "1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV=s1000",
+            "pdf": "https://drive.google.com/file/d/1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25774,9 +25804,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1WGxwO592Hw383DF-ruJBD_9zF7AXafFG",
+    "driveId": "1WGxwO592Hw383DF-ruJBD_9zF7AXafFG",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1WGxwO592Hw383DF-ruJBD_9zF7AXafFG&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1WGxwO592Hw383DF-ruJBD_9zF7AXafFG/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1WGxwO592Hw383DF-ruJBD_9zF7AXafFG=s1000",
+            "pdf": "https://drive.google.com/file/d/1WGxwO592Hw383DF-ruJBD_9zF7AXafFG/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25803,9 +25834,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv",
+    "driveId": "14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv&sz=w400",
-            "pdf": "https://drive.google.com/file/d/14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv=s1000",
+            "pdf": "https://drive.google.com/file/d/14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25832,9 +25864,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG",
+    "driveId": "1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG=s1000",
+            "pdf": "https://drive.google.com/file/d/1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25862,9 +25895,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx",
+    "driveId": "1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx=s1000",
+            "pdf": "https://drive.google.com/file/d/1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25892,9 +25926,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF",
+    "driveId": "1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF=s1000",
+            "pdf": "https://drive.google.com/file/d/1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25922,9 +25957,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2",
+    "driveId": "1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2=s1000",
+            "pdf": "https://drive.google.com/file/d/1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25951,9 +25987,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3",
+    "driveId": "1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3=s1000",
+            "pdf": "https://drive.google.com/file/d/1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -25979,9 +26016,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1CLdRnsp6sze9tFrhYKCZyb3wVtLah781",
+    "driveId": "1CLdRnsp6sze9tFrhYKCZyb3wVtLah781",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1CLdRnsp6sze9tFrhYKCZyb3wVtLah781&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1CLdRnsp6sze9tFrhYKCZyb3wVtLah781/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1CLdRnsp6sze9tFrhYKCZyb3wVtLah781=s1000",
+            "pdf": "https://drive.google.com/file/d/1CLdRnsp6sze9tFrhYKCZyb3wVtLah781/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26008,9 +26046,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn",
+    "driveId": "1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn=s1000",
+            "pdf": "https://drive.google.com/file/d/1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26037,9 +26076,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC",
+    "driveId": "1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC=s1000",
+            "pdf": "https://drive.google.com/file/d/1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26066,9 +26106,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD",
+    "driveId": "1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD=s1000",
+            "pdf": "https://drive.google.com/file/d/1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26096,9 +26137,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb",
+    "driveId": "1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb=s1000",
+            "pdf": "https://drive.google.com/file/d/1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26124,9 +26166,10 @@ window.NoorLocalDB = {
         "date": "2014-01-01",
         "type": "article",
         "driveFileId": "1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N",
+    "driveId": "1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N=s1000",
+            "pdf": "https://drive.google.com/file/d/1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26154,9 +26197,10 @@ window.NoorLocalDB = {
         "date": "2021-01-01",
         "type": "article",
         "driveFileId": "165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q",
+    "driveId": "165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q&sz=w400",
-            "pdf": "https://drive.google.com/file/d/165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q=s1000",
+            "pdf": "https://drive.google.com/file/d/165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26182,9 +26226,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1nommiaeJZwktTLbmzaBaIcdyokrsmrEK",
+    "driveId": "1nommiaeJZwktTLbmzaBaIcdyokrsmrEK",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1nommiaeJZwktTLbmzaBaIcdyokrsmrEK&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1nommiaeJZwktTLbmzaBaIcdyokrsmrEK/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1nommiaeJZwktTLbmzaBaIcdyokrsmrEK=s1000",
+            "pdf": "https://drive.google.com/file/d/1nommiaeJZwktTLbmzaBaIcdyokrsmrEK/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26210,9 +26255,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h",
+    "driveId": "1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h=s1000",
+            "pdf": "https://drive.google.com/file/d/1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26239,9 +26285,10 @@ window.NoorLocalDB = {
         "date": "2013-01-01",
         "type": "article",
         "driveFileId": "1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I",
+    "driveId": "1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I=s1000",
+            "pdf": "https://drive.google.com/file/d/1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26267,9 +26314,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1zKi0vDic5oYLre9mW-2nslofn_gSh3LT",
+    "driveId": "1zKi0vDic5oYLre9mW-2nslofn_gSh3LT",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1zKi0vDic5oYLre9mW-2nslofn_gSh3LT&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1zKi0vDic5oYLre9mW-2nslofn_gSh3LT/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1zKi0vDic5oYLre9mW-2nslofn_gSh3LT=s1000",
+            "pdf": "https://drive.google.com/file/d/1zKi0vDic5oYLre9mW-2nslofn_gSh3LT/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26296,9 +26344,10 @@ window.NoorLocalDB = {
         "date": "2021-01-01",
         "type": "article",
         "driveFileId": "1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt",
+    "driveId": "1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt=s1000",
+            "pdf": "https://drive.google.com/file/d/1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26326,9 +26375,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z",
+    "driveId": "1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z=s1000",
+            "pdf": "https://drive.google.com/file/d/1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26354,9 +26404,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH",
+    "driveId": "1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH=s1000",
+            "pdf": "https://drive.google.com/file/d/1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26384,9 +26435,10 @@ window.NoorLocalDB = {
         "date": "2006-01-01",
         "type": "article",
         "driveFileId": "1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-",
+    "driveId": "1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-=s1000",
+            "pdf": "https://drive.google.com/file/d/1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26412,9 +26464,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1",
+    "driveId": "1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1=s1000",
+            "pdf": "https://drive.google.com/file/d/1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26441,9 +26494,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z",
+    "driveId": "1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z=s1000",
+            "pdf": "https://drive.google.com/file/d/1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26469,9 +26523,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY",
+    "driveId": "1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY=s1000",
+            "pdf": "https://drive.google.com/file/d/1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26498,9 +26553,10 @@ window.NoorLocalDB = {
         "date": "2009-01-01",
         "type": "article",
         "driveFileId": "14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a",
+    "driveId": "14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a&sz=w400",
-            "pdf": "https://drive.google.com/file/d/14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a=s1000",
+            "pdf": "https://drive.google.com/file/d/14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26528,9 +26584,10 @@ window.NoorLocalDB = {
         "date": "2004-01-01",
         "type": "article",
         "driveFileId": "1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg",
+    "driveId": "1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg=s1000",
+            "pdf": "https://drive.google.com/file/d/1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26557,9 +26614,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB",
+    "driveId": "1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB=s1000",
+            "pdf": "https://drive.google.com/file/d/1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26585,9 +26643,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ",
+    "driveId": "1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ=s1000",
+            "pdf": "https://drive.google.com/file/d/1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26613,9 +26672,10 @@ window.NoorLocalDB = {
         "date": "2016-01-01",
         "type": "article",
         "driveFileId": "1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR",
+    "driveId": "1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR=s1000",
+            "pdf": "https://drive.google.com/file/d/1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26642,9 +26702,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq",
+    "driveId": "1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq=s1000",
+            "pdf": "https://drive.google.com/file/d/1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26672,9 +26733,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR",
+    "driveId": "1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR=s1000",
+            "pdf": "https://drive.google.com/file/d/1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26701,9 +26763,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp",
+    "driveId": "1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp=s1000",
+            "pdf": "https://drive.google.com/file/d/1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26729,9 +26792,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc",
+    "driveId": "1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc=s1000",
+            "pdf": "https://drive.google.com/file/d/1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26759,9 +26823,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "10lbrY00RLPiLKl83OoyUE1_AZatXDOli",
+    "driveId": "10lbrY00RLPiLKl83OoyUE1_AZatXDOli",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=10lbrY00RLPiLKl83OoyUE1_AZatXDOli&sz=w400",
-            "pdf": "https://drive.google.com/file/d/10lbrY00RLPiLKl83OoyUE1_AZatXDOli/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/10lbrY00RLPiLKl83OoyUE1_AZatXDOli=s1000",
+            "pdf": "https://drive.google.com/file/d/10lbrY00RLPiLKl83OoyUE1_AZatXDOli/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26789,9 +26854,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2",
+    "driveId": "1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2=s1000",
+            "pdf": "https://drive.google.com/file/d/1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26818,9 +26884,10 @@ window.NoorLocalDB = {
         "date": "2021-01-01",
         "type": "article",
         "driveFileId": "10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b",
+    "driveId": "10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b&sz=w400",
-            "pdf": "https://drive.google.com/file/d/10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b=s1000",
+            "pdf": "https://drive.google.com/file/d/10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26848,9 +26915,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g",
+    "driveId": "1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g=s1000",
+            "pdf": "https://drive.google.com/file/d/1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26876,9 +26944,10 @@ window.NoorLocalDB = {
         "date": "2007-01-01",
         "type": "article",
         "driveFileId": "1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe",
+    "driveId": "1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe=s1000",
+            "pdf": "https://drive.google.com/file/d/1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26904,9 +26973,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b",
+    "driveId": "1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b=s1000",
+            "pdf": "https://drive.google.com/file/d/1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26932,9 +27002,10 @@ window.NoorLocalDB = {
         "date": "2014-01-01",
         "type": "article",
         "driveFileId": "10sU6KuRa-4s1fSZnD5FYX60--WexECGc",
+    "driveId": "10sU6KuRa-4s1fSZnD5FYX60--WexECGc",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=10sU6KuRa-4s1fSZnD5FYX60--WexECGc&sz=w400",
-            "pdf": "https://drive.google.com/file/d/10sU6KuRa-4s1fSZnD5FYX60--WexECGc/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/10sU6KuRa-4s1fSZnD5FYX60--WexECGc=s1000",
+            "pdf": "https://drive.google.com/file/d/10sU6KuRa-4s1fSZnD5FYX60--WexECGc/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26960,9 +27031,10 @@ window.NoorLocalDB = {
         "date": "2014-01-01",
         "type": "article",
         "driveFileId": "1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ",
+    "driveId": "1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ=s1000",
+            "pdf": "https://drive.google.com/file/d/1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -26988,9 +27060,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU",
+    "driveId": "1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU=s1000",
+            "pdf": "https://drive.google.com/file/d/1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27018,9 +27091,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1P61Le8FdCroi1KdBjpB8216dF0VN__2U",
+    "driveId": "1P61Le8FdCroi1KdBjpB8216dF0VN__2U",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1P61Le8FdCroi1KdBjpB8216dF0VN__2U&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1P61Le8FdCroi1KdBjpB8216dF0VN__2U/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1P61Le8FdCroi1KdBjpB8216dF0VN__2U=s1000",
+            "pdf": "https://drive.google.com/file/d/1P61Le8FdCroi1KdBjpB8216dF0VN__2U/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27048,9 +27122,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1U4MrG90tS1aHViCCS329LKM5l6LVCkGB",
+    "driveId": "1U4MrG90tS1aHViCCS329LKM5l6LVCkGB",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1U4MrG90tS1aHViCCS329LKM5l6LVCkGB&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1U4MrG90tS1aHViCCS329LKM5l6LVCkGB/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1U4MrG90tS1aHViCCS329LKM5l6LVCkGB=s1000",
+            "pdf": "https://drive.google.com/file/d/1U4MrG90tS1aHViCCS329LKM5l6LVCkGB/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27078,9 +27153,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B",
+    "driveId": "1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B=s1000",
+            "pdf": "https://drive.google.com/file/d/1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27107,9 +27183,10 @@ window.NoorLocalDB = {
         "date": "1991-01-01",
         "type": "article",
         "driveFileId": "10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc",
+    "driveId": "10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc&sz=w400",
-            "pdf": "https://drive.google.com/file/d/10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc=s1000",
+            "pdf": "https://drive.google.com/file/d/10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27136,9 +27213,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "16cniHjKCeAMEFESh1UYBhxKpgqt_57yx",
+    "driveId": "16cniHjKCeAMEFESh1UYBhxKpgqt_57yx",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=16cniHjKCeAMEFESh1UYBhxKpgqt_57yx&sz=w400",
-            "pdf": "https://drive.google.com/file/d/16cniHjKCeAMEFESh1UYBhxKpgqt_57yx/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/16cniHjKCeAMEFESh1UYBhxKpgqt_57yx=s1000",
+            "pdf": "https://drive.google.com/file/d/16cniHjKCeAMEFESh1UYBhxKpgqt_57yx/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27164,9 +27242,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC",
+    "driveId": "1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC=s1000",
+            "pdf": "https://drive.google.com/file/d/1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27193,9 +27272,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh",
+    "driveId": "1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh=s1000",
+            "pdf": "https://drive.google.com/file/d/1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27221,9 +27301,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo",
+    "driveId": "1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo=s1000",
+            "pdf": "https://drive.google.com/file/d/1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27250,9 +27331,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1sSTE3EnyBSH42x46XZufWxaptVA76Wqx",
+    "driveId": "1sSTE3EnyBSH42x46XZufWxaptVA76Wqx",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1sSTE3EnyBSH42x46XZufWxaptVA76Wqx&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1sSTE3EnyBSH42x46XZufWxaptVA76Wqx/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1sSTE3EnyBSH42x46XZufWxaptVA76Wqx=s1000",
+            "pdf": "https://drive.google.com/file/d/1sSTE3EnyBSH42x46XZufWxaptVA76Wqx/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27278,9 +27360,10 @@ window.NoorLocalDB = {
         "date": "2010-01-01",
         "type": "article",
         "driveFileId": "1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35",
+    "driveId": "1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35=s1000",
+            "pdf": "https://drive.google.com/file/d/1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27306,9 +27389,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn",
+    "driveId": "14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn&sz=w400",
-            "pdf": "https://drive.google.com/file/d/14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn=s1000",
+            "pdf": "https://drive.google.com/file/d/14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27334,9 +27418,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1DcLlykrHV281jjvlrUzh9aBaROIaZktS",
+    "driveId": "1DcLlykrHV281jjvlrUzh9aBaROIaZktS",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1DcLlykrHV281jjvlrUzh9aBaROIaZktS&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1DcLlykrHV281jjvlrUzh9aBaROIaZktS/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1DcLlykrHV281jjvlrUzh9aBaROIaZktS=s1000",
+            "pdf": "https://drive.google.com/file/d/1DcLlykrHV281jjvlrUzh9aBaROIaZktS/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27362,9 +27447,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB",
+    "driveId": "1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB=s1000",
+            "pdf": "https://drive.google.com/file/d/1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27390,9 +27476,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw",
+    "driveId": "1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw=s1000",
+            "pdf": "https://drive.google.com/file/d/1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27418,9 +27505,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F",
+    "driveId": "1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F=s1000",
+            "pdf": "https://drive.google.com/file/d/1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27447,9 +27535,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n",
+    "driveId": "1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n=s1000",
+            "pdf": "https://drive.google.com/file/d/1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27475,9 +27564,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS",
+    "driveId": "1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS=s1000",
+            "pdf": "https://drive.google.com/file/d/1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27504,9 +27594,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG",
+    "driveId": "1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG=s1000",
+            "pdf": "https://drive.google.com/file/d/1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27532,9 +27623,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH",
+    "driveId": "1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH=s1000",
+            "pdf": "https://drive.google.com/file/d/1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27562,9 +27654,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU",
+    "driveId": "1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU=s1000",
+            "pdf": "https://drive.google.com/file/d/1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27590,9 +27683,10 @@ window.NoorLocalDB = {
         "date": "2012-01-01",
         "type": "article",
         "driveFileId": "14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB",
+    "driveId": "14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB&sz=w400",
-            "pdf": "https://drive.google.com/file/d/14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB=s1000",
+            "pdf": "https://drive.google.com/file/d/14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27618,9 +27712,10 @@ window.NoorLocalDB = {
         "date": "2011-01-01",
         "type": "article",
         "driveFileId": "1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30",
+    "driveId": "1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30=s1000",
+            "pdf": "https://drive.google.com/file/d/1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27647,9 +27742,10 @@ window.NoorLocalDB = {
         "date": "2016-01-01",
         "type": "article",
         "driveFileId": "1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g",
+    "driveId": "1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g=s1000",
+            "pdf": "https://drive.google.com/file/d/1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27676,9 +27772,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG",
+    "driveId": "1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG=s1000",
+            "pdf": "https://drive.google.com/file/d/1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27706,9 +27803,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA",
+    "driveId": "1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA=s1000",
+            "pdf": "https://drive.google.com/file/d/1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27735,9 +27833,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1TcnsKyZoy3q3NglspEqjcirHm184AObm",
+    "driveId": "1TcnsKyZoy3q3NglspEqjcirHm184AObm",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1TcnsKyZoy3q3NglspEqjcirHm184AObm&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1TcnsKyZoy3q3NglspEqjcirHm184AObm/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1TcnsKyZoy3q3NglspEqjcirHm184AObm=s1000",
+            "pdf": "https://drive.google.com/file/d/1TcnsKyZoy3q3NglspEqjcirHm184AObm/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27763,9 +27862,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO",
+    "driveId": "1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO=s1000",
+            "pdf": "https://drive.google.com/file/d/1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27791,9 +27891,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm",
+    "driveId": "16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm&sz=w400",
-            "pdf": "https://drive.google.com/file/d/16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm=s1000",
+            "pdf": "https://drive.google.com/file/d/16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27821,9 +27922,10 @@ window.NoorLocalDB = {
         "date": "2005-01-01",
         "type": "article",
         "driveFileId": "16lioV-oI-h_MRT89PFeti4VCXHe75fsz",
+    "driveId": "16lioV-oI-h_MRT89PFeti4VCXHe75fsz",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=16lioV-oI-h_MRT89PFeti4VCXHe75fsz&sz=w400",
-            "pdf": "https://drive.google.com/file/d/16lioV-oI-h_MRT89PFeti4VCXHe75fsz/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/16lioV-oI-h_MRT89PFeti4VCXHe75fsz=s1000",
+            "pdf": "https://drive.google.com/file/d/16lioV-oI-h_MRT89PFeti4VCXHe75fsz/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27849,9 +27951,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp",
+    "driveId": "1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp=s1000",
+            "pdf": "https://drive.google.com/file/d/1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27877,9 +27980,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "10qy97BwhKRjXQbFVCoUTvs7G7h76bM77",
+    "driveId": "10qy97BwhKRjXQbFVCoUTvs7G7h76bM77",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=10qy97BwhKRjXQbFVCoUTvs7G7h76bM77&sz=w400",
-            "pdf": "https://drive.google.com/file/d/10qy97BwhKRjXQbFVCoUTvs7G7h76bM77/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/10qy97BwhKRjXQbFVCoUTvs7G7h76bM77=s1000",
+            "pdf": "https://drive.google.com/file/d/10qy97BwhKRjXQbFVCoUTvs7G7h76bM77/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27906,9 +28010,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i",
+    "driveId": "1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i=s1000",
+            "pdf": "https://drive.google.com/file/d/1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27934,9 +28039,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e",
+    "driveId": "1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e=s1000",
+            "pdf": "https://drive.google.com/file/d/1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27964,9 +28070,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD",
+    "driveId": "1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD=s1000",
+            "pdf": "https://drive.google.com/file/d/1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -27992,9 +28099,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ",
+    "driveId": "1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ=s1000",
+            "pdf": "https://drive.google.com/file/d/1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28020,9 +28128,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8",
+    "driveId": "1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8=s1000",
+            "pdf": "https://drive.google.com/file/d/1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28049,9 +28158,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1",
+    "driveId": "19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1&sz=w400",
-            "pdf": "https://drive.google.com/file/d/19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1=s1000",
+            "pdf": "https://drive.google.com/file/d/19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28077,9 +28187,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX",
+    "driveId": "1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX=s1000",
+            "pdf": "https://drive.google.com/file/d/1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28105,9 +28216,10 @@ window.NoorLocalDB = {
         "date": "2001-01-01",
         "type": "article",
         "driveFileId": "15WxOVbVEFreFXLGNyFyEwExJpCABWGM8",
+    "driveId": "15WxOVbVEFreFXLGNyFyEwExJpCABWGM8",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=15WxOVbVEFreFXLGNyFyEwExJpCABWGM8&sz=w400",
-            "pdf": "https://drive.google.com/file/d/15WxOVbVEFreFXLGNyFyEwExJpCABWGM8/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/15WxOVbVEFreFXLGNyFyEwExJpCABWGM8=s1000",
+            "pdf": "https://drive.google.com/file/d/15WxOVbVEFreFXLGNyFyEwExJpCABWGM8/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28134,9 +28246,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1AOpZvq8bq03roB_2FWilP8bS6I99pJTS",
+    "driveId": "1AOpZvq8bq03roB_2FWilP8bS6I99pJTS",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1AOpZvq8bq03roB_2FWilP8bS6I99pJTS&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1AOpZvq8bq03roB_2FWilP8bS6I99pJTS/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1AOpZvq8bq03roB_2FWilP8bS6I99pJTS=s1000",
+            "pdf": "https://drive.google.com/file/d/1AOpZvq8bq03roB_2FWilP8bS6I99pJTS/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28164,9 +28277,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz",
+    "driveId": "1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz=s1000",
+            "pdf": "https://drive.google.com/file/d/1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28192,9 +28306,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ",
+    "driveId": "1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ=s1000",
+            "pdf": "https://drive.google.com/file/d/1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28220,9 +28335,10 @@ window.NoorLocalDB = {
         "date": "2017-01-01",
         "type": "article",
         "driveFileId": "1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6",
+    "driveId": "1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6=s1000",
+            "pdf": "https://drive.google.com/file/d/1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28249,9 +28365,10 @@ window.NoorLocalDB = {
         "date": "2013-01-01",
         "type": "article",
         "driveFileId": "1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC",
+    "driveId": "1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC=s1000",
+            "pdf": "https://drive.google.com/file/d/1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28279,9 +28396,10 @@ window.NoorLocalDB = {
         "date": "2014-01-01",
         "type": "article",
         "driveFileId": "1MKolpuiAEExiHSngrz3pvfEjct5XXrcN",
+    "driveId": "1MKolpuiAEExiHSngrz3pvfEjct5XXrcN",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1MKolpuiAEExiHSngrz3pvfEjct5XXrcN&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1MKolpuiAEExiHSngrz3pvfEjct5XXrcN/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1MKolpuiAEExiHSngrz3pvfEjct5XXrcN=s1000",
+            "pdf": "https://drive.google.com/file/d/1MKolpuiAEExiHSngrz3pvfEjct5XXrcN/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28307,9 +28425,10 @@ window.NoorLocalDB = {
         "date": "2006-01-01",
         "type": "article",
         "driveFileId": "1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-",
+    "driveId": "1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-=s1000",
+            "pdf": "https://drive.google.com/file/d/1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28335,9 +28454,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1keM90_9js-VydH2dCNqjbXg_Cg21NkzC",
+    "driveId": "1keM90_9js-VydH2dCNqjbXg_Cg21NkzC",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1keM90_9js-VydH2dCNqjbXg_Cg21NkzC&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1keM90_9js-VydH2dCNqjbXg_Cg21NkzC/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1keM90_9js-VydH2dCNqjbXg_Cg21NkzC=s1000",
+            "pdf": "https://drive.google.com/file/d/1keM90_9js-VydH2dCNqjbXg_Cg21NkzC/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28363,9 +28483,10 @@ window.NoorLocalDB = {
         "date": "2021-01-01",
         "type": "article",
         "driveFileId": "1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE",
+    "driveId": "1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE=s1000",
+            "pdf": "https://drive.google.com/file/d/1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28391,9 +28512,10 @@ window.NoorLocalDB = {
         "date": "2021-01-01",
         "type": "article",
         "driveFileId": "1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m",
+    "driveId": "1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m=s1000",
+            "pdf": "https://drive.google.com/file/d/1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28421,9 +28543,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd",
+    "driveId": "1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd=s1000",
+            "pdf": "https://drive.google.com/file/d/1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28449,9 +28572,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2",
+    "driveId": "1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2=s1000",
+            "pdf": "https://drive.google.com/file/d/1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28479,9 +28603,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb",
+    "driveId": "1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb=s1000",
+            "pdf": "https://drive.google.com/file/d/1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28509,9 +28634,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1XkE-7alC07zw7wPao8eyqZcfXvhph0S2",
+    "driveId": "1XkE-7alC07zw7wPao8eyqZcfXvhph0S2",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1XkE-7alC07zw7wPao8eyqZcfXvhph0S2&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1XkE-7alC07zw7wPao8eyqZcfXvhph0S2/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1XkE-7alC07zw7wPao8eyqZcfXvhph0S2=s1000",
+            "pdf": "https://drive.google.com/file/d/1XkE-7alC07zw7wPao8eyqZcfXvhph0S2/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28537,9 +28663,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7",
+    "driveId": "1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7=s1000",
+            "pdf": "https://drive.google.com/file/d/1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28566,9 +28693,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t",
+    "driveId": "1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t=s1000",
+            "pdf": "https://drive.google.com/file/d/1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28595,9 +28723,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs",
+    "driveId": "1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs=s1000",
+            "pdf": "https://drive.google.com/file/d/1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28624,9 +28753,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0",
+    "driveId": "1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0=s1000",
+            "pdf": "https://drive.google.com/file/d/1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28654,9 +28784,10 @@ window.NoorLocalDB = {
         "date": "2024-01-01",
         "type": "article",
         "driveFileId": "1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k",
+    "driveId": "1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k=s1000",
+            "pdf": "https://drive.google.com/file/d/1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28684,9 +28815,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k",
+    "driveId": "1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k=s1000",
+            "pdf": "https://drive.google.com/file/d/1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28714,9 +28846,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF",
+    "driveId": "1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF=s1000",
+            "pdf": "https://drive.google.com/file/d/1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28742,9 +28875,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o",
+    "driveId": "1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o=s1000",
+            "pdf": "https://drive.google.com/file/d/1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28772,9 +28906,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX",
+    "driveId": "1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX=s1000",
+            "pdf": "https://drive.google.com/file/d/1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28800,9 +28935,10 @@ window.NoorLocalDB = {
         "date": "2014-01-01",
         "type": "article",
         "driveFileId": "1xob7xPhe8Wo-27269JFq66l3QcOoE0gX",
+    "driveId": "1xob7xPhe8Wo-27269JFq66l3QcOoE0gX",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1xob7xPhe8Wo-27269JFq66l3QcOoE0gX&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1xob7xPhe8Wo-27269JFq66l3QcOoE0gX/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1xob7xPhe8Wo-27269JFq66l3QcOoE0gX=s1000",
+            "pdf": "https://drive.google.com/file/d/1xob7xPhe8Wo-27269JFq66l3QcOoE0gX/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28830,9 +28966,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh",
+    "driveId": "1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh=s1000",
+            "pdf": "https://drive.google.com/file/d/1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28860,9 +28997,10 @@ window.NoorLocalDB = {
         "date": "2018-01-01",
         "type": "article",
         "driveFileId": "1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq",
+    "driveId": "1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq=s1000",
+            "pdf": "https://drive.google.com/file/d/1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28889,9 +29027,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT",
+    "driveId": "1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT=s1000",
+            "pdf": "https://drive.google.com/file/d/1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28918,9 +29057,10 @@ window.NoorLocalDB = {
         "date": "2007-01-01",
         "type": "article",
         "driveFileId": "1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a",
+    "driveId": "1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a=s1000",
+            "pdf": "https://drive.google.com/file/d/1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28946,9 +29086,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB",
+    "driveId": "1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB=s1000",
+            "pdf": "https://drive.google.com/file/d/1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -28974,9 +29115,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2",
+    "driveId": "1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2=s1000",
+            "pdf": "https://drive.google.com/file/d/1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29002,9 +29144,10 @@ window.NoorLocalDB = {
         "date": "2026-01-01",
         "type": "article",
         "driveFileId": "1V2X4zOTDEapYYoapWPH1docVyOWK0eTc",
+    "driveId": "1V2X4zOTDEapYYoapWPH1docVyOWK0eTc",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1V2X4zOTDEapYYoapWPH1docVyOWK0eTc&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1V2X4zOTDEapYYoapWPH1docVyOWK0eTc/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1V2X4zOTDEapYYoapWPH1docVyOWK0eTc=s1000",
+            "pdf": "https://drive.google.com/file/d/1V2X4zOTDEapYYoapWPH1docVyOWK0eTc/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29032,9 +29175,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye",
+    "driveId": "1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye=s1000",
+            "pdf": "https://drive.google.com/file/d/1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29060,9 +29204,10 @@ window.NoorLocalDB = {
         "date": "2019-01-01",
         "type": "article",
         "driveFileId": "1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC",
+    "driveId": "1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC=s1000",
+            "pdf": "https://drive.google.com/file/d/1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29088,9 +29233,10 @@ window.NoorLocalDB = {
         "date": "2002-01-01",
         "type": "article",
         "driveFileId": "1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86",
+    "driveId": "1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86=s1000",
+            "pdf": "https://drive.google.com/file/d/1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29118,9 +29264,10 @@ window.NoorLocalDB = {
         "date": "2022-01-01",
         "type": "article",
         "driveFileId": "1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-",
+    "driveId": "1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-=s1000",
+            "pdf": "https://drive.google.com/file/d/1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29148,9 +29295,10 @@ window.NoorLocalDB = {
         "date": "2002-01-01",
         "type": "article",
         "driveFileId": "1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h",
+    "driveId": "1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h=s1000",
+            "pdf": "https://drive.google.com/file/d/1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29176,9 +29324,10 @@ window.NoorLocalDB = {
         "date": "2015-01-01",
         "type": "article",
         "driveFileId": "1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL",
+    "driveId": "1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL=s1000",
+            "pdf": "https://drive.google.com/file/d/1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29204,9 +29353,10 @@ window.NoorLocalDB = {
         "date": "2025-01-01",
         "type": "article",
         "driveFileId": "1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y",
+    "driveId": "1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y=s1000",
+            "pdf": "https://drive.google.com/file/d/1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29232,9 +29382,10 @@ window.NoorLocalDB = {
         "date": "2020-01-01",
         "type": "article",
         "driveFileId": "1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf",
+    "driveId": "1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf=s1000",
+            "pdf": "https://drive.google.com/file/d/1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf/preview"
         },
         "eraId": "S10",
         "themes": [
@@ -29262,9 +29413,10 @@ window.NoorLocalDB = {
         "date": "2023-01-01",
         "type": "article",
         "driveFileId": "1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz",
+    "driveId": "1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz",
         "media": {
-            "thumbnail": "https://drive.google.com/thumbnail?id=1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz&sz=w400",
-            "pdf": "https://drive.google.com/file/d/1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz/view"
+            "thumbnail": "https://lh3.googleusercontent.com/d/1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz=s1000",
+            "pdf": "https://drive.google.com/file/d/1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz/preview"
         },
         "eraId": "S10",
         "themes": [

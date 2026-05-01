@@ -24899,5 +24899,4388 @@ window.NoorLocalDB = {
             "thumbnail": "https://drive.google.com/thumbnail?id=1z9VNWd7GJvWS53CS_R9lxqeK7epPMSal&sz=w1000"
       }
 }
+
+    // ─── ANÁLISIS BIBLIOGRÁFICO — SIGLO X (WoS) — FASE 1 ───
+    // 152 documentos | Carpeta: Siglo X Al Andalus Rescate Antigravity
+    // eraId: S10 | Generado: 2026-05-01 | v3.2-Sonnet-X-Phase1
+    {
+          "id": "bib-s10-wos-13d3460",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Akguel - 2020 - The Most Recent Findings Related to the Early Iron Age at the Eastern Black Sea Mountains",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Gf3HZZ3zHsiHWz4TPcoBy8dxd9Ouqyw6/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SCI"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Akguel - 2020 - The Most Recent Findings Related to the Early Iron Age at the Eastern Black Sea Mountains. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-b73ff4c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Almagro - 2008 - The Caliphal gate of Gormaz Castle",
+          "year": 2008,
+          "date": "2008-01-01",
+          "type": "article",
+          "driveFileId": "1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1IM9Wctwwp5ATHVFbnhDQDF91h29VrWgO/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Almagro - 2008 - The Caliphal gate of Gormaz Castle. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-1f0b86a",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Alvarado et al. - 2021 - The archaeological site Retes (C-378 Re), an exceptional find in the flank of the Irazu volcano duri",
+          "year": 2021,
+          "date": "2021-01-01",
+          "type": "article",
+          "driveFileId": "1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1YVLprIb269JsOKitSMf8wiLEB7D3YL0Y/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SCI"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Alvarado et al. - 2021 - The archaeological site Retes (C-378 Re), an exceptional find in the flank of the Irazu volcano duri. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-69e72fa",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Alvarez et al. - 2022 - On the edges of Ilbira Emirate and Caliphate pottery in the southern district of the madina",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Yvtnh9QJND1q6wKh2ZeGuSzdPL2wEpke/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Alvarez et al. - 2022 - On the edges of Ilbira Emirate and Caliphate pottery in the southern district of the madina. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-913f85f",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Anderson - 2014 - Sign of the Cross contexts for the Ivory Cross of San Millan de la Cogolla",
+          "year": 2014,
+          "date": "2014-01-01",
+          "type": "article",
+          "driveFileId": "1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1BFEe2sayONLmLR7B0udf8aYa_CWtBsGL/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Anderson - 2014 - Sign of the Cross contexts for the Ivory Cross of San Millan de la Cogolla. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f2f7ebf",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Antonia Martinez-Nunez - 2015 - Umayyad Funerary Inscription Appeared in Madrid (308921)",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Y7-ru-sxjybbgDGRisHw91QVzqe-HJP0/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Antonia Martinez-Nunez - 2015 - Umayyad Funerary Inscription Appeared in Madrid (308921). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c7b0186",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Arce-Sainz - 2015 - The Alleged Basilica of Saint Vincent of Cordoba From a Historical Myth to an Obstinacy of Historio",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1h3FCkHe8ZObBiRUtBbW9isbe2cXcz8D3/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Arce-Sainz - 2015 - The Alleged Basilica of Saint Vincent of Cordoba From a Historical Myth to an Obstinacy of Historio. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-43c7bc9",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Ariza Armada - 2019 - New Monetary Typology of `Abd al-Rahman III from Madinat al-Zahra' Mint with Hebrew Inscription",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1V-dtm7xnPs-B33lcJPFLAybuqEBaaQVK/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ECO"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Ariza Armada - 2019 - New Monetary Typology of `Abd al-Rahman III from Madinat al-Zahra' Mint with Hebrew Inscription. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-b3f0b63",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Arnold - 2018 - Mathematics and the Islamic Architecture of Cordoba",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1xYxQioVI4NwO_B3-RERHxtnXiHheZecP",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1xYxQioVI4NwO_B3-RERHxtnXiHheZecP&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1xYxQioVI4NwO_B3-RERHxtnXiHheZecP/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "SCI"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Arnold - 2018 - Mathematics and the Islamic Architecture of Cordoba. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-cd56b70",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Aydin - 2024 - Fiqh Works in Turkey on the Indian Subcontinent An Overview",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1QbC5LTYS21nxfODuDAEjhN44pnJUhZSf/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Aydin - 2024 - Fiqh Works in Turkey on the Indian Subcontinent An Overview. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-d1a8b8b",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Azuar - 2016 - On Mozarabic Archaeology. II. About churches and epigraphic documents",
+          "year": 2016,
+          "date": "2016-01-01",
+          "type": "article",
+          "driveFileId": "1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1UMMGNnjlo5-zls-gJwUVkOVBsGzu7AvI/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "SCI"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Azuar - 2016 - On Mozarabic Archaeology. II. About churches and epigraphic documents. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-0820ddd",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Azuar - 2023 - THE METALLIC EWERCANTARA WITH LID FROM THE CALIPHAL TREASURE “PARQUE CRUZ CONDE” (CORDOBA)",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC&sz=w400",
+                "pdf": "https://drive.google.com/file/d/13U85rGxGq29BLs_MXKhsNFrhdXu9h5SC/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "SCI"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Azuar - 2023 - THE METALLIC EWERCANTARA WITH LID FROM THE CALIPHAL TREASURE “PARQUE CRUZ CONDE” (CORDOBA). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-10b0af0",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Azzazy - 2018 - Exploratory palynological studies at the Tell el-Daba'a-Avaris archaeological site",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1_48ccdRVb9Q_kpjwhX5MR2Y8HKp8K5Sy/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SCI"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Azzazy - 2018 - Exploratory palynological studies at the Tell el-Daba'a-Avaris archaeological site. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-0bc58b9",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Barcelo - 2018 - Emiral Arab epigraphy (9th century). The gravestone of Tudela and the stele of an Umayyad woman",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1LNDnMT6nt7pt7jlRXgqf6noVIEN70a5I/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "SOC",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Barcelo - 2018 - Emiral Arab epigraphy (9th century). The gravestone of Tudela and the stele of an Umayyad woman. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-617feba",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Barcelo - 2020 - The Caliphal Painting of Bedar (Almeria, 355966)",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1lu-1JWKNrpqRaRSPfMbSqYiQbHHLYQso/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Barcelo - 2020 - The Caliphal Painting of Bedar (Almeria, 355966). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-73124df",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Bellon - 2025 - Two place names, the same city Segontia and Medinaceli in historical and documentary sources betwee",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1ppMeBYBAVrT_aShMtYAteDDru3r9pmRk/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Bellon - 2025 - Two place names, the same city Segontia and Medinaceli in historical and documentary sources betwee. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-d51d5d8",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Blanco Guzman - 2007 - MADINAT QURTUBA AFTER FITNA. AN APPROACH THROUGH THE HISTORIOGRAPHY",
+          "year": 2007,
+          "date": "2007-01-01",
+          "type": "article",
+          "driveFileId": "1DSfIl5pmGDUHimudOpadvR8MWz0uIgix",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1DSfIl5pmGDUHimudOpadvR8MWz0uIgix&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1DSfIl5pmGDUHimudOpadvR8MWz0uIgix/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Blanco Guzman - 2007 - MADINAT QURTUBA AFTER FITNA. AN APPROACH THROUGH THE HISTORIOGRAPHY. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-03509d6",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Blanco-Guzman - 2019 - The Umayyad shadow. Cordova and the Almohads of the second half of the VIXII century",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R&sz=w400",
+                "pdf": "https://drive.google.com/file/d/17VuHo-VdcKUNgbCGjTwjvExvyTtDGs1R/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Blanco-Guzman - 2019 - The Umayyad shadow. Cordova and the Almohads of the second half of the VIXII century. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-fdf937e",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Boone y Worman - 2007 - Rural settlement and soil erosion from the late roman period through the medieval Islamic period in",
+          "year": 2007,
+          "date": "2007-01-01",
+          "type": "article",
+          "driveFileId": "1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1tFHdafM-QOgm9e3EYBeJ69cd-7V7lJ84/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Boone y Worman - 2007 - Rural settlement and soil erosion from the late roman period through the medieval Islamic period in. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8d327fe",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Bosanquet - 2023 - How the Umayyads Lost the Islamic West Contrasting Depictions of the Uprising of 122740 by Arab Hi",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1YwTFTkE3fDIBSnaRrclFluw2aHtSvmzY/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Bosanquet - 2023 - How the Umayyads Lost the Islamic West Contrasting Depictions of the Uprising of 122740 by Arab Hi. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8c5a4b0",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Bourke et al. - 2009 - THE BEGINNING OF THE EARLY BRONZE AGE IN THE NORTH JORDAN VALLEY NEW 14C DETERMINATIONS FROM PELLA",
+          "year": 2009,
+          "date": "2009-01-01",
+          "type": "article",
+          "driveFileId": "1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1AB952uxTQmXzOS6Gy-vtOdBqSUtVZ3sR/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Bourke et al. - 2009 - THE BEGINNING OF THE EARLY BRONZE AGE IN THE NORTH JORDAN VALLEY NEW 14C DETERMINATIONS FROM PELLA. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-a976571",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Buresi - 2010 - FROM ONE PENINSULA TO THE OTHER CORDOVA, `UTHMAN (644-656) AND THE ARABS DURING THE ALMOHAD PERIOD",
+          "year": 2010,
+          "date": "2010-01-01",
+          "type": "article",
+          "driveFileId": "1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1njMg8RZekED5sPfjbkg5ts7Sy9nh02Lf/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Buresi - 2010 - FROM ONE PENINSULA TO THE OTHER CORDOVA, `UTHMAN (644-656) AND THE ARABS DURING THE ALMOHAD PERIOD. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-4d21b37",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Calvo Capilla - 2012 - Madinat al-Zahra ` and the observation of time the rebirth of Classical Antiquity in the Cordoba of",
+          "year": 2012,
+          "date": "2012-01-01",
+          "type": "article",
+          "driveFileId": "1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1NBbJa3OmwbxT_ixEWLH-qV1c07TeqMAo/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Calvo Capilla - 2012 - Madinat al-Zahra ` and the observation of time the rebirth of Classical Antiquity in the Cordoba of. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-6489ba8",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Calvo Capilla - 2018 - The Visual Construction of the Umayyad Caliphate in Al-Andalus through the Great Mosque of Cordoba",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1NFWJoku2mpMYkDHFxD4BA7QRLrFYNvuO/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Calvo Capilla - 2018 - The Visual Construction of the Umayyad Caliphate in Al-Andalus through the Great Mosque of Cordoba. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-afa59df",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Camacho Cruz y Valera Perez - 2022 - Ceramicas con decoracion figurada en los arrabales occidentales de Madinat Qurtuba (Cordoba)",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1OL8tPb4PaEBT9mm0ECWlLkCKArRryrrb/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ECO",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Camacho Cruz y Valera Perez - 2022 - Ceramicas con decoracion figurada en los arrabales occidentales de Madinat Qurtuba (Cordoba). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-28dbb41",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Camuera et al. - 2023 - Drought as a possible contributor to the Visigothic Kingdom crisis and Islamic expansion in the Iber",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1c6cE5LNcSsdRky3pS0Apb6FODoManIOm",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1c6cE5LNcSsdRky3pS0Apb6FODoManIOm&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1c6cE5LNcSsdRky3pS0Apb6FODoManIOm/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Camuera et al. - 2023 - Drought as a possible contributor to the Visigothic Kingdom crisis and Islamic expansion in the Iber. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-9994217",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Carballeira Debasa - 2017 - The Use of Charity as a Means of Political Legitimation in Umayyad al-Andalus",
+          "year": 2017,
+          "date": "2017-01-01",
+          "type": "article",
+          "driveFileId": "1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1gPyTmvrTEs4T0Q99aRfzLfdnBqhYpfG2/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Carballeira Debasa - 2017 - The Use of Charity as a Means of Political Legitimation in Umayyad al-Andalus. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-b8641c4",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Cardoso - 2023 - `Syria Rises to Receive the Caliph' Umayyad Caliphal Titles from Cordoba to Damascus",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1pXrCQH9eRozw4MVLp_gwWea-L7CIWlct/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Cardoso - 2023 - `Syria Rises to Receive the Caliph' Umayyad Caliphal Titles from Cordoba to Damascus. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-cb1342c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Cardoso - 2025 - Court, doors, crowns, turbans, and thrones insignia, models, and rituals from the Visigothic Kingdo",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1BpoPI3PfrjvyGhn_zho1IZiuoF7BlyWH/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Cardoso - 2025 - Court, doors, crowns, turbans, and thrones insignia, models, and rituals from the Visigothic Kingdo. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-de73f31",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Carraz - 2015 - “A Specific and Marginal Reality” Saracen Piracy on the Gulf of Lion from the 11th to the 13th Cent",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1MA37Bol75wIzSyxoVHY0rthSoYZLCdhV/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Carraz - 2015 - “A Specific and Marginal Reality” Saracen Piracy on the Gulf of Lion from the 11th to the 13th Cent. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-552890a",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Carretero y Enamorado - 2025 - Cloth appliqués in al-Andalus the piece from Arraijanal medieval site in Mijas (Malaga)",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1WGxwO592Hw383DF-ruJBD_9zF7AXafFG",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1WGxwO592Hw383DF-ruJBD_9zF7AXafFG&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1WGxwO592Hw383DF-ruJBD_9zF7AXafFG/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Carretero y Enamorado - 2025 - Cloth appliqués in al-Andalus the piece from Arraijanal medieval site in Mijas (Malaga). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8fb32c8",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Carrillo-Calderero - 2025 - The Adoption of Eastern Models in Jewelry from Al-Andalus During the Tenth and Eleventh Centuries P",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv&sz=w400",
+                "pdf": "https://drive.google.com/file/d/14uIBk2mITHzLwq5c6TwuUgXOdcfhLZsv/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Carrillo-Calderero - 2025 - The Adoption of Eastern Models in Jewelry from Al-Andalus During the Tenth and Eleventh Centuries P. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ef4fa9e",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Carvajal Lopez - 2019 - After the conquest ceramics and migrations",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1-jpE5XmDNDoNW8CZMgQouV2BAg56dlcG/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "MIL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Carvajal Lopez - 2019 - After the conquest ceramics and migrations. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-6d042e7",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Celestino Perez y Rodriguez Gonzalez - 2018 - Cerro Borreguero. An archaeological site for the transition from the Final Bronze Age to the Tartess",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1tE7Twt3l7ngKmu9vgB57wn2ov0QbBwSx/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "SCI",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Celestino Perez y Rodriguez Gonzalez - 2018 - Cerro Borreguero. An archaeological site for the transition from the Final Bronze Age to the Tartess. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c573350",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Chalmeta - 2018 - The seals of the umayyad conquest and the formation of al-Andalus (711-756)",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1s4Gy4djEDhlNCqPY6pZ9TFsJKO16ChDF/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Chalmeta - 2018 - The seals of the umayyad conquest and the formation of al-Andalus (711-756). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-3c7f591",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Charloux et al. - 2024 - A Bronze Age town in the Khaybar walled oasis Debating early urbanization in Northwestern Arabia",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1BHltqSxFpnlVtfXaBPDl0_uOiB7Y_ak2/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Charloux et al. - 2024 - A Bronze Age town in the Khaybar walled oasis Debating early urbanization in Northwestern Arabia. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c5bbd3c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Chevance et al. - 2019 - Mahendraparvata an early Angkor-period capital defined through airborne laser scanning at Phnom Kul",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1g8pxDHkkk_NKj3yKV0B9L59ZxvJAvHB3/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Chevance et al. - 2019 - Mahendraparvata an early Angkor-period capital defined through airborne laser scanning at Phnom Kul. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ffce585",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Christys - 2018 - Educating the Christian Elite in Umayyad Cordoba",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1CLdRnsp6sze9tFrhYKCZyb3wVtLah781",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1CLdRnsp6sze9tFrhYKCZyb3wVtLah781&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1CLdRnsp6sze9tFrhYKCZyb3wVtLah781/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Christys - 2018 - Educating the Christian Elite in Umayyad Cordoba. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-a24007d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Christys y Fierro - 2024 - Rulers Making Boundaries Clear in the Medieval Islamic West The Cordoban Umayyads and the Almohads",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1LMtEBAAP7xWULjmJ9S6Anta8UrwZ-knn/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Christys y Fierro - 2024 - Rulers Making Boundaries Clear in the Medieval Islamic West The Cordoban Umayyads and the Almohads. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c9c834c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Clapes Salmoral - 2019 - Formation and evolution of the suburban landscape in islamic times an example from the western subu",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1WwwfmwHYwHn0FYzJAVaeTFgRi6YCCzCC/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Clapes Salmoral - 2019 - Formation and evolution of the suburban landscape in islamic times an example from the western subu. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c3eb683",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Clapes Salmoral - 2020 - The architecture of power The umayyad buildings from “Tablero Alto” and their integration into the",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1WkqfpoYvJfzePR3GTqIWpFUCUhoWu8JD/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Clapes Salmoral - 2020 - The architecture of power The umayyad buildings from “Tablero Alto” and their integration into the. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-4f14695",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Clark et al. - 2022 - Urbanscape, Land Use Change and Centralization in the Region of Uruk, Southern Mesopotamia from the",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1s5yQdZpO95qc5zp7cWtfvFEXMCOWZYOb/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Clark et al. - 2022 - Urbanscape, Land Use Change and Centralization in the Region of Uruk, Southern Mesopotamia from the. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-2927dbd",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Coll Conesa - 2014 - Technique, Courtliness and Social Distinction in the Medieval Ceramics",
+          "year": 2014,
+          "date": "2014-01-01",
+          "type": "article",
+          "driveFileId": "1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1rbQ4EAUFlFGLGGRMTCfkb8sD_VhCO_7N/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Coll Conesa - 2014 - Technique, Courtliness and Social Distinction in the Medieval Ceramics. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-211efc4",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Crego Gomez - 2021 - Ronda in Al-Muqtabis 2b and 2c",
+          "year": 2021,
+          "date": "2021-01-01",
+          "type": "article",
+          "driveFileId": "165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q&sz=w400",
+                "pdf": "https://drive.google.com/file/d/165W2tCO-Mu80y1cylWZV7mg-fjK8dE6Q/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Crego Gomez - 2021 - Ronda in Al-Muqtabis 2b and 2c. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-791eac7",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Cressier y Gonzalez-Villaescusa - 2025 - A Look Back at the Irrigated Areas of the Medieval Town of Tāmdult (Morocco)",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1nommiaeJZwktTLbmzaBaIcdyokrsmrEK",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1nommiaeJZwktTLbmzaBaIcdyokrsmrEK&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1nommiaeJZwktTLbmzaBaIcdyokrsmrEK/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Cressier y Gonzalez-Villaescusa - 2025 - A Look Back at the Irrigated Areas of the Medieval Town of Tāmdult (Morocco). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-75dafb8",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Cuenca-Abellan - 2024 - The Tripartite Qibla Wall as a Visual Form of Embodied Belief From Al-Andalus to Mudejar and Morisc",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1J_2DJa6rJswcA01N3Fc9aezRoxOmdQ2h/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Cuenca-Abellan - 2024 - The Tripartite Qibla Wall as a Visual Form of Embodied Belief From Al-Andalus to Mudejar and Morisc. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c792413",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Davis - 2013 - “Minding the Gap” A Problem in Eastern Mediterranean Chronology, Then and Now",
+          "year": 2013,
+          "date": "2013-01-01",
+          "type": "article",
+          "driveFileId": "1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1WO-MDpm8fT8gzKEZ8Of9AABSHMmuOl6I/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Davis - 2013 - “Minding the Gap” A Problem in Eastern Mediterranean Chronology, Then and Now. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-1ed626f",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Daza Pardo - 2018 - Brick construction in the periphery of al-Andalus to AD 1000. Caliphal border activity and the “ston",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1zKi0vDic5oYLre9mW-2nslofn_gSh3LT",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1zKi0vDic5oYLre9mW-2nslofn_gSh3LT&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1zKi0vDic5oYLre9mW-2nslofn_gSh3LT/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Daza Pardo - 2018 - Brick construction in the periphery of al-Andalus to AD 1000. Caliphal border activity and the “ston. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-6eef4c3",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "De Juan Ares et al. - 2021 - Composition and origins of decorated glass from Umayyad Cordoba (Spain)",
+          "year": 2021,
+          "date": "2021-01-01",
+          "type": "article",
+          "driveFileId": "1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1ceBfw1GP6ny1OoDfQ3_Tq9nk5WdG0cpt/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "De Juan Ares et al. - 2021 - Composition and origins of decorated glass from Umayyad Cordoba (Spain). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f2daf51",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Del Cueto et al. - 2023 - First Approach to the Pollen Preserved in a Megalithic Monument of the Western Cantabrian Mountains",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1PRj5icL59A2UsELBOnPnWgctf2Q2Bt7z/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Del Cueto et al. - 2023 - First Approach to the Pollen Preserved in a Megalithic Monument of the Western Cantabrian Mountains. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-57b1716",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Duque - 2022 - THE PASSIO OF MONK GEORGE AND THE LITURGY OF MARTYRDOMIN TENTH-CENTURY CRDOBA",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1zL6kjIHDjX93W6qRP7pKFv5Bg62ZFDZH/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Duque - 2022 - THE PASSIO OF MONK GEORGE AND THE LITURGY OF MARTYRDOMIN TENTH-CENTURY CRDOBA. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c34e181",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Elhadri - 2006 - The coinages of the first Hudide Sulayman al-Musta'in",
+          "year": 2006,
+          "date": "2006-01-01",
+          "type": "article",
+          "driveFileId": "1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1tTc4wpXRAGwlvN8Wd34fCv721hY7QCt-/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Elhadri - 2006 - The coinages of the first Hudide Sulayman al-Musta'in. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-51cba68",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Elices-Ocon - 2024 - Antique Sculpture at Madinat al-Zahra' Transcultural Collecting and the Assertion of Caliphal Power",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1j_RKc7hGevBEKTfC3XQ3DAA8tgXKFXo1/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Elices-Ocon - 2024 - Antique Sculpture at Madinat al-Zahra' Transcultural Collecting and the Assertion of Caliphal Power. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ee6bfef",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Emanov - 2023 - The Chronotope of the Rurikid Polity (911-987)",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1pfDHXUccAGhRe7Q8DPDbtJXbkRQz1u-z/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Emanov - 2023 - The Chronotope of the Rurikid Polity (911-987). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-0119227",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Eroglu Bilgin - 2022 - A GIFT FROM FATHER TO SON GIRONA CASKET",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1sSoZkNcyOx8gOisG0jbZWeWoFOmTMcdY/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Eroglu Bilgin - 2022 - A GIFT FROM FATHER TO SON GIRONA CASKET. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f56fe87",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Fernandez-Puertas - 2009 - III. The Mosque of Cordoba. The design of the inner facade of the Bab al-Wuzara'. The Doorway of the",
+          "year": 2009,
+          "date": "2009-01-01",
+          "type": "article",
+          "driveFileId": "14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a&sz=w400",
+                "pdf": "https://drive.google.com/file/d/14IfB2X1ecpTg7JD37Wfm__d2Iz0fYO4a/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Fernandez-Puertas - 2009 - III. The Mosque of Cordoba. The design of the inner facade of the Bab al-Wuzara'. The Doorway of the. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-e61a846",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Fierro - 2004 - The religious politics of Abd!Al-Rahman III",
+          "year": 2004,
+          "date": "2004-01-01",
+          "type": "article",
+          "driveFileId": "1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Jdfk7_SoclNf4gTcyvrIyMrtveMolyjg/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Fierro - 2004 - The religious politics of Abd!Al-Rahman III. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-d25a242",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Freudenhammer - 2022 - Exarachellos Dirhams in Tenth-Century Barcelona",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1yi9b0GuIpI7EfyDG2gV67POY3RlJ1jYB/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Freudenhammer - 2022 - Exarachellos Dirhams in Tenth-Century Barcelona. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-80ba05f",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Freudenhammer - 2025 - Evidence of Early Medieval Grain Exports from Barcelona to Al-Andalus",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1ubHMoItyghc4rIDmVePaki1uW7qOnqWZ/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Freudenhammer - 2025 - Evidence of Early Medieval Grain Exports from Barcelona to Al-Andalus. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f4049d4",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Frey Sanchez - 2016 - Was the Western Islamic Political Crisis of the 13th Century Due to climatic Change a Historical Ap",
+          "year": 2016,
+          "date": "2016-01-01",
+          "type": "article",
+          "driveFileId": "1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1QebwPXPYF6mlz7B3_AHIU1ztEclAY2vR/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Frey Sanchez - 2016 - Was the Western Islamic Political Crisis of the 13th Century Due to climatic Change a Historical Ap. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-3388fa1",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Fuentes - 2019 - The Islamic Crossed-Arch Vaults in the Mosque of Cordoba",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1dhmL88PLgRk4jntEffBuYugkFiMNE2Gq/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Fuentes - 2019 - The Islamic Crossed-Arch Vaults in the Mosque of Cordoba. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-5a72309",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gallon - 2024 - From Saqaliba to Ciclaues. An Arabism and Some Eunuchs in the Christian Principalities of the Iberia",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1kt3kXuQVp8XXUX-zwhppUM8jJ6t91okR/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gallon - 2024 - From Saqaliba to Ciclaues. An Arabism and Some Eunuchs in the Christian Principalities of the Iberia. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8eabc5f",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Garcia - 2020 - The Qhapaq Nan in the Calingasta valley (San Juan)",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1UEsiFhrgdsU-V2CLaW-p68JDvvFjXrgp/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Garcia - 2020 - The Qhapaq Nan in the Calingasta valley (San Juan). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-9fe3e75",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Garcia - 2023 - Pork consumption, gastro-politics and social Islamisation in early al-Andalus (eighth to tenth centu",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1vwjLZAOGCD53vl_IUkEt_NalFI7PbBpc/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "SOC",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Garcia - 2023 - Pork consumption, gastro-politics and social Islamisation in early al-Andalus (eighth to tenth centu. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-08d7ff9",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Garcia - 2023 - Social islamisation and livestock improvement in Qurtuba in Early al-Andalus (8th-10th centuries)",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "10lbrY00RLPiLKl83OoyUE1_AZatXDOli",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=10lbrY00RLPiLKl83OoyUE1_AZatXDOli&sz=w400",
+                "pdf": "https://drive.google.com/file/d/10lbrY00RLPiLKl83OoyUE1_AZatXDOli/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Garcia - 2023 - Social islamisation and livestock improvement in Qurtuba in Early al-Andalus (8th-10th centuries). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-1ecdc9d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Garcia Blanquez - 2015 - The (islamic) water-lifting wheels of the andalusi hydraulic system in Murcia (Senda de Granada). Te",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1JY0atiR1-MQUL0M6dibZe7ITnM5tTUt2/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Garcia Blanquez - 2015 - The (islamic) water-lifting wheels of the andalusi hydraulic system in Murcia (Senda de Granada). Te. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-5794643",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Garcia Ortega - 2021 - FORMAL INVESTIGATIONS INTO THE CALIPHAL ARCHITECTURE OF CORDOBA BASED ON AN ENIGMATIC DRAWING FROM 1",
+          "year": 2021,
+          "date": "2021-01-01",
+          "type": "article",
+          "driveFileId": "10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b&sz=w400",
+                "pdf": "https://drive.google.com/file/d/10oGP2NnSYt3AXM1WO3s_h7xnn1Pg5F5b/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Garcia Ortega - 2021 - FORMAL INVESTIGATIONS INTO THE CALIPHAL ARCHITECTURE OF CORDOBA BASED ON AN ENIGMATIC DRAWING FROM 1. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-2d98206",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gil Crespo et al. - 2018 - Fortified Construction Techniques in al-Tagr al-Awsa, 8th-13th Centuries",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1qXEIiuxN92RcbhCpmLzHVBNg8gB5H-6g/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gil Crespo et al. - 2018 - Fortified Construction Techniques in al-Tagr al-Awsa, 8th-13th Centuries. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ee9fcaa",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gomez Munoz - 2007 - THE PROPHET KING SOLOMON AND THE IMAGE OF ISLAMIC SOVEREIGN FROM AN UNPUBLISHED PIECE FROM CORDOBA",
+          "year": 2007,
+          "date": "2007-01-01",
+          "type": "article",
+          "driveFileId": "1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1coeAVPBkViZ7Fz0VCxqzQqWbo8JINZKe/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gomez Munoz - 2007 - THE PROPHET KING SOLOMON AND THE IMAGE OF ISLAMIC SOVEREIGN FROM AN UNPUBLISHED PIECE FROM CORDOBA. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-0e29d4d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gomis y Gomez - 2024 - The bell of Abbot Samson of Cordoba (10th century) a unique vestige of the soundscape of early medi 1",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1_xsVYngZ6_up7laFq_1ngH7a6c4nip1b/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gomis y Gomez - 2024 - The bell of Abbot Samson of Cordoba (10th century) a unique vestige of the soundscape of early medi 1. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-5ae58ed",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gonzalez Arce - 2014 - THE COMPOSITION OF THE MANORIAL ALMOJARIFAZGOS OF THE KINGDOM OF SEVILE, 13TH- 15TH CENTURIES",
+          "year": 2014,
+          "date": "2014-01-01",
+          "type": "article",
+          "driveFileId": "10sU6KuRa-4s1fSZnD5FYX60--WexECGc",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=10sU6KuRa-4s1fSZnD5FYX60--WexECGc&sz=w400",
+                "pdf": "https://drive.google.com/file/d/10sU6KuRa-4s1fSZnD5FYX60--WexECGc/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gonzalez Arce - 2014 - THE COMPOSITION OF THE MANORIAL ALMOJARIFAZGOS OF THE KINGDOM OF SEVILE, 13TH- 15TH CENTURIES. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-a0de4a7",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gonzalez Arce - 2014 - The Evolution of the Almojarifazgo Tariff in Cordoba between the 13th and the 15th Centuries",
+          "year": 2014,
+          "date": "2014-01-01",
+          "type": "article",
+          "driveFileId": "1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1uhlW5_R2CbZZZnQNnbJI6f5a4wUmpJeQ/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gonzalez Arce - 2014 - The Evolution of the Almojarifazgo Tariff in Cordoba between the 13th and the 15th Centuries. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-4b9c214",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gonzalez Cavero - 2018 - The Almohad Caliphate A Look at Al-Andalus through Arabic Documentation and Their Artistic Manifest",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1eYh8rg3k9l8Lqqp86EQO5u4mzFRtjPSU/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gonzalez Cavero - 2018 - The Almohad Caliphate A Look at Al-Andalus through Arabic Documentation and Their Artistic Manifest. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-096297c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gonzalez Gutierrez - 2018 - The Role and Meaning of Religious Architecture in the Umayyad State Secondary Mosques",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1P61Le8FdCroi1KdBjpB8216dF0VN__2U",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1P61Le8FdCroi1KdBjpB8216dF0VN__2U&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1P61Le8FdCroi1KdBjpB8216dF0VN__2U/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gonzalez Gutierrez - 2018 - The Role and Meaning of Religious Architecture in the Umayyad State Secondary Mosques. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-99047f4",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gonzalez-Gutierrez - 2023 - Religious Buildings in Early al-Andalus Origins, Consolidation and Prevalence in Urban Contexts",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1U4MrG90tS1aHViCCS329LKM5l6LVCkGB",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1U4MrG90tS1aHViCCS329LKM5l6LVCkGB&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1U4MrG90tS1aHViCCS329LKM5l6LVCkGB/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gonzalez-Gutierrez - 2023 - Religious Buildings in Early al-Andalus Origins, Consolidation and Prevalence in Urban Contexts. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-6bb1cb9",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Govantes-Edwards et al. - 2024 - The glass from the arrabal of Arrixaca (Murcia, 12th-13th centuries)",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1vOQdmM3d5QURAw0Wd-LSQJxCGwqzG44B/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Govantes-Edwards et al. - 2024 - The glass from the arrabal of Arrixaca (Murcia, 12th-13th centuries). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-be91103",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gozalbes Cravioto - 1991 - Algunos datos sobre el comercio entre al-Andalus y el norte de África en la época omeya (I) los pue",
+          "year": 1991,
+          "date": "1991-01-01",
+          "type": "article",
+          "driveFileId": "10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc&sz=w400",
+                "pdf": "https://drive.google.com/file/d/10VZekJPdhQj13i6_QRfdJ04Ss4qBFeTc/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ECO"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gozalbes Cravioto - 1991 - Algunos datos sobre el comercio entre al-Andalus y el norte de África en la época omeya (I) los pue. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-4d58fbb",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Gurriaran Daza - 2020 - Building techniques in the medieval walls of Almeria",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "16cniHjKCeAMEFESh1UYBhxKpgqt_57yx",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=16cniHjKCeAMEFESh1UYBhxKpgqt_57yx&sz=w400",
+                "pdf": "https://drive.google.com/file/d/16cniHjKCeAMEFESh1UYBhxKpgqt_57yx/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Gurriaran Daza - 2020 - Building techniques in the medieval walls of Almeria. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-2bd3224",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Ihnat - 2024 - Beyond Hagiography Gender and Violence in the Earliest Liturgy for Pelagius",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1ggPaoBLr98Fp8HnuQC27YRMtPuVIZGJC/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Ihnat - 2024 - Beyond Hagiography Gender and Violence in the Earliest Liturgy for Pelagius. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-4dd3dc2",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Jaouhari - 2018 - A Fragment of a Forgotten Dictionnary Essai on Dating Parisinus arabicus 4235 of BnF",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Be0zBzgkRaK6y1X98yAtlx-JZzo7tsQh/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Jaouhari - 2018 - A Fragment of a Forgotten Dictionnary Essai on Dating Parisinus arabicus 4235 of BnF. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ee07060",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Jimenez Puertas et al. - 2023 - A rural settlement from the umayyad period in the Vega of Granada Manzanil (Loja). Limits and possi",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1YTQsOoVIBPQewMzi-FpDddVcrqAcD3mo/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "SOC"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Jimenez Puertas et al. - 2023 - A rural settlement from the umayyad period in the Vega of Granada Manzanil (Loja). Limits and possi. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-75b403b",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Jimenez-Brobeil et al. - 2022 - Introduction of sugarcane in Al-Andalus (Medieval Spain) and its impact on children's dental health 1",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1sSTE3EnyBSH42x46XZufWxaptVA76Wqx",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1sSTE3EnyBSH42x46XZufWxaptVA76Wqx&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1sSTE3EnyBSH42x46XZufWxaptVA76Wqx/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Jimenez-Brobeil et al. - 2022 - Introduction of sugarcane in Al-Andalus (Medieval Spain) and its impact on children's dental health 1. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f0aeda1",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Kampf et al. - 2010 - Gayite, a new dufrenite-group mineral from the Gigante granitic pegmatite, Cordoba province, Argenti",
+          "year": 2010,
+          "date": "2010-01-01",
+          "type": "article",
+          "driveFileId": "1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1uCtNpS4GwRfU0o5MGSHj2_nb4JmEZi35/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Kampf et al. - 2010 - Gayite, a new dufrenite-group mineral from the Gigante granitic pegmatite, Cordoba province, Argenti. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-883ad3c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Khanipour y Nishiaki - 2024 - Dating the beginning of the Pottery Neolithic in South Iran Radiocarbon dates from Tol-e Sangi, the",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn&sz=w400",
+                "pdf": "https://drive.google.com/file/d/14kQyiE1ehBMaLTTHB1jpbc15hcS88qTn/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Khanipour y Nishiaki - 2024 - Dating the beginning of the Pottery Neolithic in South Iran Radiocarbon dates from Tol-e Sangi, the. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-0c755e0",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Khansa - 2025 - A Review of the Escorial Codex Árabe 1876 A Collection of Fourteen Short Stories from North Africa",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1DcLlykrHV281jjvlrUzh9aBaROIaZktS",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1DcLlykrHV281jjvlrUzh9aBaROIaZktS&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1DcLlykrHV281jjvlrUzh9aBaROIaZktS/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Khansa - 2025 - A Review of the Escorial Codex Árabe 1876 A Collection of Fourteen Short Stories from North Africa. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f2fc1bf",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Khoury - 2019 - Education during the Arab Renaissance and Its Path to the West",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1RyiyvFmPFJ4HeyLOGxD-qpCcMtVfv-RB/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Khoury - 2019 - Education during the Arab Renaissance and Its Path to the West. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-36a4881",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Kuzudisli - 2025 - Identification of Rihle in Classical Rijal Works Sources, Methods, and Proposals",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1b5WEf0DppgKmoHc8YysJC4zU71ypyQdw/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Kuzudisli - 2025 - Identification of Rihle in Classical Rijal Works Sources, Methods, and Proposals. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-d6ea68f",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Labarta - 2015 - THE CASKET OF HISAM ITS EPIGRAPHY",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1uwhmNnG8aQ1ZeUc3_1dro5B0RwyZ969F/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Labarta - 2015 - THE CASKET OF HISAM ITS EPIGRAPHY. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-d62cada",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Leon-Munoz - 2018 - Mixed constructive techniques in stone in umayyad Cordova",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1b-jU_Wm2OHmQBsIsExypYEkob9Yb7F9n/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Leon-Munoz - 2018 - Mixed constructive techniques in stone in umayyad Cordova. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f713a2a",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Lopez Martinez de Marigorta - 2015 - Coin Minting of al-Andalus in the First Half of the FifthEleventh Century The End of a Model, the",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1PeE69IcBaftrVWXdWlOIM4RbcQe02MzS/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Lopez Martinez de Marigorta - 2015 - Coin Minting of al-Andalus in the First Half of the FifthEleventh Century The End of a Model, the. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-0f438bf",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Lopez-Brenes y Marin-Guzman - 2020 - Bobastro a hisn of permanent settlement and a fortress for resistance for the rebel `Umar ibn Hafsu",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1CZS9OIRfXCZCYdscJCbLvlJTEFbSflQG/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Lopez-Brenes y Marin-Guzman - 2020 - Bobastro a hisn of permanent settlement and a fortress for resistance for the rebel `Umar ibn Hafsu. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-cfabb9a",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Lopez-Marigorta - 2023 - How al-Andalus wrapped itself in a silk cocoon the iraz between Umayyad economic policy and Medite",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1kAwTnYGK4Eq10gk01i2hbEsIqnKUErqH/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ECO"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Lopez-Marigorta - 2023 - How al-Andalus wrapped itself in a silk cocoon the iraz between Umayyad economic policy and Medite. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-6f21634",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Lorenzo-Jimenez - 2022 - The book of stratagems",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1oPi08l_EkNeM-00jvqeE2vKXgfSamvDU/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Lorenzo-Jimenez - 2022 - The book of stratagems. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-fa5422d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Mandala - 2012 - A NEW SOURCE FOR THE HISTORY OF ISLAMIC SICILY A PASAGE OF IBN HAYYAN'S AL-MUQTABIS V ON THE REVOLT",
+          "year": 2012,
+          "date": "2012-01-01",
+          "type": "article",
+          "driveFileId": "14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB&sz=w400",
+                "pdf": "https://drive.google.com/file/d/14eRR-r7Jmdnmso8-_eziR2irMvVSJRWB/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Mandala - 2012 - A NEW SOURCE FOR THE HISTORY OF ISLAMIC SICILY A PASAGE OF IBN HAYYAN'S AL-MUQTABIS V ON THE REVOLT. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-edca8dc",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Marin - 2011 - A GALLERY OF ROYAL PORTRAITS ANDALUSI UMAYYAD SOVEREIGNS (2TH-4TH8TH-10TH CENTURIES) IN ARAB CHRON",
+          "year": 2011,
+          "date": "2011-01-01",
+          "type": "article",
+          "driveFileId": "1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1lmxYFNg9LBsR8e2jeIHuGFDf4Gxe1o30/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Marin - 2011 - A GALLERY OF ROYAL PORTRAITS ANDALUSI UMAYYAD SOVEREIGNS (2TH-4TH8TH-10TH CENTURIES) IN ARAB CHRON. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-f910837",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Martinez Delgado - 2016 - Samplers of Andalusi Strofic and Metrics as Reflected by Hebrew Poetry",
+          "year": 2016,
+          "date": "2016-01-01",
+          "type": "article",
+          "driveFileId": "1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1QWobSM5VkrIsgc6MmTBxqrhtn6T8nl_g/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Martinez Delgado - 2016 - Samplers of Andalusi Strofic and Metrics as Reflected by Hebrew Poetry. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c1f51e9",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Martinez Delgado - 2019 - Study and Teaching of Biblical Hebrew in the Caliphate of Cordoba (929-1031)",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Ijg8Bh-yupV153NinaeXrj1u0SRdOBXG/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Martinez Delgado - 2019 - Study and Teaching of Biblical Hebrew in the Caliphate of Cordoba (929-1031). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-9b0cb77",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Mederos Martin - 2018 - EMILIO CAMPS CAZORLA, ASSISTANT PROFESSOR OF GOMEZ-MORENO AND ELECTED DIRECTOR OF THE NATIONAL ARCHA",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1y6WTmfEWh5RjJT6TAAT6GY6TdWK0v6FA/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Mederos Martin - 2018 - EMILIO CAMPS CAZORLA, ASSISTANT PROFESSOR OF GOMEZ-MORENO AND ELECTED DIRECTOR OF THE NATIONAL ARCHA. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-3c19187",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Mestre-Ruiz et al. - 2025 - Geological Source of the Construction Materials of the Gelida Castle (Catalonia, Spain). Historical",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1TcnsKyZoy3q3NglspEqjcirHm184AObm",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1TcnsKyZoy3q3NglspEqjcirHm184AObm&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1TcnsKyZoy3q3NglspEqjcirHm184AObm/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Mestre-Ruiz et al. - 2025 - Geological Source of the Construction Materials of the Gelida Castle (Catalonia, Spain). Historical. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-3d013ff",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Miguel Naranjo - 2020 - Calatrava la Vieja (Carrion de Calatrava, Ciudad Real) in the Late Bronze Age (c. 1200-750 BC)",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1vc4ugz9g62iysCZRoflHy2LwHfi5Z-gO/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Miguel Naranjo - 2020 - Calatrava la Vieja (Carrion de Calatrava, Ciudad Real) in the Late Bronze Age (c. 1200-750 BC). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-7c7b058",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Molera et al. - 2018 - Glazes, colourants and decorations in early Islamic glazed ceramics from the Vega of Granada (9th to",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm&sz=w400",
+                "pdf": "https://drive.google.com/file/d/16iKK-6X4i9UPDzXWDINOZt8zZE24o_wm/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Molera et al. - 2018 - Glazes, colourants and decorations in early Islamic glazed ceramics from the Vega of Granada (9th to. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-94e17cd",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Molina - 2005 - The “history of the Omeyans in Andalucia” in the Masalik Al-Absar",
+          "year": 2005,
+          "date": "2005-01-01",
+          "type": "article",
+          "driveFileId": "16lioV-oI-h_MRT89PFeti4VCXHe75fsz",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=16lioV-oI-h_MRT89PFeti4VCXHe75fsz&sz=w400",
+                "pdf": "https://drive.google.com/file/d/16lioV-oI-h_MRT89PFeti4VCXHe75fsz/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Molina - 2005 - The “history of the Omeyans in Andalucia” in the Masalik Al-Absar. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-bb76586",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Moreno - 2023 - The Tombs of the Umayyad Rulers at the Rawda of the Alcazar of Cordoba and Their Symbolic Meaning",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1M_sgDyrmsWW69xVmyO7P3cZOfeuF-AOp/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Moreno - 2023 - The Tombs of the Umayyad Rulers at the Rawda of the Alcazar of Cordoba and Their Symbolic Meaning. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-893cc06",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Moreno - 2025 - The Early Islamization of the Urban Topography of Cordoba",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "10qy97BwhKRjXQbFVCoUTvs7G7h76bM77",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=10qy97BwhKRjXQbFVCoUTvs7G7h76bM77&sz=w400",
+                "pdf": "https://drive.google.com/file/d/10qy97BwhKRjXQbFVCoUTvs7G7h76bM77/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Moreno - 2025 - The Early Islamization of the Urban Topography of Cordoba. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-54d6cc2",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Morillo Cerdan et al. - 2019 - Glazed Roman Pottery from Early Empire Contexts of the Legionary Fortress at Leon (Spain)",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1SdlbVefCfeMXOMkrEDWpU5NizYIVSi1i/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Morillo Cerdan et al. - 2019 - Glazed Roman Pottery from Early Empire Contexts of the Legionary Fortress at Leon (Spain). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-05d29f7",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Negre Perez y Marti Castello - 2015 - URBANISM IN THE EASTERN MARCH OF AL-ANDALUS DURING THE CALIPHATE (940-974) THE EXAMPLE OF MADINA TU",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1bwkc4xRxaL1LHod_a0s52Mr5hLngLA4e/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "SOC",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Negre Perez y Marti Castello - 2015 - URBANISM IN THE EASTERN MARCH OF AL-ANDALUS DURING THE CALIPHATE (940-974) THE EXAMPLE OF MADINA TU. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c79f21d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Negre y Sune - 2019 - TERRITORY, TAX POLICIES AND MILITARY ACTIVITY DURING THE FORMATION OF A FRONTIER SPACE. THE CONSOLID",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1_k87yez8xtaNbNTapJvwKjOgJgVCiJAD/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Negre y Sune - 2019 - TERRITORY, TAX POLICIES AND MILITARY ACTIVITY DURING THE FORMATION OF A FRONTIER SPACE. THE CONSOLID. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ae95500",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Ocon - 2020 - VIRIATHUS AND NUMANTIA RISE UP IN ARMS IN AL-ANDALUS THE DISCOURSE ON HISPANICS DURING THE TENTH CE",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1RLAmDNmU0xoc0MRhcJ4q0SXAnMRQfaBZ/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Ocon - 2020 - VIRIATHUS AND NUMANTIA RISE UP IN ARMS IN AL-ANDALUS THE DISCOURSE ON HISPANICS DURING THE TENTH CE. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8c6a056",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Ocon - 2023 - Between East and West The Spoils of the Conquest as “Triggers of Memory” in Umayyad al",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Z6y6NYQYAQc1FC4Fhx4rpTW3rML_f0l8/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Ocon - 2023 - Between East and West The Spoils of the Conquest as “Triggers of Memory” in Umayyad al. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-a72e58d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Ocon - 2025 - Agents of spoliation spolia value and meaning manufacture in al-Andalus and Ifrīqīya",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1&sz=w400",
+                "pdf": "https://drive.google.com/file/d/19HXU5798Os1pxWb0MBJUSwtWfepwDAJ1/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Ocon - 2025 - Agents of spoliation spolia value and meaning manufacture in al-Andalus and Ifrīqīya. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ffd045b",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Olavide - 2020 - Algunos moros muy sabidores Virtuous Muslim Kings in Examples 30 and 41 of El conde Lucanor",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1SCpMHMKQMxfk8ZjzQOR6Cd-7iRhFVEKX/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Olavide - 2020 - Algunos moros muy sabidores Virtuous Muslim Kings in Examples 30 and 41 of El conde Lucanor. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-aa48d1e",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Oliver Pérez - 2001 - On the meaning of mawla in the Umayyad history of al-Andalus",
+          "year": 2001,
+          "date": "2001-01-01",
+          "type": "article",
+          "driveFileId": "15WxOVbVEFreFXLGNyFyEwExJpCABWGM8",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=15WxOVbVEFreFXLGNyFyEwExJpCABWGM8&sz=w400",
+                "pdf": "https://drive.google.com/file/d/15WxOVbVEFreFXLGNyFyEwExJpCABWGM8/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Oliver Pérez - 2001 - On the meaning of mawla in the Umayyad history of al-Andalus. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-390e9dd",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Palomar et al. - 2023 - Historical restorations of the Maqsurah glass mosaics from the Great Mosque of Córdoba",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1AOpZvq8bq03roB_2FWilP8bS6I99pJTS",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1AOpZvq8bq03roB_2FWilP8bS6I99pJTS&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1AOpZvq8bq03roB_2FWilP8bS6I99pJTS/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Palomar et al. - 2023 - Historical restorations of the Maqsurah glass mosaics from the Great Mosque of Córdoba. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-33a308d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Palomo y Escudero - 2022 - Coins in archeological context in Marida (8th-9th centuries). Study and interpretation",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1W9LcGs8qCnwAJXIoRS4Kshfu_evrmgBz/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "ECO"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Palomo y Escudero - 2022 - Coins in archeological context in Marida (8th-9th centuries). Study and interpretation. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-929bda7",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Patarnello - 2020 - The Islamic West in the Work of al-Mukaddasi 1",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1zx6wCGtGI9a4uGdZ9QsHidhXOE03OPjQ/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Patarnello - 2020 - The Islamic West in the Work of al-Mukaddasi 1. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-01beb37",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Perez de Guzman et al. - 2017 - On Archeology and Architecture in Medina Azahara. Interview with Rafael Manzano Martos",
+          "year": 2017,
+          "date": "2017-01-01",
+          "type": "article",
+          "driveFileId": "1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1RF_2fGzRfF8WRt-QpM77V5n6ExE3C3T6/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Perez de Guzman et al. - 2017 - On Archeology and Architecture in Medina Azahara. Interview with Rafael Manzano Martos. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-911d417",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Pizarro Berengena - 2013 - The Elevated Passageways between the Mosque and the Umayyad Alcazar of Cordoba. Archaeological study",
+          "year": 2013,
+          "date": "2013-01-01",
+          "type": "article",
+          "driveFileId": "1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1-B1ioRm845dBBHmjz5sOfjYbuUNO6iPC/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Pizarro Berengena - 2013 - The Elevated Passageways between the Mosque and the Umayyad Alcazar of Cordoba. Archaeological study. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-3705dd2",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Quesada Sanz et al. - 2014 - GRINDING MILLS FROM THE SITE AT `CERRO DE LA CRUZ' (ALMEDINILLA, CORDOBA). CLASSIFICATION AND ANALYS",
+          "year": 2014,
+          "date": "2014-01-01",
+          "type": "article",
+          "driveFileId": "1MKolpuiAEExiHSngrz3pvfEjct5XXrcN",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1MKolpuiAEExiHSngrz3pvfEjct5XXrcN&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1MKolpuiAEExiHSngrz3pvfEjct5XXrcN/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Quesada Sanz et al. - 2014 - GRINDING MILLS FROM THE SITE AT `CERRO DE LA CRUZ' (ALMEDINILLA, CORDOBA). CLASSIFICATION AND ANALYS. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-a13fa12",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Retamero - 2006 - The formalisation of power in the coins of the muluk of Denia (V to XI century AD)",
+          "year": 2006,
+          "date": "2006-01-01",
+          "type": "article",
+          "driveFileId": "1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1l6G1_dn-tbAzpFrQPWrRZI8LfenNhos-/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "ECO"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Retamero - 2006 - The formalisation of power in the coins of the muluk of Denia (V to XI century AD). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-023e142",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Rosado-Llamas - 2024 - Book of the Hidden Pearl Among the [Literary] Jewels of kurat Bulkuna. Study and Translation of the",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1keM90_9js-VydH2dCNqjbXg_Cg21NkzC",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1keM90_9js-VydH2dCNqjbXg_Cg21NkzC&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1keM90_9js-VydH2dCNqjbXg_Cg21NkzC/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Rosado-Llamas - 2024 - Book of the Hidden Pearl Among the [Literary] Jewels of kurat Bulkuna. Study and Translation of the. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-bf2a247",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Rouco Collazo et al. - 2021 - Building Archaeology of the Alcazaba of Guadix (Granada, Spain) An Example of Implanting Power in t",
+          "year": 2021,
+          "date": "2021-01-01",
+          "type": "article",
+          "driveFileId": "1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1W8odK6hIHGjtDYbcy9FpMSOnwpCBrQUE/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SCI"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Rouco Collazo et al. - 2021 - Building Archaeology of the Alcazaba of Guadix (Granada, Spain) An Example of Implanting Power in t. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-b044fd1",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Salinas - 2021 - Merchants, artisans and ulamas. The cities of the Coras of Ilbira and Pechina in Umayyad times",
+          "year": 2021,
+          "date": "2021-01-01",
+          "type": "article",
+          "driveFileId": "1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1_FV-f_6aeGIeu0JLIkH-q3v9FzC7WK0m/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Salinas - 2021 - Merchants, artisans and ulamas. The cities of the Coras of Ilbira and Pechina in Umayyad times. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-63c7920",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Salinas Pleguezuelo y Amoros-Ruiz - 2024 - Tackling early medieval circulation of glazed ware in Sharq al-Andalus using a multidisciplinary app",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1_F5OZsHn8sL2IDgA4o-D0NsD4jaAAtxd/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Salinas Pleguezuelo y Amoros-Ruiz - 2024 - Tackling early medieval circulation of glazed ware in Sharq al-Andalus using a multidisciplinary app. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-c3fa7f7",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Salinas et al. - 2019 - Glaze production at an early Islamic workshop in al-Andalus",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1LMrsaZSb7l5l5idVS0itDrMuZjlRidD2/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "ECO",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Salinas et al. - 2019 - Glaze production at an early Islamic workshop in al-Andalus. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-1d55ce3",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Salinas et al. - 2019 - Tracing the tin-opacified yellow glazed ceramics in the western Islamic world the findings at Madna",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1o5PKCAIS7sI7sPnetcv8C1pnwHx1WMyb/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Salinas et al. - 2019 - Tracing the tin-opacified yellow glazed ceramics in the western Islamic world the findings at Madna. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-6e0da34",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Salinas et al. - 2022 - Technological changes in the glazed wares of northern Tunisia in the transition from Fatimid to Ziri",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1XkE-7alC07zw7wPao8eyqZcfXvhph0S2",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1XkE-7alC07zw7wPao8eyqZcfXvhph0S2&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1XkE-7alC07zw7wPao8eyqZcfXvhph0S2/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Salinas et al. - 2022 - Technological changes in the glazed wares of northern Tunisia in the transition from Fatimid to Ziri. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-b48d2a8",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Salinas y Pradell - 2018 - The transition from lead transparent to tin-opacified glaze productions in the western Islamic lands",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1MCGv4jPzbv1UFNYxwilenB1m6BXfC4r7/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "ECO",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Salinas y Pradell - 2018 - The transition from lead transparent to tin-opacified glaze productions in the western Islamic lands. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8c47198",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Salinas y Pradell - 2020 - Madinat al-Zahra' or Madinat Qurtuba First evidences of the Caliphate tin glaze production of `verd",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1jAX7apemDDxnGNcnoNrwKbeHryCJY4-t/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "ECO"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Salinas y Pradell - 2020 - Madinat al-Zahra' or Madinat Qurtuba First evidences of the Caliphate tin glaze production of `verd. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-e9ad7c6",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Sanal - 2023 - Arabic-Speaking Christians The Contribution of the Mozarabs to the Scientific Life in Al-Andalus (T",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1LVR4oZpvhrrwDzyuWa7f91lghnqJhfLs/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Sanal - 2023 - Arabic-Speaking Christians The Contribution of the Mozarabs to the Scientific Life in Al-Andalus (T. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-42180e7",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Sanchez Saus - 2022 - THE MARTYRDOM MOVEMENT OF CRDOBA (850-859)CAUSES AND HISTORICAL CONTEXT",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1ft8h8acLwNYnkuaOpCgBM-i502PL9nK0/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Sanchez Saus - 2022 - THE MARTYRDOM MOVEMENT OF CRDOBA (850-859)CAUSES AND HISTORICAL CONTEXT. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-9084971",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Sanchez y Asensio - 2024 - Livestock patterns and cultural inferences in the islamic city Qartayanna (Cartagena, Spain)",
+          "year": 2024,
+          "date": "2024-01-01",
+          "type": "article",
+          "driveFileId": "1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1nlvxPAoMedQvGF0fAw1Gg0W1pxkMzh_k/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Sanchez y Asensio - 2024 - Livestock patterns and cultural inferences in the islamic city Qartayanna (Cartagena, Spain). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-15b3263",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Sanchez y Castillo - 2023 - Domestic Architecture and Urban Expansion Central Courtyard Elementary Houses in the arrabales of C",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Jj5iVgdb8Q-ajvgsUwNrnPcXYAPWwy6k/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "SOC",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Sanchez y Castillo - 2023 - Domestic Architecture and Urban Expansion Central Courtyard Elementary Houses in the arrabales of C. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-34911bd",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Sanhueza et al. - 2020 - SAYWAS AND SACRED GEOGRAPHY IN THE QHAPAQ NAN OF THE DESPOBLADO DE ATACAMA",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1pjFqb2ZBQur2GgglzsujfxwwFRbM9FQF/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Sanhueza et al. - 2020 - SAYWAS AND SACRED GEOGRAPHY IN THE QHAPAQ NAN OF THE DESPOBLADO DE ATACAMA. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-a16639c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Schibille et al. - 2020 - Ex novo development of lead glassmaking in early Umayyad Spain",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1tOW6ARFPEKGESu96b9qQhFV7QIJgYr7o/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Schibille et al. - 2020 - Ex novo development of lead glassmaking in early Umayyad Spain. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-757f19a",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Shchavelev - 2018 - THE DATES OF DIPLOMATIC LETTERS OF HASDAI IBN SHAPRUT",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1w9xWAm-sQGvoODMozatbz9DwV0xyK4jX/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Shchavelev - 2018 - THE DATES OF DIPLOMATIC LETTERS OF HASDAI IBN SHAPRUT. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-10edb15",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Silva Santa-Cruz - 2014 - Precious Ivory Presents Politics of Gift in the Andalusi Umayyad Court",
+          "year": 2014,
+          "date": "2014-01-01",
+          "type": "article",
+          "driveFileId": "1xob7xPhe8Wo-27269JFq66l3QcOoE0gX",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1xob7xPhe8Wo-27269JFq66l3QcOoE0gX&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1xob7xPhe8Wo-27269JFq66l3QcOoE0gX/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Silva Santa-Cruz - 2014 - Precious Ivory Presents Politics of Gift in the Andalusi Umayyad Court. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-9f73fc3",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Suarez et al. - 2018 - Virtual acoustic environment reconstruction of the hypostyle mosque of Cordoba",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1dBawsH1it-yzPgDs7ijh0vYPXvMhr5Gh/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Suarez et al. - 2018 - Virtual acoustic environment reconstruction of the hypostyle mosque of Cordoba. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-671268c",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Sune Arce - 2018 - The Andalusians Husud during the Umayyad Emirate (756-929) An Ambiguous Term Used for the Gathering",
+          "year": 2018,
+          "date": "2018-01-01",
+          "type": "article",
+          "driveFileId": "1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1b8EOtsyKcbqjujkmgyYEedlcbecH2Xlq/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Sune Arce - 2018 - The Andalusians Husud during the Umayyad Emirate (756-929) An Ambiguous Term Used for the Gathering. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8853783",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Sune-Arce - 2025 - `Amirid Jihad, the Religious Radicalisation of the Catalans, and the Loss of Andalusi Hegemony",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1v-ctpXGNJqVQZt60dOTZOPg78x4X7fYT/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Sune-Arce - 2025 - `Amirid Jihad, the Religious Radicalisation of the Catalans, and the Loss of Andalusi Hegemony. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-699f28e",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Tomber - 2007 - Rome and Mesopotamia - importers into India in the first millennium AD",
+          "year": 2007,
+          "date": "2007-01-01",
+          "type": "article",
+          "driveFileId": "1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1Ey7u_w0de9X_8IRyGbFlYb25TfarXl5a/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Tomber - 2007 - Rome and Mesopotamia - importers into India in the first millennium AD. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-22cc2e9",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Urena - 2022 - THE MODEL OF MILITARY ORGANIZATION OF MAR BETWEEN THE 9TH AND 11TH CENTURIES",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1_S7WAerBcQ_5nb-akAm4Ba308yx6lKrB/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Urena - 2022 - THE MODEL OF MILITARY ORGANIZATION OF MAR BETWEEN THE 9TH AND 11TH CENTURIES. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-70f62fb",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Usachev - 2023 - Who Was Patriarch Joasaphus (1634-40) in His Worldly Lifet",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1dkPWybJ5oLqnCdM6derUxA8_yGSyX9r2/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Usachev - 2023 - Who Was Patriarch Joasaphus (1634-40) in His Worldly Lifet. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8e7fc0e",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Ustun et al. - 2026 - THE POETİCS OF CİVİLİZATİON FROM CONQUEST TO COLLAPSE İN ANDALUSİAN ARABİC POETRY",
+          "year": 2026,
+          "date": "2026-01-01",
+          "type": "article",
+          "driveFileId": "1V2X4zOTDEapYYoapWPH1docVyOWK0eTc",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1V2X4zOTDEapYYoapWPH1docVyOWK0eTc&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1V2X4zOTDEapYYoapWPH1docVyOWK0eTc/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "MIL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Ustun et al. - 2026 - THE POETİCS OF CİVİLİZATİON FROM CONQUEST TO COLLAPSE İN ANDALUSİAN ARABİC POETRY. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-da3382d",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Valadez - 2025 - ABOUT THE THEORIES ON THE TRANSFORMATION OF CHRISTIAN PRE-ISLAMIC SACRED SPACES OF ILBIRA'S TERRITOR",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1y0yp6_oesVHORvtDqWYg3wv_oC6gGvye/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Valadez - 2025 - ABOUT THE THEORIES ON THE TRANSFORMATION OF CHRISTIAN PRE-ISLAMIC SACRED SPACES OF ILBIRA'S TERRITOR. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-ee655b8",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Vallejo Triano y Montilla-Torres - 2019 - Caliphs, Elites, and Servants in the Qasr of Madnat Al-Zahra' in the Light of Its Residential Archit",
+          "year": 2019,
+          "date": "2019-01-01",
+          "type": "article",
+          "driveFileId": "1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1GVnaojwXMZDouaj77iOvT9hvkS8xlyBC/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Vallejo Triano y Montilla-Torres - 2019 - Caliphs, Elites, and Servants in the Qasr of Madnat Al-Zahra' in the Light of Its Residential Archit. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-7bb12d5",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Vega Martín y Pena Martín - 2002 - The hoard of emirate-era dirhams in Domingo Perez (Iznalloz, Granada)",
+          "year": 2002,
+          "date": "2002-01-01",
+          "type": "article",
+          "driveFileId": "1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1XAhB8QOfxaZEp7JKki6SHa2qa4qh4-86/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "CUL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Vega Martín y Pena Martín - 2002 - The hoard of emirate-era dirhams in Domingo Perez (Iznalloz, Granada). Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-3968b8b",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Velo-Gala et al. - 2022 - Islamic gold sandwich glass vessels evidences from al-Andalus",
+          "year": 2022,
+          "date": "2022-01-01",
+          "type": "article",
+          "driveFileId": "1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1YLPat9XfrpXUV7NBZj7-McvT34IqDqX-/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL",
+                "REL",
+                "ART"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Velo-Gala et al. - 2022 - Islamic gold sandwich glass vessels evidences from al-Andalus. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-4724147",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Wasserstein - 2002 - Inventing tradition and constructing identity The genealogy of Umar Ibn Hafsun between Christianity",
+          "year": 2002,
+          "date": "2002-01-01",
+          "type": "article",
+          "driveFileId": "1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1if8pQ6srLP5HabBZ3SN8xXl2xy5WtE6h/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Wasserstein - 2002 - Inventing tradition and constructing identity The genealogy of Umar Ibn Hafsun between Christianity. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-8f58705",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "Wasserstein - 2015 - A Man Who Never Was Talut and The Jew Again",
+          "year": 2015,
+          "date": "2015-01-01",
+          "type": "article",
+          "driveFileId": "1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1am-EwxKUMix6PIB5OmfTENOu9BnvQyZL/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "REL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "Wasserstein - 2015 - A Man Who Never Was Talut and The Jew Again. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-0115371",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "de Felipe - 2025 - The collective portrait of the Banu Birzal",
+          "year": 2025,
+          "date": "2025-01-01",
+          "type": "article",
+          "driveFileId": "1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1h69k9qE5r4J0Ltq7I4VCtzYfw-vL3-4Y/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "de Felipe - 2025 - The collective portrait of the Banu Birzal. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-4a9e480",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "de Villar Iglesias - 2020 - THE ECONOMIC ASPECTS OF THE BATTLE FOR THE MAGHREB BETWEEN UMAYYADS AND FATIMIDS CONTROLLING THE AC",
+          "year": 2020,
+          "date": "2020-01-01",
+          "type": "article",
+          "driveFileId": "1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1W42_SauG9b-l7x7Xsl07D8ZldzUXPpNf/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "POL",
+                "ECO",
+                "MIL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "de Villar Iglesias - 2020 - THE ECONOMIC ASPECTS OF THE BATTLE FOR THE MAGHREB BETWEEN UMAYYADS AND FATIMIDS CONTROLLING THE AC. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
+    {
+          "id": "bib-s10-wos-93893e4",
+          "category": "ANALISIS_BIBLIOGRAFICO",
+          "title": "de la Puente - 2023 - Al-Hakam I in the Andalusi Sources His Slaves, Eunuchs, and Concubines",
+          "year": 2023,
+          "date": "2023-01-01",
+          "type": "article",
+          "driveFileId": "1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz",
+          "media": {
+                "thumbnail": "https://drive.google.com/thumbnail?id=1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz&sz=w400",
+                "pdf": "https://drive.google.com/file/d/1498kMLwQHz_hG3gDDZ6DwAcy8It15LJz/view"
+          },
+          "eraId": "S10",
+          "themes": [
+                "CUL"
+          ],
+          "tags": [
+                "Análisis Bibliográfico",
+                "Siglo X",
+                "Al-Ándalus",
+                "WoS"
+          ],
+          "regions": [
+                "QURTUBA"
+          ],
+          "language": "en",
+          "searchable_text": "de la Puente - 2023 - Al-Hakam I in the Andalusi Sources His Slaves, Eunuchs, and Concubines. Al-Ándalus Siglo X Córdoba Califato Omeya medieval arqueología historia."
+    },
   ]
 };
